@@ -1,82 +1,72 @@
 {
   "control-content": {
     "300": {
-      "size": {
-        "value": "{size.200}",
+      "padding": {
+        "value": "{spacing.150}",
         "type": "sizing"
       },
-      "icon-size": {
-        "value": "{size.050}",
+      "margin": {
+        "value": "{spacing.150}",
         "type": "sizing"
       },
-      "radius": {
-        "value": "{radius.050}",
+      "gap": {
+        "value": "{spacing.100}",
         "type": "sizing"
       }
     },
     "400": {
-      "size": {
-        "value": "{size.300}",
+      "padding": {
+        "value": "{spacing.200}",
         "type": "sizing"
       },
-      "icon-size": {
-        "value": "{size.100}",
+      "margin": {
+        "value": "{spacing.150}",
         "type": "sizing"
       },
-      "radius": {
-        "value": "{radius.050}",
+      "gap": {
+        "value": "{spacing.150}",
         "type": "sizing"
       }
     },
     "500": {
-      "size": {
-        "value": "{size.500}",
+      "padding": {
+        "value": "{spacing.200}",
         "type": "sizing"
       },
-      "icon-size": {
-        "value": "{size.150}",
+      "margin": {
+        "value": "{spacing.300}",
         "type": "sizing"
       },
-      "radius": {
-        "value": "{radius.050}",
+      "gap": {
+        "value": "{spacing.200}",
         "type": "sizing"
       }
     },
     "600": {
-      "size": {
-        "value": "{size.650}",
+      "padding": {
+        "value": "{spacing.250}",
         "type": "sizing"
       },
-      "icon-size": {
-        "value": "{size.200}",
+      "margin": {
+        "value": "{spacing.350}",
         "type": "sizing"
       },
-      "radius": {
-        "value": "{radius.050}",
+      "gap": {
+        "value": "{spacing.200}",
         "type": "sizing"
       }
     },
     "700": {
-      "size": {
-        "value": "{size.750}",
+      "padding": {
+        "value": "{spacing.250}",
         "type": "sizing"
       },
-      "icon-size": {
-        "value": "{size.200}",
+      "margin": {
+        "value": "{spacing.400}",
         "type": "sizing"
       },
-      "radius": {
-        "value": "{radius.050}",
-        "type": "sizing"
-      }
-    },
-    "common": {
-      "stroke": {
-        "value": "{stroke.500}",
-        "type": "sizing"
-      },
-      "focus-ring": {
-        "value": "{stroke.600}",
+      "gap": {
+        "value": "{spacing.200}",
         "type": "sizing"
       }
     }
