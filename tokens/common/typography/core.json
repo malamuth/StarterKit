@@ -1,0 +1,124 @@
+{
+  "core": {
+    "font": {
+      "common": {
+        "value": "Space Grotesk",
+        "type": "fontFamilies"
+      }
+    },
+    "size": {
+      "900": {
+        "value": "32",
+        "type": "fontSize"
+      },
+      "800": {
+        "value": "28",
+        "type": "fontSize"
+      },
+      "700": {
+        "value": "22",
+        "type": "fontSize"
+      },
+      "600": {
+        "value": "18",
+        "type": "fontSize"
+      },
+      "500": {
+        "value": "16",
+        "type": "fontSize"
+      },
+      "400": {
+        "value": "14",
+        "type": "fontSize"
+      },
+      "300": {
+        "value": "12",
+        "type": "fontSize"
+      },
+      "200": {
+        "value": "100",
+        "type": "fontSize"
+      }
+    },
+    "style": {
+      "text": {
+        "900": {
+          "value": "48",
+          "type": "lineHeight"
+        },
+        "800": {
+          "value": "42",
+          "type": "lineHeight"
+        },
+        "700": {
+          "value": "32",
+          "type": "lineHeight"
+        },
+        "600": {
+          "value": "28",
+          "type": "lineHeight"
+        },
+        "500": {
+          "value": "24",
+          "type": "lineHeight"
+        },
+        "400": {
+          "value": "20",
+          "type": "lineHeight"
+        },
+        "300": {
+          "value": "18",
+          "type": "lineHeight"
+        },
+        "200": {
+          "value": "16",
+          "type": "lineHeight"
+        }
+      },
+      "compact": {
+        "900": {
+          "value": "40",
+          "type": "lineHeight"
+        },
+        "800": {
+          "value": "36",
+          "type": "lineHeight"
+        },
+        "700": {
+          "value": "26",
+          "type": "lineHeight"
+        },
+        "600": {
+          "value": "24",
+          "type": "lineHeight"
+        },
+        "500": {
+          "value": "20",
+          "type": "lineHeight"
+        },
+        "400": {
+          "value": "18",
+          "type": "lineHeight"
+        },
+        "300": {
+          "value": "14",
+          "type": "lineHeight"
+        },
+        "200": {
+          "value": "12",
+          "type": "lineHeight"
+        }
+      }
+    },
+    "type": {
+      "default": {
+        "value": "450",
+        "type": "fontWeight"
+      },
+      "accent": {
+        "value": "600",
+        "type": "fontWeight"
+      }
+    }
+  }
+}
