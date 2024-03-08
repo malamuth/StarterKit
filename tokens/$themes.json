@@ -7,5 +7,13 @@
       "common/typography/core": "source",
       "common/typography/typography": "enabled"
     }
+  },
+  {
+    "id": "00fe6221b7eeba217bf17748d1bddad4e9cd156b",
+    "name": "layout",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/size": "enabled"
+    }
   }
 ]

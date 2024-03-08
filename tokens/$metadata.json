@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "common/typography/core",
-    "common/typography/typography"
+    "common/typography/typography",
+    "common/size/size"
   ]
 }
