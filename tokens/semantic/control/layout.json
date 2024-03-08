@@ -62,7 +62,7 @@
         "type": "sizing"
       },
       "icon-size": {
-        "value": "{size.250}",
+        "value": "{size.200}",
         "type": "sizing"
       },
       "radius": {
