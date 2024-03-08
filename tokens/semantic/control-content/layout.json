@@ -1,0 +1,84 @@
+{
+  "control-content": {
+    "300": {
+      "size": {
+        "value": "{size.200}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.050}",
+        "type": "sizing"
+      },
+      "radius": {
+        "value": "{radius.050}",
+        "type": "sizing"
+      }
+    },
+    "400": {
+      "size": {
+        "value": "{size.300}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.100}",
+        "type": "sizing"
+      },
+      "radius": {
+        "value": "{radius.050}",
+        "type": "sizing"
+      }
+    },
+    "500": {
+      "size": {
+        "value": "{size.500}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.150}",
+        "type": "sizing"
+      },
+      "radius": {
+        "value": "{radius.050}",
+        "type": "sizing"
+      }
+    },
+    "600": {
+      "size": {
+        "value": "{size.650}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.200}",
+        "type": "sizing"
+      },
+      "radius": {
+        "value": "{radius.050}",
+        "type": "sizing"
+      }
+    },
+    "700": {
+      "size": {
+        "value": "{size.750}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.200}",
+        "type": "sizing"
+      },
+      "radius": {
+        "value": "{radius.050}",
+        "type": "sizing"
+      }
+    },
+    "common": {
+      "stroke": {
+        "value": "{stroke.500}",
+        "type": "sizing"
+      },
+      "focus-ring": {
+        "value": "{stroke.600}",
+        "type": "sizing"
+      }
+    }
+  }
+}
