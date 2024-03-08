@@ -2,15 +2,15 @@
   "stroke": {
     "common": {
       "500": {
-      "value": "1",
-      "type": "sizing"
-    },
+        "value": "1",
+        "type": "sizing"
+      },
       "600": {
-      "value": "2",
-      "type": "sizing"
-    }
+        "value": "2",
+        "type": "sizing"
+      }
     },
-    "service":{
+    "service": {
       "paranja": {
         "value": "{stroke.common.500}",
         "type": "sizing"

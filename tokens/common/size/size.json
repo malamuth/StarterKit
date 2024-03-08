@@ -1,9 +1,5 @@
 {
   "size": {
-    "050": {
-      "value": "16",
-      "type": "sizing"
-    },
     "100": {
       "value": "20",
       "type": "sizing"
@@ -74,6 +70,10 @@
     },
     "950": {
       "value": "88",
+      "type": "sizing"
+    },
+    "050": {
+      "value": "16",
       "type": "sizing"
     }
   }
