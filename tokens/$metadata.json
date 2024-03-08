@@ -5,7 +5,9 @@
     "common/size/size",
     "common/size/stroke",
     "common/size/radius",
-    "semantic/content/layout",
-    "semantic/control/layout"
+    "common/size/spacing",
+    "semantic/control/layout",
+    "semantic/control-content/layout",
+    "semantic/image/layout"
   ]
 }

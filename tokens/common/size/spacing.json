@@ -1,13 +1,5 @@
 {
   "spacing": {
-    "000": {
-      "value": "0",
-      "type": "spacing"
-    },
-    "050": {
-      "value": "2",
-      "type": "spacing"
-    },
     "100": {
       "value": "4",
       "type": "spacing"
@@ -50,6 +42,14 @@
     },
     "900": {
       "value": "48",
+      "type": "spacing"
+    },
+    "000": {
+      "value": "0",
+      "type": "spacing"
+    },
+    "050": {
+      "value": "2",
       "type": "spacing"
     }
   }
