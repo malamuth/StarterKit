@@ -48,7 +48,7 @@
         "type": "sizing"
       },
       "margin": {
-        "value": "{spacing.350}",
+        "value": "{spacing.300}",
         "type": "sizing"
       },
       "gap": {
