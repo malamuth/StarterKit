@@ -1,15 +1,5 @@
 {
   "control": {
-    "common": {
-      "stroke": {
-        "value": "{radius.500}",
-        "type": "sizing"
-      },
-      "focus-ring": {
-        "value": "{radius.600}",
-        "type": "sizing"
-      }
-    },
     "300": {
       "size": {
         "value": "{size.300}",
@@ -77,6 +67,16 @@
       },
       "radius": {
         "value": "{radius.050}",
+        "type": "sizing"
+      }
+    },
+    "common": {
+      "stroke": {
+        "value": "{radius.500}",
+        "type": "sizing"
+      },
+      "focus-ring": {
+        "value": "{radius.600}",
         "type": "sizing"
       }
     }

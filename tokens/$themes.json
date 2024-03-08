@@ -57,7 +57,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "semantic/content/layout": "enabled",
-      "semantic/control/layout": "enabled"
+      "semantic/control/layout": "enabled",
+      "common/size/size": "source",
+      "common/size/stroke": "source",
+      "common/size/radius": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:509:29858",
     "$figmaModeId": "509:0",
