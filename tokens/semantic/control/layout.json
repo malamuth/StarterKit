@@ -2,7 +2,7 @@
   "control": {
     "300": {
       "size": {
-        "value": "{size.300}",
+        "value": "{size.200}",
         "type": "sizing"
       },
       "icon-size": {
@@ -16,7 +16,7 @@
     },
     "400": {
       "size": {
-        "value": "{size.400}",
+        "value": "{size.300}",
         "type": "sizing"
       },
       "icon-size": {
