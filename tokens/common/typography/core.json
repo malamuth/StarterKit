@@ -112,7 +112,7 @@
     },
     "type": {
       "default": {
-        "value": 450,
+        "value": 500,
         "type": "fontWeight"
       },
       "accent": {
