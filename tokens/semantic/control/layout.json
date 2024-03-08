@@ -72,11 +72,11 @@
     },
     "common": {
       "stroke": {
-        "value": "{radius.500}",
+        "value": "{stroke.500}",
         "type": "sizing"
       },
       "focus-ring": {
-        "value": "{radius.600}",
+        "value": "{stroke.600}",
         "type": "sizing"
       }
     }
