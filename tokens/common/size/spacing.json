@@ -51,6 +51,14 @@
     "050": {
       "value": "2",
       "type": "spacing"
+    },
+    "025": {
+      "value": "1",
+      "type": "spacing"
+    },
+    "000": {
+      "value": "0",
+      "type": "spacing"
     }
   }
 }

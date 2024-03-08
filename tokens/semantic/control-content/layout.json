@@ -10,7 +10,11 @@
         "type": "sizing"
       },
       "gap": {
-        "value": "{spacing.100}",
+        "value": "{spacing.025}",
+        "type": "sizing"
+      },
+      "label-compensation": {
+        "value": "{spacing.050}",
         "type": "sizing"
       }
     },
@@ -26,6 +30,10 @@
       "gap": {
         "value": "{spacing.150}",
         "type": "sizing"
+      },
+      "label-compensation": {
+        "value": "{spacing.025}",
+        "type": "sizing"
       }
     },
     "500": {
@@ -39,6 +47,10 @@
       },
       "gap": {
         "value": "{spacing.200}",
+        "type": "sizing"
+      },
+      "label-compensation": {
+        "value": "{spacing.050}",
         "type": "sizing"
       }
     },
@@ -54,6 +66,10 @@
       "gap": {
         "value": "{spacing.200}",
         "type": "sizing"
+      },
+      "label-compensation": {
+        "value": "{spacing.050}",
+        "type": "sizing"
       }
     },
     "700": {
@@ -67,6 +83,10 @@
       },
       "gap": {
         "value": "{spacing.200}",
+        "type": "sizing"
+      },
+      "label-compensation": {
+        "value": "{spacing.050}",
         "type": "sizing"
       }
     }
