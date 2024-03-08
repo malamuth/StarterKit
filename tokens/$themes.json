@@ -6,6 +6,28 @@
     "selectedTokenSets": {
       "common/typography/core": "source",
       "common/typography/typography": "enabled"
-    }
+    },
+    "$figmaCollectionId": "VariableCollectionId:570:22780",
+    "$figmaModeId": "570:2",
+    "$figmaVariableReferences": {}
+  },
+  {
+    "id": "00fe6221b7eeba217bf17748d1bddad4e9cd156b",
+    "name": "core",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/size": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:509:29858",
+    "$figmaModeId": "509:0",
+    "$figmaVariableReferences": {
+      "size.200": "d7466f2ee3b948627a4e9ef8363b83e685d70bc2",
+      "size.300": "8e3cabfefd89cf1e7c392b5dc299fcfd64837e4f",
+      "size.400": "9594da8dff4fcba876d16a423085837dd1eaf7a4",
+      "size.500": "c4130ba2ac6156961dac9b8a02105a96d0125ec7",
+      "size.600": "216f8d31709743a5d8f5ef21f068b2046c8b2223",
+      "size.700": "99d06a56c9912ac9f275a1828ba06fad7b7e1a23"
+    },
+    "group": "layout"
   }
 ]
