@@ -3,6 +3,9 @@
     "common/typography/core",
     "common/typography/typography",
     "common/size/size",
-    "common/size/stroke"
+    "common/size/stroke",
+    "common/size/radius",
+    "semantic/content/layout",
+    "semantic/control/layout"
   ]
 }

@@ -1,33 +1,73 @@
 [
   {
-    "id": "5d2e628996c56cb8a65b0884b639de4bc17e3e17",
-    "name": "typography",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "common/typography/core": "source",
-      "common/typography/typography": "enabled"
-    },
-    "$figmaCollectionId": "VariableCollectionId:570:22780",
-    "$figmaModeId": "570:2",
-    "$figmaVariableReferences": {}
-  },
-  {
     "id": "00fe6221b7eeba217bf17748d1bddad4e9cd156b",
-    "name": "core",
+    "name": "common",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/size/size": "enabled",
-      "common/size/stroke": "enabled"
+      "common/size/stroke": "enabled",
+      "common/size/radius": "enabled",
+      "common/typography/core": "source",
+      "common/typography/typography": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:22:25814",
+    "$figmaModeId": "22:7",
+    "$figmaVariableReferences": {
+      "radius.100": "2fd3de657c808cd6a4fc8b41f2f8eba9bb585386",
+      "radius.200": "1db704d829f1a4448ad67c314154ec1236a89db7",
+      "radius.300": "4182fd35fd3863123ffcb532d83944ad079ace01",
+      "radius.400": "f651aa1b41d898728a543291273cc16a86df1ef8",
+      "radius.500": "c58ece08b8efea37197236cf9d483a77407af050",
+      "radius.600": "66447bde20954c68dc2bd5d192b92bd4777698f9",
+      "radius.700": "315e45ecc42fd7ab1ddeecd85845d234bbb85f86",
+      "radius.800": "74ef00256da4933af53b924a4e97c0543956a4a1",
+      "radius.900": "cc789a20dfd241d04f6ce3a64f3ce6f789504733",
+      "radius.000": "0abbacd3b1f66d28aae96e13f62270bb777928e9",
+      "radius.025": "c1591cd9bf78a95bd18c140803b2eb71292dddd1",
+      "radius.050": "8c0ff3b2c008aec84b854da37cb3e4822eb73cc1",
+      "stroke.500": "10419af6dc2170fca1119ace654d32a19ebf428e",
+      "stroke.600": "bb1826d5f832df54be7df70e56cbe10df7e02f49",
+      "stroke.700": "a5181b9604523093ed1ffc5167da061f2404be2b",
+      "stroke.800": "704d66f15837466c1c18f36c051daa279e8ca248",
+      "size.100": "4175238099f41ec7df0d0ac304d87ed248d94cb9",
+      "size.150": "18a7d8fbde6dcb86e96e8203a88a08f09b5b3d6d",
+      "size.200": "34d8e6606c6712a41b6ac3470f373721dbef76c8",
+      "size.250": "9bdc0931de0dfbcbaed1e0a38d23ccfedaf1a330",
+      "size.300": "e428d8d1d580af2b363fdf44755bc2853e348567",
+      "size.350": "46a5a6fd663db3198f1576c3082466835293fc40",
+      "size.400": "43150a058d12e2442f1bd3b75c2c051db9f160d0",
+      "size.450": "1a3a911b9bc8d19edfa4623b6450ca57c36b7019",
+      "size.500": "0602b2507cadd0aeec252a0bfd3c7ca753354e2a",
+      "size.550": "72dba7649fef092781160de1a45c5b7ebdc7c046",
+      "size.600": "0a0ece228ecb44a4020aa6e12f69dc7db0732194",
+      "size.650": "6a6a72cad0205367776fd12df3c6e427cb2a43c9",
+      "size.700": "97530ba721414e7c5344a89beea29c82a3678914",
+      "size.750": "c3e6e2f50d82fcfa03d9b143d37797390891043c",
+      "size.800": "74685a2744978d3b9e225db5e50ecb2d17be1bd4",
+      "size.850": "4f5c58a5b874d0eaabe608445ffa2c05c77999cc",
+      "size.900": "d0aa0e8582a3b99d7f905974d95ddca4be86c45c",
+      "size.950": "4b373a6e8c34ef9ab1ba91c591f9ecb75a33e2d1",
+      "size.050": "0d2fae436d93d20fa15fbe9b9076e556f50278e4"
+    },
+    "group": "core"
+  },
+  {
+    "id": "5f6bbc8eabd25f59ca98da5e2502986ee89be14e",
+    "name": "desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/content/layout": "enabled",
+      "semantic/control/layout": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:509:29858",
     "$figmaModeId": "509:0",
     "$figmaVariableReferences": {
-      "size.200": "d7466f2ee3b948627a4e9ef8363b83e685d70bc2",
-      "size.300": "8e3cabfefd89cf1e7c392b5dc299fcfd64837e4f",
-      "size.400": "9594da8dff4fcba876d16a423085837dd1eaf7a4",
-      "size.500": "c4130ba2ac6156961dac9b8a02105a96d0125ec7",
-      "size.600": "216f8d31709743a5d8f5ef21f068b2046c8b2223",
-      "size.700": "99d06a56c9912ac9f275a1828ba06fad7b7e1a23"
+      "control.500.size": "d85fc78e60164aed0eb2c0b111b0d1b8a064d08b",
+      "control.500.icon-size": "87c44fe509c29b6d5fb7e870743b28880c0be8c8",
+      "control.500.radius": "ace1d628fddf33f3c18c1c7576dbd622c23c4b9d",
+      "control.500.stroke": "7a351cea91b55bafecd68d1eadb901cd62ec5a2c",
+      "control.500.focus-ring": "8f7181f78158376dec8fd369de88537d754fa1cf",
+      "content.paranja-stroke": "085a5d3bcaf801084afc6bd28bfb90718a87117b"
     },
     "group": "layout"
   }
