@@ -1,0 +1,26 @@
+{
+  "control": {
+    "500": {
+      "size": {
+        "value": "{size.500}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.150}",
+        "type": "sizing"
+      },
+      "radius": {
+        "value": "{radius.050}",
+        "type": "sizing"
+      },
+      "stroke": {
+        "value": "{radius.500}",
+        "type": "sizing"
+      },
+      "focus-ring": {
+        "value": "{radius.600}",
+        "type": "sizing"
+      }
+    }
+  }
+}

@@ -1,24 +1,20 @@
 {
   "stroke": {
-    "common": {
-      "500": {
+    "500": {
       "value": "1",
       "type": "sizing"
     },
-      "600": {
+    "600": {
       "value": "2",
       "type": "sizing"
-    }
     },
-    "service":{
-      "paranja": {
-        "value": "{stroke.common.500}",
-        "type": "sizing"
-      },
-      "focus-ring": {
-        "value": "{stroke.common.600}",
-        "type": "sizing"
-      }
+    "700": {
+      "value": "4",
+      "type": "sizing"
+    },
+    "800": {
+      "value": "6",
+      "type": "sizing"
     }
   }
 }
