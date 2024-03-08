@@ -1,0 +1,11 @@
+[
+  {
+    "id": "5d2e628996c56cb8a65b0884b639de4bc17e3e17",
+    "name": "typography",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/typography/core": "source",
+      "common/typography/typography": "enabled"
+    }
+  }
+]
