@@ -10,7 +10,7 @@
         "type": "sizing"
       },
       "gap": {
-        "value": "{spacing.050}",
+        "value": "{spacing.100}",
         "type": "sizing"
       },
       "label-compensation": {
