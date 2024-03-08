@@ -1,0 +1,28 @@
+{
+  "size": {
+    "200": {
+      "value": "28",
+      "type": "sizing"
+    },
+    "300": {
+      "value": "36",
+      "type": "sizing"
+    },
+    "400": {
+      "value": "44",
+      "type": "sizing"
+    },
+    "500": {
+      "value": "52",
+      "type": "sizing"
+    },
+    "600": {
+      "value": "60",
+      "type": "sizing"
+    },
+    "700": {
+      "value": "68",
+      "type": "sizing"
+    }
+  }
+}
