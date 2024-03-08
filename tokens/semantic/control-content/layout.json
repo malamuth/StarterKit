@@ -10,11 +10,11 @@
         "type": "sizing"
       },
       "gap": {
-        "value": "{spacing.025}",
+        "value": "{spacing.050}",
         "type": "sizing"
       },
       "label-compensation": {
-        "value": "{spacing.050}",
+        "value": "{spacing.025}",
         "type": "sizing"
       }
     },
