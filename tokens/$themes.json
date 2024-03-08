@@ -16,7 +16,8 @@
     "name": "core",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/size/size": "enabled"
+      "common/size/size": "enabled",
+      "common/size/stroke": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:509:29858",
     "$figmaModeId": "509:0",

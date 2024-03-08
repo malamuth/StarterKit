@@ -2,6 +2,7 @@
   "tokenSetOrder": [
     "common/typography/core",
     "common/typography/typography",
-    "common/size/size"
+    "common/size/size",
+    "common/size/stroke"
   ]
 }
