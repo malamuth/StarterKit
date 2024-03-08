@@ -1,7 +1,7 @@
 {
   "content": {
     "paranja-stroke": {
-      "value": "{radius.500}",
+      "value": "{stroke.500}",
       "type": "sizing"
     }
   }
