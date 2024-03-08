@@ -2,10 +2,10 @@
   "tokenSetOrder": [
     "common/typography/core",
     "common/typography/typography",
-    "common/size/size",
-    "common/size/stroke",
     "common/size/radius",
+    "common/size/size",
     "common/size/spacing",
+    "common/size/stroke",
     "semantic/control/layout",
     "semantic/control-content/layout",
     "semantic/image/layout"
