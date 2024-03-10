@@ -2,53 +2,53 @@
   "interaction": {
     "blend-mode-layer-opacity": {
       "default": {
-        "value": 0,
+        "value": "0%",
         "type": "number"
       },
       "hover": {
-        "value": 80,
+        "value": "80%",
         "type": "number"
       },
       "focused": {
-        "value": 0,
+        "value": "0%",
         "type": "number"
       },
       "active": {
-        "value": 20,
+        "value": "20%",
         "type": "number"
       },
       "loading": {
-        "value": 20,
+        "value": "20%",
         "type": "number"
       },
       "disabled": {
-        "value": 0,
+        "value": "0%",
         "type": "number"
       }
     },
     "content-opacity": {
       "default": {
-        "value": 100,
+        "value": "100%",
         "type": "number"
       },
       "hover": {
-        "value": 100,
+        "value": "100%",
         "type": "number"
       },
       "focused": {
-        "value": 100,
+        "value": "100%",
         "type": "number"
       },
       "active": {
-        "value": 60,
+        "value": "60%",
         "type": "number"
       },
       "loading": {
-        "value": 100,
+        "value": "100%",
         "type": "number"
       },
       "disabled": {
-        "value": 40,
+        "value": "40%",
         "type": "number"
       }
     }
