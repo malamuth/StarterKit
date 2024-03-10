@@ -9,7 +9,8 @@
       "common/size/radius": "enabled",
       "common/typography/core": "source",
       "common/typography/typography": "enabled",
-      "common/size/spacing": "enabled"
+      "common/size/spacing": "enabled",
+      "common/color/palette": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:22:25814",
     "$figmaModeId": "22:7",
@@ -75,8 +76,8 @@
       "common/size/stroke": "source",
       "common/size/radius": "source",
       "common/size/spacing": "source",
-      "semantic/control-content/layout": "enabled",
-      "semantic/image/layout": "enabled"
+      "semantic/image/layout": "enabled",
+      "semantic/label-icon/layout": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:509:29858",
     "$figmaModeId": "575:0",
@@ -116,5 +117,27 @@
       "control.common.focus-ring": "3560a119316f5777e2f6b6867950e4157eb52db6"
     },
     "group": "layout"
+  },
+  {
+    "id": "7e7d9fbea8f3599adc7b2e22467608169a29d7dc",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/color/palette": "source",
+      "semantic/theme/color/light": "enabled",
+      "semantic/theme/interaction/light": "enabled"
+    },
+    "group": "theme"
+  },
+  {
+    "id": "f838d4f0b88f56cf9325dd09d4324dc79d5711ce",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/color/palette": "source",
+      "semantic/theme/color/dark": "enabled",
+      "semantic/theme/interaction/dark": "enabled"
+    },
+    "group": "theme"
   }
 ]

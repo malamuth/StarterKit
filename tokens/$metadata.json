@@ -7,7 +7,13 @@
     "common/size/spacing",
     "common/size/stroke",
     "semantic/control/layout",
-    "semantic/control-content/layout",
-    "semantic/image/layout"
+    "semantic/control/interaction",
+    "semantic/image/layout",
+    "common/color/palette",
+    "semantic/label-icon/layout",
+    "semantic/theme/color/dark",
+    "semantic/theme/color/light",
+    "semantic/theme/interaction/dark",
+    "semantic/theme/interaction/light"
   ]
 }

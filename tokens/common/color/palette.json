@@ -1,14 +1,6 @@
 {
   "palette": {
     "goose": {
-      "000": {
-        "value": "#FFFFFF",
-        "type": "color"
-      },
-      "050": {
-        "value": "#E9EAEC",
-        "type": "color"
-      },
       "100": {
         "value": "#D4D4D9",
         "type": "color"
@@ -51,6 +43,14 @@
       },
       "999": {
         "value": "#000000",
+        "type": "color"
+      },
+      "000": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "050": {
+        "value": "#E9EAEC",
         "type": "color"
       }
     },

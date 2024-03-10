@@ -1,17 +1,5 @@
 {
   "radius": {
-    "000": {
-      "value": "0",
-      "type": "sizing"
-    },
-    "025": {
-      "value": "1",
-      "type": "sizing"
-    },
-    "050": {
-      "value": "2",
-      "type": "sizing"
-    },
     "100": {
       "value": "4",
       "type": "sizing"
@@ -50,6 +38,18 @@
     },
     "999": {
       "value": "999",
+      "type": "sizing"
+    },
+    "000": {
+      "value": "0",
+      "type": "sizing"
+    },
+    "025": {
+      "value": "1",
+      "type": "sizing"
+    },
+    "050": {
+      "value": "2",
       "type": "sizing"
     }
   }
