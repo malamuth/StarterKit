@@ -1,92 +1,90 @@
 {
-  "theme": {
-    "bg": {
-      "primary": {
-        "value": "{palette.goose.050}",
-        "type": "color"
-      },
-      "primary-inverted": {
-        "value": "{palette.goose.950}",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "rgba({palette.goose.050}, 0.1)",
-        "type": "color"
-      },
-      "secondary-inverted": {
-        "value": "rgba({palette.aviation.800}, 0.1)",
-        "type": "color"
-      },
-      "brand-aviation-primary": {
-        "value": "{palette.aviation.400}",
-        "type": "color"
-      },
-      "brand-aviation-secondary": {
-        "value": "{palette.aviation.700}",
-        "type": "color"
-      },
-      "brand-mojito-primary": {
-        "value": "{palette.mojito.400}",
-        "type": "color"
-      },
-      "brand-mojito-secondary": {
-        "value": "{palette.mojito.700}",
-        "type": "color"
-      }
+  "bg": {
+    "primary": {
+      "value": "{palette.goose.050}",
+      "type": "color"
     },
-    "content": {
-      "primary": {
-        "value": "{palette.goose.000}",
-        "type": "color"
-      },
-      "primary-inverted": {
-        "value": "{palette.goose.999}",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "rgba({palette.goose.000}, 0.6)",
-        "type": "color"
-      },
-      "secondary-inverted": {
-        "value": "rgba({palette.aviation.900}, 0.6)",
-        "type": "color"
-      },
-      "brand-aviation": {
-        "value": "{palette.aviation.400}",
-        "type": "color"
-      },
-      "brand-mojito": {
-        "value": "{palette.mojito.400}",
-        "type": "color"
-      }
+    "primary-inverted": {
+      "value": "{palette.goose.950}",
+      "type": "color"
     },
-    "border": {
-      "paranja": {
-        "value": "rgba({palette.goose.000}, 0.2)",
-        "type": "color"
-      },
-      "brand-aviation": {
-        "value": "{palette.aviation.400}",
-        "type": "color"
-      }
+    "secondary": {
+      "value": "rgba({palette.goose.050}, 0.1)",
+      "type": "color"
     },
-    "layer": {
-      "floor-0": {
-        "value": "{palette.goose.950}",
-        "type": "color"
-      },
-      "floor-1": {
-        "value": "{palette.goose.900}",
-        "type": "color"
-      },
-      "floor-2": {
-        "value": "{palette.goose.800}",
-        "type": "color"
-      },
-      "overlay": {
-        "value": "rgba({palette.goose.999}, 0.4)",
-        "type": "color"
-      }
+    "secondary-inverted": {
+      "value": "rgba({palette.aviation.800}, 0.1)",
+      "type": "color"
+    },
+    "brand-aviation-primary": {
+      "value": "{palette.aviation.400}",
+      "type": "color"
+    },
+    "brand-aviation-secondary": {
+      "value": "{palette.aviation.700}",
+      "type": "color"
+    },
+    "brand-mojito-primary": {
+      "value": "{palette.mojito.400}",
+      "type": "color"
+    },
+    "brand-mojito-secondary": {
+      "value": "{palette.mojito.700}",
+      "type": "color"
+    }
+  },
+  "content": {
+    "primary": {
+      "value": "{palette.goose.000}",
+      "type": "color"
+    },
+    "primary-inverted": {
+      "value": "{palette.goose.999}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "rgba({palette.goose.000}, 0.6)",
+      "type": "color"
+    },
+    "secondary-inverted": {
+      "value": "rgba({palette.aviation.900}, 0.6)",
+      "type": "color"
+    },
+    "brand-aviation": {
+      "value": "{palette.aviation.400}",
+      "type": "color"
+    },
+    "brand-mojito": {
+      "value": "{palette.mojito.400}",
+      "type": "color"
+    }
+  },
+  "border": {
+    "paranja": {
+      "value": "rgba({palette.goose.000}, 0.2)",
+      "type": "color"
+    },
+    "brand-aviation": {
+      "value": "{palette.aviation.400}",
+      "type": "color"
+    }
+  },
+  "layer": {
+    "floor-0": {
+      "value": "{palette.goose.950}",
+      "type": "color"
+    },
+    "floor-1": {
+      "value": "{palette.goose.900}",
+      "type": "color"
+    },
+    "floor-2": {
+      "value": "{palette.goose.800}",
+      "type": "color"
+    },
+    "overlay": {
+      "value": "rgba({palette.goose.999}, 0.4)",
+      "type": "color"
     }
   }
 }
