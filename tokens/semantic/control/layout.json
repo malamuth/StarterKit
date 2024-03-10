@@ -74,10 +74,6 @@
       "stroke": {
         "value": "{stroke.500}",
         "type": "sizing"
-      },
-      "focus-ring": {
-        "value": "{stroke.600}",
-        "type": "sizing"
       }
     }
   }

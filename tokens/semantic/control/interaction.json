@@ -1,0 +1,8 @@
+{
+  "control": {
+    "focus-ring-width": {
+      "value": "{stroke.600}",
+      "type": "sizing"
+    }
+  }
+}

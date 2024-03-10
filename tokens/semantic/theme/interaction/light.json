@@ -1,0 +1,56 @@
+{
+  "theme": {
+    "blend-mode-layer-opacity": {
+      "default": {
+        "value": 0,
+        "type": "opacity"
+      },
+      "hover": {
+        "value": 0.8,
+        "type": "opacity"
+      },
+      "focused": {
+        "value": 0,
+        "type": "opacity"
+      },
+      "active": {
+        "value": 0.2,
+        "type": "opacity"
+      },
+      "loading": {
+        "value": 0.2,
+        "type": "opacity"
+      },
+      "disabled": {
+        "value": 0,
+        "type": "opacity"
+      }
+    },
+    "content-opacity": {
+      "default": {
+        "value": 1,
+        "type": "opacity"
+      },
+      "hover": {
+        "value": 1,
+        "type": "opacity"
+      },
+      "focused": {
+        "value": 1,
+        "type": "opacity"
+      },
+      "active": {
+        "value": 0.6,
+        "type": "opacity"
+      },
+      "loading": {
+        "value": 1,
+        "type": "opacity"
+      },
+      "disabled": {
+        "value": 0.4,
+        "type": "opacity"
+      }
+    }
+  }
+}
