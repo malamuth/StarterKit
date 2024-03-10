@@ -2,54 +2,54 @@
   "interaction": {
     "blend-mode-layer-opacity": {
       "default": {
-        "value": "0%",
-        "type": "number"
+        "value": 0,
+        "type": "opacity"
       },
       "hover": {
-        "value": "80%",
-        "type": "number"
+        "value": 80,
+        "type": "opacity"
       },
       "focused": {
-        "value": "0%",
-        "type": "number"
+        "value": 0,
+        "type": "opacity"
       },
       "active": {
-        "value": "20%",
-        "type": "number"
+        "value": 20,
+        "type": "opacity"
       },
       "loading": {
-        "value": "20%",
-        "type": "number"
+        "value": 20,
+        "type": "opacity"
       },
       "disabled": {
-        "value": "0%",
-        "type": "number"
+        "value": 0,
+        "type": "opacity"
       }
     },
     "content-opacity": {
       "default": {
-        "value": "100%",
-        "type": "number"
+        "value": 100,
+        "type": "opacity"
       },
       "hover": {
-        "value": "100%",
-        "type": "number"
+        "value": 100,
+        "type": "opacity"
       },
       "focused": {
-        "value": "100%",
-        "type": "number"
+        "value": 100,
+        "type": "opacity"
       },
       "active": {
-        "value": "60%",
-        "type": "number"
+        "value": 60,
+        "type": "opacity"
       },
       "loading": {
-        "value": "100%",
-        "type": "number"
+        "value": 100,
+        "type": "opacity"
       },
       "disabled": {
-        "value": "40%",
-        "type": "number"
+        "value": 40,
+        "type": "opacity"
       }
     }
   }
