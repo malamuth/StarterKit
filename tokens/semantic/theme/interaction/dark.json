@@ -2,7 +2,7 @@
   "interaction": {
     "blend-mode-layer-opacity": {
       "default": {
-        "value": 0,
+        "value": "0%",
         "type": "opacity"
       },
       "hover": {
