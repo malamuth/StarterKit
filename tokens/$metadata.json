@@ -1,15 +1,15 @@
 {
   "tokenSetOrder": [
-    "common/typography/core",
-    "common/typography/typography",
+    "common/color/palette",
     "common/size/radius",
     "common/size/size",
     "common/size/spacing",
     "common/size/stroke",
+    "common/typography/core",
+    "common/typography/typography",
     "semantic/control/layout",
     "semantic/control/interaction",
     "semantic/image/layout",
-    "common/color/palette",
     "semantic/label-icon/layout",
     "semantic/theme/color/dark",
     "semantic/theme/color/light",
