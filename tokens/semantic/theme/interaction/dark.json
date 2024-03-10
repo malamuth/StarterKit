@@ -48,7 +48,7 @@
         "type": "number"
       },
       "disabled": {
-        "value": 40,
+        "value": 20,
         "type": "number"
       }
     }
