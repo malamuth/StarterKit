@@ -29,6 +29,26 @@
         "value": "{spacing.200}",
         "type": "spacing"
       }
+    },
+    "600": {
+      "padding": {
+        "value": "{spacing.800}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.800}",
+        "type": "spacing"
+      }
+    },
+    "700": {
+      "padding": {
+        "value": "{spacing.900}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.800}",
+        "type": "spacing"
+      }
     }
   }
 }
