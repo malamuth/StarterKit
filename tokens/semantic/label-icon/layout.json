@@ -1,5 +1,23 @@
 {
   "label-icon": {
+    "200": {
+      "padding": {
+        "value": "{spacing.050}",
+        "type": "sizing"
+      },
+      "margin": {
+        "value": "{spacing.100}",
+        "type": "sizing"
+      },
+      "gap": {
+        "value": "{spacing.050}",
+        "type": "sizing"
+      },
+      "label-compensation": {
+        "value": "{spacing.000}",
+        "type": "sizing"
+      }
+    },
     "300": {
       "padding": {
         "value": "{spacing.150}",

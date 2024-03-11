@@ -1,5 +1,25 @@
 {
   "control": {
+    "200": {
+      "size": {
+        "single": {
+          "value": "{size.100}",
+          "type": "sizing"
+        },
+        "combined": {
+          "value": "{size.050}",
+          "type": "sizing"
+        }
+      },
+      "icon-size": {
+        "value": "{size.050}",
+        "type": "sizing"
+      },
+      "radius": {
+        "value": "{radius.050}",
+        "type": "sizing"
+      }
+    },
     "300": {
       "size": {
         "single": {
