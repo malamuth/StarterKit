@@ -156,7 +156,9 @@
       "common/size/spacing": "source",
       "semantic/image/layout": "enabled",
       "semantic/label-icon/layout": "enabled",
-      "semantic/control/interaction": "enabled"
+      "semantic/control/interaction": "enabled",
+      "semantic/background/layout": "enabled",
+      "semantic/grid/layout": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:509:29858",
     "$figmaModeId": "575:0",

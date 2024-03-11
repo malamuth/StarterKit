@@ -14,6 +14,8 @@
     "semantic/theme/color/dark",
     "semantic/theme/color/light",
     "semantic/theme/interaction/dark",
-    "semantic/theme/interaction/light"
+    "semantic/theme/interaction/light",
+    "semantic/background/layout",
+    "semantic/grid/layout"
   ]
 }
