@@ -5,6 +5,10 @@
         "value": "{spacing.000}",
         "type": "spacing"
       },
+      "x-small": {
+        "value": "{spacing.100}",
+        "type": "spacing"
+      },
       "small": {
         "value": "{spacing.200}",
         "type": "spacing"
