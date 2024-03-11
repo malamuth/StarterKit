@@ -1,0 +1,16 @@
+{
+  "background": {
+    "400": {
+      "radius": {
+        "value": "{radius.050}",
+        "type": "sizing"
+      }
+    },
+    "500": {
+      "radius": {
+        "value": "{radius.100}",
+        "type": "sizing"
+      }
+    }
+  }
+}

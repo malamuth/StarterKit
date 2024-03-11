@@ -1,0 +1,34 @@
+{
+  "grid": {
+    "200": {
+      "padding-horizontal": {
+        "value": "{spacing.100}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.000}",
+        "type": "spacing"
+      }
+    },
+    "300": {
+      "padding-horizontal": {
+        "value": "{spacing.200}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.200}",
+        "type": "spacing"
+      }
+    },
+    "500": {
+      "padding-horizontal": {
+        "value": "{spacing.600}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.200}",
+        "type": "spacing"
+      }
+    }
+  }
+}
