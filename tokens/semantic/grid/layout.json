@@ -20,6 +20,16 @@
         "type": "spacing"
       }
     },
+    "400": {
+      "padding": {
+        "value": "{spacing.400}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.400}",
+        "type": "spacing"
+      }
+    },
     "500": {
       "padding": {
         "value": "{spacing.600}",
