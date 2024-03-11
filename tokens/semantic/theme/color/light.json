@@ -60,12 +60,16 @@
     }
   },
   "border": {
-    "paranja": {
-      "value": "rgba({palette.goose.999}, 0.05)",
+    "primary": {
+      "value": "rgba({palette.aviation.800}, 0.2)",
       "type": "color"
     },
     "brand-aviation": {
       "value": "{palette.aviation.500}",
+      "type": "color"
+    },
+    "paranja": {
+      "value": "rgba({palette.goose.999}, 0.05)",
       "type": "color"
     }
   },

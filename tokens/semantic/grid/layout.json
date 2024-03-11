@@ -1,7 +1,7 @@
 {
   "grid": {
     "200": {
-      "padding-horizontal": {
+      "padding": {
         "value": "{spacing.100}",
         "type": "spacing"
       },
@@ -11,7 +11,7 @@
       }
     },
     "300": {
-      "padding-horizontal": {
+      "padding": {
         "value": "{spacing.200}",
         "type": "spacing"
       },
@@ -21,7 +21,7 @@
       }
     },
     "500": {
-      "padding-horizontal": {
+      "padding": {
         "value": "{spacing.600}",
         "type": "spacing"
       },
