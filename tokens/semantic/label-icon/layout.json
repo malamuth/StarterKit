@@ -20,11 +20,11 @@
     },
     "300": {
       "padding": {
-        "value": "{spacing.150}",
+        "value": "{spacing.100}",
         "type": "sizing"
       },
       "margin": {
-        "value": "{spacing.150}",
+        "value": "{spacing.200}",
         "type": "sizing"
       },
       "gap": {
