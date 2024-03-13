@@ -1,6 +1,6 @@
 {
   "breakpoint": {
     "value": "Tablet Portrait",
-    "type": "string"
+    "type": "text"
   }
 }

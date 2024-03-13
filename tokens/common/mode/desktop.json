@@ -1,6 +1,6 @@
 {
   "breakpoint": {
     "value": "Desktop",
-    "type": "string"
+    "type": "text"
   }
 }

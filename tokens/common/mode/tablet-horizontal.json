@@ -1,6 +1,6 @@
 {
   "breakpoint": {
     "value": "Tablet Horizontal",
-    "type": "string"
+    "type": "text"
   }
 }

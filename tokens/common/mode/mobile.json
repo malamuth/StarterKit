@@ -1,6 +1,6 @@
 {
   "breakpoint": {
     "value": "Mobile",
-    "type": "string"
+    "type": "text"
   }
 }
