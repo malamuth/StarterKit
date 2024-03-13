@@ -21,6 +21,10 @@
     "semantic/layout/large",
     "semantic/layout/medium",
     "semantic/layout/small",
-    "semantic/layout/x-large"
+    "semantic/layout/x-large",
+    "common/mode/desktop",
+    "common/mode/mobile",
+    "common/mode/tablet-horizontal",
+    "common/mode/tablet-portrait"
   ]
 }

@@ -160,7 +160,8 @@
       "semantic/background/layout": "enabled",
       "semantic/grid/layout": "enabled",
       "common/size/breakpoint": "source",
-      "semantic/layout/x-large": "enabled"
+      "semantic/layout/x-large": "enabled",
+      "common/mode/desktop": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:509:29858",
     "$figmaModeId": "575:0",
@@ -291,7 +292,8 @@
       "semantic/grid/layout": "enabled",
       "common/size/breakpoint": "source",
       "semantic/layout/large": "enabled",
-      "semantic/control/interaction": "enabled"
+      "semantic/control/interaction": "enabled",
+      "common/mode/tablet-horizontal": "enabled"
     },
     "group": "layout"
   },
@@ -311,7 +313,8 @@
       "semantic/label-icon/layout": "enabled",
       "semantic/background/layout": "enabled",
       "semantic/grid/layout": "enabled",
-      "semantic/layout/medium": "enabled"
+      "semantic/layout/medium": "enabled",
+      "common/mode/tablet-portrait": "enabled"
     },
     "group": "layout"
   },
@@ -331,7 +334,8 @@
       "semantic/label-icon/layout": "enabled",
       "semantic/background/layout": "enabled",
       "semantic/grid/layout": "enabled",
-      "semantic/layout/small": "enabled"
+      "semantic/layout/small": "enabled",
+      "common/mode/mobile": "enabled"
     },
     "group": "layout"
   }
