@@ -5,6 +5,7 @@
     "common/size/size",
     "common/size/spacing",
     "common/size/stroke",
+    "common/size/breakpoint",
     "common/typography/core",
     "common/typography/typography",
     "semantic/control/layout",
@@ -16,6 +17,10 @@
     "semantic/theme/interaction/dark",
     "semantic/theme/interaction/light",
     "semantic/background/layout",
-    "semantic/grid/layout"
+    "semantic/grid/layout",
+    "semantic/layout/large",
+    "semantic/layout/medium",
+    "semantic/layout/small",
+    "semantic/layout/x-large"
   ]
 }

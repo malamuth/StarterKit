@@ -158,7 +158,9 @@
       "semantic/label-icon/layout": "enabled",
       "semantic/control/interaction": "enabled",
       "semantic/background/layout": "enabled",
-      "semantic/grid/layout": "enabled"
+      "semantic/grid/layout": "enabled",
+      "common/size/breakpoint": "source",
+      "semantic/layout/x-large": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:509:29858",
     "$figmaModeId": "575:0",
@@ -272,5 +274,65 @@
       "layer.floor-2": "1ed152a2cb493147442d741f5fae2f0fe366d305",
       "layer.overlay": "c0e2d5cebd45c0fb5b7caa58722cf5f2e869e8c9"
     }
+  },
+  {
+    "id": "052b007cf2e3020c11bbad36c1f6706d5c20b158",
+    "name": "tablet-horizontal",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/radius": "source",
+      "common/size/size": "source",
+      "common/size/spacing": "source",
+      "common/size/stroke": "source",
+      "semantic/control/layout": "enabled",
+      "semantic/image/layout": "enabled",
+      "semantic/label-icon/layout": "enabled",
+      "semantic/background/layout": "enabled",
+      "semantic/grid/layout": "enabled",
+      "common/size/breakpoint": "source",
+      "semantic/layout/large": "enabled",
+      "semantic/control/interaction": "enabled"
+    },
+    "group": "layout"
+  },
+  {
+    "id": "4c8eaf721d1a492ff4739345583de3764e7b3213",
+    "name": "tablet-portrait",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/radius": "source",
+      "common/size/size": "source",
+      "common/size/spacing": "source",
+      "common/size/stroke": "source",
+      "common/size/breakpoint": "source",
+      "semantic/control/layout": "enabled",
+      "semantic/control/interaction": "enabled",
+      "semantic/image/layout": "enabled",
+      "semantic/label-icon/layout": "enabled",
+      "semantic/background/layout": "enabled",
+      "semantic/grid/layout": "enabled",
+      "semantic/layout/medium": "enabled"
+    },
+    "group": "layout"
+  },
+  {
+    "id": "1c8aa8a37e32d18e4da1e399d19b8b2a107b12a3",
+    "name": "mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/radius": "source",
+      "common/size/size": "source",
+      "common/size/spacing": "source",
+      "common/size/stroke": "source",
+      "common/size/breakpoint": "source",
+      "semantic/control/layout": "enabled",
+      "semantic/control/interaction": "enabled",
+      "semantic/image/layout": "enabled",
+      "semantic/label-icon/layout": "enabled",
+      "semantic/background/layout": "enabled",
+      "semantic/grid/layout": "enabled",
+      "semantic/layout/small": "enabled"
+    },
+    "group": "layout"
   }
 ]
