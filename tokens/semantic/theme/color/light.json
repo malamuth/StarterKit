@@ -5,7 +5,7 @@
       "type": "color"
     },
     "primary-inverted": {
-      "value": "{palette.goose.050}",
+      "value": "{palette.goose.50}",
       "type": "color"
     },
     "secondary": {
@@ -13,7 +13,7 @@
       "type": "color"
     },
     "secondary-inverted": {
-      "value": "rgba({palette.aviation.050}, 0.1)",
+      "value": "rgba({palette.aviation.50}, 0.1)",
       "type": "color"
     },
     "brand-aviation-primary": {
@@ -39,7 +39,7 @@
       "type": "color"
     },
     "primary-inverted": {
-      "value": "{palette.goose.000}",
+      "value": "{palette.goose.0}",
       "type": "color"
     },
     "secondary": {
@@ -47,7 +47,7 @@
       "type": "color"
     },
     "secondary-inverted": {
-      "value": "rgba({palette.goose.000}, 0.6)",
+      "value": "rgba({palette.goose.0}, 0.6)",
       "type": "color"
     },
     "brand-aviation": {
@@ -75,15 +75,15 @@
   },
   "layer": {
     "floor-0": {
-      "value": "{palette.goose.000}",
+      "value": "{palette.goose.0}",
       "type": "color"
     },
     "floor-1": {
-      "value": "{palette.goose.000}",
+      "value": "{palette.goose.0}",
       "type": "color"
     },
     "floor-2": {
-      "value": "{palette.goose.000}",
+      "value": "{palette.goose.0}",
       "type": "color"
     },
     "overlay": {

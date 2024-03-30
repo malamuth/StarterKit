@@ -1,7 +1,7 @@
 {
   "bg": {
     "primary": {
-      "value": "{palette.goose.050}",
+      "value": "{palette.goose.50}",
       "type": "color"
     },
     "primary-inverted": {
@@ -9,7 +9,7 @@
       "type": "color"
     },
     "secondary": {
-      "value": "rgba({palette.goose.050}, 0.1)",
+      "value": "rgba({palette.goose.50}, 0.1)",
       "type": "color"
     },
     "secondary-inverted": {
@@ -35,7 +35,7 @@
   },
   "content": {
     "primary": {
-      "value": "{palette.goose.000}",
+      "value": "{palette.goose.0}",
       "type": "color"
     },
     "primary-inverted": {
@@ -43,7 +43,7 @@
       "type": "color"
     },
     "secondary": {
-      "value": "rgba({palette.goose.000}, 0.6)",
+      "value": "rgba({palette.goose.0}, 0.6)",
       "type": "color"
     },
     "secondary-inverted": {
@@ -61,7 +61,7 @@
   },
   "border": {
     "primary": {
-      "value": "rgba({palette.goose.050}, 0.2)",
+      "value": "rgba({palette.goose.50}, 0.2)",
       "type": "color"
     },
     "brand-aviation": {
@@ -69,7 +69,7 @@
       "type": "color"
     },
     "paranja": {
-      "value": "rgba({palette.goose.000}, 0.2)",
+      "value": "rgba({palette.goose.0}, 0.2)",
       "type": "color"
     }
   },
