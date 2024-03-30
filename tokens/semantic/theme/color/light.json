@@ -43,7 +43,7 @@
       "type": "color"
     },
     "secondary": {
-      "value": "rgba({palette.aviation.900}, 0.6)",
+      "value": "rgba({palette.goose.900}, 0.6)",
       "type": "color"
     },
     "secondary-inverted": {
