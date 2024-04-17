@@ -1,11 +1,11 @@
 {
   "layout": {
     "min-width": {
-      "value": "{grid.breakpoint.medium}",
+      "value": "{breakpoint.breakpoint.medium}",
       "type": "number"
     },
     "max-width": {
-      "value": "{grid.breakpoint.large} - 1",
+      "value": "{breakpoint.breakpoint.large} - 1",
       "type": "number"
     },
     "gap": {

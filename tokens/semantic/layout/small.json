@@ -5,7 +5,7 @@
       "type": "number"
     },
     "max-width": {
-      "value": "{grid.breakpoint.medium} - 1",
+      "value": "{breakpoint.breakpoint.medium} - 1",
       "type": "number"
     },
     "gap": {
