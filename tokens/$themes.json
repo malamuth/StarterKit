@@ -179,7 +179,8 @@
       "semantic/label-icon/layout": "enabled",
       "semantic/control/interaction": "enabled",
       "semantic/background/layout": "enabled",
-      "semantic/layout/x-large": "enabled"
+      "semantic/layout/x-large": "enabled",
+      "common/size/grid": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:509:29858",
     "$figmaModeId": "575:0",
@@ -333,9 +334,9 @@
       "semantic/label-icon/layout": "enabled",
       "semantic/background/layout": "enabled",
       "semantic/layout/large": "enabled",
-      "semantic/control/interaction": "enabled"
+      "semantic/control/interaction": "enabled",
+      "common/size/grid": "source"
     },
-    "group": "layout",
     "$figmaCollectionId": "VariableCollectionId:509:29858",
     "$figmaModeId": "2553:0",
     "$figmaVariableReferences": {
@@ -397,7 +398,8 @@
       "control.700.icon-size": "76bd16834e416f67b54de9b1a72cc5f475c1da57",
       "control.700.radius": "acca9a0903f9d2b3d81c5cc994e9dec2f1c937a7",
       "control.common.stroke": "2a79271272edf89f4731f281bbdec78f4885ddf2"
-    }
+    },
+    "group": "layout"
   },
   {
     "id": "4c8eaf721d1a492ff4739345583de3764e7b3213",
@@ -413,9 +415,9 @@
       "semantic/image/layout": "enabled",
       "semantic/label-icon/layout": "enabled",
       "semantic/background/layout": "enabled",
-      "semantic/layout/medium": "enabled"
+      "semantic/layout/medium": "enabled",
+      "common/size/grid": "source"
     },
-    "group": "layout",
     "$figmaCollectionId": "VariableCollectionId:509:29858",
     "$figmaModeId": "2553:1",
     "$figmaVariableReferences": {
@@ -477,11 +479,12 @@
       "control.700.icon-size": "76bd16834e416f67b54de9b1a72cc5f475c1da57",
       "control.700.radius": "acca9a0903f9d2b3d81c5cc994e9dec2f1c937a7",
       "control.common.stroke": "2a79271272edf89f4731f281bbdec78f4885ddf2"
-    }
+    },
+    "group": "layout"
   },
   {
     "id": "1c8aa8a37e32d18e4da1e399d19b8b2a107b12a3",
-    "name": "mobile",
+    "name": "mobile-portrait",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/size/radius": "source",
@@ -492,9 +495,10 @@
       "semantic/control/interaction": "enabled",
       "semantic/image/layout": "enabled",
       "semantic/label-icon/layout": "enabled",
-      "semantic/background/layout": "enabled"
+      "semantic/background/layout": "enabled",
+      "common/size/grid": "source",
+      "semantic/layout/x-small": "enabled"
     },
-    "group": "layout",
     "$figmaCollectionId": "VariableCollectionId:509:29858",
     "$figmaModeId": "2553:2",
     "$figmaVariableReferences": {
@@ -552,6 +556,7 @@
       "control.700.icon-size": "76bd16834e416f67b54de9b1a72cc5f475c1da57",
       "control.700.radius": "acca9a0903f9d2b3d81c5cc994e9dec2f1c937a7",
       "control.common.stroke": "2a79271272edf89f4731f281bbdec78f4885ddf2"
-    }
+    },
+    "group": "layout"
   }
 ]

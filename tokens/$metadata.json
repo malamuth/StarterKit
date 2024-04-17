@@ -18,6 +18,7 @@
     "semantic/layout/large",
     "semantic/layout/medium",
     "semantic/layout/x-large",
-    "semantic/layout/x-small"
+    "semantic/layout/x-small",
+    "semantic/layout/small"
   ]
 }
