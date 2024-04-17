@@ -2,15 +2,15 @@
   "stroke": {
     "400": {
       "value": "1",
-      "type": "sizing"
+      "type": "number"
     },
     "500": {
       "value": "2",
-      "type": "sizing"
+      "type": "number"
     },
     "600": {
       "value": "4",
-      "type": "sizing"
+      "type": "number"
     }
   }
 }

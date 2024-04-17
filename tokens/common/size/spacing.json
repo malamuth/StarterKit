@@ -1,60 +1,60 @@
 {
-  "spacing": {
+  "number": {
     "0": {
       "value": "0",
-      "type": "spacing"
+      "type": "number"
     },
     "25": {
       "value": "1",
-      "type": "spacing"
+      "type": "number"
     },
     "50": {
       "value": "2",
-      "type": "spacing"
+      "type": "number"
     },
     "100": {
       "value": "4",
-      "type": "spacing"
+      "type": "number"
     },
     "150": {
       "value": "6",
-      "type": "spacing"
+      "type": "number"
     },
     "200": {
       "value": "8",
-      "type": "spacing"
+      "type": "number"
     },
     "250": {
       "value": "10",
-      "type": "spacing"
+      "type": "number"
     },
     "300": {
       "value": "12",
-      "type": "spacing"
+      "type": "number"
     },
     "400": {
       "value": "16",
-      "type": "spacing"
+      "type": "number"
     },
     "500": {
       "value": "20",
-      "type": "spacing"
+      "type": "number"
     },
     "600": {
       "value": "24",
-      "type": "spacing"
+      "type": "number"
     },
     "700": {
       "value": "32",
-      "type": "spacing"
+      "type": "number"
     },
     "800": {
       "value": "40",
-      "type": "spacing"
+      "type": "number"
     },
     "900": {
       "value": "48",
-      "type": "spacing"
+      "type": "number"
     }
   }
 }
