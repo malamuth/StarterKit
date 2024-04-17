@@ -2,7 +2,7 @@
   "background": {
     "400": {
       "radius": {
-        "value": "{radius.050}",
+        "value": "{radius.50}",
         "type": "sizing"
       }
     },
@@ -14,7 +14,7 @@
     },
     "600": {
       "radius": {
-        "value": "{radius.100}",
+        "value": "{radius.150}",
         "type": "sizing"
       }
     }

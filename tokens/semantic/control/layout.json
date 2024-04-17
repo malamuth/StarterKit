@@ -7,16 +7,16 @@
           "type": "sizing"
         },
         "combined": {
-          "value": "{size.050}",
+          "value": "{size.50}",
           "type": "sizing"
         }
       },
       "icon-size": {
-        "value": "{size.050}",
+        "value": "{size.50}",
         "type": "sizing"
       },
       "radius": {
-        "value": "{radius.050}",
+        "value": "{radius.50}",
         "type": "sizing"
       }
     },
@@ -32,11 +32,11 @@
         }
       },
       "icon-size": {
-        "value": "{size.050}",
+        "value": "{size.50}",
         "type": "sizing"
       },
       "radius": {
-        "value": "{radius.050}",
+        "value": "{radius.50}",
         "type": "sizing"
       }
     },
@@ -56,7 +56,7 @@
         "type": "sizing"
       },
       "radius": {
-        "value": "{radius.050}",
+        "value": "{radius.50}",
         "type": "sizing"
       }
     },
@@ -76,7 +76,7 @@
         "type": "sizing"
       },
       "radius": {
-        "value": "{radius.050}",
+        "value": "{radius.50}",
         "type": "sizing"
       }
     },
@@ -96,7 +96,7 @@
         "type": "sizing"
       },
       "radius": {
-        "value": "{radius.050}",
+        "value": "{radius.50}",
         "type": "sizing"
       }
     },
@@ -116,7 +116,7 @@
         "type": "sizing"
       },
       "radius": {
-        "value": "{radius.050}",
+        "value": "{radius.50}",
         "type": "sizing"
       }
     },
