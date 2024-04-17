@@ -59,11 +59,11 @@
       "type": "color"
     },
     "warning": {
-      "value": "{palette.mojito.400}",
+      "value": "{palette.mimosa.400}",
       "type": "color"
     },
     "negative": {
-      "value": "{palette.mojito.400}",
+      "value": "{palette.negroni.400}",
       "type": "color"
     }
   },
@@ -73,7 +73,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{palette.aviation.400}",
+      "value": "{palette.mojito.400}",
       "type": "color"
     },
     "paranja": {

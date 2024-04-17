@@ -59,11 +59,11 @@
       "type": "color"
     },
     "warning": {
-      "value": "{palette.mojito.500}",
+      "value": "{palette.mimosa.500}",
       "type": "color"
     },
     "negative": {
-      "value": "{palette.mojito.500}",
+      "value": "{palette.negroni.500}",
       "type": "color"
     }
   },
