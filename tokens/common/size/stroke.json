@@ -1,19 +1,15 @@
 {
   "stroke": {
-    "500": {
+    "400": {
       "value": "1",
       "type": "sizing"
     },
-    "600": {
+    "500": {
       "value": "2",
       "type": "sizing"
     },
-    "700": {
+    "600": {
       "value": "4",
-      "type": "sizing"
-    },
-    "800": {
-      "value": "6",
       "type": "sizing"
     }
   }

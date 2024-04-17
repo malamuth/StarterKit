@@ -11,6 +11,12 @@
         "value": "{radius.100}",
         "type": "sizing"
       }
+    },
+    "600": {
+      "radius": {
+        "value": "{radius.100}",
+        "type": "sizing"
+      }
     }
   }
 }

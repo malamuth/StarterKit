@@ -1,23 +1,27 @@
 {
+  "min-width": {
+    "value": "320",
+    "type": "number"
+  },
+  "max-width": {
+    "value": "1920",
+    "type": "number"
+  },
   "breakpoint": {
     "small": {
-      "value": "320",
-      "type": "number"
-    },
-    "medium": {
       "value": "576",
       "type": "number"
     },
-    "large": {
+    "medium": {
       "value": "768",
+      "type": "number"
+    },
+    "large": {
+      "value": "992",
       "type": "number"
     },
     "x-large": {
       "value": "1200",
-      "type": "number"
-    },
-    "xx-large": {
-      "value": "1920",
       "type": "number"
     }
   }
