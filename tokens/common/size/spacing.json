@@ -5,55 +5,63 @@
       "type": "number"
     },
     "25": {
-      "value": "1",
-      "type": "number"
-    },
-    "50": {
       "value": "2",
       "type": "number"
     },
-    "100": {
+    "50": {
       "value": "4",
       "type": "number"
     },
-    "150": {
+    "75": {
       "value": "6",
       "type": "number"
     },
-    "200": {
+    "100": {
       "value": "8",
       "type": "number"
     },
-    "250": {
+    "125": {
       "value": "10",
       "type": "number"
     },
-    "300": {
+    "150": {
       "value": "12",
       "type": "number"
     },
-    "400": {
+    "200": {
       "value": "16",
       "type": "number"
     },
-    "500": {
+    "250": {
       "value": "20",
       "type": "number"
     },
-    "600": {
+    "300": {
       "value": "24",
       "type": "number"
     },
-    "700": {
+    "400": {
       "value": "32",
       "type": "number"
     },
-    "800": {
+    "500": {
       "value": "40",
       "type": "number"
     },
-    "900": {
+    "600": {
       "value": "48",
+      "type": "number"
+    },
+    "700": {
+      "value": "56",
+      "type": "number"
+    },
+    "800": {
+      "value": "64",
+      "type": "number"
+    },
+    "900": {
+      "value": "72",
       "type": "number"
     }
   }

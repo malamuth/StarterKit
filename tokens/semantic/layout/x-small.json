@@ -1,19 +1,19 @@
 {
   "layout": {
     "min-width": {
-      "value": "{grid.breakpoint.medium}",
+      "value": "{grid.min-width}",
       "type": "number"
     },
     "max-width": {
-      "value": "{grid.breakpoint.large} - 1",
+      "value": "{grid.breakpoint.small} - 1",
       "type": "number"
     },
     "gap": {
-      "value": "{spacing.200}",
+      "value": "{spacing.125}",
       "type": "spacing"
     },
     "padding": {
-      "value": "{spacing.400}",
+      "value": "{spacing.250}",
       "type": "spacing"
     }
   }

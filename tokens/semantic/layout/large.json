@@ -1,19 +1,19 @@
 {
   "layout": {
     "min-width": {
-      "value": "{breakpoint.large}",
+      "value": "{grid.breakpoint.large}",
       "type": "number"
     },
     "max-width": {
-      "value": "{breakpoint.x-large} - 1",
+      "value": "{grid.breakpoint.x-large} - 1",
       "type": "number"
     },
-    "col-padding": {
-      "value": "{spacing.300}",
+    "gap": {
+      "value": "{spacing.250}",
       "type": "spacing"
     },
-    "container-padding": {
-      "value": "{spacing.300}",
+    "padding": {
+      "value": "{spacing.500}",
       "type": "spacing"
     }
   }
