@@ -5,7 +5,6 @@
     "common/size/size",
     "common/size/spacing",
     "common/size/stroke",
-    "common/size/grid",
     "common/typography/core",
     "common/typography/typography",
     "semantic/control/layout",
