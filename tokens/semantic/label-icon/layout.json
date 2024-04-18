@@ -2,7 +2,7 @@
   "label-icon": {
     "200": {
       "padding": {
-        "value": "{spacing.050}",
+        "value": "{spacing.50}",
         "type": "sizing"
       },
       "margin": {
@@ -10,11 +10,11 @@
         "type": "sizing"
       },
       "gap": {
-        "value": "{spacing.050}",
+        "value": "{spacing.50}",
         "type": "sizing"
       },
       "label-compensation": {
-        "value": "{spacing.000}",
+        "value": "{spacing.0}",
         "type": "sizing"
       }
     },
@@ -32,7 +32,7 @@
         "type": "sizing"
       },
       "label-compensation": {
-        "value": "{spacing.025}",
+        "value": "{spacing.25}",
         "type": "sizing"
       }
     },
@@ -50,7 +50,7 @@
         "type": "sizing"
       },
       "label-compensation": {
-        "value": "{spacing.025}",
+        "value": "{spacing.25}",
         "type": "sizing"
       }
     },
@@ -68,7 +68,7 @@
         "type": "sizing"
       },
       "label-compensation": {
-        "value": "{spacing.050}",
+        "value": "{spacing.50}",
         "type": "sizing"
       }
     },
@@ -86,7 +86,7 @@
         "type": "sizing"
       },
       "label-compensation": {
-        "value": "{spacing.050}",
+        "value": "{spacing.50}",
         "type": "sizing"
       }
     },
@@ -104,7 +104,7 @@
         "type": "sizing"
       },
       "label-compensation": {
-        "value": "{spacing.050}",
+        "value": "{spacing.50}",
         "type": "sizing"
       }
     }
