@@ -16,7 +16,7 @@
         "type": "sizing"
       },
       "radius": {
-        "value": "{radius.50}",
+        "value": "{radius.100}",
         "type": "sizing"
       }
     },
@@ -36,7 +36,7 @@
         "type": "sizing"
       },
       "radius": {
-        "value": "{radius.50}",
+        "value": "{radius.200}",
         "type": "sizing"
       }
     },
@@ -56,7 +56,7 @@
         "type": "sizing"
       },
       "radius": {
-        "value": "{radius.50}",
+        "value": "{radius.300}",
         "type": "sizing"
       }
     },
@@ -76,7 +76,7 @@
         "type": "sizing"
       },
       "radius": {
-        "value": "{radius.50}",
+        "value": "{radius.400}",
         "type": "sizing"
       }
     },
@@ -96,7 +96,7 @@
         "type": "sizing"
       },
       "radius": {
-        "value": "{radius.50}",
+        "value": "{radius.500}",
         "type": "sizing"
       }
     },
@@ -116,7 +116,7 @@
         "type": "sizing"
       },
       "radius": {
-        "value": "{radius.50}",
+        "value": "{radius.600}",
         "type": "sizing"
       }
     },
