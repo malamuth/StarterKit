@@ -112,11 +112,11 @@
     },
     "type": {
       "default": {
-        "value": 400,
+        "value": "Regular",
         "type": "fontWeight"
       },
       "accent": {
-        "value": 600,
+        "value": "DemiBold",
         "type": "fontWeight"
       }
     }
