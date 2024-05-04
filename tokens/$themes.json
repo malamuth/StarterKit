@@ -1,7 +1,7 @@
 [
   {
     "id": "00fe6221b7eeba217bf17748d1bddad4e9cd156b",
-    "name": "common",
+    "name": "core",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/size/size": "enabled",
