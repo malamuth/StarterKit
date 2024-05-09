@@ -1,11 +1,11 @@
 {
   "tokenSetOrder": [
     "common/color/palette",
-    "common/size/grid",
     "common/size/radius",
     "common/size/size",
     "common/size/spacing",
     "common/size/stroke",
+    "common/size/layout",
     "common/typography/core",
     "common/typography/typography",
     "semantic/control/layout",
@@ -15,10 +15,10 @@
     "semantic/theme/color/dark",
     "semantic/theme/color/light",
     "semantic/background/layout",
-    "semantic/layout/large",
-    "semantic/layout/medium",
-    "semantic/layout/x-large",
-    "semantic/layout/x-small",
-    "semantic/layout/small"
+    "semantic/layout/bootstrap/large",
+    "semantic/layout/bootstrap/medium",
+    "semantic/layout/bootstrap/small",
+    "semantic/layout/bootstrap/x-large",
+    "semantic/layout/bootstrap/x-small"
   ]
 }
