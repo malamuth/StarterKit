@@ -1,7 +1,7 @@
 {
   "semantic": {
     "header": {
-      "xlarge": {
+      "x-large": {
         "default": {
           "value": {
             "fontFamily": "{typography.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
@@ -217,7 +217,7 @@
           "type": "typography"
         }
       },
-      "xsmall": {
+      "x-small": {
         "default": {
           "value": {
             "fontFamily": "{typography.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",

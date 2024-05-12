@@ -1,6 +1,6 @@
 {
   "header": {
-    "xlarge": {
+    "x-large": {
       "size": {
         "value": "{typography.size.800}",
         "type": "number"
@@ -80,7 +80,7 @@
         }
       }
     },
-    "xsmall": {
+    "x-small": {
       "size": {
         "value": "{typography.size.400}",
         "type": "number"
