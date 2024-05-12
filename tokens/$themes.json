@@ -1,59 +1,46 @@
 [
   {
-    "id": "38370b34b111df305a4c9536a401131c0829d4a9",
-    "name": "small",
+    "id": "f924181723bd813e4246d68126b223fd358b00be",
+    "name": "mobile",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/size/spacing": "source",
-      "layout/breakpoint/small": "enabled",
+      "layout/breakpoint/mobile": "enabled",
       "layout/core": "source"
     },
-    "group": "layout",
-    "$figmaCollectionId": "VariableCollectionId:13:22",
-    "$figmaModeId": "13:12",
-    "$figmaVariableReferences": {
-      "layout.min-width": "dc61a4a2ab3942ced86b19be8c77f79887835bf9",
-      "layout.max-width": "66583b6cdf776cd0b39df5b6bec48c8d46a616df",
-      "layout.gap": "773ccdea8290d2870142e21689af3738009eecd0",
-      "layout.padding": "71a1416393c2b8c3c1af0670445cfe977af49012"
-    }
+    "group": "layout"
   },
   {
-    "id": "2bd422987a4881cb51ae68afc275db2b8e1eddd4",
-    "name": "medium",
+    "id": "8f278b80ddf2be29d9382f1e3bf68f539b37fa0b",
+    "name": "tablet-portrait",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/size/spacing": "source",
-      "layout/breakpoint/medium": "enabled",
+      "layout/breakpoint/tablet-portrait": "enabled",
       "layout/core": "source"
     },
-    "group": "layout",
-    "$figmaCollectionId": "VariableCollectionId:13:22",
-    "$figmaModeId": "13:13",
-    "$figmaVariableReferences": {
-      "layout.min-width": "dc61a4a2ab3942ced86b19be8c77f79887835bf9",
-      "layout.max-width": "66583b6cdf776cd0b39df5b6bec48c8d46a616df",
-      "layout.gap": "773ccdea8290d2870142e21689af3738009eecd0",
-      "layout.padding": "71a1416393c2b8c3c1af0670445cfe977af49012"
-    }
+    "group": "layout"
   },
   {
-    "id": "d9a5649f97b9e4d7bb9f8f9a9e4d8da18d98b464",
-    "name": "large",
+    "id": "9fb74aef33d52970eb236e4e1d317fe2da319c8a",
+    "name": "tablet landscape",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/size/spacing": "source",
-      "layout/breakpoint/large": "enabled",
+      "layout/breakpoint/tablet-landscape": "enabled",
       "layout/core": "source"
     },
-    "group": "layout",
-    "$figmaCollectionId": "VariableCollectionId:13:22",
-    "$figmaModeId": "13:14",
-    "$figmaVariableReferences": {
-      "layout.min-width": "dc61a4a2ab3942ced86b19be8c77f79887835bf9",
-      "layout.max-width": "66583b6cdf776cd0b39df5b6bec48c8d46a616df",
-      "layout.gap": "773ccdea8290d2870142e21689af3738009eecd0",
-      "layout.padding": "71a1416393c2b8c3c1af0670445cfe977af49012"
-    }
+    "group": "layout"
+  },
+  {
+    "id": "3d0ef05e45e352f31c91354195c568c42559c67a",
+    "name": "desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/spacing": "source",
+      "layout/breakpoint/desktop": "enabled",
+      "layout/core": "source"
+    },
+    "group": "layout"
   }
 ]
