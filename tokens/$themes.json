@@ -48,9 +48,9 @@
       "layout/core": "source",
       "typography/core": "source",
       "semantic/text/typography": "enabled",
-      "semantic/text/breakpoint/mobile": "enabled"
+      "semantic/text/breakpoint/mobile": "enabled",
+      "core/size/spacing": "source"
     },
-    "group": "layout",
     "$figmaCollectionId": "VariableCollectionId:14:27",
     "$figmaModeId": "14:15",
     "$figmaVariableReferences": {
@@ -86,7 +86,8 @@
       "layout.max-width": "c2903ea9fcf946363c852243f76dc9f3f9e5c8d1",
       "layout.gap": "8751c58b621cd877feb6e30a057bf3d2089caec0",
       "layout.padding": "63b445f27a049b9e66af362fe8f499f62d83cf85"
-    }
+    },
+    "group": "layout"
   },
   {
     "id": "8f278b80ddf2be29d9382f1e3bf68f539b37fa0b",
@@ -97,9 +98,9 @@
       "layout/core": "source",
       "typography/core": "source",
       "semantic/text/typography": "enabled",
-      "semantic/text/breakpoint/tablet-portrait": "enabled"
+      "semantic/text/breakpoint/tablet-portrait": "enabled",
+      "core/size/spacing": "source"
     },
-    "group": "layout",
     "$figmaCollectionId": "VariableCollectionId:14:27",
     "$figmaModeId": "14:16",
     "$figmaVariableReferences": {
@@ -135,7 +136,8 @@
       "layout.max-width": "c2903ea9fcf946363c852243f76dc9f3f9e5c8d1",
       "layout.gap": "8751c58b621cd877feb6e30a057bf3d2089caec0",
       "layout.padding": "63b445f27a049b9e66af362fe8f499f62d83cf85"
-    }
+    },
+    "group": "layout"
   },
   {
     "id": "9fb74aef33d52970eb236e4e1d317fe2da319c8a",
@@ -146,7 +148,44 @@
       "layout/core": "source",
       "typography/core": "source",
       "semantic/text/typography": "enabled",
-      "semantic/text/breakpoint/tablet-landscape": "enabled"
+      "semantic/text/breakpoint/tablet-landscape": "enabled",
+      "core/size/spacing": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:14:27",
+    "$figmaModeId": "14:17",
+    "$figmaVariableReferences": {
+      "semantic-text.header-xl.size": "af65adc71c736d3136c341fb281eb4cd7254373b",
+      "semantic-text.header-xl.style": "4f9bea633eb61b5d6587d084c3903c681e27c8aa",
+      "semantic-text.header-xl.padding.top": "d3c2e91f6b72c65e9ea04ceda792f7a76d23231e",
+      "semantic-text.header-xl.padding.bottom": "415aa86264cdfe6e7eaf7813e0a16906713fb228",
+      "semantic-text.header-l.size": "cd5327c97a5a6ea7944e159c9036f6321c06484a",
+      "semantic-text.header-l.style": "829c0fd6ba668a23f8d161a47bb3b1eb4cc7ff81",
+      "semantic-text.header-l.padding.top": "f5d6776c3cc345d25d937cd35f12f017e662cc52",
+      "semantic-text.header-l.padding.bottom": "58bed5eb1e9841e98f2fb8ac41777e1735a0ad78",
+      "semantic-text.header-m.size": "34283f35b258d2d569256576bb0d5cdf94583655",
+      "semantic-text.header-m.style": "754f126f398ddddcb66efb9ca9b1b8d4b8732d40",
+      "semantic-text.header-m.padding.top": "00798e7dd2beafbe2a2309714c0c8ee8b7080f88",
+      "semantic-text.header-m.padding.bottom": "8c0f04a8d0ae4d38e159f2e5b978c2662a92ee2e",
+      "semantic-text.header-s.size": "6233b1a2272b340a83c62472983824733dbd34ba",
+      "semantic-text.header-s.style": "d64ab6edc3bff1598a6627895f8e09ab7387c74b",
+      "semantic-text.header-s.padding.top": "f3e28c668e7b27974791f685bc64ad18008392f4",
+      "semantic-text.header-s.padding.bottom": "9036374561b6f6d9dfe17127746b17c762052512",
+      "semantic-text.paragraph-l.size": "888672728456bc4592fd12d382fc6aca9b2f0708",
+      "semantic-text.paragraph-l.style": "4154c60d1689469bf59417a06becff5be58c20e7",
+      "semantic-text.paragraph-l.padding.top": "bc0f7cebd3d1ac20deaf265a438d5844f4b964dd",
+      "semantic-text.paragraph-l.padding.bottom": "de5d662fa8c8c8e80ec772005a7af38ccf5751b5",
+      "semantic-text.paragraph-m.size": "85e7e5fc34443be5c4853ce39ea3826eb8f914bc",
+      "semantic-text.paragraph-m.style": "d0404a1ff3e1b0981770bc56f44efe8049055b9e",
+      "semantic-text.paragraph-m.padding.top": "55e681e65437448356dee5607a492dce3f76c710",
+      "semantic-text.paragraph-m.padding.bottom": "bde5be0d1f8f6b0cf971f5225f532f97506b8fdc",
+      "semantic-text.paragraph-s.size": "72d7dd21bf8f596126e47f2bda1d2f469c21fa29",
+      "semantic-text.paragraph-s.style": "f72f9d3529119171f281df9c8ff75ee1050b6e9d",
+      "semantic-text.paragraph-s.padding.top": "9ff4c471073b187dc4f001a010610f65797020bc",
+      "semantic-text.paragraph-s.padding.bottom": "f302e046fb8047d9f469681c6b5cc230fb1cddea",
+      "layout.min-width": "44574f7651e6058b5e507188d9574ce019b36ade",
+      "layout.max-width": "c2903ea9fcf946363c852243f76dc9f3f9e5c8d1",
+      "layout.gap": "8751c58b621cd877feb6e30a057bf3d2089caec0",
+      "layout.padding": "63b445f27a049b9e66af362fe8f499f62d83cf85"
     },
     "group": "layout"
   },
@@ -159,9 +198,9 @@
       "layout/core": "source",
       "typography/core": "source",
       "semantic/text/typography": "enabled",
-      "semantic/text/breakpoint/desktop": "enabled"
+      "semantic/text/breakpoint/desktop": "enabled",
+      "core/size/spacing": "source"
     },
-    "group": "layout",
     "$figmaCollectionId": "VariableCollectionId:14:27",
     "$figmaModeId": "14:18",
     "$figmaVariableReferences": {
@@ -197,6 +236,7 @@
       "layout.max-width": "c2903ea9fcf946363c852243f76dc9f3f9e5c8d1",
       "layout.gap": "8751c58b621cd877feb6e30a057bf3d2089caec0",
       "layout.padding": "63b445f27a049b9e66af362fe8f499f62d83cf85"
-    }
+    },
+    "group": "layout"
   }
 ]
