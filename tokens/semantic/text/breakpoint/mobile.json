@@ -80,6 +80,26 @@
         }
       }
     },
+    "header-xs": {
+      "size": {
+        "value": "{typography.size.400}",
+        "type": "number"
+      },
+      "style": {
+        "value": "{typography.style.compact.400}",
+        "type": "number"
+      },
+      "padding": {
+        "top": {
+          "value": "{spacing.200}",
+          "type": "spacing"
+        },
+        "bottom": {
+          "value": "{spacing.100}",
+          "type": "spacing"
+        }
+      }
+    },
     "paragraph-l": {
       "size": {
         "value": "{typography.size.600}",
