@@ -2,11 +2,11 @@
   "semantic-text": {
     "header-xl": {
       "size": {
-        "value": "{typography.size.700}",
+        "value": "{typography.size.800}",
         "type": "number"
       },
       "style": {
-        "value": "{typography.style.compact.700}",
+        "value": "{typography.style.compact.800}",
         "type": "number"
       },
       "padding": {
