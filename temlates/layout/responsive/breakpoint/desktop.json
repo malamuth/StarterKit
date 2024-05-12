@@ -1,7 +1,7 @@
 {
   "layout": {
     "min-width": {
-      "value": "{max-width}",
+      "value": "{breakpoint.x-large}",
       "type": "number"
     },
     "max-width": {
