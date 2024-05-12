@@ -1,0 +1,20 @@
+{
+  "layout": {
+    "min-width": {
+      "value": "{breakpoint.large}",
+      "type": "number"
+    },
+    "max-width": {
+      "value": "{breakpoint.x-large} - 1",
+      "type": "number"
+    },
+    "gap": {
+      "value": "{spacing.250}",
+      "type": "spacing"
+    },
+    "padding": {
+      "value": "{spacing.500}",
+      "type": "spacing"
+    }
+  }
+}
