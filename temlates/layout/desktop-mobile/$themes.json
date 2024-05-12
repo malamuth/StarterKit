@@ -1,0 +1,40 @@
+[
+  {
+    "id": "463d4da6329b144274259f4376ae6143e54e1570",
+    "name": "mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/spacing": "source",
+      "layout/breakpoint/mobile": "enabled",
+      "layout/core": "source"
+    },
+    "group": "layout",
+    "$figmaCollectionId": "VariableCollectionId:9:7",
+    "$figmaModeId": "9:4",
+    "$figmaVariableReferences": {
+      "layout.min-width": "ab0ce62a38255958b19da793b783779d4efe493e",
+      "layout.max-width": "58297dce7e2f20f0ce6bbe74fa8764fda9a37fb8",
+      "layout.gap": "5e769b4752244b1ce15ff523a6f04f40cf1fb17d",
+      "layout.padding": "7d94f560dc74d0965d7699237b05e6e68d335b7f"
+    }
+  },
+  {
+    "id": "c487fd10e8614024334e3ac7e3830f3de14c9e24",
+    "name": "desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/spacing": "source",
+      "layout/breakpoint/desktop": "enabled",
+      "layout/core": "source"
+    },
+    "group": "layout",
+    "$figmaCollectionId": "VariableCollectionId:9:7",
+    "$figmaModeId": "9:5",
+    "$figmaVariableReferences": {
+      "layout.min-width": "ab0ce62a38255958b19da793b783779d4efe493e",
+      "layout.max-width": "58297dce7e2f20f0ce6bbe74fa8764fda9a37fb8",
+      "layout.gap": "5e769b4752244b1ce15ff523a6f04f40cf1fb17d",
+      "layout.padding": "7d94f560dc74d0965d7699237b05e6e68d335b7f"
+    }
+  }
+]

@@ -5,7 +5,7 @@
       "type": "number"
     },
     "max-width": {
-      "value": "{max-width}",
+      "value": "{breakpoint.medium} - 1",
       "type": "number"
     },
     "gap": {
