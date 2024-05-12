@@ -1,12 +1,23 @@
 [
   {
+    "id": "c711579e0bcb4ef576c78bd5de889cc80a303239",
+    "name": "core",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "typography/core": "enabled",
+      "typography/typography": "enabled"
+    }
+  },
+  {
     "id": "f924181723bd813e4246d68126b223fd358b00be",
     "name": "mobile",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/size/spacing": "source",
       "layout/breakpoint/mobile": "enabled",
-      "layout/core": "source"
+      "layout/core": "source",
+      "typography/core": "source",
+      "semantic/text/typography": "enabled",
+      "semantic/text/breakpoint/mobile": "enabled"
     },
     "group": "layout"
   },
@@ -15,9 +26,11 @@
     "name": "tablet-portrait",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/size/spacing": "source",
       "layout/breakpoint/tablet-portrait": "enabled",
-      "layout/core": "source"
+      "layout/core": "source",
+      "typography/core": "source",
+      "semantic/text/typography": "enabled",
+      "semantic/text/breakpoint/tablet-portrait": "enabled"
     },
     "group": "layout"
   },
@@ -26,9 +39,11 @@
     "name": "tablet landscape",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/size/spacing": "source",
       "layout/breakpoint/tablet-landscape": "enabled",
-      "layout/core": "source"
+      "layout/core": "source",
+      "typography/core": "source",
+      "semantic/text/typography": "enabled",
+      "semantic/text/breakpoint/tablet-landscape": "enabled"
     },
     "group": "layout"
   },
@@ -37,9 +52,11 @@
     "name": "desktop",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/size/spacing": "source",
       "layout/breakpoint/desktop": "enabled",
-      "layout/core": "source"
+      "layout/core": "source",
+      "typography/core": "source",
+      "semantic/text/typography": "enabled",
+      "semantic/text/breakpoint/desktop": "enabled"
     },
     "group": "layout"
   }

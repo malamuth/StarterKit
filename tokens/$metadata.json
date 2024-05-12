@@ -1,0 +1,28 @@
+{
+  "tokenSetOrder": [
+    "core/color/palette",
+    "core/size/radius",
+    "core/size/size",
+    "core/size/spacing",
+    "core/size/stroke",
+    "layout/breakpoint/desktop",
+    "layout/breakpoint/mobile",
+    "layout/breakpoint/tablet-landscape",
+    "layout/breakpoint/tablet-portrait",
+    "layout/core",
+    "semantic/background/layout",
+    "semantic/control/interaction",
+    "semantic/control/layout",
+    "semantic/image/layout",
+    "semantic/label-icon/layout",
+    "semantic/text/breakpoint/desktop",
+    "semantic/text/breakpoint/mobile",
+    "semantic/text/breakpoint/tablet-landscape",
+    "semantic/text/breakpoint/tablet-portrait",
+    "semantic/text/typography",
+    "semantic/theme/color/dark",
+    "semantic/theme/color/light",
+    "typography/core",
+    "typography/typography"
+  ]
+}
