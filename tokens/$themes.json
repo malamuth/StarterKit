@@ -1,0 +1,46 @@
+[
+  {
+    "id": "f924181723bd813e4246d68126b223fd358b00be",
+    "name": "mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/spacing": "source",
+      "layout/breakpoint/mobile": "enabled",
+      "layout/core": "source"
+    },
+    "group": "layout"
+  },
+  {
+    "id": "8f278b80ddf2be29d9382f1e3bf68f539b37fa0b",
+    "name": "tablet-portrait",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/spacing": "source",
+      "layout/breakpoint/tablet-portrait": "enabled",
+      "layout/core": "source"
+    },
+    "group": "layout"
+  },
+  {
+    "id": "9fb74aef33d52970eb236e4e1d317fe2da319c8a",
+    "name": "tablet landscape",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/spacing": "source",
+      "layout/breakpoint/tablet-landscape": "enabled",
+      "layout/core": "source"
+    },
+    "group": "layout"
+  },
+  {
+    "id": "3d0ef05e45e352f31c91354195c568c42559c67a",
+    "name": "desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/spacing": "source",
+      "layout/breakpoint/desktop": "enabled",
+      "layout/core": "source"
+    },
+    "group": "layout"
+  }
+]
