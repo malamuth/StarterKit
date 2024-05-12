@@ -102,6 +102,26 @@
     },
     "paragraph-l": {
       "size": {
+        "value": "{typography.size.600}",
+        "type": "number"
+      },
+      "style": {
+        "value": "{typography.style.text.600}",
+        "type": "number"
+      },
+      "padding": {
+        "top": {
+          "value": "{spacing.200}",
+          "type": "spacing"
+        },
+        "bottom": {
+          "value": "{spacing.100}",
+          "type": "spacing"
+        }
+      }
+    },
+    "paragraph-m": {
+      "size": {
         "value": "{typography.size.500}",
         "type": "number"
       },
@@ -120,33 +140,13 @@
         }
       }
     },
-    "paragraph-m": {
+    "paragraph-s": {
       "size": {
         "value": "{typography.size.400}",
         "type": "number"
       },
       "style": {
         "value": "{typography.style.text.400}",
-        "type": "number"
-      },
-      "padding": {
-        "top": {
-          "value": "{spacing.200}",
-          "type": "spacing"
-        },
-        "bottom": {
-          "value": "{spacing.100}",
-          "type": "spacing"
-        }
-      }
-    },
-    "paragraph-s": {
-      "size": {
-        "value": "{typography.size.300}",
-        "type": "number"
-      },
-      "style": {
-        "value": "{typography.style.text.300}",
         "type": "number"
       },
       "padding": {
