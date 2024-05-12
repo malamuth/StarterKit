@@ -1,0 +1,21 @@
+[
+  {
+    "id": "3a7a94837ea54781d9fa64bf4af52fbd73ffbd3a",
+    "name": "mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/spacing": "source",
+      "layout/breakpoint/mobile": "enabled",
+      "layout/core": "source"
+    },
+    "group": "layout",
+    "$figmaCollectionId": "VariableCollectionId:12:17",
+    "$figmaModeId": "12:8",
+    "$figmaVariableReferences": {
+      "layout.min-width": "7944f675251e48a86c7772267d746ce69f2b85e1",
+      "layout.max-width": "3c22e0f44c598402d682e58ba91701b49ae29a72",
+      "layout.gap": "b3b230e97a34a881974065b4e78e1aec9a12c9f8",
+      "layout.padding": "3abc5dda82b384279b54f7fbc71afd93b4e80273"
+    }
+  }
+]
