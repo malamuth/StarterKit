@@ -1,0 +1,59 @@
+[
+  {
+    "id": "38370b34b111df305a4c9536a401131c0829d4a9",
+    "name": "small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/spacing": "source",
+      "layout/breakpoint/small": "enabled",
+      "layout/core": "source"
+    },
+    "group": "layout",
+    "$figmaCollectionId": "VariableCollectionId:13:22",
+    "$figmaModeId": "13:12",
+    "$figmaVariableReferences": {
+      "layout.min-width": "dc61a4a2ab3942ced86b19be8c77f79887835bf9",
+      "layout.max-width": "66583b6cdf776cd0b39df5b6bec48c8d46a616df",
+      "layout.gap": "773ccdea8290d2870142e21689af3738009eecd0",
+      "layout.padding": "71a1416393c2b8c3c1af0670445cfe977af49012"
+    }
+  },
+  {
+    "id": "2bd422987a4881cb51ae68afc275db2b8e1eddd4",
+    "name": "medium",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/spacing": "source",
+      "layout/breakpoint/medium": "enabled",
+      "layout/core": "source"
+    },
+    "group": "layout",
+    "$figmaCollectionId": "VariableCollectionId:13:22",
+    "$figmaModeId": "13:13",
+    "$figmaVariableReferences": {
+      "layout.min-width": "dc61a4a2ab3942ced86b19be8c77f79887835bf9",
+      "layout.max-width": "66583b6cdf776cd0b39df5b6bec48c8d46a616df",
+      "layout.gap": "773ccdea8290d2870142e21689af3738009eecd0",
+      "layout.padding": "71a1416393c2b8c3c1af0670445cfe977af49012"
+    }
+  },
+  {
+    "id": "d9a5649f97b9e4d7bb9f8f9a9e4d8da18d98b464",
+    "name": "large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/size/spacing": "source",
+      "layout/breakpoint/large": "enabled",
+      "layout/core": "source"
+    },
+    "group": "layout",
+    "$figmaCollectionId": "VariableCollectionId:13:22",
+    "$figmaModeId": "13:14",
+    "$figmaVariableReferences": {
+      "layout.min-width": "dc61a4a2ab3942ced86b19be8c77f79887835bf9",
+      "layout.max-width": "66583b6cdf776cd0b39df5b6bec48c8d46a616df",
+      "layout.gap": "773ccdea8290d2870142e21689af3738009eecd0",
+      "layout.padding": "71a1416393c2b8c3c1af0670445cfe977af49012"
+    }
+  }
+]
