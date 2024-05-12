@@ -1,0 +1,10 @@
+{
+  "min-width": {
+    "value": "320",
+    "type": "number"
+  },
+  "max-width": {
+    "value": "1200",
+    "type": "number"
+  }
+}
