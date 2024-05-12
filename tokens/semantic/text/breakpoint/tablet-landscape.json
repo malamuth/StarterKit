@@ -1,6 +1,6 @@
 {
-  "semantic-text": {
-    "header-xl": {
+  "header": {
+    "xlarge": {
       "size": {
         "value": "{typography.size.900}",
         "type": "number"
@@ -20,7 +20,7 @@
         }
       }
     },
-    "header-l": {
+    "large": {
       "size": {
         "value": "{typography.size.800}",
         "type": "number"
@@ -40,7 +40,7 @@
         }
       }
     },
-    "header-m": {
+    "medium": {
       "size": {
         "value": "{typography.size.700}",
         "type": "number"
@@ -60,7 +60,7 @@
         }
       }
     },
-    "header-s": {
+    "small": {
       "size": {
         "value": "{typography.size.600}",
         "type": "number"
@@ -80,7 +80,7 @@
         }
       }
     },
-    "header-xs": {
+    "xsmall": {
       "size": {
         "value": "{typography.size.500}",
         "type": "number"
@@ -99,8 +99,10 @@
           "type": "spacing"
         }
       }
-    },
-    "paragraph-l": {
+    }
+  },
+  "paragraph": {
+    "large": {
       "size": {
         "value": "{typography.size.700}",
         "type": "number"
@@ -120,7 +122,7 @@
         }
       }
     },
-    "paragraph-m": {
+    "medium": {
       "size": {
         "value": "{typography.size.600}",
         "type": "number"
@@ -140,7 +142,7 @@
         }
       }
     },
-    "paragraph-s": {
+    "small": {
       "size": {
         "value": "{typography.size.500}",
         "type": "number"
