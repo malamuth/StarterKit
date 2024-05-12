@@ -1,0 +1,17 @@
+{
+  "tokenSetOrder": [
+    "core/size/spacing",
+    "layout/breakpoint/desktop",
+    "layout/breakpoint/mobile",
+    "layout/breakpoint/tablet-landscape",
+    "layout/breakpoint/tablet-portrait",
+    "layout/core",
+    "semantic/text/breakpoint/desktop",
+    "semantic/text/breakpoint/mobile",
+    "semantic/text/breakpoint/tablet-landscape",
+    "semantic/text/breakpoint/tablet-portrait",
+    "semantic/text/typography",
+    "typography/core",
+    "typography/typography"
+  ]
+}
