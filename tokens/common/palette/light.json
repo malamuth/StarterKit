@@ -1,0 +1,214 @@
+{
+  "brand": {
+    "800": {
+      "value": "#5C7700",
+      "type": "color"
+    },
+    "700": {
+      "value": "#6F8F00",
+      "type": "color"
+    },
+    "300": {
+      "value": "#C1E939",
+      "type": "color"
+    },
+    "200": {
+      "value": "#D7FF4F",
+      "type": "color"
+    },
+    "100": {
+      "value": "#F2FFC4",
+      "type": "color"
+    }
+  },
+  "goose": {
+    "999": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "950": {
+      "value": "#141316",
+      "type": "color"
+    },
+    "900": {
+      "value": "#28262C",
+      "type": "color"
+    },
+    "800": {
+      "value": "#3C3941",
+      "type": "color"
+    },
+    "700": {
+      "value": "#504C57",
+      "type": "color"
+    },
+    "600": {
+      "value": "#645F6D",
+      "type": "color"
+    },
+    "500": {
+      "value": "#787283",
+      "type": "color"
+    },
+    "400": {
+      "value": "#8C8797",
+      "type": "color"
+    },
+    "300": {
+      "value": "#A19DAA",
+      "type": "color"
+    },
+    "200": {
+      "value": "#B6B3BD",
+      "type": "color"
+    },
+    "150": {
+      "value": "#CBC8D0",
+      "type": "color"
+    },
+    "100": {
+      "value": "#E0DEE3",
+      "type": "color"
+    },
+    "50": {
+      "value": "#F5F4F6",
+      "type": "color"
+    },
+    "0": {
+      "value": "#FFFFFF",
+      "type": "color"
+    }
+  },
+  "negroni": {
+    "800": {
+      "value": "#FF1748",
+      "type": "color"
+    },
+    "700": {
+      "value": "#FF345F",
+      "type": "color"
+    },
+    "300": {
+      "value": "#FFB0C1",
+      "type": "color"
+    },
+    "200": {
+      "value": "#FFD0DA",
+      "type": "color"
+    },
+    "100": {
+      "value": "#FFF0F3",
+      "type": "color"
+    }
+  },
+  "aperol": {
+    "800": {
+      "value": "#CF3D00",
+      "type": "color"
+    },
+    "700": {
+      "value": "#EC4D0B",
+      "type": "color"
+    },
+    "300": {
+      "value": "#FFB89A",
+      "type": "color"
+    },
+    "200": {
+      "value": "#FFD4C3",
+      "type": "color"
+    },
+    "100": {
+      "value": "#FFF1EB",
+      "type": "color"
+    }
+  },
+  "prosecco": {
+    "800": {
+      "value": "#816500",
+      "type": "color"
+    },
+    "700": {
+      "value": "#9A7900",
+      "type": "color"
+    },
+    "300": {
+      "value": "#FBCE2B",
+      "type": "color"
+    },
+    "200": {
+      "value": "#FFE279",
+      "type": "color"
+    },
+    "100": {
+      "value": "#FFF5D3",
+      "type": "color"
+    }
+  },
+  "absinthe": {
+    "800": {
+      "value": "#24835B",
+      "type": "color"
+    },
+    "700": {
+      "value": "#38976F",
+      "type": "color"
+    },
+    "300": {
+      "value": "#8CEBC3",
+      "type": "color"
+    },
+    "200": {
+      "value": "#A3FFD8",
+      "type": "color"
+    },
+    "100": {
+      "value": "#E1FFF2",
+      "type": "color"
+    }
+  },
+  "curacao": {
+    "800": {
+      "value": "#4355FF",
+      "type": "color"
+    },
+    "700": {
+      "value": "#5A6AFF",
+      "type": "color"
+    },
+    "300": {
+      "value": "#BFC5FF",
+      "type": "color"
+    },
+    "200": {
+      "value": "#D9DCFF",
+      "type": "color"
+    },
+    "100": {
+      "value": "#F2F4FF",
+      "type": "color"
+    }
+  },
+  "aviation": {
+    "800": {
+      "value": "#A328E7",
+      "type": "color"
+    },
+    "700": {
+      "value": "#B73CFB",
+      "type": "color"
+    },
+    "300": {
+      "value": "#E4B3FF",
+      "type": "color"
+    },
+    "200": {
+      "value": "#EFD1FF",
+      "type": "color"
+    },
+    "100": {
+      "value": "#FAF0FF",
+      "type": "color"
+    }
+  }
+}

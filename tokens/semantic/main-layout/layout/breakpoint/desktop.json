@@ -1,0 +1,28 @@
+{
+  "main-layout": {
+    "min-width": {
+      "value": "{layout.breakpoint.xl}",
+      "type": "number"
+    },
+    "max-width": {
+      "value": "{layout.max-width}",
+      "type": "number"
+    },
+    "width": {
+      "value": "{main-layout.min-width}",
+      "type": "number"
+    },
+    "height": {
+      "value": 800,
+      "type": "number"
+    },
+    "gutter": {
+      "value": "{layout.spacing.450}",
+      "type": "number"
+    },
+    "margin-horizontal": {
+      "value": "{layout.spacing.700}",
+      "type": "number"
+    }
+  }
+}

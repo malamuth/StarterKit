@@ -1,0 +1,30 @@
+{
+  "layout": {
+    "min-width": {
+      "value": "320",
+      "type": "number"
+    },
+    "max-width": {
+      "value": "1920",
+      "type": "number"
+    },
+    "breakpoint": {
+      "sm": {
+        "value": "576",
+        "type": "number"
+      },
+      "md": {
+        "value": "768",
+        "type": "number"
+      },
+      "lg": {
+        "value": "992",
+        "type": "number"
+      },
+      "xl": {
+        "value": "1200",
+        "type": "number"
+      }
+    }
+  }
+}
