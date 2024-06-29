@@ -1,0 +1,26 @@
+{
+  "tokenSetOrder": [
+    "common/layout/layout",
+    "common/opacity/opacity",
+    "common/palette/dark",
+    "common/palette/light",
+    "common/radius/radius",
+    "common/size/size",
+    "common/spacing/spacing",
+    "common/theme/dark",
+    "common/theme/light",
+    "common/typography/typography",
+    "semantic/main-layout/layout/breakpoint/desktop",
+    "semantic/main-layout/layout/breakpoint/mobile",
+    "semantic/main-layout/layout/breakpoint/tablet-landscape",
+    "semantic/main-layout/layout/breakpoint/tablet-portrait",
+    "semantic/text/layout/breakpoint/desktop",
+    "semantic/text/layout/breakpoint/mobile",
+    "semantic/text/layout/breakpoint/tablet-landscape",
+    "semantic/text/layout/breakpoint/tablet-portrait",
+    "semantic/text/typography/desktop",
+    "semantic/text/typography/mobile",
+    "semantic/text/typography/tablet-landscape",
+    "semantic/text/typography/tablet-portrait"
+  ]
+}

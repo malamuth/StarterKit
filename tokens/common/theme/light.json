@@ -152,7 +152,8 @@
       "value": "rgba({goose.0}, {opacity.overlay.light})",
       "type": "color"
     },
-    "value": "rgba({goose.999}, {opacity.overlay.light})"
+    "value": "rgba({goose.999}, {opacity.overlay.light})",
+    "type": "other"
   },
   "border": {
     "neutral-high": {

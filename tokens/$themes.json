@@ -1,0 +1,38 @@
+[
+  {
+    "id": "920b7483b690681c7f058ff2041afc71acdd2d3b",
+    "name": "mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/layout/layout": "source",
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/typography/typography": "enabled",
+      "semantic/main-layout/layout/breakpoint/mobile": "enabled",
+      "semantic/text/layout/breakpoint/mobile": "enabled",
+      "semantic/text/typography/mobile": "enabled"
+    },
+    "group": "layout"
+  },
+  {
+    "id": "8bbe160eb3c49e0cfc2aeae5806f88508c6c2089",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/palette/light": "enabled",
+      "common/theme/light": "enabled"
+    },
+    "group": "theme"
+  },
+  {
+    "id": "e54654e8cee561c77435eed637ecc7548ff0d04b",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/palette/dark": "enabled",
+      "common/theme/dark": "enabled"
+    },
+    "group": "theme"
+  }
+]
