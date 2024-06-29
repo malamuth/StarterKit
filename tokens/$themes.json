@@ -10,10 +10,9 @@
       "common/spacing/spacing": "enabled",
       "common/typography/typography": "enabled",
       "semantic/main-layout/layout/breakpoint/mobile": "enabled",
-      "semantic/text/layout/breakpoint/mobile": "enabled",
-      "semantic/text/typography/mobile": "enabled"
+      "semantic/semantic-text/layout/breakpoint/mobile": "enabled",
+      "semantic/semantic-text/typography/mobile": "enabled"
     },
-    "group": "layout",
     "$figmaCollectionId": "VariableCollectionId:4882:5014",
     "$figmaModeId": "4882:1",
     "$figmaVariableReferences": {
@@ -177,7 +176,8 @@
       "radius.600": "95fdb4d7341750f9231ac0628d163587290a74b8",
       "radius.700": "42dde86de6bf5ee951faf6deef27a2bb6b117cb2",
       "radius.999": "099b38495388014efa5117e95edabe3bd423d33c"
-    }
+    },
+    "group": "layout"
   },
   {
     "id": "8bbe160eb3c49e0cfc2aeae5806f88508c6c2089",
