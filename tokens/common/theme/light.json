@@ -95,7 +95,7 @@
       "type": "color"
     },
     "brand-low": {
-      "value": "{goose.100}",
+      "value": "{brand.100}",
       "type": "color"
     },
     "positive-low": {
