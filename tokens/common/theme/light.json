@@ -49,23 +49,23 @@
       "type": "color"
     },
     "neutral-tertiary": {
-      "value": "{goose.500}",
+      "value": "{goose.300}",
       "type": "color"
     },
     "brand-tertiary": {
-      "value": "{brand.500}",
+      "value": "{brand.300}",
       "type": "color"
     },
     "positive-tertiary": {
-      "value": "{absinthe.500}",
+      "value": "{absinthe.300}",
       "type": "color"
     },
     "warning-tertiary": {
-      "value": "{prosecco.500}",
+      "value": "{prosecco.300}",
       "type": "color"
     },
     "negative-tertiary": {
-      "value": "{negroni.500}",
+      "value": "{negroni.300}",
       "type": "color"
     },
     "static-light-primary": {
