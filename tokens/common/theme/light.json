@@ -68,6 +68,10 @@
       "value": "{negroni.400}",
       "type": "color"
     },
+    "info-tertiary": {
+      "value": "{curacao.400}",
+      "type": "color"
+    },
     "static-light-primary": {
       "value": "{goose.0}",
       "type": "color"
