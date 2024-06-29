@@ -1,47 +1,47 @@
 {
   "content": {
     "neutral-primary": {
-      "value": "{goose.950}",
-      "type": "color"
-    },
-    "neutral-secondary": {
-      "value": "{goose.700}",
+      "value": "{goose.999}",
       "type": "color"
     },
     "brand-primary": {
       "value": "{brand.800}",
       "type": "color"
     },
-    "brand-secondary": {
-      "value": "{brand.700}",
-      "type": "color"
-    },
     "positive-primary": {
       "value": "{absinthe.800}",
-      "type": "color"
-    },
-    "positive-secondary": {
-      "value": "{absinthe.700}",
       "type": "color"
     },
     "warning-primary": {
       "value": "{prosecco.800}",
       "type": "color"
     },
-    "warning-secondary": {
-      "value": "{prosecco.700}",
-      "type": "color"
-    },
     "negative-primary": {
       "value": "{negroni.800}",
       "type": "color"
     },
-    "negative-secondary": {
-      "value": "{negroni.700}",
-      "type": "color"
-    },
     "info-primary": {
       "value": "{curacao.800}",
+      "type": "color"
+    },
+    "neutral-secondary": {
+      "value": "{goose.800}",
+      "type": "color"
+    },
+    "brand-secondary": {
+      "value": "{brand.700}",
+      "type": "color"
+    },
+    "positive-secondary": {
+      "value": "{absinthe.700}",
+      "type": "color"
+    },
+    "warning-secondary": {
+      "value": "{prosecco.700}",
+      "type": "color"
+    },
+    "negative-secondary": {
+      "value": "{negroni.700}",
       "type": "color"
     },
     "info-secondary": {
@@ -53,7 +53,7 @@
       "type": "color"
     },
     "static-light-secondary": {
-      "value": "rgba({goose.0}, 0.6)",
+      "value": "rgba({goose.0}, {opacity.content.secondary.light})",
       "type": "color"
     },
     "static-dark-primary": {
@@ -61,33 +61,33 @@
       "type": "color"
     },
     "static-dark-secondary": {
-      "value": "rgba({goose.999}, 0.6)",
+      "value": "rgba({goose.999}, {opacity.content.secondary.light})",
       "type": "color"
     }
   },
   "background": {
     "neutral-high": {
-      "value": "{goose.500}",
+      "value": "{goose.900}",
       "type": "color"
     },
     "brand-high": {
-      "value": "{brand.700}",
+      "value": "{brand.500}",
       "type": "color"
     },
     "positive-high": {
-      "value": "{absinthe.700}",
+      "value": "{absinthe.500}",
       "type": "color"
     },
     "warning-high": {
-      "value": "{prosecco.700}",
+      "value": "{prosecco.500}",
       "type": "color"
     },
     "negative-high": {
-      "value": "{negroni.700}",
+      "value": "{negroni.500}",
       "type": "color"
     },
     "info-high": {
-      "value": "{curacao.700}",
+      "value": "{curacao.500}",
       "type": "color"
     },
     "neutral-low": {
@@ -95,27 +95,27 @@
       "type": "color"
     },
     "brand-low": {
-      "value": "{goose.200}",
+      "value": "{goose.100}",
       "type": "color"
     },
     "positive-low": {
-      "value": "{absinthe.200}",
+      "value": "{absinthe.100}",
       "type": "color"
     },
     "warning-low": {
-      "value": "{prosecco.200}",
+      "value": "{prosecco.100}",
       "type": "color"
     },
     "negative-low": {
-      "value": "{negroni.200}",
+      "value": "{negroni.100}",
       "type": "color"
     },
     "info-low": {
-      "value": "{curacao.200}",
+      "value": "{curacao.100}",
       "type": "color"
     },
     "static-light-high": {
-      "value": "{goose.000}",
+      "value": "{goose.0}",
       "type": "color"
     },
     "static-dark-high": {
@@ -123,31 +123,58 @@
       "type": "color"
     }
   },
+  "overlay": {
+    "neutral": {
+      "value": "rgba({goose.500}, {opacity.overlay.light})",
+      "type": "color"
+    },
+    "brand": {
+      "value": "rgba({brand.500}, {opacity.overlay.light})",
+      "type": "color"
+    },
+    "positive": {
+      "value": "rgba({absinthe.500}, {opacity.overlay.light})",
+      "type": "color"
+    },
+    "warning": {
+      "value": "rgba({prosecco.500}, {opacity.overlay.light})",
+      "type": "color"
+    },
+    "negative": {
+      "value": "rgba({negroni.500}, {opacity.overlay.light})",
+      "type": "color"
+    },
+    "info": {
+      "value": "rgba({curacao.500}, {opacity.overlay.light})",
+      "type": "color"
+    },
+    "static-light": {
+      "value": "rgba({goose.0}, {opacity.overlay.light})",
+      "type": "color"
+    },
+    "value": "rgba({goose.999}, {opacity.overlay.light})"
+  },
   "border": {
     "neutral-high": {
-      "value": "rgba({goose.000}, 0.08)",
+      "value": "rgba({goose.999}, 0.08)",
       "type": "color"
     },
     "neutral-mid": {
-      "value": "rgba({goose.000}, 0.04)",
+      "value": "rgba({goose.999}, 0.04)",
       "type": "color"
     },
     "neutral-low": {
-      "value": "rgba({goose.000}, 0.02)",
+      "value": "rgba({goose.999}, 0.02)",
       "type": "color"
     }
   },
   "layer": {
     "floor-0": {
-      "value": "{goose.000}",
+      "value": "{goose.0}",
       "type": "color"
     },
     "floor-1": {
-      "value": "{goose.000}",
-      "type": "color"
-    },
-    "overlay": {
-      "value": "rgba({goose.999}, 0.4)",
+      "value": "{goose.0}",
       "type": "color"
     }
   }

@@ -1,0 +1,26 @@
+{
+  "opacity": {
+    "content": {
+      "secondary": {
+        "light": {
+          "value": "0.6",
+          "type": "opacity"
+        },
+        "dark": {
+          "value": "0.6",
+          "type": "opacity"
+        }
+      }
+    },
+    "overlay": {
+      "light": {
+        "value": "0.24",
+        "type": "opacity"
+      },
+      "dark": {
+        "value": "0.16",
+        "type": "opacity"
+      }
+    }
+  }
+}
