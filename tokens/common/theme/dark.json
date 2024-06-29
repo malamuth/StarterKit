@@ -157,15 +157,15 @@
   },
   "border": {
     "neutral-high": {
-      "value": "rgba({goose.0}, 0.08)",
+      "value": "rgba({goose.0}, 0.16)",
       "type": "color"
     },
     "neutral-mid": {
-      "value": "rgba({goose.0}, 0.04)",
+      "value": "rgba({goose.0}, 0.08)",
       "type": "color"
     },
     "neutral-low": {
-      "value": "rgba({goose.0}, 0.02)",
+      "value": "rgba({goose.0}, 0.04)",
       "type": "color"
     }
   },
