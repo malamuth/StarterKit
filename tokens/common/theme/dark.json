@@ -25,27 +25,27 @@
       "type": "color"
     },
     "neutral-secondary": {
-      "value": "{goose.300}",
+      "value": "{goose.400}",
       "type": "color"
     },
     "brand-secondary": {
-      "value": "{brand.300}",
+      "value": "{brand.400}",
       "type": "color"
     },
     "positive-secondary": {
-      "value": "{absinthe.300}",
+      "value": "{absinthe.400}",
       "type": "color"
     },
     "warning-secondary": {
-      "value": "{prosecco.300}",
+      "value": "{prosecco.400}",
       "type": "color"
     },
     "negative-secondary": {
-      "value": "{negroni.300}",
+      "value": "{negroni.400}",
       "type": "color"
     },
     "info-secondary": {
-      "value": "{curacao.300}",
+      "value": "{curacao.400}",
       "type": "color"
     },
     "static-light-primary": {
