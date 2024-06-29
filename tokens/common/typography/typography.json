@@ -172,7 +172,7 @@
     },
     "font-weight": {
       "default": {
-        "value": 400,
+        "value": 500,
         "type": "number"
       },
       "accent": {
