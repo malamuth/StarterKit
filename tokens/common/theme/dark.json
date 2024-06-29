@@ -48,6 +48,30 @@
       "value": "{curacao.400}",
       "type": "color"
     },
+    "neutral-tertiary": {
+      "value": "{goose.500}",
+      "type": "color"
+    },
+    "brand-tertiary": {
+      "value": "{brand.500}",
+      "type": "color"
+    },
+    "positive-tertiary": {
+      "value": "{absinthe.500}",
+      "type": "color"
+    },
+    "warning-tertiary": {
+      "value": "{prosecco.500}",
+      "type": "color"
+    },
+    "negative-tertiary": {
+      "value": "{negroni.500}",
+      "type": "color"
+    },
+    "info-tertiary": {
+      "value": "{curacao.400}",
+      "type": "color"
+    },
     "static-light-primary": {
       "value": "{goose.0}",
       "type": "color"
