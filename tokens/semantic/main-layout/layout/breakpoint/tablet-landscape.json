@@ -17,11 +17,11 @@
       "type": "number"
     },
     "gutter": {
-      "value": "{layout.spacing.400}",
+      "value": "{spacing.400}",
       "type": "number"
     },
     "margin-horizontal": {
-      "value": "{layout.spacing.650}",
+      "value": "{spacing.650}",
       "type": "number"
     }
   }
