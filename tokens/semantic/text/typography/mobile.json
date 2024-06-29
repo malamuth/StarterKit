@@ -1,7 +1,7 @@
 {
   "text": {
     "header": {
-      "xl": {
+      "x-large": {
         "font": {
           "value": "{typography.font.brand}",
           "type": "text"
@@ -19,7 +19,7 @@
           "type": "number"
         }
       },
-      "lg": {
+      "large": {
         "font": {
           "value": "{typography.font.brand}",
           "type": "text"
@@ -37,7 +37,7 @@
           "type": "number"
         }
       },
-      "md": {
+      "medium": {
         "font": {
           "value": "{typography.font.brand}",
           "type": "text"
@@ -55,7 +55,7 @@
           "type": "number"
         }
       },
-      "sm": {
+      "small": {
         "font": {
           "value": "{typography.font.brand}",
           "type": "text"
@@ -73,7 +73,7 @@
           "type": "number"
         }
       },
-      "xs": {
+      "x-small": {
         "font": {
           "value": "{typography.font.brand}",
           "type": "text"
@@ -93,7 +93,7 @@
       }
     },
     "paragraph": {
-      "lg": {
+      "large": {
         "font": {
           "value": "{typography.font.brand}",
           "type": "text"
@@ -111,7 +111,7 @@
           "type": "number"
         }
       },
-      "md": {
+      "medium": {
         "font": {
           "value": "{typography.font.brand}",
           "type": "text"
@@ -129,7 +129,7 @@
           "type": "number"
         }
       },
-      "sm": {
+      "small": {
         "font": {
           "value": "{typography.font.brand}",
           "type": "text"
