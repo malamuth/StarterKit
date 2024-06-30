@@ -175,6 +175,10 @@
     "static-light": {
       "value": "rgba({goose.0}, {opacity.overlay.light})",
       "type": "color"
+    },
+    "static-dark": {
+      "value": "rgba({goose.999}, {opacity.overlay.dark})",
+      "type": "color"
     }
   },
   "border": {
