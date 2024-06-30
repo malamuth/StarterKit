@@ -7,9 +7,11 @@
     "common/radius/radius",
     "common/size/size",
     "common/spacing/spacing",
+    "common/stroke/stroke",
     "common/theme/dark",
     "common/theme/light",
     "common/typography/typography",
+    "semantic/control/layout",
     "semantic/main-layout/layout/breakpoint/desktop",
     "semantic/main-layout/layout/breakpoint/mobile",
     "semantic/main-layout/layout/breakpoint/tablet-landscape",
@@ -23,8 +25,6 @@
     "semantic/semantic-text/typography/tablet-landscape",
     "semantic/semantic-text/typography/tablet-portrait",
     "component/button/theme/dark",
-    "component/button/theme/light",
-    "common/stroke/stroke",
-    "semantic/control/layout"
+    "component/button/theme/light"
   ]
 }
