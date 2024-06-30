@@ -185,7 +185,8 @@
     "selectedTokenSets": {
       "common/palette/light": "enabled",
       "common/theme/light": "enabled",
-      "common/opacity/opacity": "source"
+      "common/opacity/opacity": "source",
+      "component/button/theme/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4882:5175",
     "$figmaModeId": "4882:2",
@@ -291,7 +292,8 @@
     "selectedTokenSets": {
       "common/palette/dark": "enabled",
       "common/theme/dark": "enabled",
-      "common/opacity/opacity": "source"
+      "common/opacity/opacity": "source",
+      "component/button/theme/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4882:5175",
     "$figmaModeId": "4882:3",

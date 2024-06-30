@@ -21,6 +21,8 @@
     "semantic/semantic-text/typography/desktop",
     "semantic/semantic-text/typography/mobile",
     "semantic/semantic-text/typography/tablet-landscape",
-    "semantic/semantic-text/typography/tablet-portrait"
+    "semantic/semantic-text/typography/tablet-portrait",
+    "component/button/theme/dark",
+    "component/button/theme/light"
   ]
 }
