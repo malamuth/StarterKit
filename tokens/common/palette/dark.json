@@ -63,23 +63,23 @@
       "type": "color"
     },
     "600": {
-      "value": "#676767",
+      "value": "#5F5E61",
       "type": "color"
     },
     "700": {
-      "value": "#4A4A4A",
+      "value": "#424146",
       "type": "color"
     },
     "800": {
-      "value": "#343434",
+      "value": "#2D2C33",
       "type": "color"
     },
     "900": {
-      "value": "#222222",
+      "value": "#1C1B20",
       "type": "color"
     },
     "999": {
-      "value": "#000000",
+      "value": "#111014",
       "type": "color"
     }
   },
