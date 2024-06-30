@@ -1,0 +1,12 @@
+{
+  "stroke": {
+    "100": {
+      "value": "1",
+      "type": "number"
+    },
+    "200": {
+      "value": "2",
+      "type": "number"
+    }
+  }
+}
