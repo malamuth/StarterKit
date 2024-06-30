@@ -10,7 +10,8 @@
       "common/spacing/spacing": "enabled",
       "common/typography/typography": "enabled",
       "semantic/main-layout/layout/breakpoint/mobile": "enabled",
-      "semantic/semantic-text/layout/breakpoint/mobile": "enabled"
+      "semantic/semantic-text/layout/breakpoint/mobile": "enabled",
+      "common/stroke/stroke": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4882:5014",
     "$figmaModeId": "4882:1",
