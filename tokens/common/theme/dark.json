@@ -181,15 +181,15 @@
   },
   "border": {
     "neutral-high": {
-      "value": "rgba({goose.0}, 0.16)",
+      "value": "rgba({goose.0}, {opacity.border.primary.dark})",
       "type": "color"
     },
-    "neutral-mid": {
-      "value": "rgba({goose.0}, 0.08)",
+    "neutral-secondary": {
+      "value": "rgba({goose.0}, {opacity.border.secondary.dark})",
       "type": "color"
     },
-    "neutral-low": {
-      "value": "rgba({goose.0}, 0.04)",
+    "neutral-tertiary": {
+      "value": "rgba({goose.0}, {opacity.border.tertiary.dark})",
       "type": "color"
     }
   },

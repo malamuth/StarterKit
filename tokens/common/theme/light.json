@@ -180,16 +180,16 @@
     "type": "other"
   },
   "border": {
-    "neutral-high": {
-      "value": "rgba({goose.999}, 0.08)",
+    "neutral-primary": {
+      "value": "rgba({goose.999}, {opacity.border.primary.light})",
       "type": "color"
     },
-    "neutral-mid": {
-      "value": "rgba({goose.999}, 0.04)",
+    "neutral-secondary": {
+      "value": "rgba({goose.999}, {opacity.border.secondary.light})",
       "type": "color"
     },
-    "neutral-low": {
-      "value": "rgba({goose.999}, 0.02)",
+    "neutral-tertiary": {
+      "value": "rgba({goose.999}, {opacity.border.tertiary.light})",
       "type": "color"
     }
   },

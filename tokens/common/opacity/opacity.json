@@ -21,6 +21,38 @@
         "value": "0.16",
         "type": "opacity"
       }
+    },
+    "border": {
+      "primary": {
+        "light": {
+          "value": "0.16",
+          "type": "opacity"
+        },
+        "dark": {
+          "value": "0.08",
+          "type": "opacity"
+        }
+      },
+      "secondary": {
+        "light": {
+          "value": "0.08",
+          "type": "opacity"
+        },
+        "dark": {
+          "value": "0.04",
+          "type": "opacity"
+        }
+      },
+      "tertiary": {
+        "light": {
+          "value": "0.04",
+          "type": "opacity"
+        },
+        "dark": {
+          "value": "0.02",
+          "type": "opacity"
+        }
+      }
     }
   }
 }
