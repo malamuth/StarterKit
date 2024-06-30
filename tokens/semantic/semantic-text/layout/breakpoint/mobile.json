@@ -4,7 +4,7 @@
       "x-large": {
         "padding": {
           "top": {
-            "value": "{spacing.200}",
+            "value": "{spacing.400}",
             "type": "spacing"
           },
           "bottom": {
@@ -16,7 +16,7 @@
       "large": {
         "padding": {
           "top": {
-            "value": "{spacing.200}",
+            "value": "{spacing.350}",
             "type": "spacing"
           },
           "bottom": {
@@ -28,7 +28,7 @@
       "medium": {
         "padding": {
           "top": {
-            "value": "{spacing.200}",
+            "value": "{spacing.300}",
             "type": "spacing"
           },
           "bottom": {
