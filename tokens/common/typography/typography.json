@@ -171,6 +171,10 @@
       }
     },
     "font-weight": {
+      "light": {
+        "value": 100,
+        "type": "number"
+      },
       "default": {
         "value": 500,
         "type": "number"
