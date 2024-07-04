@@ -20,6 +20,10 @@
       "dark": {
         "value": "0.04",
         "type": "opacity"
+      },
+      "static": {
+        "value": "0.40",
+        "type": "opacity"
       }
     },
     "border": {

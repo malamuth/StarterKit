@@ -173,11 +173,11 @@
       "type": "color"
     },
     "static-light": {
-      "value": "rgba({goose.0}, {opacity.overlay.dark})",
+      "value": "rgba({goose.0}, {opacity.overlay.static})",
       "type": "color"
     },
     "static-dark": {
-      "value": "rgba({goose.999}, {opacity.overlay.dark})",
+      "value": "rgba({goose.999}, {opacity.overlay.static})",
       "type": "color"
     }
   },
