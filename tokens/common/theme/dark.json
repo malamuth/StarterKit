@@ -193,6 +193,10 @@
     "neutral-tertiary": {
       "value": "rgba({goose.0}, {opacity.border.tertiary.dark})",
       "type": "color"
+    },
+    "brand-primary": {
+      "value": "{brand.500}",
+      "type": "color"
     }
   },
   "layer": {
