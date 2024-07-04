@@ -14,11 +14,11 @@
     },
     "overlay": {
       "light": {
-        "value": "0.16",
+        "value": "0.12",
         "type": "opacity"
       },
       "dark": {
-        "value": "0.08",
+        "value": "0.04",
         "type": "opacity"
       }
     },
