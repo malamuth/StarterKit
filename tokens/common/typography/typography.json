@@ -2,7 +2,7 @@
   "typography": {
     "font": {
       "brand": {
-        "value": "Onest",
+        "value": "{style.font.brand}",
         "type": "text"
       }
     },
@@ -172,17 +172,14 @@
     },
     "font-weight": {
       "light": {
-        "value": 100,
+        "value": "{style.font-weight.light}",
         "type": "number"
       },
       "default": {
-        "value": 500,
+        "value": "{style.font-weight.default}",
         "type": "number"
       },
-      "accent": {
-        "value": 600,
-        "type": "number"
-      }
+      "value": "{style.font-weight.accent}"
     },
     "paragraph-spacing": {
       "0": {

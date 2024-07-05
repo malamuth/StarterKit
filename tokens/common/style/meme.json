@@ -1,0 +1,24 @@
+{
+  "style": {
+    "font": {
+      "brand": {
+        "value": "Finger Paint",
+        "type": "text"
+      }
+    },
+    "font-weight": {
+      "light": {
+        "value": 400,
+        "type": "number"
+      },
+      "default": {
+        "value": 400,
+        "type": "number"
+      },
+      "accent": {
+        "value": 400,
+        "type": "number"
+      }
+    }
+  }
+}
