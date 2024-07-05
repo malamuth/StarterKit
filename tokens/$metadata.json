@@ -10,6 +10,8 @@
     "common/stroke/stroke",
     "common/theme/dark",
     "common/theme/light",
+    "common/style/default",
+    "common/style/meme",
     "common/typography/typography",
     "semantic/control/layout",
     "semantic/main-layout/layout/breakpoint/desktop",
@@ -25,8 +27,6 @@
     "semantic/semantic-text/typography/tablet-landscape",
     "semantic/semantic-text/typography/tablet-portrait",
     "component/button/theme/dark",
-    "component/button/theme/light",
-    "common/style/default",
-    "common/style/meme"
+    "component/button/theme/light"
   ]
 }
