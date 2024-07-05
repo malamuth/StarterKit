@@ -392,5 +392,23 @@
       "curacao.900": "c837908e01705239fe2e5258c05f9c22281d58fc"
     },
     "group": "theme"
+  },
+  {
+    "id": "d079b8cb8e42dddfd68b2e89aafd59cce622b614",
+    "name": "default",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/style/default": "enabled"
+    },
+    "group": "style"
+  },
+  {
+    "id": "2e8aac2b2afbc05dcf754c2eb5687abf37b099a4",
+    "name": "meme",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/style/meme": "enabled"
+    },
+    "group": "style"
   }
 ]

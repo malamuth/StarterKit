@@ -179,7 +179,8 @@
         "value": "{style.font-weight.default}",
         "type": "number"
       },
-      "value": "{style.font-weight.accent}"
+      "value": "{style.font-weight.accent}",
+      "type": "typography"
     },
     "paragraph-spacing": {
       "0": {

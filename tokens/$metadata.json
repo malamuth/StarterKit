@@ -25,6 +25,8 @@
     "semantic/semantic-text/typography/tablet-landscape",
     "semantic/semantic-text/typography/tablet-portrait",
     "component/button/theme/dark",
-    "component/button/theme/light"
+    "component/button/theme/light",
+    "common/style/default",
+    "common/style/meme"
   ]
 }
