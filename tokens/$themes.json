@@ -11,7 +11,8 @@
       "common/typography/typography": "enabled",
       "semantic/main-layout/layout/breakpoint/mobile": "enabled",
       "semantic/semantic-text/layout/breakpoint/mobile": "enabled",
-      "common/stroke/stroke": "enabled"
+      "common/stroke/stroke": "enabled",
+      "semantic/label-icon/layout": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4882:5014",
     "$figmaModeId": "4882:1",
