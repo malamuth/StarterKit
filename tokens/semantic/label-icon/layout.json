@@ -1,40 +1,6 @@
 {
   "label-icon": {
-    "100": {
-      "padding": {
-        "value": "{spacing.050}",
-        "type": "number"
-      },
-      "margin": {
-        "value": "{spacing.100}",
-        "type": "number"
-      },
-      "gap": {
-        "value": "{spacing.050}",
-        "type": "number"
-      },
-      "label-compensation-top": {
-        "value": "{compensation.label.100.top}",
-        "type": "number"
-      },
-      "label-compensation-bottom": {
-        "value": "{compensation.label.100.bottom}",
-        "type": "number"
-      }
-    },
     "150": {
-      "padding": {
-        "value": "{spacing.050}",
-        "type": "sizing"
-      },
-      "margin": {
-        "value": "{spacing.100}",
-        "type": "sizing"
-      },
-      "gap": {
-        "value": "{spacing.050}",
-        "type": "sizing"
-      },
       "label-compensation-top": {
         "value": "{compensation.label.150.top}",
         "type": "number"
@@ -45,18 +11,6 @@
       }
     },
     "200": {
-      "padding": {
-        "value": "{spacing.050}",
-        "type": "sizing"
-      },
-      "margin": {
-        "value": "{spacing.100}",
-        "type": "sizing"
-      },
-      "gap": {
-        "value": "{spacing.050}",
-        "type": "sizing"
-      },
       "label-compensation-top": {
         "value": "{compensation.label.200.top}",
         "type": "number"
@@ -66,19 +20,17 @@
         "type": "number"
       }
     },
+    "250": {
+      "label-compensation-top": {
+        "value": "{compensation.label.250.top}",
+        "type": "number"
+      },
+      "label-compensation-bottom": {
+        "value": "{compensation.label.250.bottom}",
+        "type": "number"
+      }
+    },
     "300": {
-      "padding": {
-        "value": "{spacing.100}",
-        "type": "sizing"
-      },
-      "margin": {
-        "value": "{spacing.200}",
-        "type": "sizing"
-      },
-      "gap": {
-        "value": "{spacing.100}",
-        "type": "sizing"
-      },
       "label-compensation-top": {
         "value": "{compensation.label.300.top}",
         "type": "number"
@@ -88,91 +40,23 @@
         "type": "number"
       }
     },
+    "350": {
+      "label-compensation-top": {
+        "value": "{compensation.label.350.top}",
+        "type": "number"
+      },
+      "label-compensation-bottom": {
+        "value": "{compensation.label.350.bottom}",
+        "type": "number"
+      }
+    },
     "400": {
-      "padding": {
-        "value": "{spacing.200}",
-        "type": "sizing"
-      },
-      "margin": {
-        "value": "{spacing.150}",
-        "type": "sizing"
-      },
-      "gap": {
-        "value": "{spacing.150}",
-        "type": "sizing"
-      },
       "label-compensation-top": {
         "value": "{compensation.label.400.top}",
         "type": "number"
       },
       "label-compensation-bottom": {
         "value": "{compensation.label.400.bottom}",
-        "type": "number"
-      }
-    },
-    "500": {
-      "padding": {
-        "value": "{spacing.200}",
-        "type": "sizing"
-      },
-      "margin": {
-        "value": "{spacing.300}",
-        "type": "sizing"
-      },
-      "gap": {
-        "value": "{spacing.200}",
-        "type": "sizing"
-      },
-      "label-compensation-top": {
-        "value": "{compensation.label.500.top}",
-        "type": "number"
-      },
-      "label-compensation-bottom": {
-        "value": "{compensation.label.500.bottom}",
-        "type": "number"
-      }
-    },
-    "600": {
-      "padding": {
-        "value": "{spacing.250}",
-        "type": "sizing"
-      },
-      "margin": {
-        "value": "{spacing.300}",
-        "type": "sizing"
-      },
-      "gap": {
-        "value": "{spacing.200}",
-        "type": "sizing"
-      },
-      "label-compensation-top": {
-        "value": "{compensation.label.600.top}",
-        "type": "number"
-      },
-      "label-compensation-bottom": {
-        "value": "{compensation.label.600.bottom}",
-        "type": "number"
-      }
-    },
-    "700": {
-      "padding": {
-        "value": "{spacing.250}",
-        "type": "sizing"
-      },
-      "margin": {
-        "value": "{spacing.400}",
-        "type": "sizing"
-      },
-      "gap": {
-        "value": "{spacing.200}",
-        "type": "sizing"
-      },
-      "label-compensation-top": {
-        "value": "{compensation.label.700.top}",
-        "type": "number"
-      },
-      "label-compensation-bottom": {
-        "value": "{compensation.label.700.bottom}",
         "type": "number"
       }
     }
