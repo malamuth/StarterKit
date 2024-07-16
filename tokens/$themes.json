@@ -397,7 +397,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "style/default/typography": "enabled",
-      "style/default/palette": "enabled"
+      "style/default/palette": "enabled",
+      "style/default/compensation": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:5037:2352",
     "$figmaModeId": "5037:0",
@@ -527,7 +528,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "style/meme/typography": "enabled",
-      "style/meme/palette": "enabled"
+      "style/meme/palette": "enabled",
+      "style/meme/compensation": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:5037:2352",
     "$figmaModeId": "5037:1",
