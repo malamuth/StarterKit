@@ -2,11 +2,11 @@
   "style": {
     "font": {
       "brand": {
-        "value": "Comic Neue",
+        "value": "Kurochka lapkoi",
         "type": "text"
       },
       "text": {
-        "value": "Kurochka lapkoi",
+        "value": "Comic Neue",
         "type": "text"
       }
     },
