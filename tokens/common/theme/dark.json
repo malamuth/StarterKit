@@ -194,8 +194,28 @@
     }
   },
   "border": {
-    "neutral-high": {
+    "neutral-primary": {
       "value": "rgba({goose.0}, {opacity.border.primary.dark})",
+      "type": "color"
+    },
+    "brand-primary": {
+      "value": "{brand.500}",
+      "type": "color"
+    },
+    "positive-primary": {
+      "value": "rgba({absinthe.500}, {opacity.border.primary.dark})",
+      "type": "color"
+    },
+    "warning-primary": {
+      "value": "rgba({prosecco.500}, {opacity.border.primary.dark})",
+      "type": "color"
+    },
+    "negative-primary": {
+      "value": "rgba({negroni.500}, {opacity.border.primary.dark})",
+      "type": "color"
+    },
+    "info-primary": {
+      "value": "rgba({curacao.500}, {opacity.border.primary.dark})",
       "type": "color"
     },
     "neutral-secondary": {
@@ -204,10 +224,6 @@
     },
     "neutral-tertiary": {
       "value": "rgba({goose.0}, {opacity.border.tertiary.dark})",
-      "type": "color"
-    },
-    "brand-primary": {
-      "value": "{brand.500}",
       "type": "color"
     }
   },
