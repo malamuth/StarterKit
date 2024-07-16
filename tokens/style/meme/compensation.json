@@ -27,7 +27,7 @@
           "type": "sizing"
         },
         "bottom": {
-          "value": "2",
+          "value": "0",
           "type": "sizing"
         }
       },
@@ -37,7 +37,7 @@
           "type": "sizing"
         },
         "bottom": {
-          "value": "2",
+          "value": "0",
           "type": "sizing"
         }
       },
@@ -47,7 +47,7 @@
           "type": "sizing"
         },
         "bottom": {
-          "value": "2",
+          "value": "0",
           "type": "sizing"
         }
       },
