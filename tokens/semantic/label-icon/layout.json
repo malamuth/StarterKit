@@ -3,6 +3,28 @@
     "100": {
       "padding": {
         "value": "{spacing.050}",
+        "type": "number"
+      },
+      "margin": {
+        "value": "{spacing.100}",
+        "type": "number"
+      },
+      "gap": {
+        "value": "{spacing.050}",
+        "type": "number"
+      },
+      "label-compensation-top": {
+        "value": "{compensation.label.100.top}",
+        "type": "number"
+      },
+      "label-compensation-bottom": {
+        "value": "{compensation.label.100.bottom}",
+        "type": "number"
+      }
+    },
+    "150": {
+      "padding": {
+        "value": "{spacing.050}",
         "type": "sizing"
       },
       "margin": {
@@ -13,9 +35,13 @@
         "value": "{spacing.050}",
         "type": "sizing"
       },
-      "label-compensation": {
-        "value": "{spacing.000}",
-        "type": "sizing"
+      "label-compensation-top": {
+        "value": "{compensation.label.150.top}",
+        "type": "number"
+      },
+      "label-compensation-bottom": {
+        "value": "{compensation.label.150.bottom}",
+        "type": "number"
       }
     },
     "200": {
@@ -31,9 +57,13 @@
         "value": "{spacing.050}",
         "type": "sizing"
       },
-      "label-compensation": {
-        "value": "{spacing.000}",
-        "type": "sizing"
+      "label-compensation-top": {
+        "value": "{compensation.label.200.top}",
+        "type": "number"
+      },
+      "label-compensation-bottom": {
+        "value": "{compensation.label.200.bottom}",
+        "type": "number"
       }
     },
     "300": {
@@ -49,9 +79,13 @@
         "value": "{spacing.100}",
         "type": "sizing"
       },
-      "label-compensation": {
-        "value": "{spacing.025}",
-        "type": "sizing"
+      "label-compensation-top": {
+        "value": "{compensation.label.300.top}",
+        "type": "number"
+      },
+      "label-compensation-bottom": {
+        "value": "{compensation.label.300.bottom}",
+        "type": "number"
       }
     },
     "400": {
@@ -67,9 +101,13 @@
         "value": "{spacing.150}",
         "type": "sizing"
       },
-      "label-compensation": {
-        "value": "{spacing.025}",
-        "type": "sizing"
+      "label-compensation-top": {
+        "value": "{compensation.label.400.top}",
+        "type": "number"
+      },
+      "label-compensation-bottom": {
+        "value": "{compensation.label.400.bottom}",
+        "type": "number"
       }
     },
     "500": {
@@ -85,9 +123,13 @@
         "value": "{spacing.200}",
         "type": "sizing"
       },
-      "label-compensation": {
-        "value": "{spacing.050}",
-        "type": "sizing"
+      "label-compensation-top": {
+        "value": "{compensation.label.500.top}",
+        "type": "number"
+      },
+      "label-compensation-bottom": {
+        "value": "{compensation.label.500.bottom}",
+        "type": "number"
       }
     },
     "600": {
@@ -103,9 +145,13 @@
         "value": "{spacing.200}",
         "type": "sizing"
       },
-      "label-compensation": {
-        "value": "{spacing.050}",
-        "type": "sizing"
+      "label-compensation-top": {
+        "value": "{compensation.label.600.top}",
+        "type": "number"
+      },
+      "label-compensation-bottom": {
+        "value": "{compensation.label.600.bottom}",
+        "type": "number"
       }
     },
     "700": {
@@ -121,9 +167,13 @@
         "value": "{spacing.200}",
         "type": "sizing"
       },
-      "label-compensation": {
-        "value": "{spacing.050}",
-        "type": "sizing"
+      "label-compensation-top": {
+        "value": "{compensation.label.700.top}",
+        "type": "number"
+      },
+      "label-compensation-bottom": {
+        "value": "{compensation.label.700.bottom}",
+        "type": "number"
       }
     }
   }
