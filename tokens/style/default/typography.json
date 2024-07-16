@@ -11,17 +11,33 @@
       }
     },
     "font-weight": {
-      "light": {
-        "value": 100,
-        "type": "number"
+      "brand": {
+        "light": {
+          "value": 100,
+          "type": "number"
+        },
+        "default": {
+          "value": 500,
+          "type": "number"
+        },
+        "accent": {
+          "value": 600,
+          "type": "number"
+        }
       },
-      "default": {
-        "value": 500,
-        "type": "number"
-      },
-      "accent": {
-        "value": 600,
-        "type": "number"
+      "text": {
+        "light": {
+          "value": 100,
+          "type": "number"
+        },
+        "default": {
+          "value": 500,
+          "type": "number"
+        },
+        "accent": {
+          "value": 600,
+          "type": "number"
+        }
       }
     }
   }
