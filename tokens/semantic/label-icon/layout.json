@@ -18,7 +18,6 @@
         "type": "sizing"
       }
     },
-
     "200": {
       "padding": {
         "value": "{spacing.050}",
