@@ -1,5 +1,7 @@
 {
   "tokenSetOrder": [
+    "style/default/typography",
+    "style/meme/typography",
     "common/layout/layout",
     "common/opacity/opacity",
     "common/palette/dark",
@@ -26,8 +28,6 @@
     "semantic/semantic-text/typography/tablet-portrait",
     "component/button/theme/dark",
     "component/button/theme/light",
-    "semantic/label-icon/layout",
-    "style/default/typography",
-    "style/meme/typography"
+    "semantic/label-icon/layout"
   ]
 }
