@@ -8,7 +8,7 @@
     },
     "font-weight": {
       "light": {
-        "value": 400,
+        "value": 300,
         "type": "number"
       },
       "default": {
@@ -16,7 +16,7 @@
         "type": "number"
       },
       "accent": {
-        "value": 400,
+        "value": 700,
         "type": "number"
       }
     }
