@@ -183,8 +183,10 @@
         "value": "{style.font-weight.default}",
         "type": "number"
       },
-      "value": "{style.font-weight.accent}",
-      "type": "typography"
+      "accent": {
+        "value": "{style.font-weight.accent}",
+        "type": "number"
+      }
     },
     "paragraph-spacing": {
       "0": {
