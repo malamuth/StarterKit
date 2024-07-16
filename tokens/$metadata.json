@@ -1,7 +1,9 @@
 {
   "tokenSetOrder": [
     "style/default/typography",
+    "style/default/palette",
     "style/meme/typography",
+    "style/meme/palette",
     "common/layout/layout",
     "common/opacity/opacity",
     "common/palette/dark",
