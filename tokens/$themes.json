@@ -145,7 +145,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/palette/light": "enabled",
+      "common/palette/light": "source",
       "common/theme/light": "enabled",
       "common/opacity/opacity": "source",
       "component/button/theme/light": "enabled",
@@ -271,7 +271,7 @@
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/palette/dark": "enabled",
+      "common/palette/dark": "source",
       "common/theme/dark": "enabled",
       "common/opacity/opacity": "source",
       "component/button/theme/dark": "enabled",
