@@ -4,6 +4,10 @@
       "brand": {
         "value": "{style.font.brand}",
         "type": "text"
+      },
+      "text": {
+        "value": "{style.font.text}",
+        "type": "text"
       }
     },
     "font-size": {
@@ -517,7 +521,7 @@
     "150": {
       "default": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.150}",
           "lineHeight": "{typography.line-height.default.150}",
@@ -530,7 +534,7 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.150}",
           "lineHeight": "{typography.line-height.default.150}",
@@ -543,7 +547,7 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.150}",
           "lineHeight": "{typography.line-height.default.150}",
@@ -556,7 +560,7 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.150}",
           "lineHeight": "{typography.line-height.default.150}",
@@ -571,7 +575,7 @@
     "200": {
       "default": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.200}",
           "lineHeight": "{typography.line-height.default.200}",
@@ -584,7 +588,7 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.200}",
           "lineHeight": "{typography.line-height.default.200}",
@@ -597,7 +601,7 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.200}",
           "lineHeight": "{typography.line-height.default.200}",
@@ -610,7 +614,7 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.200}",
           "lineHeight": "{typography.line-height.default.200}",
@@ -625,7 +629,7 @@
     "250": {
       "default": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.250}",
           "lineHeight": "{typography.line-height.default.250}",
@@ -638,7 +642,7 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.250}",
           "lineHeight": "{typography.line-height.default.250}",
@@ -651,7 +655,7 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.250}",
           "lineHeight": "{typography.line-height.default.250}",
@@ -664,7 +668,7 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.250}",
           "lineHeight": "{typography.line-height.default.250}",
@@ -679,7 +683,7 @@
     "300": {
       "default": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.300}",
           "lineHeight": "{typography.line-height.default.300}",
@@ -692,7 +696,7 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.300}",
           "lineHeight": "{typography.line-height.default.300}",
@@ -705,7 +709,7 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.300}",
           "lineHeight": "{typography.line-height.default.300}",
@@ -718,7 +722,7 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.300}",
           "lineHeight": "{typography.line-height.default.300}",
@@ -733,7 +737,7 @@
     "350": {
       "default": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.350}",
           "lineHeight": "{typography.line-height.default.350}",
@@ -746,7 +750,7 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.350}",
           "lineHeight": "{typography.line-height.default.350}",
@@ -759,7 +763,7 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.350}",
           "lineHeight": "{typography.line-height.default.350}",
@@ -772,7 +776,7 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.350}",
           "lineHeight": "{typography.line-height.default.350}",
@@ -787,7 +791,7 @@
     "400": {
       "default": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.400}",
           "lineHeight": "{typography.line-height.default.400}",
@@ -800,7 +804,7 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.400}",
           "lineHeight": "{typography.line-height.default.400}",
@@ -813,7 +817,7 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.400}",
           "lineHeight": "{typography.line-height.default.400}",
@@ -826,7 +830,7 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.400}",
           "lineHeight": "{typography.line-height.default.400}",
@@ -843,7 +847,7 @@
     "150": {
       "default": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.150}",
           "lineHeight": "{typography.line-height.compact.150}",
@@ -856,7 +860,7 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.150}",
           "lineHeight": "{typography.line-height.compact.150}",
@@ -869,7 +873,7 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.150}",
           "lineHeight": "{typography.line-height.compact.150}",
@@ -882,7 +886,7 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.150}",
           "lineHeight": "{typography.line-height.compact.150}",
@@ -897,7 +901,7 @@
     "200": {
       "default": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.200}",
           "lineHeight": "{typography.line-height.compact.200}",
@@ -910,7 +914,7 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.200}",
           "lineHeight": "{typography.line-height.compact.200}",
@@ -923,7 +927,7 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.200}",
           "lineHeight": "{typography.line-height.compact.200}",
@@ -936,7 +940,7 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.200}",
           "lineHeight": "{typography.line-height.compact.200}",
@@ -951,7 +955,7 @@
     "250": {
       "default": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.250}",
           "lineHeight": "{typography.line-height.compact.250}",
@@ -964,7 +968,7 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.250}",
           "lineHeight": "{typography.line-height.compact.250}",
@@ -977,7 +981,7 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.250}",
           "lineHeight": "{typography.line-height.compact.250}",
@@ -990,7 +994,7 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.250}",
           "lineHeight": "{typography.line-height.compact.250}",
@@ -1005,7 +1009,7 @@
     "300": {
       "default": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.300}",
           "lineHeight": "{typography.line-height.compact.300}",
@@ -1018,7 +1022,7 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.300}",
           "lineHeight": "{typography.line-height.compact.300}",
@@ -1031,7 +1035,7 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.300}",
           "lineHeight": "{typography.line-height.compact.300}",
@@ -1044,7 +1048,7 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.300}",
           "lineHeight": "{typography.line-height.compact.300}",
@@ -1059,7 +1063,7 @@
     "350": {
       "default": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.350}",
           "lineHeight": "{typography.line-height.compact.350}",
@@ -1072,7 +1076,7 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.350}",
           "lineHeight": "{typography.line-height.compact.350}",
@@ -1085,7 +1089,7 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.350}",
           "lineHeight": "{typography.line-height.compact.350}",
@@ -1098,7 +1102,7 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.350}",
           "lineHeight": "{typography.line-height.compact.350}",
@@ -1113,7 +1117,7 @@
     "400": {
       "default": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.400}",
           "lineHeight": "{typography.line-height.compact.400}",
@@ -1126,7 +1130,7 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.default}",
           "fontSize": "{typography.font-size.400}",
           "lineHeight": "{typography.line-height.compact.400}",
@@ -1139,7 +1143,7 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.400}",
           "lineHeight": "{typography.line-height.compact.400}",
@@ -1152,7 +1156,7 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{typography.font.brand}",
+          "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.accent}",
           "fontSize": "{typography.font-size.400}",
           "lineHeight": "{typography.line-height.compact.400}",

@@ -4,6 +4,10 @@
       "brand": {
         "value": "Onest",
         "type": "text"
+      },
+      "text": {
+        "value": "Onest",
+        "type": "text"
       }
     },
     "font-weight": {

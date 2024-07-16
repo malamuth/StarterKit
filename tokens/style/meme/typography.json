@@ -4,6 +4,10 @@
       "brand": {
         "value": "Comic Neue",
         "type": "text"
+      },
+      "text": {
+        "value": "Kurochka lapkoi",
+        "type": "text"
       }
     },
     "font-weight": {
