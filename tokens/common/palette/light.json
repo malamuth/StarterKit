@@ -1,237 +1,237 @@
 {
   "brand": {
     "100": {
-      "value": "#E9FDB0",
+      "value": "{light.brand.100}",
       "type": "color"
     },
     "200": {
-      "value": "#E1FC95",
+      "value": "{light.brand.200}",
       "type": "color"
     },
     "300": {
-      "value": "#D9F97A",
+      "value": "{light.brand.300}",
       "type": "color"
     },
     "400": {
-      "value": "#D2FA5C",
+      "value": "{light.brand.400}",
       "type": "color"
     },
     "500": {
-      "value": "#C9F938",
+      "value": "{light.brand.500}",
       "type": "color"
     },
     "600": {
-      "value": "#9DD006",
+      "value": "{light.brand.600}",
       "type": "color"
     },
     "700": {
-      "value": "#769317",
+      "value": "{light.brand.700}",
       "type": "color"
     },
     "800": {
-      "value": "#4C6204",
+      "value": "{light.brand.800}",
       "type": "color"
     },
     "900": {
-      "value": "#394902",
+      "value": "{light.brand.900}",
       "type": "color"
     }
   },
   "goose": {
     "0": {
-      "value": "#FFFFFF",
+      "value": "{light.goose.0}",
       "type": "color"
     },
     "100": {
-      "value": "#F5F5F5",
+      "value": "{light.goose.100}",
       "type": "color"
     },
     "200": {
-      "value": "#E5E5E5",
+      "value": "{light.goose.200}",
       "type": "color"
     },
     "300": {
-      "value": "#CDCDCD",
+      "value": "{light.goose.300}",
       "type": "color"
     },
     "400": {
-      "value": "#B3B2B2",
+      "value": "{light.goose.400}",
       "type": "color"
     },
     "500": {
-      "value": "#8E8E8E",
+      "value": "{light.goose.500}",
       "type": "color"
     },
     "600": {
-      "value": "#5F5E61",
+      "value": "{light.goose.600}",
       "type": "color"
     },
     "700": {
-      "value": "#424146",
+      "value": "{light.goose.700}",
       "type": "color"
     },
     "800": {
-      "value": "#2D2C33",
+      "value": "{light.goose.800}",
       "type": "color"
     },
     "900": {
-      "value": "#1C1B20",
+      "value": "{light.goose.900}",
       "type": "color"
     },
     "999": {
-      "value": "#111014",
+      "value": "{light.goose.999}",
       "type": "color"
     }
   },
   "negroni": {
     "100": {
-      "value": "#FDEBE9",
+      "value": "{light.negroni.100}",
       "type": "color"
     },
     "200": {
-      "value": "#FBD6D0",
+      "value": "{light.negroni.200}",
       "type": "color"
     },
     "300": {
-      "value": "#FAC1B8",
+      "value": "{light.negroni.300}",
       "type": "color"
     },
     "400": {
-      "value": "#FC9A8C",
+      "value": "{light.negroni.400}",
       "type": "color"
     },
     "500": {
-      "value": "#EE6B57",
+      "value": "{light.negroni.500}",
       "type": "color"
     },
     "600": {
-      "value": "#E8523B",
+      "value": "{light.negroni.600}",
       "type": "color"
     },
     "700": {
-      "value": "#E5372B",
+      "value": "{light.negroni.700}",
       "type": "color"
     },
     "800": {
-      "value": "#DA2017",
+      "value": "{light.negroni.800}",
       "type": "color"
     },
     "900": {
-      "value": "#B51911",
+      "value": "{light.negroni.900}",
       "type": "color"
     }
   },
   "prosecco": {
     "100": {
-      "value": "#FFECC2",
+      "value": "{light.prosecco.100}",
       "type": "color"
     },
     "200": {
-      "value": "#FFE09D",
+      "value": "{light.prosecco.200}",
       "type": "color"
     },
     "300": {
-      "value": "#FFD475",
+      "value": "{light.prosecco.300}",
       "type": "color"
     },
     "400": {
-      "value": "#FEC64A",
+      "value": "{light.prosecco.400}",
       "type": "color"
     },
     "500": {
-      "value": "#FFB30F",
+      "value": "{light.prosecco.500}",
       "type": "color"
     },
     "600": {
-      "value": "#FB9510",
+      "value": "{light.prosecco.600}",
       "type": "color"
     },
     "700": {
-      "value": "#E56F00",
+      "value": "{light.prosecco.700}",
       "type": "color"
     },
     "800": {
-      "value": "#CC5500",
+      "value": "{light.prosecco.800}",
       "type": "color"
     },
     "900": {
-      "value": "#AE3D00",
+      "value": "{light.prosecco.900}",
       "type": "color"
     }
   },
   "absinthe": {
     "100": {
-      "value": "#D8FDEA",
+      "value": "{light.absinthe.100}",
       "type": "color"
     },
     "200": {
-      "value": "#96FBC7",
+      "value": "{light.absinthe.200}",
       "type": "color"
     },
     "300": {
-      "value": "#4BF69E",
+      "value": "{light.absinthe.300}",
       "type": "color"
     },
     "400": {
-      "value": "#20ED84",
+      "value": "{light.absinthe.400}",
       "type": "color"
     },
     "500": {
-      "value": "#0CCE6B",
+      "value": "{light.absinthe.500}",
       "type": "color"
     },
     "600": {
-      "value": "#2CAB49",
+      "value": "{light.absinthe.600}",
       "type": "color"
     },
     "700": {
-      "value": "#268928",
+      "value": "{light.absinthe.700}",
       "type": "color"
     },
     "800": {
-      "value": "#137307",
+      "value": "{light.absinthe.800}",
       "type": "color"
     },
     "900": {
-      "value": "#115504",
+      "value": "{light.absinthe.900}",
       "type": "color"
     }
   },
   "curacao": {
     "100": {
-      "value": "#EEF0FC",
+      "value": "{light.curacao.100}",
       "type": "color"
     },
     "200": {
-      "value": "#CED5F7",
+      "value": "{light.curacao.200}",
       "type": "color"
     },
     "300": {
-      "value": "#94A3EB",
+      "value": "{light.curacao.300}",
       "type": "color"
     },
     "400": {
-      "value": "#6971E2",
+      "value": "{light.curacao.400}",
       "type": "color"
     },
     "500": {
-      "value": "#454FDE",
+      "value": "{light.curacao.500}",
       "type": "color"
     },
     "600": {
-      "value": "#3742DF",
+      "value": "{light.curacao.600}",
       "type": "color"
     },
     "700": {
-      "value": "#2626DB",
+      "value": "{light.curacao.700}",
       "type": "color"
     },
     "800": {
-      "value": "#1D1DBD",
+      "value": "{light.curacao.800}",
       "type": "color"
     },
     "900": {
-      "value": "#1212A1",
+      "value": "{light.curacao.900}",
       "type": "color"
     }
   }
