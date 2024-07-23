@@ -7,13 +7,13 @@
           "type": "sizing"
         },
         "bottom": {
-          "value": "0",
+          "value": "1",
           "type": "sizing"
         }
       },
       "200": {
         "top": {
-          "value": "0",
+          "value": "1",
           "type": "sizing"
         },
         "bottom": {
