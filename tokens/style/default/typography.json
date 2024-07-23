@@ -2,41 +2,41 @@
   "style": {
     "font": {
       "brand": {
-        "value": "Onest",
+        "value": "TT Lakes Neue Trial",
         "type": "text"
       },
       "text": {
-        "value": "Onest",
+        "value": "TT Hoves Pro Trial",
         "type": "text"
       }
     },
     "font-weight": {
       "brand": {
         "light": {
-          "value": 100,
-          "type": "number"
+          "value": "Light Italic",
+          "type": "text"
         },
         "default": {
-          "value": 500,
-          "type": "number"
+          "value": "Italic",
+          "type": "text"
         },
         "accent": {
-          "value": 600,
-          "type": "number"
+          "value": "DemiBold Italic",
+          "type": "text"
         }
       },
       "text": {
         "light": {
-          "value": 100,
-          "type": "number"
+          "value": "Light",
+          "type": "text"
         },
         "default": {
-          "value": 500,
-          "type": "number"
+          "value": "Medium",
+          "type": "text"
         },
         "accent": {
-          "value": 600,
-          "type": "number"
+          "value": "DemiBold",
+          "type": "text"
         }
       }
     }
