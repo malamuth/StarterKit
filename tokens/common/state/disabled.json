@@ -175,11 +175,11 @@
           "type": "color"
         },
         "static-light": {
-          "value": "rgba({palette.light.goose.0}, {opacity.overlay.disabled.static})",
+          "value": "rgba({palette.light.goose.0}, {opacity.overlay.static.disabled})",
           "type": "color"
         },
         "static-dark": {
-          "value": "rgba({palette.light.goose.999}, {opacity.overlay.disabled.static})",
+          "value": "rgba({palette.light.goose.999}, {opacity.overlay.static.disabled})",
           "type": "color"
         }
       },
@@ -403,11 +403,11 @@
           "type": "color"
         },
         "static-light": {
-          "value": "rgba({palette.dark.goose.0}, {opacity.overlay.disabled.static})",
+          "value": "rgba({palette.dark.goose.0}, {opacity.overlay.static.disabled})",
           "type": "color"
         },
         "static-dark": {
-          "value": "rgba({palette.dark.goose.999}, {opacity.overlay.disabled.static})",
+          "value": "rgba({palette.dark.goose.999}, {opacity.overlay.static.disabled})",
           "type": "color"
         }
       },
