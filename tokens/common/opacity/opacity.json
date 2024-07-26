@@ -16,34 +16,44 @@
       "light": {
         "default": {
           "value": "0.12",
-          "type": "opacity"
+          "type": "number"
         },
         "active": {
           "value": "0.24",
-          "type": "opacity"
+          "type": "number"
         },
         "disabled": {
           "value": "0.12",
-          "type": "opacity"
+          "type": "number"
         }
       },
       "dark": {
         "default": {
           "value": "0.12",
-          "type": "opacity"
+          "type": "number"
         },
         "active": {
           "value": "0.24",
-          "type": "opacity"
+          "type": "number"
         },
         "disabled": {
           "value": "0.12",
-          "type": "opacity"
+          "type": "number"
         }
       },
       "static": {
-        "value": "0.6",
-        "type": "opacity"
+        "default": {
+          "value": "0.6",
+          "type": "number"
+        },
+        "active": {
+          "value": "0.6",
+          "type": "number"
+        },
+        "disabled": {
+          "value": "0.6",
+          "type": "number"
+        }
       }
     },
     "border": {
