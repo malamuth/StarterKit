@@ -29,6 +29,7 @@
     "semantic/semantic-text/typography/tablet-portrait",
     "component/button/theme/dark",
     "component/button/theme/light",
-    "semantic/label-icon/layout"
+    "semantic/label-icon/layout",
+    "common/state/default"
   ]
 }
