@@ -302,8 +302,7 @@
     "selectedTokenSets": {
       "common/state/default": "enabled",
       "common/opacity/opacity": "source",
-      "common/palette/light": "enabled",
-      "common/palette/dark": "enabled"
+      "style/default/palette": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:6575:2435",
     "$figmaModeId": "6575:0",
