@@ -28,8 +28,18 @@
         }
       },
       "dark": {
-        "value": "0.1",
-        "type": "opacity"
+        "default": {
+          "value": "0.12",
+          "type": "opacity"
+        },
+        "active": {
+          "value": "0.24",
+          "type": "opacity"
+        },
+        "disabled": {
+          "value": "0.12",
+          "type": "opacity"
+        }
       },
       "static": {
         "value": "0.6",
