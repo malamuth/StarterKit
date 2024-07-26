@@ -47,6 +47,44 @@
           "type": "color"
         }
       },
+      "brand": {
+        "100": {
+          "value": "#F4F1EF",
+          "type": "color"
+        },
+        "200": {
+          "value": "#F0EAE7",
+          "type": "color"
+        },
+        "300": {
+          "value": "#E9DED8",
+          "type": "color"
+        },
+        "400": {
+          "value": "#E8DCD4",
+          "type": "color"
+        },
+        "500": {
+          "value": "#DBC6BA",
+          "type": "color"
+        },
+        "600": {
+          "value": "#D2AA94",
+          "type": "color"
+        },
+        "700": {
+          "value": "#C98E6E",
+          "type": "color"
+        },
+        "800": {
+          "value": "#AD6F4D",
+          "type": "color"
+        },
+        "900": {
+          "value": "#6F5344",
+          "type": "color"
+        }
+      },
       "negroni": {
         "100": {
           "value": "#FFCDC8",
@@ -244,6 +282,44 @@
         },
         "999": {
           "value": "#000000",
+          "type": "color"
+        }
+      },
+      "brand": {
+        "100": {
+          "value": "#FAE5D9",
+          "type": "color"
+        },
+        "200": {
+          "value": "#F5D2BE",
+          "type": "color"
+        },
+        "300": {
+          "value": "#EFC7B0",
+          "type": "color"
+        },
+        "400": {
+          "value": "#F0C2A8",
+          "type": "color"
+        },
+        "500": {
+          "value": "#ECBCA1",
+          "type": "color"
+        },
+        "600": {
+          "value": "#B87D5B",
+          "type": "color"
+        },
+        "700": {
+          "value": "#8F5D41",
+          "type": "color"
+        },
+        "800": {
+          "value": "#6D4934",
+          "type": "color"
+        },
+        "900": {
+          "value": "#6D4934",
           "type": "color"
         }
       },
