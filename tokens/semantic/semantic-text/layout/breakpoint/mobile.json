@@ -40,11 +40,11 @@
       "small": {
         "padding": {
           "top": {
-            "value": "{spacing.250}",
+            "value": "{spacing.200}",
             "type": "spacing"
           },
           "bottom": {
-            "value": "{spacing.150}",
+            "value": "{spacing.100}",
             "type": "spacing"
           }
         }
@@ -52,7 +52,7 @@
       "x-small": {
         "padding": {
           "top": {
-            "value": "{spacing.250}",
+            "value": "{spacing.200}",
             "type": "spacing"
           },
           "bottom": {
