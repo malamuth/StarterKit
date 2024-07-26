@@ -423,7 +423,7 @@
   },
   {
     "id": "c72181661f2d0d071038d4cef611bea932f73c2a",
-    "name": "deafult",
+    "name": "default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "style/default/palette": "source",
@@ -441,7 +441,6 @@
       "component/button/theme/dark": "enabled",
       "semantic/label-icon/layout": "enabled"
     },
-    "group": "style",
     "$figmaCollectionId": "VariableCollectionId:5037:2352",
     "$figmaModeId": "6575:1",
     "$figmaVariableReferences": {
@@ -695,6 +694,7 @@
       "curacao.700": "65dfb1a8e56b6e9bd65d0bc5d8276b216738f6b7",
       "curacao.800": "38e309672b52d1bcfe402412bd499b48704d276a",
       "curacao.900": "64e1257c4592946017812441009ce8ce8761ecab"
-    }
+    },
+    "group": "style"
   }
 ]
