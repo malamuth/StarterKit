@@ -98,6 +98,10 @@
       "value": "{state.dark.background.brand-high}",
       "type": "color"
     },
+    "brand-extra-high": {
+      "value": "{state.dark.background.brand-extra-high}",
+      "type": "color"
+    },
     "positive-high": {
       "value": "{state.dark.background.positive-high}",
       "type": "color"
@@ -120,6 +124,10 @@
     },
     "brand-low": {
       "value": "{state.dark.background.brand-low}",
+      "type": "color"
+    },
+    "brand-extra-low": {
+      "value": "{state.dark.background.brand-extra-low}",
       "type": "color"
     },
     "positive-low": {
