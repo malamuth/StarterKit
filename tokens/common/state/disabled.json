@@ -101,7 +101,7 @@
           "type": "color"
         },
         "brand-extra-high": {
-          "value": "{palette.light.brand-extra.200}",
+          "value": "{palette.dark.goose.200}",
           "type": "color"
         },
         "positive-high": {
@@ -129,7 +129,7 @@
           "type": "color"
         },
         "brand-extra-low": {
-          "value": "{palette.light.brand-extra.200}",
+          "value": "{palette.dark.goose.200}",
           "type": "color"
         },
         "positive-low": {
@@ -337,7 +337,7 @@
           "type": "color"
         },
         "brand-extra-high": {
-          "value": "{palette.dark.brand-extra.800}",
+          "value": "{palette.dark.goose.800}",
           "type": "color"
         },
         "positive-high": {
@@ -365,7 +365,7 @@
           "type": "color"
         },
         "brand-extra-low": {
-          "value": "{palette.dark.brand-extra.800}",
+          "value": "{palette.dark.goose.800}",
           "type": "color"
         },
         "positive-low": {
