@@ -157,7 +157,7 @@
   },
   "overlay": {
     "neutral": {
-      "value": "rgba({goose.300}, {opacity.overlay.dark})",
+      "value": "rgba({goose.100}, {opacity.overlay.dark})",
       "type": "color"
     },
     "brand": {
