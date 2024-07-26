@@ -125,7 +125,7 @@
           "type": "color"
         },
         "brand-low": {
-          "value": "{palette.light.brand.500}",
+          "value": "{palette.light.brand.100}",
           "type": "color"
         },
         "brand-extra-low": {
