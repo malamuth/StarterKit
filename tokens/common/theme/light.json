@@ -95,7 +95,7 @@
       "type": "color"
     },
     "brand-high": {
-      "value": "{brand.500}",
+      "value": "{goose.900}",
       "type": "color"
     },
     "positive-high": {

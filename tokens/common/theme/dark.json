@@ -91,7 +91,7 @@
   },
   "background": {
     "neutral-high": {
-      "value": "{goose.500}",
+      "value": "{goose.100}",
       "type": "color"
     },
     "brand-high": {
