@@ -229,7 +229,7 @@
   },
   "layer": {
     "floor-0": {
-      "value": "{goose.0}",
+      "value": "{goose.100}",
       "type": "color"
     },
     "floor-1": {
