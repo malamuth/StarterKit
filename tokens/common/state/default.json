@@ -174,10 +174,6 @@
           "value": "rgba({curacao.500}, {opacity.overlay.light})",
           "type": "color"
         },
-        "brand-special": {
-          "value": "{brand.500}",
-          "type": "color"
-        },
         "static-light": {
           "value": "rgba({goose.0}, {opacity.overlay.static})",
           "type": "color"
@@ -404,10 +400,6 @@
         },
         "info": {
           "value": "rgba({curacao.500}, {opacity.overlay.dark})",
-          "type": "color"
-        },
-        "brand-special": {
-          "value": "rgba({brand.500}, {opacity.overlay.dark})",
           "type": "color"
         },
         "static-light": {
