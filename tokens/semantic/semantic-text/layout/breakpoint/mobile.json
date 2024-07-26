@@ -56,7 +56,7 @@
             "type": "spacing"
           },
           "bottom": {
-            "value": "{spacing.150}",
+            "value": "{spacing.100}",
             "type": "spacing"
           }
         }
