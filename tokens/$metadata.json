@@ -6,6 +6,8 @@
     "common/theme/dark",
     "common/theme/light",
     "common/state/default",
+    "common/state/active",
+    "common/state/disabled",
     "common/palette/dark",
     "common/palette/light",
     "common/opacity/opacity",

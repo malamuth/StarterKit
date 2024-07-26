@@ -566,5 +566,27 @@
       "style.font-weight.text.accent": "3110e73033e112503cafe06c07732c7aecf50a7e"
     },
     "group": "style"
+  },
+  {
+    "id": "6f8e2e679e94ad91195a007a92086dca9a0bcfd3",
+    "name": "active",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "style/default/palette": "source",
+      "common/state/active": "enabled",
+      "common/opacity/opacity": "source"
+    },
+    "group": "state"
+  },
+  {
+    "id": "632a66e1d3c9155cf38f9013103393f5a4ee24a3",
+    "name": "disabled",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "style/default/palette": "source",
+      "common/state/disabled": "enabled",
+      "common/opacity/opacity": "source"
+    },
+    "group": "state"
   }
 ]
