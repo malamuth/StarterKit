@@ -5,7 +5,7 @@
       "type": "color"
     },
     "brand-primary": {
-      "value": "{goose.200}",
+      "value": "{goose.900}",
       "type": "color"
     },
     "positive-primary": {
@@ -29,7 +29,7 @@
       "type": "color"
     },
     "brand-secondary": {
-      "value": "{goose.400}",
+      "value": "{goose.600}",
       "type": "color"
     },
     "positive-secondary": {
