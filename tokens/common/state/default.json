@@ -97,7 +97,7 @@
           "type": "color"
         },
         "brand-high": {
-          "value": "{palette.light.brand.900}",
+          "value": "{palette.light.brand.500}",
           "type": "color"
         },
         "positive-high": {
