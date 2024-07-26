@@ -13,15 +13,15 @@
     "font-weight": {
       "brand": {
         "light": {
-          "value": "Light Italic",
+          "value": "Light",
           "type": "text"
         },
         "default": {
-          "value": "Italic",
+          "value": "Regular",
           "type": "text"
         },
         "accent": {
-          "value": "DemiBold Italic",
+          "value": "DemiBold",
           "type": "text"
         }
       },
