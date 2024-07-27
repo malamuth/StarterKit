@@ -480,7 +480,7 @@
         "type": "typography"
       }
     },
-    "600": {
+    "650": {
       "default": {
         "value": {
           "fontFamily": "{typography.font.brand}",
