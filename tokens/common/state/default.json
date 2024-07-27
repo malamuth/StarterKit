@@ -291,7 +291,7 @@
           "type": "color"
         },
         "brand-tertiary": {
-          "value": "{palette.dark.goose.500}",
+          "value": "{palette.dark.goose.900}",
           "type": "color"
         },
         "positive-tertiary": {
