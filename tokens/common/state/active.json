@@ -233,6 +233,10 @@
         "floor-1": {
           "value": "{palette.light.goose.0}",
           "type": "color"
+        },
+        "floor-overlay": {
+          "value": "rgba({palette.light.goose.0}, {opacity.layer.light})",
+          "type": "color"
         }
       }
     },
@@ -468,6 +472,10 @@
         },
         "floor-1": {
           "value": "{palette.dark.goose.900}",
+          "type": "color"
+        },
+        "floor-overlay": {
+          "value": "rgba({palette.light.goose.900}, {opacity.layer.dark})",
           "type": "color"
         }
       }

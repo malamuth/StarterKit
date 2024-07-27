@@ -231,6 +231,10 @@
     "floor-1": {
       "value": "{state.light.layer.floor-1}",
       "type": "color"
+    },
+    "floor-overlay": {
+      "value": "{state.light.layer.floor-overlay}",
+      "type": "color"
     }
   }
 }

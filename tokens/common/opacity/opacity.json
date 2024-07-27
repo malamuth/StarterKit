@@ -87,6 +87,16 @@
           "type": "opacity"
         }
       }
+    },
+    "layer": {
+      "light": {
+        "value": "0.8",
+        "type": "number"
+      },
+      "dark": {
+        "value": "0.8",
+        "type": "number"
+      }
     }
   }
 }
