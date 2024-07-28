@@ -243,79 +243,79 @@
     "dark": {
       "content": {
         "neutral-primary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "brand-primary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "positive-primary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "warning-primary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "negative-primary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "info-primary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "neutral-secondary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "brand-secondary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "positive-secondary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "warning-secondary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "negative-secondary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "info-secondary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "neutral-tertiary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "brand-tertiary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "positive-tertiary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "warning-tertiary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "negative-tertiary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "info-tertiary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "static-light-primary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "static-light-secondary": {
@@ -323,7 +323,7 @@
           "type": "color"
         },
         "static-dark-primary": {
-          "value": "{palette.dark.goose.700}",
+          "value": "{palette.dark.goose.600}",
           "type": "color"
         },
         "static-dark-secondary": {
