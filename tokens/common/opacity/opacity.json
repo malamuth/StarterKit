@@ -57,6 +57,18 @@
           "type": "opacity"
         }
       }
+    },
+    "layer": {
+      "floor-overlay": {
+        "light": {
+          "value": "0.8",
+          "type": "opacity"
+        },
+        "dark": {
+          "value": "0.8",
+          "type": "opacity"
+        }
+      }
     }
   }
 }

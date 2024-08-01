@@ -235,6 +235,10 @@
     "floor-1": {
       "value": "{goose.0}",
       "type": "color"
+    },
+    "floor-overlay": {
+      "value": "rgba({goose.0}, {opacity.layer.floor-overlay.light})",
+      "type": "color"
     }
   }
 }
