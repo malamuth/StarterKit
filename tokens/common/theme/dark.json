@@ -237,7 +237,7 @@
       "type": "color"
     },
     "floor-overlay": {
-      "value": "rgba({goose.0}, {opacity.layer.floor-overlay.dark})",
+      "value": "rgba({goose.900}, {opacity.layer.floor-overlay.dark})",
       "type": "color"
     }
   }
