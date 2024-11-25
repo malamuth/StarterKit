@@ -27,6 +27,10 @@
     "margin-horizontal": {
       "value": "{spacing.700}",
       "type": "number"
+    },
+    "breakpoint": {
+      "value": "desktop",
+      "type": "text"
     }
   }
 }
