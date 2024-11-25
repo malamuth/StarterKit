@@ -1,7 +1,7 @@
 {
   "layout": {
     "min-width": {
-      "value": "320",
+      "value": "360",
       "type": "number"
     },
     "max-width": {
