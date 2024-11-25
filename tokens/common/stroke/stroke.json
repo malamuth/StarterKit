@@ -1,5 +1,9 @@
 {
   "stroke": {
+    "0": {
+      "value": "0",
+      "type": "number"
+    },
     "100": {
       "value": "1",
       "type": "number"

@@ -16,6 +16,10 @@
       "value": 812,
       "type": "number"
     },
+    "columns": {
+      "value": "{layout.col-number}",
+      "type": "number"
+    },
     "gutter": {
       "value": "{spacing.350}",
       "type": "number"
