@@ -585,5 +585,56 @@
       "style.font-weight.accent": "5882d22776e9b32dd5c3e5d604c29ffb7d7c98b1"
     },
     "group": "style"
+  },
+  {
+    "id": "580047d6b9c6d7907acc1ab3b3a8e4227efd5dc8",
+    "name": "tablet-portrait",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/layout/layout": "source",
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/stroke/stroke": "enabled",
+      "common/typography/typography": "enabled",
+      "semantic/main-layout/layout/breakpoint/tablet-portrait": "enabled",
+      "semantic/semantic-text/layout/breakpoint/tablet-portrait": "enabled",
+      "semantic/label-icon/layout": "enabled"
+    },
+    "group": "layout"
+  },
+  {
+    "id": "74d9e679d267feb9cc281f7377c18409bfdf5a30",
+    "name": "tablet-landscape",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/layout/layout": "source",
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/stroke/stroke": "enabled",
+      "common/typography/typography": "enabled",
+      "semantic/main-layout/layout/breakpoint/tablet-landscape": "enabled",
+      "semantic/semantic-text/layout/breakpoint/tablet-landscape": "enabled",
+      "semantic/label-icon/layout": "enabled"
+    },
+    "group": "layout"
+  },
+  {
+    "id": "0787652a02316dc0c6ad1ed63030f68f7ad07541",
+    "name": "desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/layout/layout": "source",
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/stroke/stroke": "enabled",
+      "common/typography/typography": "enabled",
+      "semantic/main-layout/layout/breakpoint/desktop": "enabled",
+      "semantic/semantic-text/layout/breakpoint/desktop": "enabled",
+      "semantic/label-icon/layout": "enabled"
+    },
+    "group": "layout"
   }
 ]
