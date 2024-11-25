@@ -1,5 +1,9 @@
 {
   "radius": {
+    "200": {
+      "value": "4",
+      "type": "number"
+    },
     "300": {
       "value": "8",
       "type": "number"
