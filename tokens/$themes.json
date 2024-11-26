@@ -9,9 +9,9 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/breakpoint/mobile": "enabled"
+      "semantic/main-layout/layout/breakpoint/mobile": "enabled",
+      "common/typography/typography": "enabled"
     },
-    "group": "layout",
     "$figmaCollectionId": "VariableCollectionId:4882:5014",
     "$figmaModeId": "4882:1",
     "$figmaVariableReferences": {
@@ -69,7 +69,8 @@
       "stroke.0": "0b0526c89bb3b483e4d88cd8da0afa1cfe721f29",
       "stroke.100": "c79563828c6010a991bd55f696ebf82e34c2b5f5",
       "stroke.200": "e18d211befce1a170c6e9dbbf5690a4be78a7a60"
-    }
+    },
+    "group": "layout"
   },
   {
     "id": "156af34c6233aeca8d225be264fc4916d7a9d214",
@@ -81,9 +82,9 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/breakpoint/tablet-portrait": "enabled"
+      "semantic/main-layout/layout/breakpoint/tablet-portrait": "enabled",
+      "common/typography/typography": "enabled"
     },
-    "group": "layout",
     "$figmaCollectionId": "VariableCollectionId:4882:5014",
     "$figmaModeId": "8513:1",
     "$figmaVariableReferences": {
@@ -141,7 +142,8 @@
       "stroke.0": "0b0526c89bb3b483e4d88cd8da0afa1cfe721f29",
       "stroke.100": "c79563828c6010a991bd55f696ebf82e34c2b5f5",
       "stroke.200": "e18d211befce1a170c6e9dbbf5690a4be78a7a60"
-    }
+    },
+    "group": "layout"
   },
   {
     "id": "4c98c2f51ff553e2cd1df22dd34007e870c4546d",
@@ -153,9 +155,9 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/breakpoint/tablet-landscape": "enabled"
+      "semantic/main-layout/layout/breakpoint/tablet-landscape": "enabled",
+      "common/typography/typography": "enabled"
     },
-    "group": "layout",
     "$figmaCollectionId": "VariableCollectionId:4882:5014",
     "$figmaModeId": "8513:2",
     "$figmaVariableReferences": {
@@ -213,7 +215,8 @@
       "stroke.0": "0b0526c89bb3b483e4d88cd8da0afa1cfe721f29",
       "stroke.100": "c79563828c6010a991bd55f696ebf82e34c2b5f5",
       "stroke.200": "e18d211befce1a170c6e9dbbf5690a4be78a7a60"
-    }
+    },
+    "group": "layout"
   },
   {
     "id": "3a463029e942ef4ad3c3c95ecd6e871ce0aed9be",
@@ -225,9 +228,9 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/breakpoint/desktop": "enabled"
+      "semantic/main-layout/layout/breakpoint/desktop": "enabled",
+      "common/typography/typography": "enabled"
     },
-    "group": "layout",
     "$figmaCollectionId": "VariableCollectionId:4882:5014",
     "$figmaModeId": "8513:3",
     "$figmaVariableReferences": {
@@ -285,7 +288,8 @@
       "stroke.0": "0b0526c89bb3b483e4d88cd8da0afa1cfe721f29",
       "stroke.100": "c79563828c6010a991bd55f696ebf82e34c2b5f5",
       "stroke.200": "e18d211befce1a170c6e9dbbf5690a4be78a7a60"
-    }
+    },
+    "group": "layout"
   },
   {
     "id": "8be9bb5b46996f185eef6155c51234aa8a61d0f9",

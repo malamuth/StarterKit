@@ -11,8 +11,6 @@
     "common/theme/dark",
     "common/theme/light",
     "common/typography/typography",
-    "component/button/theme/dark",
-    "component/button/theme/light",
     "semantic/control/layout",
     "semantic/label-icon/layout",
     "semantic/main-layout/layout/breakpoint/desktop",
@@ -27,7 +25,6 @@
     "semantic/semantic-text/typography/mobile",
     "semantic/semantic-text/typography/tablet-landscape",
     "semantic/semantic-text/typography/tablet-portrait",
-    "style/default/compensation",
-    "style/default/typography"
+    "style/default/compensation"
   ]
 }
