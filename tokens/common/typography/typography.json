@@ -2,11 +2,11 @@
   "typography": {
     "font": {
       "brand": {
-        "value": "{style.font.brand}",
+        "value": "Onest",
         "type": "text"
       },
       "text": {
-        "value": "{style.font.text}",
+        "value": "Onest",
         "type": "text"
       }
     },
@@ -177,29 +177,29 @@
     "font-weight": {
       "brand": {
         "light": {
-          "value": "{style.font-weight.brand.light}",
+          "value": 100,
           "type": "number"
         },
         "default": {
-          "value": "{style.font-weight.brand.default}",
+          "value": 500,
           "type": "number"
         },
         "accent": {
-          "value": "{style.font-weight.brand.accent}",
+          "value": 600,
           "type": "number"
         }
       },
       "text": {
         "light": {
-          "value": "{style.font-weight.text.light}",
+          "value": 100,
           "type": "number"
         },
         "default": {
-          "value": "{style.font-weight.text.default}",
+          "value": 500,
           "type": "number"
         },
         "accent": {
-          "value": "{style.font-weight.text.accent}",
+          "value": 600,
           "type": "number"
         }
       }
