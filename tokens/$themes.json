@@ -54,5 +54,25 @@
       "semantic/main-layout/layout/breakpoint/desktop": "enabled"
     },
     "group": "layout"
+  },
+  {
+    "id": "8be9bb5b46996f185eef6155c51234aa8a61d0f9",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/palette/light": "enabled",
+      "component/button/theme/light": "enabled"
+    },
+    "group": "theme"
+  },
+  {
+    "id": "c713d7deac5345395f8b53a729ae72a499f18449",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/palette/dark": "enabled",
+      "component/button/theme/dark": "enabled"
+    },
+    "group": "theme"
   }
 ]
