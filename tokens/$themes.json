@@ -1,0 +1,58 @@
+[
+  {
+    "id": "bf145c6e4e6b1c5f82f5ebd5b7993c61112356b2",
+    "name": "mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/layout/layout": "source",
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/stroke/stroke": "enabled",
+      "semantic/main-layout/layout/breakpoint/mobile": "enabled"
+    },
+    "group": "layout"
+  },
+  {
+    "id": "156af34c6233aeca8d225be264fc4916d7a9d214",
+    "name": "tablet-portrait",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/layout/layout": "source",
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/stroke/stroke": "enabled",
+      "semantic/main-layout/layout/breakpoint/tablet-portrait": "enabled"
+    },
+    "group": "layout"
+  },
+  {
+    "id": "4c98c2f51ff553e2cd1df22dd34007e870c4546d",
+    "name": "tablet-landscape",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/layout/layout": "source",
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/stroke/stroke": "enabled",
+      "semantic/main-layout/layout/breakpoint/tablet-landscape": "enabled"
+    },
+    "group": "layout"
+  },
+  {
+    "id": "3a463029e942ef4ad3c3c95ecd6e871ce0aed9be",
+    "name": "desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/layout/layout": "source",
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/stroke/stroke": "enabled",
+      "semantic/main-layout/layout/breakpoint/desktop": "enabled"
+    },
+    "group": "layout"
+  }
+]
