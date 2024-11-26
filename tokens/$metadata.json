@@ -1,11 +1,5 @@
 {
   "tokenSetOrder": [
-    "style/default/typography",
-    "style/default/palette",
-    "style/default/compensation",
-    "style/meme/typography",
-    "style/meme/palette",
-    "style/meme/compensation",
     "common/layout/layout",
     "common/opacity/opacity",
     "common/palette/dark",
@@ -16,8 +10,13 @@
     "common/stroke/stroke",
     "common/theme/dark",
     "common/theme/light",
+    "common/state/active",
+    "common/state/default",
+    "common/state/disabled",
+    "common/state/hover",
     "common/typography/typography",
     "semantic/control/layout",
+    "semantic/label-icon/layout",
     "semantic/main-layout/layout/breakpoint/desktop",
     "semantic/main-layout/layout/breakpoint/mobile",
     "semantic/main-layout/layout/breakpoint/tablet-landscape",
@@ -31,11 +30,6 @@
     "semantic/semantic-text/typography/tablet-landscape",
     "semantic/semantic-text/typography/tablet-portrait",
     "component/button/theme/dark",
-    "component/button/theme/light",
-    "semantic/label-icon/layout",
-    "common/state/active",
-    "common/state/default",
-    "common/state/disabled",
-    "common/state/hover"
+    "component/button/theme/light"
   ]
 }
