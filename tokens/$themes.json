@@ -157,7 +157,8 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/palette/light": "enabled"
+      "common/palette/light": "enabled",
+      "common/theme/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4882:5175",
     "$figmaModeId": "4882:2",
@@ -227,7 +228,8 @@
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/palette/dark": "enabled"
+      "common/palette/dark": "enabled",
+      "common/theme/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4882:5175",
     "$figmaModeId": "4882:3",
@@ -342,49 +344,5 @@
       "semantic/label-icon/layout": "enabled"
     },
     "group": "layout"
-  },
-  {
-    "id": "8f895fae07fad83b969375441919e5963555afcf",
-    "name": "dafault",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "common/palette/dark": "source",
-      "common/palette/light": "source",
-      "common/state/default": "enabled"
-    },
-    "group": "state"
-  },
-  {
-    "id": "33570bf50aeaab603192319363141b8c64a1f61d",
-    "name": "hover",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "common/palette/dark": "source",
-      "common/palette/light": "source",
-      "common/state/hover": "enabled"
-    },
-    "group": "state"
-  },
-  {
-    "id": "4998baad3bf17828b17ce74475359f5a0b2270f7",
-    "name": "active",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "common/palette/dark": "source",
-      "common/palette/light": "source",
-      "common/state/active": "enabled"
-    },
-    "group": "state"
-  },
-  {
-    "id": "89237a9af9cfbde6bd7fe38807b9f83ff5c226c7",
-    "name": "disabled",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "common/palette/dark": "source",
-      "common/palette/light": "source",
-      "common/state/disabled": "enabled"
-    },
-    "group": "state"
   }
 ]
