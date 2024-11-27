@@ -24,7 +24,6 @@
     "semantic/semantic-text/typography/desktop",
     "semantic/semantic-text/typography/mobile",
     "semantic/semantic-text/typography/tablet-landscape",
-    "semantic/semantic-text/typography/tablet-portrait",
-    "style/default/compensation"
+    "semantic/semantic-text/typography/tablet-portrait"
   ]
 }
