@@ -187,7 +187,7 @@
       "type": "color"
     },
     "brand-primary": {
-      "value": "{brand.600}",
+      "value": "rgba({brand.600}, {opacity.border.primary.light})",
       "type": "color"
     },
     "positive-primary": {
