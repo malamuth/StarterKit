@@ -11,6 +11,10 @@
     "200": {
       "value": "2",
       "type": "number"
+    },
+    "400": {
+      "value": "4",
+      "type": "number"
     }
   }
 }
