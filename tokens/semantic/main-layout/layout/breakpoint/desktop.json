@@ -1,0 +1,36 @@
+{
+  "main-layout": {
+    "min-width": {
+      "value": "{layout.breakpoint.xl}",
+      "type": "number"
+    },
+    "max-width": {
+      "value": "{layout.max-width}",
+      "type": "number"
+    },
+    "width": {
+      "value": "{main-layout.min-width}",
+      "type": "number"
+    },
+    "height": {
+      "value": 800,
+      "type": "number"
+    },
+    "columns": {
+      "value": "{layout.col-number}",
+      "type": "number"
+    },
+    "gutter": {
+      "value": "{spacing.450}",
+      "type": "number"
+    },
+    "margin-horizontal": {
+      "value": "{spacing.700}",
+      "type": "number"
+    },
+    "breakpoint": {
+      "value": "desktop",
+      "type": "text"
+    }
+  }
+}

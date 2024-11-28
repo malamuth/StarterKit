@@ -1,14 +1,278 @@
 {
+  "typography": {
+    "font": {
+      "brand": {
+        "value": "Onest",
+        "type": "text"
+      },
+      "text": {
+        "value": "Onest",
+        "type": "text"
+      }
+    },
+    "font-size": {
+      "150": {
+        "value": 10,
+        "type": "number"
+      },
+      "200": {
+        "value": 12,
+        "type": "number"
+      },
+      "250": {
+        "value": 14,
+        "type": "number"
+      },
+      "300": {
+        "value": 16,
+        "type": "number"
+      },
+      "350": {
+        "value": 18,
+        "type": "number"
+      },
+      "400": {
+        "value": 22,
+        "type": "number"
+      },
+      "450": {
+        "value": 28,
+        "type": "number"
+      },
+      "500": {
+        "value": 32,
+        "type": "number"
+      },
+      "600": {
+        "value": 36,
+        "type": "number"
+      },
+      "650": {
+        "value": 40,
+        "type": "number"
+      },
+      "700": {
+        "value": 48,
+        "type": "number"
+      },
+      "800": {
+        "value": 56,
+        "type": "number"
+      },
+      "900": {
+        "value": 64,
+        "type": "number"
+      }
+    },
+    "line-height": {
+      "default": {
+        "150": {
+          "value": 14,
+          "type": "number"
+        },
+        "200": {
+          "value": 16,
+          "type": "number"
+        },
+        "250": {
+          "value": 20,
+          "type": "number"
+        },
+        "300": {
+          "value": 22,
+          "type": "number"
+        },
+        "350": {
+          "value": 24,
+          "type": "number"
+        },
+        "400": {
+          "value": 30,
+          "type": "number"
+        },
+        "450": {
+          "value": 40,
+          "type": "number"
+        },
+        "500": {
+          "value": 44,
+          "type": "number"
+        },
+        "600": {
+          "value": 50,
+          "type": "number"
+        },
+        "650": {
+          "value": 58,
+          "type": "number"
+        },
+        "700": {
+          "value": 66,
+          "type": "number"
+        },
+        "800": {
+          "value": 78,
+          "type": "number"
+        },
+        "900": {
+          "value": 90,
+          "type": "number"
+        }
+      },
+      "compact": {
+        "150": {
+          "value": 12,
+          "type": "number"
+        },
+        "200": {
+          "value": 14,
+          "type": "number"
+        },
+        "250": {
+          "value": 16,
+          "type": "number"
+        },
+        "300": {
+          "value": 18,
+          "type": "number"
+        },
+        "350": {
+          "value": 22,
+          "type": "number"
+        },
+        "400": {
+          "value": 26,
+          "type": "number"
+        },
+        "450": {
+          "value": 32,
+          "type": "number"
+        },
+        "500": {
+          "value": 38,
+          "type": "number"
+        },
+        "600": {
+          "value": 42,
+          "type": "number"
+        },
+        "650": {
+          "value": 48,
+          "type": "number"
+        },
+        "700": {
+          "value": 56,
+          "type": "number"
+        },
+        "800": {
+          "value": 64,
+          "type": "number"
+        },
+        "900": {
+          "value": 76,
+          "type": "number"
+        }
+      }
+    },
+    "font-weight": {
+      "brand": {
+        "light": {
+          "value": 100,
+          "type": "number"
+        },
+        "default": {
+          "value": 500,
+          "type": "number"
+        },
+        "accent": {
+          "value": 600,
+          "type": "number"
+        }
+      },
+      "text": {
+        "light": {
+          "value": 100,
+          "type": "number"
+        },
+        "default": {
+          "value": 500,
+          "type": "number"
+        },
+        "accent": {
+          "value": 600,
+          "type": "number"
+        }
+      }
+    },
+    "paragraph-spacing": {
+      "0": {
+        "value": 0,
+        "type": "number"
+      },
+      "150": {
+        "value": 2,
+        "type": "number"
+      },
+      "200": {
+        "value": 4,
+        "type": "number"
+      },
+      "250": {
+        "value": 6,
+        "type": "number"
+      },
+      "300": {
+        "value": 8,
+        "type": "number"
+      },
+      "350": {
+        "value": 10,
+        "type": "number"
+      },
+      "400": {
+        "value": 12,
+        "type": "number"
+      },
+      "450": {
+        "value": 14,
+        "type": "number"
+      },
+      "500": {
+        "value": 16,
+        "type": "number"
+      },
+      "600": {
+        "value": 18,
+        "type": "number"
+      },
+      "650": {
+        "value": 20,
+        "type": "number"
+      },
+      "700": {
+        "value": 24,
+        "type": "number"
+      },
+      "800": {
+        "value": 28,
+        "type": "number"
+      },
+      "900": {
+        "value": 32,
+        "type": "number"
+      }
+    }
+  },
   "display": {
-    "500": {
+    "350": {
       "default": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.500}",
-          "lineHeight": "{core.style.compact.500}",
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.default}",
+          "fontSize": "{typography.font-size.350}",
+          "lineHeight": "{typography.line-height.compact.350}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -16,12 +280,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.500}",
-          "lineHeight": "{core.style.compact.500}",
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.default}",
+          "fontSize": "{typography.font-size.350}",
+          "lineHeight": "{typography.line-height.compact.350}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -29,12 +293,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.500}",
-          "lineHeight": "{core.style.compact.500}",
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.accent}",
+          "fontSize": "{typography.font-size.350}",
+          "lineHeight": "{typography.line-height.compact.350}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -42,12 +306,174 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.500}",
-          "lineHeight": "{core.style.compact.500}",
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.accent}",
+          "fontSize": "{typography.font-size.350}",
+          "lineHeight": "{typography.line-height.compact.350}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "400": {
+      "default": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.default}",
+          "fontSize": "{typography.font-size.400}",
+          "lineHeight": "{typography.line-height.compact.400}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "numeric": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.default}",
+          "fontSize": "{typography.font-size.400}",
+          "lineHeight": "{typography.line-height.compact.400}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.accent}",
+          "fontSize": "{typography.font-size.400}",
+          "lineHeight": "{typography.line-height.compact.400}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent-numeric": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.accent}",
+          "fontSize": "{typography.font-size.400}",
+          "lineHeight": "{typography.line-height.compact.400}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "450": {
+      "default": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.default}",
+          "fontSize": "{typography.font-size.450}",
+          "lineHeight": "{typography.line-height.compact.450}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "numeric": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.default}",
+          "fontSize": "{typography.font-size.450}",
+          "lineHeight": "{typography.line-height.compact.450}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.accent}",
+          "fontSize": "{typography.font-size.450}",
+          "lineHeight": "{typography.line-height.compact.450}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent-numeric": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.accent}",
+          "fontSize": "{typography.font-size.450}",
+          "lineHeight": "{typography.line-height.compact.450}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "500": {
+      "default": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.default}",
+          "fontSize": "{typography.font-size.500}",
+          "lineHeight": "{typography.line-height.compact.500}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "numeric": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.default}",
+          "fontSize": "{typography.font-size.500}",
+          "lineHeight": "{typography.line-height.compact.500}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.accent}",
+          "fontSize": "{typography.font-size.500}",
+          "lineHeight": "{typography.line-height.compact.500}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent-numeric": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.accent}",
+          "fontSize": "{typography.font-size.500}",
+          "lineHeight": "{typography.line-height.compact.500}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -57,12 +483,12 @@
     "600": {
       "default": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.600}",
-          "lineHeight": "{core.style.compact.600}",
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.default}",
+          "fontSize": "{typography.font-size.650}",
+          "lineHeight": "{typography.line-height.compact.650}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -70,12 +496,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.600}",
-          "lineHeight": "{core.style.compact.600}",
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.default}",
+          "fontSize": "{typography.font-size.650}",
+          "lineHeight": "{typography.line-height.compact.650}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -83,12 +509,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.600}",
-          "lineHeight": "{core.style.compact.600}",
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.accent}",
+          "fontSize": "{typography.font-size.650}",
+          "lineHeight": "{typography.line-height.compact.650}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -96,174 +522,12 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.600}",
-          "lineHeight": "{core.style.compact.600}",
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.accent}",
+          "fontSize": "{typography.font-size.650}",
+          "lineHeight": "{typography.line-height.compact.650}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      }
-    },
-    "700": {
-      "default": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.700}",
-          "lineHeight": "{core.style.compact.700}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.700}",
-          "lineHeight": "{core.style.compact.700}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.700}",
-          "lineHeight": "{core.style.compact.700}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent-numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.700}",
-          "lineHeight": "{core.style.compact.700}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      }
-    },
-    "800": {
-      "default": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.800}",
-          "lineHeight": "{core.style.compact.800}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.800}",
-          "lineHeight": "{core.style.compact.800}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.800}",
-          "lineHeight": "{core.style.compact.800}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent-numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.800}",
-          "lineHeight": "{core.style.compact.800}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      }
-    },
-    "900": {
-      "default": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.900}",
-          "lineHeight": "{core.style.compact.900}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.900}",
-          "lineHeight": "{core.style.compact.900}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.900}",
-          "lineHeight": "{core.style.compact.900}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent-numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.900}",
-          "lineHeight": "{core.style.compact.900}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -272,15 +536,15 @@
     }
   },
   "text": {
-    "200": {
+    "150": {
       "default": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.200}",
-          "lineHeight": "{core.style.text.200}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.150}",
+          "lineHeight": "{typography.line-height.default.150}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.150}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -288,12 +552,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.200}",
-          "lineHeight": "{core.style.text.200}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.150}",
+          "lineHeight": "{typography.line-height.default.150}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.150}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -301,12 +565,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.200}",
-          "lineHeight": "{core.style.text.200}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.150}",
+          "lineHeight": "{typography.line-height.default.150}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.150}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -314,12 +578,120 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.200}",
-          "lineHeight": "{core.style.text.200}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.150}",
+          "lineHeight": "{typography.line-height.default.150}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.150}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "200": {
+      "default": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.200}",
+          "lineHeight": "{typography.line-height.default.200}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.200}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "numeric": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.200}",
+          "lineHeight": "{typography.line-height.default.200}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.200}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.200}",
+          "lineHeight": "{typography.line-height.default.200}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.200}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent-numeric": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.200}",
+          "lineHeight": "{typography.line-height.default.200}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.200}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "250": {
+      "default": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.250}",
+          "lineHeight": "{typography.line-height.default.250}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.250}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "numeric": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.250}",
+          "lineHeight": "{typography.line-height.default.250}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.250}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.250}",
+          "lineHeight": "{typography.line-height.default.250}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.250}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent-numeric": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.250}",
+          "lineHeight": "{typography.line-height.default.250}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.250}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -329,12 +701,12 @@
     "300": {
       "default": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.300}",
-          "lineHeight": "{core.style.text.300}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.300}",
+          "lineHeight": "{typography.line-height.default.300}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.300}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -342,12 +714,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.300}",
-          "lineHeight": "{core.style.text.300}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.300}",
+          "lineHeight": "{typography.line-height.default.300}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.300}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -355,12 +727,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.300}",
-          "lineHeight": "{core.style.text.300}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.300}",
+          "lineHeight": "{typography.line-height.default.300}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.300}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -368,12 +740,66 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.300}",
-          "lineHeight": "{core.style.text.300}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.300}",
+          "lineHeight": "{typography.line-height.default.300}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.300}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "350": {
+      "default": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.350}",
+          "lineHeight": "{typography.line-height.default.350}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.350}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "numeric": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.350}",
+          "lineHeight": "{typography.line-height.default.350}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.350}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.350}",
+          "lineHeight": "{typography.line-height.default.350}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.350}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent-numeric": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.350}",
+          "lineHeight": "{typography.line-height.default.350}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.350}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -383,12 +809,12 @@
     "400": {
       "default": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.400}",
-          "lineHeight": "{core.style.text.400}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.400}",
+          "lineHeight": "{typography.line-height.default.400}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.400}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -396,12 +822,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.400}",
-          "lineHeight": "{core.style.text.400}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.400}",
+          "lineHeight": "{typography.line-height.default.400}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.400}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -409,12 +835,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.400}",
-          "lineHeight": "{core.style.text.400}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.400}",
+          "lineHeight": "{typography.line-height.default.400}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.400}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -422,174 +848,12 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.400}",
-          "lineHeight": "{core.style.text.400}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.400}",
+          "lineHeight": "{typography.line-height.default.400}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      }
-    },
-    "500": {
-      "default": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.500}",
-          "lineHeight": "{core.style.text.500}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.500}",
-          "lineHeight": "{core.style.text.500}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.500}",
-          "lineHeight": "{core.style.text.500}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent-numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.500}",
-          "lineHeight": "{core.style.text.500}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      }
-    },
-    "600": {
-      "default": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.600}",
-          "lineHeight": "{core.style.text.600}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.600}",
-          "lineHeight": "{core.style.text.600}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.600}",
-          "lineHeight": "{core.style.text.600}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent-numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.600}",
-          "lineHeight": "{core.style.text.600}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      }
-    },
-    "700": {
-      "default": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.700}",
-          "lineHeight": "{core.style.text.700}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.700}",
-          "lineHeight": "{core.style.text.700}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.700}",
-          "lineHeight": "{core.style.text.700}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent-numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.700}",
-          "lineHeight": "{core.style.text.700}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.400}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -598,15 +862,15 @@
     }
   },
   "compact": {
-    "200": {
+    "150": {
       "default": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.200}",
-          "lineHeight": "{core.style.compact.200}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.150}",
+          "lineHeight": "{typography.line-height.compact.150}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -614,12 +878,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.200}",
-          "lineHeight": "{core.style.compact.200}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.150}",
+          "lineHeight": "{typography.line-height.compact.150}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -627,12 +891,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.200}",
-          "lineHeight": "{core.style.compact.200}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.150}",
+          "lineHeight": "{typography.line-height.compact.150}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -640,12 +904,120 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.200}",
-          "lineHeight": "{core.style.compact.200}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.150}",
+          "lineHeight": "{typography.line-height.compact.150}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "200": {
+      "default": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.200}",
+          "lineHeight": "{typography.line-height.compact.200}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "numeric": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.200}",
+          "lineHeight": "{typography.line-height.compact.200}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.200}",
+          "lineHeight": "{typography.line-height.compact.200}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent-numeric": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.200}",
+          "lineHeight": "{typography.line-height.compact.200}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "250": {
+      "default": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.250}",
+          "lineHeight": "{typography.line-height.compact.250}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "numeric": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.250}",
+          "lineHeight": "{typography.line-height.compact.250}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.250}",
+          "lineHeight": "{typography.line-height.compact.250}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent-numeric": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.250}",
+          "lineHeight": "{typography.line-height.compact.250}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -655,12 +1027,12 @@
     "300": {
       "default": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.300}",
-          "lineHeight": "{core.style.compact.300}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.300}",
+          "lineHeight": "{typography.line-height.compact.300}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -668,12 +1040,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.300}",
-          "lineHeight": "{core.style.compact.300}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.300}",
+          "lineHeight": "{typography.line-height.compact.300}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -681,12 +1053,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.300}",
-          "lineHeight": "{core.style.compact.300}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.300}",
+          "lineHeight": "{typography.line-height.compact.300}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -694,12 +1066,66 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.300}",
-          "lineHeight": "{core.style.compact.300}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.300}",
+          "lineHeight": "{typography.line-height.compact.300}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "350": {
+      "default": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.350}",
+          "lineHeight": "{typography.line-height.compact.350}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "numeric": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.350}",
+          "lineHeight": "{typography.line-height.compact.350}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.350}",
+          "lineHeight": "{typography.line-height.compact.350}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent-numeric": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.350}",
+          "lineHeight": "{typography.line-height.compact.350}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -709,12 +1135,12 @@
     "400": {
       "default": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.400}",
-          "lineHeight": "{core.style.compact.400}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.400}",
+          "lineHeight": "{typography.line-height.compact.400}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -722,12 +1148,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.400}",
-          "lineHeight": "{core.style.compact.400}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.default}",
+          "fontSize": "{typography.font-size.400}",
+          "lineHeight": "{typography.line-height.compact.400}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -735,12 +1161,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.400}",
-          "lineHeight": "{core.style.compact.400}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.400}",
+          "lineHeight": "{typography.line-height.compact.400}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -748,174 +1174,12 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.400}",
-          "lineHeight": "{core.style.compact.400}",
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.accent}",
+          "fontSize": "{typography.font-size.400}",
+          "lineHeight": "{typography.line-height.compact.400}",
           "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      }
-    },
-    "500": {
-      "default": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.500}",
-          "lineHeight": "{core.style.compact.500}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.500}",
-          "lineHeight": "{core.style.compact.500}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.500}",
-          "lineHeight": "{core.style.compact.500}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent-numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.500}",
-          "lineHeight": "{core.style.compact.500}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      }
-    },
-    "600": {
-      "default": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.600}",
-          "lineHeight": "{core.style.compact.600}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.600}",
-          "lineHeight": "{core.style.compact.600}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.600}",
-          "lineHeight": "{core.style.compact.600}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent-numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.600}",
-          "lineHeight": "{core.style.compact.600}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      }
-    },
-    "700": {
-      "default": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.700}",
-          "lineHeight": "{core.style.compact.700}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.default}",
-          "fontSize": "{core.size.700}",
-          "lineHeight": "{core.style.compact.700}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.700}",
-          "lineHeight": "{core.style.compact.700}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent-numeric": {
-        "value": {
-          "fontFamily": "{core.font.common}, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif",
-          "fontWeight": "{core.type.accent}",
-          "fontSize": "{core.size.700}",
-          "lineHeight": "{core.style.compact.700}",
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
           "textDecoration": "none"
         },
