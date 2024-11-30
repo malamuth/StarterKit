@@ -1,15 +1,15 @@
 {
   "shadow": {
     "100": {
-      "value": "rgba({goose.999}, {opacity.shadow.light.100})",
+      "value": "rgba( {goose.999}, {opacity.shadow.light.100})",
       "type": "color"
     },
     "500": {
-      "value": "rgba({goose.999}, {opacity.shadow.light.500})",
+      "value": "rgba( {goose.999}, {opacity.shadow.light.500})",
       "type": "color"
     },
     "900": {
-      "value": "rgba({goose.999}, {opacity.shadow.light.900})",
+      "value": "rgba( {goose.999}, {opacity.shadow.light.900})",
       "type": "color"
     }
   }
