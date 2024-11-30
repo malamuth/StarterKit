@@ -69,6 +69,36 @@
           "type": "opacity"
         }
       }
+    },
+    "shadow": {
+      "light": {
+        "100": {
+          "value": "0.1",
+          "type": "opacity"
+        },
+        "500": {
+          "value": "0.16",
+          "type": "opacity"
+        },
+        "900": {
+          "value": "0.32",
+          "type": "opacity"
+        }
+      },
+      "dark": {
+        "100": {
+          "value": "0.2",
+          "type": "opacity"
+        },
+        "500": {
+          "value": "0.4",
+          "type": "opacity"
+        },
+        "900": {
+          "value": "0.64",
+          "type": "opacity"
+        }
+      }
     }
   }
 }
