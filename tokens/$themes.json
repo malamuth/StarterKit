@@ -550,9 +550,9 @@
     "selectedTokenSets": {
       "common/palette/light": "enabled",
       "common/theme/light": "enabled",
-      "common/shadow/light": "enabled",
       "common/opacity/opacity": "source",
-      "common/shadow/shadow": "enabled"
+      "common/effect/light": "enabled",
+      "common/effect/shadow": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10092",
     "$figmaModeId": "2:5",
@@ -682,9 +682,9 @@
     "selectedTokenSets": {
       "common/palette/dark": "enabled",
       "common/theme/dark": "enabled",
-      "common/shadow/dark": "enabled",
       "common/opacity/opacity": "source",
-      "common/shadow/shadow": "enabled"
+      "common/effect/dark": "enabled",
+      "common/effect/shadow": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10092",
     "$figmaModeId": "2:6",

@@ -5,9 +5,6 @@
     "common/palette/light",
     "common/theme/dark",
     "common/theme/light",
-    "common/shadow/dark",
-    "common/shadow/light",
-    "common/shadow/shadow",
     "common/layout/layout",
     "common/radius/radius",
     "common/size/size",
@@ -17,6 +14,9 @@
     "semantic/main-layout/layout/breakpoint/desktop",
     "semantic/main-layout/layout/breakpoint/mobile",
     "semantic/main-layout/layout/breakpoint/tablet-landscape",
-    "semantic/main-layout/layout/breakpoint/tablet-portrait"
+    "semantic/main-layout/layout/breakpoint/tablet-portrait",
+    "common/effect/dark",
+    "common/effect/light",
+    "common/effect/shadow"
   ]
 }
