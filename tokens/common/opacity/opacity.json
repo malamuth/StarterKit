@@ -59,6 +59,16 @@
       }
     },
     "layer": {
+      "floor-scrim": {
+        "light": {
+          "value": "0.6",
+          "type": "opacity"
+        },
+        "dark": {
+          "value": "0.6",
+          "type": "opacity"
+        }
+      },
       "floor-overlay": {
         "light": {
           "value": "0.8",
