@@ -21,11 +21,11 @@
       "type": "number"
     },
     "gutter": {
-      "value": "{spacing.450}",
+      "value": "{spacing.400}",
       "type": "number"
     },
     "margin-horizontal": {
-      "value": "{spacing.650}",
+      "value": "{spacing.700}",
       "type": "number"
     },
     "breakpoint": {
