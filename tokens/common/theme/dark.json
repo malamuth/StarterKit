@@ -224,6 +224,10 @@
       "value": "{goose.900}",
       "type": "color"
     },
+    "floor-scrim": {
+      "value": "rgba({goose.900}, {opacity.layer.floor-overlay.light})",
+      "type": "color"
+    },
     "floor-overlay": {
       "value": "rgba({goose.900}, {opacity.layer.floor-overlay.dark})",
       "type": "color"
