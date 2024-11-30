@@ -25,7 +25,7 @@
       "type": "number"
     },
     "margin-horizontal": {
-      "value": "{spacing.350}",
+      "value": "{spacing.400}",
       "type": "number"
     },
     "breakpoint": {

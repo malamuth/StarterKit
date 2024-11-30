@@ -21,7 +21,7 @@
       "type": "number"
     },
     "gutter": {
-      "value": "{spacing.400}",
+      "value": "{spacing.450}",
       "type": "number"
     },
     "margin-horizontal": {
