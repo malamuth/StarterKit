@@ -11,19 +11,12 @@
     "common/theme/dark",
     "common/theme/light",
     "common/typography/typography",
-    "semantic/control/layout",
-    "semantic/label-icon/layout",
     "semantic/main-layout/layout/breakpoint/desktop",
     "semantic/main-layout/layout/breakpoint/mobile",
     "semantic/main-layout/layout/breakpoint/tablet-landscape",
     "semantic/main-layout/layout/breakpoint/tablet-portrait",
-    "semantic/semantic-text/layout/breakpoint/desktop",
-    "semantic/semantic-text/layout/breakpoint/mobile",
-    "semantic/semantic-text/layout/breakpoint/tablet-landscape",
-    "semantic/semantic-text/layout/breakpoint/tablet-portrait",
-    "semantic/semantic-text/typography/desktop",
-    "semantic/semantic-text/typography/mobile",
-    "semantic/semantic-text/typography/tablet-landscape",
-    "semantic/semantic-text/typography/tablet-portrait"
+    "common/shadow/dark",
+    "common/shadow/light",
+    "common/shadow/shadow"
   ]
 }
