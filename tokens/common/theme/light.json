@@ -145,6 +145,10 @@
     "static-dark-high": {
       "value": "{goose.999}",
       "type": "color"
+    },
+    "brand-special": {
+      "value": "{goose.0}",
+      "type": "color"
     }
   },
   "overlay": {
@@ -178,6 +182,10 @@
     },
     "static-dark": {
       "value": "rgba({goose.999}, {opacity.overlay.static})",
+      "type": "color"
+    },
+    "brand-special": {
+      "value": "{brand.500}",
       "type": "color"
     }
   },
