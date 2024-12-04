@@ -485,6 +485,60 @@
         "value": {
           "fontFamily": "{typography.font.brand}",
           "fontWeight": "{typography.font-weight.brand.default}",
+          "fontSize": "{typography.font-size.600}",
+          "lineHeight": "{typography.line-height.compact.600}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "numeric": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.default}",
+          "fontSize": "{typography.font-size.600}",
+          "lineHeight": "{typography.line-height.compact.600}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.accent}",
+          "fontSize": "{typography.font-size.600}",
+          "lineHeight": "{typography.line-height.compact.600}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent-numeric": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.accent}",
+          "fontSize": "{typography.font-size.600}",
+          "lineHeight": "{typography.line-height.compact.600}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "650": {
+      "default": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.default}",
           "fontSize": "{typography.font-size.650}",
           "lineHeight": "{typography.line-height.compact.650}",
           "letterSpacing": 0,
@@ -526,6 +580,60 @@
           "fontWeight": "{typography.font-weight.brand.accent}",
           "fontSize": "{typography.font-size.650}",
           "lineHeight": "{typography.line-height.compact.650}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "700": {
+      "default": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.default}",
+          "fontSize": "{typography.font-size.700}",
+          "lineHeight": "{typography.line-height.compact.700}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "numeric": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.default}",
+          "fontSize": "{typography.font-size.700}",
+          "lineHeight": "{typography.line-height.compact.700}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.accent}",
+          "fontSize": "{typography.font-size.700}",
+          "lineHeight": "{typography.line-height.compact.700}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent-numeric": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.accent}",
+          "fontSize": "{typography.font-size.700}",
+          "lineHeight": "{typography.line-height.compact.700}",
           "letterSpacing": 0,
           "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
