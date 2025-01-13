@@ -37,6 +37,44 @@
       "type": "color"
     }
   },
+  "brand-extra": {
+    "100": {
+      "value": "#E7E6FE",
+      "type": "color"
+    },
+    "200": {
+      "value": "#D2CEFD",
+      "type": "color"
+    },
+    "300": {
+      "value": "#B2A6FC",
+      "type": "color"
+    },
+    "400": {
+      "value": "#977BEC",
+      "type": "color"
+    },
+    "500": {
+      "value": "#6939F9",
+      "type": "color"
+    },
+    "600": {
+      "value": "#541CF9",
+      "type": "color"
+    },
+    "700": {
+      "value": "#3703D3",
+      "type": "color"
+    },
+    "800": {
+      "value": "#2A00A7",
+      "type": "color"
+    },
+    "900": {
+      "value": "#1E0177",
+      "type": "color"
+    }
+  },
   "goose": {
     "0": {
       "value": "#FFFFFF",
