@@ -21,6 +21,10 @@
     "common/platform/app",
     "common/platform/extension",
     "common/platform/miniapp",
-    "common/platform/web"
+    "common/platform/web",
+    "semantic/nav-bar/platform/app",
+    "semantic/nav-bar/platform/extension",
+    "semantic/nav-bar/platform/miniapp",
+    "semantic/nav-bar/platform/web"
   ]
 }

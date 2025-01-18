@@ -809,7 +809,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "semantic/main-layout/layout/breakpoint/mobile": "source",
-      "common/platform/web": "enabled"
+      "common/platform/web": "enabled",
+      "semantic/nav-bar/platform/web": "enabled"
     },
     "group": "platform"
   },
@@ -818,7 +819,8 @@
     "name": "app",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/platform/app": "enabled"
+      "common/platform/app": "enabled",
+      "semantic/nav-bar/platform/app": "enabled"
     },
     "group": "platform"
   },
@@ -827,7 +829,8 @@
     "name": "extension",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/platform/extension": "enabled"
+      "common/platform/extension": "enabled",
+      "semantic/nav-bar/platform/extension": "enabled"
     },
     "group": "platform"
   },
@@ -836,7 +839,8 @@
     "name": "miniapp",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/platform/miniapp": "enabled"
+      "common/platform/miniapp": "enabled",
+      "semantic/nav-bar/platform/miniapp": "enabled"
     },
     "group": "platform"
   }
