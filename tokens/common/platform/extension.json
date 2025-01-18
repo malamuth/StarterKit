@@ -1,0 +1,26 @@
+{
+  "platform": {
+    "value": "extension",
+    "type": "text"
+  },
+  "width": {
+    "value": 360,
+    "type": "number"
+  },
+  "height": {
+    "value": 600,
+    "type": "number"
+  },
+  "has-status-bar": {
+    "value": "false",
+    "type": "boolean"
+  },
+  "has-home-indicator": {
+    "value": "false",
+    "type": "boolean"
+  },
+  "has-keyboard": {
+    "value": "false",
+    "type": "boolean"
+  }
+}

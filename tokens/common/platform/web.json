@@ -1,0 +1,26 @@
+{
+  "platform": {
+    "value": "web",
+    "type": "text"
+  },
+  "width": {
+    "value": "{main-layout.width}",
+    "type": "number"
+  },
+  "height": {
+    "value": "{main-layout.height}",
+    "type": "number"
+  },
+  "has-status-bar": {
+    "value": "false",
+    "type": "boolean"
+  },
+  "has-home-indicator": {
+    "value": "false",
+    "type": "boolean"
+  },
+  "has-keyboard": {
+    "value": "false",
+    "type": "boolean"
+  }
+}
