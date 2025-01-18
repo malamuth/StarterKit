@@ -13,17 +13,33 @@
       }
     },
     "overlay": {
-      "light": {
-        "value": "0.12",
-        "type": "opacity"
+      "primary": {
+        "light": {
+          "value": "0.12",
+          "type": "opacity"
+        },
+        "dark": {
+          "value": "0.04",
+          "type": "opacity"
+        },
+        "static": {
+          "value": "0.6",
+          "type": "opacity"
+        }
       },
-      "dark": {
-        "value": "0.04",
-        "type": "opacity"
-      },
-      "static": {
-        "value": "0.6",
-        "type": "opacity"
+      "secondary": {
+        "light": {
+          "value": "0.12",
+          "type": "opacity"
+        },
+        "dark": {
+          "value": "0.04",
+          "type": "opacity"
+        },
+        "static": {
+          "value": "0.6",
+          "type": "opacity"
+        }
       }
     },
     "border": {
