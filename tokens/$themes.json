@@ -802,5 +802,42 @@
       "layer.floor-overlay": "60adc62ae139231fd737f429cf122744b6b7e1b6"
     },
     "group": "theme"
+  },
+  {
+    "id": "e3a303ecce6bb2d6850a1e284eac9dd44f53751d",
+    "name": "web",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/main-layout/layout/breakpoint/mobile": "source",
+      "common/platform/web": "enabled"
+    },
+    "group": "platform"
+  },
+  {
+    "id": "30adc23ef7de084be4595880a91c03105699a8bf",
+    "name": "app",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/platform/app": "enabled"
+    },
+    "group": "platform"
+  },
+  {
+    "id": "20b0c27739f9e6d83b3d2ac8e1b9c04c06b836db",
+    "name": "extension",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/platform/extension": "enabled"
+    },
+    "group": "platform"
+  },
+  {
+    "id": "dbdc0f0bff861f10f16a5935186e54b791ba8dc7",
+    "name": "miniapp",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/platform/miniapp": "enabled"
+    },
+    "group": "platform"
   }
 ]
