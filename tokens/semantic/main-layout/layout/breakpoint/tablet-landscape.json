@@ -20,6 +20,10 @@
       "value": "{layout.col-number}",
       "type": "number"
     },
+    "col-width": {
+      "value": 0,
+      "type": "number"
+    },
     "gutter": {
       "value": "{spacing.400}",
       "type": "number"

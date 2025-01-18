@@ -1,26 +1,28 @@
 {
   "platform": {
-    "value": "miniapp",
-    "type": "text"
-  },
-  "width": {
-    "value": 375,
-    "type": "number"
-  },
-  "height": {
-    "value": 812,
-    "type": "number"
-  },
-  "has-status-bar": {
-    "value": "true",
-    "type": "boolean"
-  },
-  "has-home-indicator": {
-    "value": "true",
-    "type": "boolean"
-  },
-  "has-keyboard": {
-    "value": "true",
-    "type": "boolean"
+    "name": {
+      "value": "miniapp",
+      "type": "text"
+    },
+    "width": {
+      "value": 375,
+      "type": "number"
+    },
+    "height": {
+      "value": 812,
+      "type": "number"
+    },
+    "has-status-bar": {
+      "value": "true",
+      "type": "boolean"
+    },
+    "has-home-indicator": {
+      "value": "true",
+      "type": "boolean"
+    },
+    "has-keyboard": {
+      "value": "true",
+      "type": "boolean"
+    }
   }
 }

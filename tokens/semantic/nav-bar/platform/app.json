@@ -1,0 +1,10 @@
+{
+  "nav-bar": {
+    "layout": {
+      "padding-top": {
+        "value": "{spacing.0}",
+        "type": "number"
+      }
+    }
+  }
+}
