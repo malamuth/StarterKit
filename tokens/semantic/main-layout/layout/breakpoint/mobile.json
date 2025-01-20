@@ -29,7 +29,11 @@
       "type": "number"
     },
     "margin-horizontal": {
-      "value": "{spacing.400}",
+      "value": "{spacing.100}",
+      "type": "number"
+    },
+    "content-compensation": {
+      "value": "{spacing.350}",
       "type": "number"
     },
     "breakpoint": {

@@ -32,6 +32,10 @@
       "value": "{spacing.700}",
       "type": "number"
     },
+    "content-compensation": {
+      "value": "{spacing.0}",
+      "type": "number"
+    },
     "breakpoint": {
       "value": "tablet-landscape",
       "type": "text"
