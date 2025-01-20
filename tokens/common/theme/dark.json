@@ -84,6 +84,10 @@
       "value": "{curacao.400}",
       "type": "color"
     },
+    "neutral-primary-inverted": {
+      "value": "{goose.900}",
+      "type": "color"
+    },
     "static-light-primary": {
       "value": "{goose.0}",
       "type": "color"
@@ -156,6 +160,10 @@
     },
     "info-low": {
       "value": "{curacao.900}",
+      "type": "color"
+    },
+    "neutral-high-inverted": {
+      "value": "{goose.0}",
       "type": "color"
     },
     "static-light-high": {
