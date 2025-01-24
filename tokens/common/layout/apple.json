@@ -1,0 +1,110 @@
+{
+  "layout": {
+    "min-width": {
+      "value": "375",
+      "type": "number"
+    },
+    "max-width": {
+      "value": "1920",
+      "type": "number"
+    },
+    "breakpoint": {
+      "sm": {
+        "value": "440",
+        "type": "number"
+      },
+      "md": {
+        "value": "768",
+        "type": "number"
+      },
+      "lg": {
+        "value": "1024",
+        "type": "number"
+      },
+      "xl": {
+        "value": "1366",
+        "type": "number"
+      }
+    },
+    "col-number": {
+      "sm": {
+        "value": "1",
+        "type": "number"
+      },
+      "md": {
+        "value": "6",
+        "type": "number"
+      },
+      "lg": {
+        "value": "6",
+        "type": "number"
+      },
+      "xl": {
+        "value": "6",
+        "type": "number"
+      }
+    },
+    "col-width": {
+      "sm": {
+        "value": "0",
+        "type": "number"
+      },
+      "md": {
+        "value": "0",
+        "type": "number"
+      },
+      "lg": {
+        "value": "0",
+        "type": "number"
+      },
+      "xl": {
+        "value": "0",
+        "type": "number"
+      }
+    },
+    "width": {
+      "sm": {
+        "value": "{layout.min-width}",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "md": {
+        "value": "{layout.breakpoint.md}",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "{layout.breakpoint.lg}",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "xl": {
+        "value": "{layout.breakpoint.xl}",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "height": {
+      "sm": {
+        "value": "812",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "md": {
+        "value": "{layout.breakpoint.lg}",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "{layout.breakpoint.md}",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "xl": {
+        "value": "{layout.breakpoint.lg}",
+        "type": "number",
+        "description": "figma-only"
+      }
+    }
+  }
+}

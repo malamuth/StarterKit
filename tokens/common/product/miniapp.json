@@ -1,0 +1,44 @@
+{
+  "product": {
+    "name": {
+      "value": "miniapp",
+      "type": "text"
+    },
+    "width": {
+      "sm": {
+        "value": "{layout.min-width}",
+        "type": "number"
+      },
+      "md": {
+        "value": "390",
+        "type": "number"
+      },
+      "lg": {
+        "value": "390",
+        "type": "number"
+      },
+      "xl": {
+        "value": "400",
+        "type": "number"
+      }
+    },
+    "height": {
+      "sm": {
+        "value": "812",
+        "type": "number"
+      },
+      "md": {
+        "value": "620",
+        "type": "number"
+      },
+      "lg": {
+        "value": "620",
+        "type": "number"
+      },
+      "xl": {
+        "value": "646",
+        "type": "number"
+      }
+    }
+  }
+}

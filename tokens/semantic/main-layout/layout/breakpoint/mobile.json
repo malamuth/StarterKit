@@ -1,5 +1,10 @@
 {
   "main-layout": {
+    "breakpoint": {
+      "value": "mobile",
+      "type": "text",
+      "description": "figma-only"
+    },
     "min-width": {
       "value": "{layout.min-width}",
       "type": "number"
@@ -9,19 +14,21 @@
       "type": "number"
     },
     "width": {
-      "value": 375,
-      "type": "number"
+      "value": "{product.width.sm}",
+      "type": "number",
+      "description": "figma-only"
     },
     "height": {
-      "value": 812,
-      "type": "number"
+      "value": "{product.height.sm}",
+      "type": "number",
+      "description": "figma-only"
     },
     "columns": {
-      "value": "{layout.col-number}",
+      "value": "{layout.col-number.sm}",
       "type": "number"
     },
     "col-width": {
-      "value": 0,
+      "value": "{layout.col-width.sm}",
       "type": "number"
     },
     "gutter": {
@@ -35,10 +42,6 @@
     "content-compensation": {
       "value": "{spacing.350}",
       "type": "number"
-    },
-    "breakpoint": {
-      "value": "mobile",
-      "type": "text"
     }
   }
 }

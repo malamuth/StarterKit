@@ -1,0 +1,110 @@
+{
+  "layout": {
+    "min-width": {
+      "value": "360",
+      "type": "number"
+    },
+    "max-width": {
+      "value": "1920",
+      "type": "number"
+    },
+    "breakpoint": {
+      "sm": {
+        "value": "576",
+        "type": "number"
+      },
+      "md": {
+        "value": "768",
+        "type": "number"
+      },
+      "lg": {
+        "value": "992",
+        "type": "number"
+      },
+      "xl": {
+        "value": "1200",
+        "type": "number"
+      }
+    },
+    "col-number": {
+      "sm": {
+        "value": "12",
+        "type": "number"
+      },
+      "md": {
+        "value": "12",
+        "type": "number"
+      },
+      "lg": {
+        "value": "12",
+        "type": "number"
+      },
+      "xl": {
+        "value": "12",
+        "type": "number"
+      }
+    },
+    "col-width": {
+      "sm": {
+        "value": "0",
+        "type": "number"
+      },
+      "md": {
+        "value": "0",
+        "type": "number"
+      },
+      "lg": {
+        "value": "0",
+        "type": "number"
+      },
+      "xl": {
+        "value": "0",
+        "type": "number"
+      }
+    },
+    "width": {
+      "sm": {
+        "value": "{layout.min-width}",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "md": {
+        "value": "{layout.breakpoint.md}",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "{layout.breakpoint.lg}",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "xl": {
+        "value": "{layout.breakpoint.xl}",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "height": {
+      "sm": {
+        "value": "800",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "md": {
+        "value": "800",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "800",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "xl": {
+        "value": "800",
+        "type": "number",
+        "description": "figma-only"
+      }
+    }
+  }
+}
