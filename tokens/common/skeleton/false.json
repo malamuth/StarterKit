@@ -1,0 +1,12 @@
+{
+  "skeleton": {
+    "content": {
+      "value": "true",
+      "type": "boolean"
+    },
+    "skeleton": {
+      "value": "false",
+      "type": "boolean"
+    }
+  }
+}
