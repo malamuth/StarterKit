@@ -11,17 +11,20 @@
     "common/layout/web",
     "common/layout/apple",
     "common/layout/android",
+    "common/platform/web",
+    "common/platform/apple",
+    "common/platform/android",
     "common/product/app",
     "common/product/website",
     "common/product/miniapp",
     "common/product/extension",
-    "common/platform/apple",
-    "common/platform/android",
     "common/radius/radius",
     "common/size/size",
     "common/spacing/spacing",
     "common/stroke/stroke",
     "common/typography/typography",
+    "common/skeleton/false",
+    "common/skeleton/true",
     "semantic/main-layout/layout/breakpoint/desktop",
     "semantic/main-layout/layout/breakpoint/mobile",
     "semantic/main-layout/layout/breakpoint/tablet-landscape",
@@ -29,6 +32,6 @@
     "semantic/nav-bar/platform/app",
     "semantic/nav-bar/platform/extension",
     "semantic/nav-bar/platform/miniapp",
-    "semantic/nav-bar/platform/web"
+    "semantic/nav-bar/platform/website"
   ]
 }
