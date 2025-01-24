@@ -5,8 +5,22 @@
       "type": "number"
     },
     "max-width": {
-      "value": "1920",
-      "type": "number"
+      "sm": {
+        "value": "{layout.breakpoint.md} - 1",
+        "type": "number"
+      },
+      "md": {
+        "value": "{layout.breakpoint.lg} - 1",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{layout.breakpoint.xl} - 1",
+        "type": "number"
+      },
+      "xl": {
+        "value": "1920",
+        "type": "number"
+      }
     },
     "breakpoint": {
       "sm": {

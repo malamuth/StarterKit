@@ -10,7 +10,7 @@
       "type": "number"
     },
     "max-width": {
-      "value": "{layout.max-width}",
+      "value": "{layout.max-width.xl}",
       "type": "number"
     },
     "width": {

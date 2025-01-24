@@ -10,7 +10,7 @@
       "type": "number"
     },
     "max-width": {
-      "value": "{layout.breakpoint.lg} - 1",
+      "value": "{layout.max-width.md}",
       "type": "number"
     },
     "width": {
