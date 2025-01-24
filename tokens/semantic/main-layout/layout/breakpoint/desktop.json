@@ -32,7 +32,7 @@
       "type": "number"
     },
     "gutter": {
-      "value": "{spacing.450}",
+      "value": "{layout.gutter.xl}",
       "type": "number"
     },
     "margin-horizontal": {

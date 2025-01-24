@@ -32,7 +32,7 @@
       "type": "number"
     },
     "gutter": {
-      "value": "{spacing.400}",
+      "value": "{layout.gutter.lg}",
       "type": "number"
     },
     "margin-horizontal": {

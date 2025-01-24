@@ -76,6 +76,24 @@
         "type": "number"
       }
     },
+    "gutter": {
+      "sm": {
+        "value": "{spacing.0}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{spacing.0}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{spacing.0}",
+        "type": "number"
+      },
+      "xl": {
+        "value": "{spacing.0}",
+        "type": "number"
+      }
+    },
     "width": {
       "sm": {
         "value": "{layout.min-width}",
