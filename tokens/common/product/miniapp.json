@@ -6,37 +6,37 @@
     },
     "width": {
       "sm": {
-        "value": "{layout.min-width}",
+        "value": "{layout.width.sm}",
         "type": "number"
       },
       "md": {
-        "value": "390",
+        "value": "{layout.width.md}",
         "type": "number"
       },
       "lg": {
-        "value": "390",
+        "value": "{layout.width.lg}",
         "type": "number"
       },
       "xl": {
-        "value": "400",
+        "value": "{layout.width.xl}",
         "type": "number"
       }
     },
     "height": {
       "sm": {
-        "value": "812",
+        "value": "{layout.height.sm}",
         "type": "number"
       },
       "md": {
-        "value": "620",
+        "value": "{layout.height.md}",
         "type": "number"
       },
       "lg": {
-        "value": "620",
+        "value": "{layout.height.lg}",
         "type": "number"
       },
       "xl": {
-        "value": "646",
+        "value": "{layout.height.xl}",
         "type": "number"
       }
     }
