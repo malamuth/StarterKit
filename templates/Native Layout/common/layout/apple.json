@@ -1,7 +1,7 @@
 {
   "layout": {
     "min-width": {
-      "value": "360",
+      "value": "375",
       "type": "number"
     },
     "max-width": {
@@ -24,37 +24,37 @@
     },
     "breakpoint": {
       "sm": {
-        "value": "0",
+        "value": "440",
         "type": "number"
       },
       "md": {
-        "value": "600",
+        "value": "768",
         "type": "number"
       },
       "lg": {
-        "value": "840",
+        "value": "1024",
         "type": "number"
       },
       "xl": {
-        "value": "1200",
+        "value": "1366",
         "type": "number"
       }
     },
     "col-number": {
       "sm": {
-        "value": "12",
+        "value": "1",
         "type": "number"
       },
       "md": {
-        "value": "12",
+        "value": "6",
         "type": "number"
       },
       "lg": {
-        "value": "12",
+        "value": "6",
         "type": "number"
       },
       "xl": {
-        "value": "12",
+        "value": "6",
         "type": "number"
       }
     },
@@ -78,19 +78,19 @@
     },
     "gutter": {
       "sm": {
-        "value": "{spacing.350}",
+        "value": "{spacing.0}",
         "type": "number"
       },
       "md": {
-        "value": "{spacing.350}",
+        "value": "{spacing.0}",
         "type": "number"
       },
       "lg": {
-        "value": "{spacing.400}",
+        "value": "{spacing.0}",
         "type": "number"
       },
       "xl": {
-        "value": "{spacing.450}",
+        "value": "{spacing.0}",
         "type": "number"
       }
     },
@@ -118,7 +118,7 @@
     },
     "height": {
       "sm": {
-        "value": "640",
+        "value": "812",
         "type": "number",
         "description": "figma-only"
       },
