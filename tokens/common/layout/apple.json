@@ -42,19 +42,19 @@
     },
     "col-number": {
       "sm": {
-        "value": "1",
+        "value": "12",
         "type": "number"
       },
       "md": {
-        "value": "6",
+        "value": "12",
         "type": "number"
       },
       "lg": {
-        "value": "6",
+        "value": "12",
         "type": "number"
       },
       "xl": {
-        "value": "6",
+        "value": "12",
         "type": "number"
       }
     },
@@ -78,19 +78,19 @@
     },
     "gutter": {
       "sm": {
-        "value": "{spacing.0}",
+        "value": "{spacing.350}",
         "type": "number"
       },
       "md": {
-        "value": "{spacing.0}",
+        "value": "{spacing.350}",
         "type": "number"
       },
       "lg": {
-        "value": "{spacing.0}",
+        "value": "{spacing.400}",
         "type": "number"
       },
       "xl": {
-        "value": "{spacing.0}",
+        "value": "{spacing.450}",
         "type": "number"
       }
     },
