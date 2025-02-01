@@ -23,7 +23,7 @@
       "type": "number",
       "description": "figma-only"
     },
-    "columns": {
+    "col-number": {
       "value": "{layout.col-number.xl}",
       "type": "number"
     },
