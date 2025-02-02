@@ -36,7 +36,7 @@
       "type": "number"
     },
     "margin-horizontal": {
-      "value": "{spacing.100}",
+      "value": "{spacing.400}",
       "type": "number"
     },
     "content-compensation": {
