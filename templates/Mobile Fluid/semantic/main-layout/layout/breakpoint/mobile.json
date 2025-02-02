@@ -14,12 +14,12 @@
       "type": "number"
     },
     "width": {
-      "value": "{layout.width}",
+      "value": "{layout.width.sm}",
       "type": "number",
       "description": "figma-only"
     },
     "height": {
-      "value": "{layout.height}",
+      "value": "{layout.height.sm}",
       "type": "number",
       "description": "figma-only"
     },
