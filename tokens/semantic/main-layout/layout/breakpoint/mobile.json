@@ -42,15 +42,6 @@
     "content-compensation": {
       "value": "{spacing.350}",
       "type": "number"
-    },
-    "has-sidebar": {
-      "value": "false",
-      "type": "boolean",
-      "description": "figma-only"
-    },
-    "sidebar-width": {
-      "value": 0,
-      "type": "number"
     }
   }
 }
