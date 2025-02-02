@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0a65b593ee9950b909c06a2b50872deb1d9c65b6",
+    "name": "mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/stroke/stroke": "enabled",
+      "common/layout/web": "source",
+      "semantic/main-layout/layout/breakpoint/mobile": "enabled"
+    },
+    "group": "device"
+  },
+  {
+    "id": "ae1a864c109daeb0e2bd99b32b8b65b0283b0568",
+    "name": "desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/stroke/stroke": "enabled",
+      "common/layout/web": "source",
+      "semantic/main-layout/layout/breakpoint/desktop": "enabled"
+    },
+    "group": "device"
+  }
+]
