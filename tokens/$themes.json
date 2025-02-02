@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3be3e865dd022a2da4fcaf7981457b40521d9fac",
+    "name": "desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/stroke/stroke": "enabled",
+      "common/layout/web": "source",
+      "semantic/main-layout/layout/breakpoint/desktop": "enabled"
+    },
+    "group": "device"
+  }
+]
