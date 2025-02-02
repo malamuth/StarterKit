@@ -16,6 +16,7 @@
     "common/skeleton/false",
     "common/skeleton/true",
     "common/layout/web",
-    "semantic/main-layout/layout/breakpoint/mobile"
+    "semantic/main-layout/layout/breakpoint/mobile",
+    "semantic/main-layout/layout/breakpoint/desktop"
   ]
 }

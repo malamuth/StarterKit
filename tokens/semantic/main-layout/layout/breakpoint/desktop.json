@@ -1,42 +1,42 @@
 {
   "main-layout": {
     "breakpoint": {
-      "value": "mobile",
+      "value": "desktop",
       "type": "text",
       "description": "figma-only"
     },
     "min-width": {
-      "value": "{layout.min-width}",
+      "value": "{layout.breakpoint.lg}",
       "type": "number"
     },
     "max-width": {
-      "value": "{layout.max-width.lg}",
+      "value": "{layout.max-width}",
       "type": "number"
     },
     "width": {
-      "value": "{layout.width.sm}",
+      "value": "{layout.width.lg}",
       "type": "number",
       "description": "figma-only"
     },
     "height": {
-      "value": "{layout.height.sm}",
+      "value": "{layout.height.lg}",
       "type": "number",
       "description": "figma-only"
     },
     "col-number": {
-      "value": "{layout.col-number.sm}",
+      "value": "{layout.col-number.lg}",
       "type": "number"
     },
     "col-width": {
-      "value": "{layout.col-width.sm}",
+      "value": "{layout.col-width.lg}",
       "type": "number"
     },
     "gutter": {
-      "value": "{layout.gutter.sm}",
+      "value": "{layout.gutter.lg}",
       "type": "number"
     },
     "margin-horizontal": {
-      "value": "{spacing.100}",
+      "value": "{spacing.700}",
       "type": "number"
     },
     "content-compensation": {
