@@ -8,7 +8,6 @@
     "common/effect/dark",
     "common/effect/light",
     "common/effect/shadow",
-    "common/layout/layout",
     "common/radius/radius",
     "common/size/size",
     "common/spacing/spacing",
@@ -16,6 +15,7 @@
     "common/typography/typography",
     "common/skeleton/false",
     "common/skeleton/true",
-    "semantic/main-layout/layout/breakpoint/mobile"
+    "semantic/main-layout/layout/breakpoint/mobile",
+    "common/layout/web"
   ]
 }
