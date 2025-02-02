@@ -16,13 +16,8 @@
     "common/typography/typography",
     "common/skeleton/false",
     "common/skeleton/true",
-    "semantic/main-layout/layout/breakpoint/desktop",
     "semantic/main-layout/layout/breakpoint/mobile",
     "semantic/main-layout/layout/breakpoint/tablet-landscape",
-    "semantic/main-layout/layout/breakpoint/tablet-portrait",
-    "semantic/nav-bar/platform/app",
-    "semantic/nav-bar/platform/extension",
-    "semantic/nav-bar/platform/miniapp",
-    "semantic/nav-bar/platform/website"
+    "semantic/main-layout/layout/breakpoint/tablet-portrait"
   ]
 }
