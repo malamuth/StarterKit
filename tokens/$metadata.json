@@ -19,6 +19,10 @@
     "semantic/main-layout/layout/breakpoint/desktop",
     "semantic/main-layout/layout/breakpoint/mobile",
     "semantic/main-layout/layout/breakpoint/tablet-landscape",
-    "semantic/main-layout/layout/breakpoint/tablet-portrait"
+    "semantic/main-layout/layout/breakpoint/tablet-portrait",
+    "semantic/nav-bar/platform/app",
+    "semantic/nav-bar/platform/extension",
+    "semantic/nav-bar/platform/miniapp",
+    "semantic/nav-bar/platform/website"
   ]
 }
