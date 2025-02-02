@@ -1,6 +1,21 @@
 {
   "tokenSetOrder": [
-    "common/layout/web",
+    "common/opacity/opacity",
+    "common/palette/dark",
+    "common/palette/light",
+    "common/theme/dark",
+    "common/theme/light",
+    "common/effect/dark",
+    "common/effect/light",
+    "common/effect/shadow",
+    "common/layout/layout",
+    "common/radius/radius",
+    "common/size/size",
+    "common/spacing/spacing",
+    "common/stroke/stroke",
+    "common/typography/typography",
+    "common/skeleton/false",
+    "common/skeleton/true",
     "semantic/main-layout/layout/breakpoint/mobile"
   ]
 }
