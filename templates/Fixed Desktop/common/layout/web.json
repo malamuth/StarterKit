@@ -1,0 +1,30 @@
+{
+  "layout": {
+    "min-width": {
+      "value": "1200",
+      "type": "number"
+    },
+    "col-number": {
+      "value": "12",
+      "type": "number"
+    },
+    "col-width": {
+      "value": "77.333",
+      "type": "number"
+    },
+    "gutter": {
+      "value": "{spacing.350}",
+      "type": "number"
+    },
+    "width": {
+      "value": "1440",
+      "type": "number",
+      "description": "figma-only"
+    },
+    "height": {
+      "value": "800",
+      "type": "number",
+      "description": "figma-only"
+    }
+  }
+}
