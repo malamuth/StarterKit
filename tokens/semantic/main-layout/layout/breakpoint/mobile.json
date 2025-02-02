@@ -14,12 +14,12 @@
       "type": "number"
     },
     "width": {
-      "value": "{product.width.sm}",
+      "value": "{layout.width.sm}",
       "type": "number",
       "description": "figma-only"
     },
     "height": {
-      "value": "{product.height.sm}",
+      "value": "{layout.height.sm}",
       "type": "number",
       "description": "figma-only"
     },
@@ -41,6 +41,15 @@
     },
     "content-compensation": {
       "value": "{spacing.350}",
+      "type": "number"
+    },
+    "has-sidebar": {
+      "value": "false",
+      "type": "boolean",
+      "description": "figma-only"
+    },
+    "sidebar-width": {
+      "value": 0,
       "type": "number"
     }
   }
