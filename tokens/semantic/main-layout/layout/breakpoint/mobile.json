@@ -42,6 +42,10 @@
     "content-compensation": {
       "value": "{spacing.350}",
       "type": "number"
+    },
+    "ignore-margin-horizontal": {
+      "value": "-{main-layout.margin-horizontal}",
+      "type": "number"
     }
   }
 }
