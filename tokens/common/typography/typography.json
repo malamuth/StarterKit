@@ -2,11 +2,11 @@
   "typography": {
     "font": {
       "brand": {
-        "value": "Onest",
+        "value": "Noto Sans Georgian",
         "type": "text"
       },
       "text": {
-        "value": "Onest",
+        "value": "Noto Sans Georgian",
         "type": "text"
       }
     },
@@ -176,30 +176,22 @@
     },
     "font-weight": {
       "brand": {
-        "light": {
-          "value": 100,
-          "type": "number"
-        },
         "default": {
-          "value": 500,
+          "value": 400,
           "type": "number"
         },
         "accent": {
-          "value": 600,
+          "value": 700,
           "type": "number"
         }
       },
       "text": {
-        "light": {
-          "value": 100,
-          "type": "number"
-        },
         "default": {
-          "value": 500,
+          "value": 400,
           "type": "number"
         },
         "accent": {
-          "value": 600,
+          "value": 700,
           "type": "number"
         }
       }
