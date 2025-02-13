@@ -2,42 +2,51 @@
   "product": {
     "name": {
       "value": "miniapp",
-      "type": "text"
+      "type": "text",
+      "description": "figma-only"
     },
     "width": {
       "sm": {
         "value": "{layout.width.sm}",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       },
       "md": {
         "value": "{layout.width.md}",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       },
       "lg": {
         "value": "{layout.width.lg}",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       },
       "xl": {
         "value": "{layout.width.xl}",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       }
     },
     "height": {
       "sm": {
         "value": "{layout.height.sm}",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       },
       "md": {
         "value": "{layout.height.md}",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       },
       "lg": {
         "value": "{layout.height.lg}",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       },
       "xl": {
         "value": "{layout.height.xl}",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       }
     }
   }

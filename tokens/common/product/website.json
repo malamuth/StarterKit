@@ -2,42 +2,51 @@
   "product": {
     "name": {
       "value": "website",
-      "type": "text"
+      "type": "text",
+      "description": "figma-only"
     },
     "width": {
       "sm": {
         "value": "{layout.min-width}",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       },
       "md": {
         "value": "{layout.breakpoint.md}",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       },
       "lg": {
         "value": "{layout.breakpoint.lg}",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       },
       "xl": {
         "value": "{layout.breakpoint.xl}",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       }
     },
     "height": {
       "sm": {
         "value": "800",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       },
       "md": {
         "value": "800",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       },
       "lg": {
         "value": "800",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       },
       "xl": {
         "value": "800",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       }
     }
   }

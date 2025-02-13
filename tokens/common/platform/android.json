@@ -2,7 +2,8 @@
   "platform": {
     "name": {
       "value": "android",
-      "type": "text"
+      "type": "text",
+      "description": "figma-only"
     }
   }
 }

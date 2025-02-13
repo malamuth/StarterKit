@@ -2,11 +2,13 @@
   "skeleton": {
     "content": {
       "value": "false",
-      "type": "boolean"
+      "type": "boolean",
+      "description": "figma-only"
     },
     "skeleton": {
       "value": "true",
-      "type": "boolean"
+      "type": "boolean",
+      "description": "figma-only"
     }
   }
 }

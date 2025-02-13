@@ -45,7 +45,8 @@
     },
     "ignore-margin-horizontal": {
       "value": "-{main-layout.margin-horizontal}",
-      "type": "number"
+      "type": "number",
+      "description": "figma-only"
     }
   }
 }
