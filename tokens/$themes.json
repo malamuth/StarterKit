@@ -4,7 +4,14 @@
     "name": "palette a",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/brand/palette-a": "enabled"
+      "common/brand/palette-a": "enabled",
+      "common/palette/palette-a": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:8001:1904",
+    "$figmaModeId": "8001:0",
+    "$figmaVariableReferences": {
+      "light.content.on-brand": "a18a659880086ae92deb78dd06b10ad86a927790",
+      "dark.content.on-brand": "6d4f2dfad5a3c6c7f99868bb6ee73901bfa100fa"
     },
     "group": "palette"
   },
@@ -13,7 +20,14 @@
     "name": "palette b",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/brand/palette-b": "enabled"
+      "common/brand/palette-b": "enabled",
+      "common/palette/palette-b": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:8001:1904",
+    "$figmaModeId": "8001:1",
+    "$figmaVariableReferences": {
+      "light.content.on-brand": "a18a659880086ae92deb78dd06b10ad86a927790",
+      "dark.content.on-brand": "6d4f2dfad5a3c6c7f99868bb6ee73901bfa100fa"
     },
     "group": "palette"
   },
@@ -24,7 +38,15 @@
     "selectedTokenSets": {
       "common/brand/palette-a": "source",
       "common/effect/light": "enabled",
-      "common/opacity/opacity": "source"
+      "common/opacity/opacity": "source",
+      "common/palette/palette-a": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:2:10092",
+    "$figmaModeId": "2:5",
+    "$figmaVariableReferences": {
+      "effect.shadow.100": "36d99d620b5ff11e46cb5f1967f4033f551b8c5e",
+      "effect.shadow.500": "93440cc330cea88686caab956ab28da0d8cf5991",
+      "effect.shadow.900": "ecd5a1c495c7f9954b182b59611a6820d069c1e0"
     },
     "group": "theme"
   },
@@ -35,7 +57,15 @@
     "selectedTokenSets": {
       "common/brand/palette-a": "source",
       "common/effect/dark": "enabled",
-      "common/opacity/opacity": "source"
+      "common/opacity/opacity": "source",
+      "common/palette/palette-a": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:2:10092",
+    "$figmaModeId": "2:6",
+    "$figmaVariableReferences": {
+      "effect.shadow.100": "36d99d620b5ff11e46cb5f1967f4033f551b8c5e",
+      "effect.shadow.500": "93440cc330cea88686caab956ab28da0d8cf5991",
+      "effect.shadow.900": "ecd5a1c495c7f9954b182b59611a6820d069c1e0"
     },
     "group": "theme"
   }
