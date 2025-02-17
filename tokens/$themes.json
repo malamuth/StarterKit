@@ -1,0 +1,42 @@
+[
+  {
+    "id": "8190eab2bfa5501b58133cba1c306d4555459d86",
+    "name": "palette a",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/brand/palette-a": "enabled"
+    },
+    "group": "palette"
+  },
+  {
+    "id": "315d7acf3a8a67d7d82d55521c4a4f7bb8788729",
+    "name": "palette b",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/brand/palette-b": "enabled"
+    },
+    "group": "palette"
+  },
+  {
+    "id": "b76582a5d455cba2009c2437e2a87c781e9d8e1b",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/brand/palette-a": "source",
+      "common/effect/light": "enabled",
+      "common/opacity/opacity": "source"
+    },
+    "group": "theme"
+  },
+  {
+    "id": "22e543ee42ee3d433a4b29ac89d7dd71f8cc6e6e",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/brand/palette-a": "source",
+      "common/effect/dark": "enabled",
+      "common/opacity/opacity": "source"
+    },
+    "group": "theme"
+  }
+]
