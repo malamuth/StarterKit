@@ -5,12 +5,80 @@
         "value": "{light.goose.900}",
         "type": "color"
       }
+    },
+    "overlay": {
+      "neutral": {
+        "value": "rgba({light.goose.500}, {opacity.overlay.primary.light})",
+        "type": "color"
+      },
+      "brand": {
+        "value": "rgba({light.brand.500}, {opacity.overlay.primary.light})",
+        "type": "color"
+      },
+      "positive": {
+        "value": "rgba({light.absinthe.500}, {opacity.overlay.primary.light})",
+        "type": "color"
+      },
+      "warning": {
+        "value": "rgba({light.prosecco.500}, {opacity.overlay.primary.light})",
+        "type": "color"
+      },
+      "negative": {
+        "value": "rgba({light.negroni.500}, {opacity.overlay.primary.light})",
+        "type": "color"
+      },
+      "info": {
+        "value": "rgba({light.curacao.500}, {opacity.overlay.primary.light})",
+        "type": "color"
+      },
+      "static-light": {
+        "value": "rgba({light.goose.0}, {opacity.overlay.primary.static})",
+        "type": "color"
+      },
+      "static-dark": {
+        "value": "rgba({light.goose.999}, {opacity.overlay.primary.static})",
+        "type": "color"
+      }
     }
   },
   "dark": {
     "content": {
       "on-brand": {
-        "value": "{light.goose.900}",
+        "value": "{dark.goose.900}",
+        "type": "color"
+      }
+    },
+    "overlay": {
+      "neutral": {
+        "value": "rgba({dark.goose.500}, {opacity.overlay.primary.dark})",
+        "type": "color"
+      },
+      "brand": {
+        "value": "rgba({dark.brand.500}, {opacity.overlay.primary.dark})",
+        "type": "color"
+      },
+      "positive": {
+        "value": "rgba({dark.absinthe.500}, {opacity.overlay.primary.dark})",
+        "type": "color"
+      },
+      "warning": {
+        "value": "rgba({dark.prosecco.500}, {opacity.overlay.primary.dark})",
+        "type": "color"
+      },
+      "negative": {
+        "value": "rgba({dark.negroni.500}, {opacity.overlay.primary.dark})",
+        "type": "color"
+      },
+      "info": {
+        "value": "rgba({dark.curacao.500}, {opacity.overlay.primary.dark})",
+        "type": "color"
+      },
+      "static-light": {
+        "value": "rgba({dark.goose.0}, {opacity.overlay.primary.static})",
+        "type": "color"
+      },
+      "static-dark": {
+        "value": "rgba({dark.goose.999}, {opacity.overlay.primary.static})",
         "type": "color"
       }
     }
