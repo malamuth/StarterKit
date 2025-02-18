@@ -7,22 +7,22 @@
     },
     "width": {
       "sm": {
-        "value": "{layout.min-width}",
+        "value": "{media.min-width}",
         "type": "number",
         "description": "figma-only"
       },
       "md": {
-        "value": "{layout.breakpoint.md}",
+        "value": "{media.breakpoint.md}",
         "type": "number",
         "description": "figma-only"
       },
       "lg": {
-        "value": "{layout.breakpoint.lg}",
+        "value": "{media.breakpoint.lg}",
         "type": "number",
         "description": "figma-only"
       },
       "xl": {
-        "value": "{layout.breakpoint.xl}",
+        "value": "{media.breakpoint.xl}",
         "type": "number",
         "description": "figma-only"
       }

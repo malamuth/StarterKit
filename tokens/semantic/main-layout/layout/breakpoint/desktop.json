@@ -6,11 +6,11 @@
       "description": "figma-only"
     },
     "min-width": {
-      "value": "{layout.breakpoint.xl}",
+      "value": "{media.breakpoint.xl}",
       "type": "number"
     },
     "max-width": {
-      "value": "{layout.max-width.xl}",
+      "value": "{media.max-width.xl}",
       "type": "number"
     },
     "width": {

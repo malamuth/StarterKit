@@ -1,50 +1,50 @@
 {
   "product": {
     "name": {
-      "value": "miniapp",
+      "value": "app",
       "type": "text",
       "description": "figma-only"
     },
     "width": {
       "sm": {
-        "value": "{layout.width.sm}",
+        "value": "{media.width.sm}",
         "type": "number",
         "description": "figma-only"
       },
       "md": {
-        "value": "{layout.width.md}",
+        "value": "{media.width.md}",
         "type": "number",
         "description": "figma-only"
       },
       "lg": {
-        "value": "{layout.width.lg}",
+        "value": "{media.width.lg}",
         "type": "number",
         "description": "figma-only"
       },
       "xl": {
-        "value": "{layout.width.xl}",
+        "value": "{media.width.xl}",
         "type": "number",
         "description": "figma-only"
       }
     },
     "height": {
       "sm": {
-        "value": "{layout.height.sm}",
+        "value": "{media.height.sm}",
         "type": "number",
         "description": "figma-only"
       },
       "md": {
-        "value": "{layout.height.md}",
+        "value": "{media.height.md}",
         "type": "number",
         "description": "figma-only"
       },
       "lg": {
-        "value": "{layout.height.lg}",
+        "value": "{media.height.lg}",
         "type": "number",
         "description": "figma-only"
       },
       "xl": {
-        "value": "{layout.height.xl}",
+        "value": "{media.height.xl}",
         "type": "number",
         "description": "figma-only"
       }

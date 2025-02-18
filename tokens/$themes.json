@@ -1042,7 +1042,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/layout/web": "enabled",
-      "common/platform/web": "enabled"
+      "figma-only/platform/web": "enabled"
     },
     "group": "platform",
     "$figmaCollectionId": "VariableCollectionId:2056:381498",
@@ -1079,7 +1079,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/layout/apple": "enabled",
-      "common/platform/apple": "enabled"
+      "figma-only/platform/apple": "enabled"
     },
     "group": "platform",
     "$figmaCollectionId": "VariableCollectionId:2056:381498",
@@ -1116,7 +1116,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/layout/android": "enabled",
-      "common/platform/android": "enabled"
+      "figma-only/platform/android": "enabled"
     },
     "group": "platform",
     "$figmaCollectionId": "VariableCollectionId:2056:381498",
@@ -1152,7 +1152,7 @@
     "name": "false",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/skeleton/false": "enabled"
+      "figma-only/skeleton/false": "enabled"
     },
     "group": "skeleton",
     "$figmaCollectionId": "VariableCollectionId:1799:17578",
@@ -1167,7 +1167,7 @@
     "name": "true",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/skeleton/true": "enabled"
+      "figma-only/skeleton/true": "enabled"
     },
     "group": "skeleton",
     "$figmaCollectionId": "VariableCollectionId:1799:17578",
