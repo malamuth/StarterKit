@@ -1,0 +1,50 @@
+[
+  {
+    "id": "221fdfe55f74000bdc482be5a369baeecd4a6162",
+    "name": "on-white",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/opacity/opacity": "source",
+      "common/palette/dark": "source",
+      "common/palette/light": "source",
+      "common/style/on-white": "enabled"
+    },
+    "group": "style"
+  },
+  {
+    "id": "0dcd136f906b53c18a6835553229ba3780644aa5",
+    "name": "on-grey",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/opacity/opacity": "source",
+      "common/palette/dark": "source",
+      "common/palette/light": "source",
+      "common/style/on-grey": "enabled"
+    },
+    "group": "style"
+  },
+  {
+    "id": "d40290ea549c24927221bf5dbf66e5b3a0b84572",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/opacity/opacity": "source",
+      "common/palette/light": "enabled",
+      "common/style/on-white": "source",
+      "common/theme/light": "enabled"
+    },
+    "group": "theme"
+  },
+  {
+    "id": "4b8b4689b780e440f0daabd81387d71840795d82",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/opacity/opacity": "source",
+      "common/palette/dark": "enabled",
+      "common/style/on-white": "source",
+      "common/theme/dark": "enabled"
+    },
+    "group": "theme"
+  }
+]
