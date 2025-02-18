@@ -946,7 +946,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/layout/web": "source",
-      "semantic/nav-bar/platform/website": "enabled",
+      "semantic/nav-bar/product/website": "enabled",
       "figma-only/product/website": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1787:24989",
@@ -970,7 +970,7 @@
     "name": "app",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/nav-bar/platform/app": "enabled",
+      "semantic/nav-bar/product/app": "enabled",
       "common/layout/apple": "source",
       "figma-only/product/app": "enabled"
     },
@@ -995,7 +995,7 @@
     "name": "extension",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/nav-bar/platform/extension": "enabled",
+      "semantic/nav-bar/product/extension": "enabled",
       "common/layout/web": "source",
       "figma-only/product/extension": "enabled"
     },
@@ -1020,7 +1020,7 @@
     "name": "miniapp",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/nav-bar/platform/miniapp": "enabled",
+      "semantic/nav-bar/product/miniapp": "enabled",
       "common/layout/web": "source",
       "figma-only/product/miniapp": "enabled"
     },
