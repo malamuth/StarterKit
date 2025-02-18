@@ -1,0 +1,272 @@
+{
+  "content": {
+    "neutral-primary": {
+      "value": "{goose.900}",
+      "type": "color"
+    },
+    "brand-primary": {
+      "value": "{brand.800}",
+      "type": "color"
+    },
+    "brand-extra-primary": {
+      "value": "{brand-extra.800}",
+      "type": "color"
+    },
+    "positive-primary": {
+      "value": "{absinthe.800}",
+      "type": "color"
+    },
+    "warning-primary": {
+      "value": "{prosecco.800}",
+      "type": "color"
+    },
+    "negative-primary": {
+      "value": "{negroni.800}",
+      "type": "color"
+    },
+    "info-primary": {
+      "value": "{curacao.800}",
+      "type": "color"
+    },
+    "neutral-secondary": {
+      "value": "{goose.600}",
+      "type": "color"
+    },
+    "brand-secondary": {
+      "value": "{brand.600}",
+      "type": "color"
+    },
+    "brand-extra-secondary": {
+      "value": "{brand-extra.600}",
+      "type": "color"
+    },
+    "positive-secondary": {
+      "value": "{absinthe.600}",
+      "type": "color"
+    },
+    "warning-secondary": {
+      "value": "{prosecco.600}",
+      "type": "color"
+    },
+    "negative-secondary": {
+      "value": "{negroni.600}",
+      "type": "color"
+    },
+    "info-secondary": {
+      "value": "{curacao.600}",
+      "type": "color"
+    },
+    "neutral-tertiary": {
+      "value": "{goose.400}",
+      "type": "color"
+    },
+    "brand-tertiary": {
+      "value": "{brand.400}",
+      "type": "color"
+    },
+    "brand-extra-tertiary": {
+      "value": "{brand-extra.400}",
+      "type": "color"
+    },
+    "positive-tertiary": {
+      "value": "{absinthe.400}",
+      "type": "color"
+    },
+    "warning-tertiary": {
+      "value": "{prosecco.400}",
+      "type": "color"
+    },
+    "negative-tertiary": {
+      "value": "{negroni.400}",
+      "type": "color"
+    },
+    "info-tertiary": {
+      "value": "{curacao.400}",
+      "type": "color"
+    },
+    "neutral-primary-inverted": {
+      "value": "{goose.0}",
+      "type": "color"
+    },
+    "static-light-primary": {
+      "value": "{goose.0}",
+      "type": "color"
+    },
+    "static-light-secondary": {
+      "value": "rgba({goose.0}, {opacity.content.secondary.light})",
+      "type": "color"
+    },
+    "static-dark-primary": {
+      "value": "{goose.999}",
+      "type": "color"
+    },
+    "static-dark-secondary": {
+      "value": "rgba({goose.999}, {opacity.content.secondary.light})",
+      "type": "color"
+    }
+  },
+  "background": {
+    "neutral-high": {
+      "value": "{light.background.neutral-high}",
+      "type": "color"
+    },
+    "brand-high": {
+      "value": "{light.background.brand-high}",
+      "type": "color"
+    },
+    "brand-extra-high": {
+      "value": "{light.background.brand-extra-high}",
+      "type": "color"
+    },
+    "positive-high": {
+      "value": "{light.background.positive-high}",
+      "type": "color"
+    },
+    "warning-high": {
+      "value": "{light.background.warning-high}",
+      "type": "color"
+    },
+    "negative-high": {
+      "value": "{light.background.negative-high}",
+      "type": "color"
+    },
+    "info-high": {
+      "value": "{light.background.info-high}",
+      "type": "color"
+    },
+    "neutral-low": {
+      "value": "{light.background.neutral-low}",
+      "type": "color"
+    },
+    "brand-low": {
+      "value": "{light.background.brand-low}",
+      "type": "color"
+    },
+    "brand-extra-low": {
+      "value": "{light.background.brand-extra-low}",
+      "type": "color"
+    },
+    "positive-low": {
+      "value": "{light.background.positive-low}",
+      "type": "color"
+    },
+    "warning-low": {
+      "value": "{light.background.warning-low}",
+      "type": "color"
+    },
+    "negative-low": {
+      "value": "{light.background.negative-low}",
+      "type": "color"
+    },
+    "info-low": {
+      "value": "{light.background.info-low}",
+      "type": "color"
+    },
+    "neutral-high-inverted": {
+      "value": "{light.background.neutral-high-inverted}",
+      "type": "color"
+    },
+    "static-light-high": {
+      "value": "{light.background.static-light-high}",
+      "type": "color"
+    },
+    "static-dark-high": {
+      "value": "{light.background.static-dark-high}",
+      "type": "color"
+    }
+  },
+  "overlay": {
+    "neutral": {
+      "value": "{light.overlay.neutral}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{light.overlay.brand}",
+      "type": "color"
+    },
+    "brand-extra": {
+      "value": "{light.overlay.brand-extra}",
+      "type": "color"
+    },
+    "positive": {
+      "value": "{light.overlay.positive}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{light.overlay.warning}",
+      "type": "color"
+    },
+    "negative": {
+      "value": "{light.overlay.negative}",
+      "type": "color"
+    },
+    "info": {
+      "value": "{light.overlay.info}",
+      "type": "color"
+    },
+    "static-light": {
+      "value": "{light.overlay.static-light}",
+      "type": "color"
+    },
+    "static-dark": {
+      "value": "{light.overlay.static-dark}",
+      "type": "color"
+    }
+  },
+  "border": {
+    "neutral-primary": {
+      "value": "{goose.999}",
+      "type": "color"
+    },
+    "brand-primary": {
+      "value": "{brand.600}",
+      "type": "color"
+    },
+    "brand-extra-primary": {
+      "value": "{brand-extra.600}",
+      "type": "color"
+    },
+    "positive-primary": {
+      "value": "{absinthe.600}",
+      "type": "color"
+    },
+    "warning-primary": {
+      "value": "{prosecco.600}",
+      "type": "color"
+    },
+    "negative-primary": {
+      "value": "{negroni.600}",
+      "type": "color"
+    },
+    "info-primary": {
+      "value": "{curacao.600}",
+      "type": "color"
+    },
+    "neutral-secondary": {
+      "value": "rgba({goose.999}, {opacity.border.secondary.light})",
+      "type": "color"
+    },
+    "neutral-tertiary": {
+      "value": "rgba({goose.999}, {opacity.border.tertiary.light})",
+      "type": "color"
+    }
+  },
+  "layer": {
+    "floor-0": {
+      "value": "{light.layer.floor-0}",
+      "type": "color"
+    },
+    "floor-1": {
+      "value": "{light.layer.floor-1}",
+      "type": "color"
+    },
+    "floor-scrim": {
+      "value": "{light.layer.floor-scrim}",
+      "type": "color"
+    },
+    "floor-overlay": {
+      "value": "{light.layer.floor-overlay}",
+      "type": "color"
+    }
+  }
+}
