@@ -1,9 +1,0 @@
-{
-  "platform": {
-    "name": {
-      "value": "android",
-      "type": "text",
-      "description": "figma-only"
-    }
-  }
-}
