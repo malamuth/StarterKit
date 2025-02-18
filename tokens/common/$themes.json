@@ -4,7 +4,7 @@
     "name": "palette a",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/brand/palette-a": "enabled",
+      "common/proxy-colors/palette-a": "enabled",
       "common/palette/palette-a": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8001:1904",
@@ -132,7 +132,7 @@
     "name": "palette b",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/brand/palette-b": "enabled",
+      "common/proxy-colors/palette-b": "enabled",
       "common/palette/palette-b": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8001:1904",
@@ -260,7 +260,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/brand/palette-a": "source",
+      "common/proxy-colors/palette-a": "source",
       "common/opacity/opacity": "source",
       "common/palette/palette-a": "source",
       "common/theme/light": "enabled"
@@ -279,7 +279,7 @@
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/brand/palette-a": "source",
+      "common/proxy-colors/palette-a": "source",
       "common/opacity/opacity": "source",
       "common/palette/palette-a": "source",
       "common/theme/dark": "enabled"
