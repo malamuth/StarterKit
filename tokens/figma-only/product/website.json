@@ -48,6 +48,83 @@
         "type": "number",
         "description": "figma-only"
       }
+    },
+    "scope": {
+      "APP": {
+        "value": "false",
+        "type": "boolean",
+        "description": "figma-only"
+      },
+      "EXTENSION": {
+        "value": "false",
+        "type": "boolean",
+        "description": "figma-only"
+      },
+      "MINIAPP": {
+        "value": "false",
+        "type": "boolean",
+        "description": "figma-only"
+      },
+      "WEBSITE": {
+        "value": "true",
+        "type": "boolean",
+        "description": "figma-only"
+      },
+      "APP EXTENSION": {
+        "value": "false",
+        "type": "boolean",
+        "description": "figma-only"
+      },
+      "APP MINIAPP": {
+        "value": "false",
+        "type": "boolean",
+        "description": "figma-only"
+      },
+      "APP WEBSITE": {
+        "value": "true",
+        "type": "boolean",
+        "description": "figma-only"
+      },
+      "EXTENSION MINIAPP": {
+        "value": "false",
+        "type": "boolean",
+        "description": "figma-only"
+      },
+      "EXTENSION WEBSITE": {
+        "value": "true",
+        "type": "boolean",
+        "description": "figma-only"
+      },
+      "MINIAPP WEBSITE": {
+        "value": "true",
+        "type": "boolean",
+        "description": "figma-only"
+      },
+      "APP EXTENSION MINAIPP": {
+        "value": "false",
+        "type": "boolean",
+        "description": "figma-only"
+      },
+      "APP EXTENSION WEBSITE": {
+        "value": "true",
+        "type": "boolean",
+        "description": "figma-only"
+      },
+      "APP MINIAPP WEBSITE": {
+        "value": "true",
+        "type": "boolean",
+        "description": "figma-only"
+      },
+      "EXTENSION MINIAPP WEBSITE": {
+        "value": "true",
+        "type": "boolean",
+        "description": "figma-only"
+      },
+      "ALL": {
+        "value": "true",
+        "type": "boolean",
+        "description": "figma-only"
+      }
     }
   }
 }
