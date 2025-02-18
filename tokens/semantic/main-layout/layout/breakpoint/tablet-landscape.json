@@ -43,7 +43,7 @@
       "value": "{spacing.0}",
       "type": "number"
     },
-    "ignore-margin-horizontal": {
+    "IGNORE MARGIN HORIZONTAL": {
       "value": "-{main-layout.margin-horizontal}",
       "type": "number",
       "description": "figma-only"
