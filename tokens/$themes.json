@@ -1102,7 +1102,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/layout/web": "enabled",
-      "figma-only/platform/web": "enabled",
       "common/media/web": "enabled",
       "common/spacing/spacing": "source"
     },
@@ -1148,7 +1147,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/layout/apple": "enabled",
-      "figma-only/platform/apple": "enabled",
       "common/media/apple": "enabled",
       "common/spacing/spacing": "source"
     },
@@ -1194,7 +1192,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/layout/android": "enabled",
-      "figma-only/platform/android": "enabled",
       "common/media/android": "enabled",
       "common/spacing/spacing": "source"
     },
