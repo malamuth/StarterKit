@@ -27,7 +27,7 @@
       "main-layout.gutter": "fc0dd0a0dccd3cc1b3050c89da204af45bbd5c68",
       "main-layout.margin-horizontal": "d9f0662c42463833f26c28dff62b5118e917e9b2",
       "main-layout.content-compensation": "1acf2b20b3e8b4877010dc4ff099713ad7a3ed5c",
-      "main-layout.ignore-margin-horizontal": "9249bbd8c6c4fdb7f02f0d0f708c5944169127cf",
+      "main-layout.IGNORE MARGIN HORIZONTAL": "9249bbd8c6c4fdb7f02f0d0f708c5944169127cf",
       "radius.200": "553d43f59f4a3010fc5ef861aa4ca9a88a8b178e",
       "radius.300": "0432d6c41dbc6cfd7573de8c7e6403a34b6738fe",
       "radius.400": "de33513fd73ec228d7c29f961934fb0e837f829e",
@@ -168,7 +168,7 @@
       "main-layout.gutter": "fc0dd0a0dccd3cc1b3050c89da204af45bbd5c68",
       "main-layout.margin-horizontal": "d9f0662c42463833f26c28dff62b5118e917e9b2",
       "main-layout.content-compensation": "1acf2b20b3e8b4877010dc4ff099713ad7a3ed5c",
-      "main-layout.ignore-margin-horizontal": "9249bbd8c6c4fdb7f02f0d0f708c5944169127cf",
+      "main-layout.IGNORE MARGIN HORIZONTAL": "9249bbd8c6c4fdb7f02f0d0f708c5944169127cf",
       "radius.200": "553d43f59f4a3010fc5ef861aa4ca9a88a8b178e",
       "radius.300": "0432d6c41dbc6cfd7573de8c7e6403a34b6738fe",
       "radius.400": "de33513fd73ec228d7c29f961934fb0e837f829e",
@@ -309,7 +309,7 @@
       "main-layout.gutter": "fc0dd0a0dccd3cc1b3050c89da204af45bbd5c68",
       "main-layout.margin-horizontal": "d9f0662c42463833f26c28dff62b5118e917e9b2",
       "main-layout.content-compensation": "1acf2b20b3e8b4877010dc4ff099713ad7a3ed5c",
-      "main-layout.ignore-margin-horizontal": "9249bbd8c6c4fdb7f02f0d0f708c5944169127cf",
+      "main-layout.IGNORE MARGIN HORIZONTAL": "9249bbd8c6c4fdb7f02f0d0f708c5944169127cf",
       "radius.200": "553d43f59f4a3010fc5ef861aa4ca9a88a8b178e",
       "radius.300": "0432d6c41dbc6cfd7573de8c7e6403a34b6738fe",
       "radius.400": "de33513fd73ec228d7c29f961934fb0e837f829e",
@@ -527,7 +527,7 @@
       "main-layout.gutter": "fc0dd0a0dccd3cc1b3050c89da204af45bbd5c68",
       "main-layout.margin-horizontal": "d9f0662c42463833f26c28dff62b5118e917e9b2",
       "main-layout.content-compensation": "1acf2b20b3e8b4877010dc4ff099713ad7a3ed5c",
-      "main-layout.ignore-margin-horizontal": "9249bbd8c6c4fdb7f02f0d0f708c5944169127cf",
+      "main-layout.IGNORE MARGIN HORIZONTAL": "9249bbd8c6c4fdb7f02f0d0f708c5944169127cf",
       "radius.200": "553d43f59f4a3010fc5ef861aa4ca9a88a8b178e",
       "radius.300": "0432d6c41dbc6cfd7573de8c7e6403a34b6738fe",
       "radius.400": "de33513fd73ec228d7c29f961934fb0e837f829e",
@@ -1125,6 +1125,7 @@
       "media.height.md": "fdd6a86d99ad64c66e4068450a4ebfb11776b68d",
       "media.height.lg": "b1aa130ca01c6ede546f9215fe220ea13de5521d",
       "media.height.xl": "30b486f03918c187356c04b795bc88e8bef54b7c",
+      "platform.name": "98af4dc0cdb2c165e9363bbb6fd3c480775f959d",
       "layout.col-number.sm": "3028fee3bf3656a45ed6ebf5111cd717a458857b",
       "layout.col-number.md": "2f83973de785ca6f8b640e3672fa6daca0935ac0",
       "layout.col-number.lg": "66071ffe9d884bef256d21d22567d40497c8c050",
@@ -1136,8 +1137,7 @@
       "layout.gutter.sm": "bfe0e28d06e6df5b43864f3821960c57277e616a",
       "layout.gutter.md": "19aed660341f9d784ae8148dd9ddd43b7ed648e6",
       "layout.gutter.lg": "e21ea0ab17eee34c63d8a1951e79e76781bab920",
-      "layout.gutter.xl": "06f6132edf626dab09a0f4ec602bde910c701e45",
-      "platform.name": "98af4dc0cdb2c165e9363bbb6fd3c480775f959d"
+      "layout.gutter.xl": "06f6132edf626dab09a0f4ec602bde910c701e45"
     },
     "group": "platform"
   },
@@ -1170,6 +1170,7 @@
       "media.height.md": "fdd6a86d99ad64c66e4068450a4ebfb11776b68d",
       "media.height.lg": "b1aa130ca01c6ede546f9215fe220ea13de5521d",
       "media.height.xl": "30b486f03918c187356c04b795bc88e8bef54b7c",
+      "platform.name": "98af4dc0cdb2c165e9363bbb6fd3c480775f959d",
       "layout.col-number.sm": "3028fee3bf3656a45ed6ebf5111cd717a458857b",
       "layout.col-number.md": "2f83973de785ca6f8b640e3672fa6daca0935ac0",
       "layout.col-number.lg": "66071ffe9d884bef256d21d22567d40497c8c050",
@@ -1181,8 +1182,7 @@
       "layout.gutter.sm": "bfe0e28d06e6df5b43864f3821960c57277e616a",
       "layout.gutter.md": "19aed660341f9d784ae8148dd9ddd43b7ed648e6",
       "layout.gutter.lg": "e21ea0ab17eee34c63d8a1951e79e76781bab920",
-      "layout.gutter.xl": "06f6132edf626dab09a0f4ec602bde910c701e45",
-      "platform.name": "98af4dc0cdb2c165e9363bbb6fd3c480775f959d"
+      "layout.gutter.xl": "06f6132edf626dab09a0f4ec602bde910c701e45"
     },
     "group": "platform"
   },
@@ -1215,6 +1215,7 @@
       "media.height.md": "fdd6a86d99ad64c66e4068450a4ebfb11776b68d",
       "media.height.lg": "b1aa130ca01c6ede546f9215fe220ea13de5521d",
       "media.height.xl": "30b486f03918c187356c04b795bc88e8bef54b7c",
+      "platform.name": "98af4dc0cdb2c165e9363bbb6fd3c480775f959d",
       "layout.col-number.sm": "3028fee3bf3656a45ed6ebf5111cd717a458857b",
       "layout.col-number.md": "2f83973de785ca6f8b640e3672fa6daca0935ac0",
       "layout.col-number.lg": "66071ffe9d884bef256d21d22567d40497c8c050",
@@ -1226,8 +1227,7 @@
       "layout.gutter.sm": "bfe0e28d06e6df5b43864f3821960c57277e616a",
       "layout.gutter.md": "19aed660341f9d784ae8148dd9ddd43b7ed648e6",
       "layout.gutter.lg": "e21ea0ab17eee34c63d8a1951e79e76781bab920",
-      "layout.gutter.xl": "06f6132edf626dab09a0f4ec602bde910c701e45",
-      "platform.name": "98af4dc0cdb2c165e9363bbb6fd3c480775f959d"
+      "layout.gutter.xl": "06f6132edf626dab09a0f4ec602bde910c701e45"
     },
     "group": "platform"
   },
