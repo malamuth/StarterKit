@@ -10,9 +10,9 @@
       "common/stroke/stroke": "enabled",
       "semantic/main-layout/layout/breakpoint/mobile": "enabled",
       "common/typography/typography": "enabled",
-      "common/layout/web": "source",
-      "common/media/web": "source",
-      "figma-only/product/website": "source"
+      "common/media/apple": "source",
+      "common/layout/apple": "source",
+      "figma-only/product/app": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -150,9 +150,9 @@
       "common/stroke/stroke": "enabled",
       "semantic/main-layout/layout/breakpoint/tablet-portrait": "enabled",
       "common/typography/typography": "enabled",
-      "common/layout/web": "source",
-      "common/media/web": "source",
-      "figma-only/platform/web": "source"
+      "common/media/apple": "source",
+      "common/layout/apple": "source",
+      "figma-only/product/app": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -290,9 +290,9 @@
       "common/stroke/stroke": "enabled",
       "semantic/main-layout/layout/breakpoint/tablet-landscape": "enabled",
       "common/typography/typography": "enabled",
-      "common/layout/web": "source",
-      "common/media/web": "source",
-      "figma-only/platform/web": "source"
+      "common/media/apple": "source",
+      "common/layout/apple": "source",
+      "figma-only/product/app": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -507,9 +507,9 @@
       "common/stroke/stroke": "enabled",
       "semantic/main-layout/layout/breakpoint/desktop": "enabled",
       "common/typography/typography": "enabled",
-      "common/layout/web": "source",
-      "common/media/web": "source",
-      "figma-only/platform/web": "source"
+      "common/media/apple": "source",
+      "common/layout/apple": "source",
+      "figma-only/product/app": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
@@ -945,9 +945,8 @@
     "name": "website",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/layout/web": "source",
-      "semantic/nav-bar/product/website": "enabled",
-      "figma-only/product/website": "enabled"
+      "figma-only/product/website": "enabled",
+      "common/media/web": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:1787:24989",
     "$figmaModeId": "1791:5",
@@ -970,9 +969,8 @@
     "name": "app",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/nav-bar/product/app": "enabled",
-      "common/layout/apple": "source",
-      "figma-only/product/app": "enabled"
+      "figma-only/product/app": "enabled",
+      "common/media/apple": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:1787:24989",
     "$figmaModeId": "1791:4",
@@ -995,9 +993,8 @@
     "name": "extension",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/nav-bar/product/extension": "enabled",
-      "common/layout/web": "source",
-      "figma-only/product/extension": "enabled"
+      "figma-only/product/extension": "enabled",
+      "common/media/web": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:1787:24989",
     "$figmaModeId": "1791:6",
@@ -1020,9 +1017,8 @@
     "name": "miniapp",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/nav-bar/product/miniapp": "enabled",
-      "common/layout/web": "source",
-      "figma-only/product/miniapp": "enabled"
+      "figma-only/product/miniapp": "enabled",
+      "common/media/apple": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:1787:24989",
     "$figmaModeId": "1791:7",
@@ -1047,7 +1043,7 @@
     "selectedTokenSets": {
       "common/layout/web": "enabled",
       "figma-only/platform/web": "enabled",
-      "common/media/apple": "enabled"
+      "common/media/web": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2056:381498",
     "$figmaModeId": "2056:0",
