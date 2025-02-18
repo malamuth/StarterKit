@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
-    "common/brand/palette-a",
-    "common/brand/palette-b",
+    "common/proxy-colors/palette-a",
+    "common/proxy-colors/palette-b",
     "common/effect/dark",
     "common/effect/light",
     "common/effect/shadow",
