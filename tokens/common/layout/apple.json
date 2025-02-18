@@ -3,23 +3,19 @@
     "col-number": {
       "sm": {
         "value": "12",
-        "type": "number",
-        "description": "figma-only"
+        "type": "number"
       },
       "md": {
         "value": "12",
-        "type": "number",
-        "description": "figma-only"
+        "type": "number"
       },
       "lg": {
         "value": "12",
-        "type": "number",
-        "description": "figma-only"
+        "type": "number"
       },
       "xl": {
         "value": "12",
-        "type": "number",
-        "description": "figma-only"
+        "type": "number"
       }
     },
     "col-width": {
