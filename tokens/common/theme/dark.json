@@ -131,7 +131,7 @@
       "type": "color"
     },
     "info-high": {
-      "value": "{dark.background.curacao-high}",
+      "value": "{dark.background.info-high}",
       "type": "color"
     },
     "neutral-low": {
