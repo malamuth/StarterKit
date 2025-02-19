@@ -40,7 +40,7 @@
       "type": "number"
     },
     "content-compensation": {
-      "value": "{spacing.0}",
+      "value": "{spacing.350}",
       "type": "number"
     },
     "IGNORE MARGIN HORIZONTAL": {
