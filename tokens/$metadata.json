@@ -37,6 +37,10 @@
     "semantic/semantic-text/typography/breakpoint/mobile",
     "semantic/semantic-text/typography/breakpoint/tablet-landscape",
     "semantic/semantic-text/typography/breakpoint/tablet-portrait",
-    "semantic/semantic-text/typography/typography"
+    "semantic/semantic-text/typography/typography",
+    "semantic/markdown/layout/breakpoint/desktop",
+    "semantic/markdown/layout/breakpoint/mobile",
+    "semantic/markdown/layout/breakpoint/tablet-landscape",
+    "semantic/markdown/layout/breakpoint/tablet-portrait"
   ]
 }
