@@ -12,7 +12,9 @@
       "common/typography/typography": "enabled",
       "common/media/apple": "source",
       "common/layout/apple": "source",
-      "figma-only/product/app": "source"
+      "figma-only/product/app": "source",
+      "semantic/semantic-text/layout/breakpoint/mobile": "enabled",
+      "semantic/semantic-text/typography/breakpoint/mobile": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -153,7 +155,9 @@
       "common/typography/typography": "enabled",
       "common/media/apple": "source",
       "common/layout/apple": "source",
-      "figma-only/product/app": "source"
+      "figma-only/product/app": "source",
+      "semantic/semantic-text/layout/breakpoint/tablet-portrait": "enabled",
+      "semantic/semantic-text/typography/breakpoint/tablet-portrait": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -294,7 +298,9 @@
       "common/typography/typography": "enabled",
       "common/media/apple": "source",
       "common/layout/apple": "source",
-      "figma-only/product/app": "source"
+      "figma-only/product/app": "source",
+      "semantic/semantic-text/layout/breakpoint/tablet-landscape": "enabled",
+      "semantic/semantic-text/typography/breakpoint/tablet-landscape": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -512,7 +518,9 @@
       "common/typography/typography": "enabled",
       "common/media/apple": "source",
       "common/layout/apple": "source",
-      "figma-only/product/app": "source"
+      "figma-only/product/app": "source",
+      "semantic/semantic-text/layout/breakpoint/desktop": "enabled",
+      "semantic/semantic-text/typography/breakpoint/desktop": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
@@ -945,15 +953,15 @@
     "group": "theme"
   },
   {
-    "id": "e3a303ecce6bb2d6850a1e284eac9dd44f53751d",
-    "name": "website",
+    "id": "30adc23ef7de084be4595880a91c03105699a8bf",
+    "name": "app",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "figma-only/product/website": "enabled",
-      "common/media/web": "source"
+      "figma-only/product/app": "enabled",
+      "common/media/apple": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:1787:24989",
-    "$figmaModeId": "1791:5",
+    "$figmaModeId": "1791:4",
     "$figmaVariableReferences": {
       "product.name": "dd34d66242d774c26520ce3d14440bacea6d670c",
       "product.width.sm": "4b4ad01f22b3d4040ad0c43d442e719003d8cca7",
@@ -983,15 +991,15 @@
     "group": "product"
   },
   {
-    "id": "30adc23ef7de084be4595880a91c03105699a8bf",
-    "name": "app",
+    "id": "e3a303ecce6bb2d6850a1e284eac9dd44f53751d",
+    "name": "website",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "figma-only/product/app": "enabled",
-      "common/media/apple": "source"
+      "figma-only/product/website": "enabled",
+      "common/media/web": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:1787:24989",
-    "$figmaModeId": "1791:4",
+    "$figmaModeId": "1791:5",
     "$figmaVariableReferences": {
       "product.name": "dd34d66242d774c26520ce3d14440bacea6d670c",
       "product.width.sm": "4b4ad01f22b3d4040ad0c43d442e719003d8cca7",
@@ -1097,51 +1105,6 @@
     "group": "product"
   },
   {
-    "id": "87845408e7509fb6851f35f4779a967c5ccf8e1b",
-    "name": "web",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "common/layout/web": "enabled",
-      "common/media/web": "enabled",
-      "common/spacing/spacing": "source"
-    },
-    "$figmaCollectionId": "VariableCollectionId:2056:381498",
-    "$figmaModeId": "2081:5",
-    "$figmaVariableReferences": {
-      "media.min-width": "f463431a85fe8e728edc2058ea01b199902aa1a1",
-      "media.max-width.sm": "776c483236e4a7a9df0905c57497857d9688868a",
-      "media.max-width.md": "1e693075a24146d711eff6a48b96169bd7913517",
-      "media.max-width.lg": "4b5d46f86b7bd3f16bb5a3478a22d4d64fbe5a3d",
-      "media.max-width.xl": "a7cc97216f2a0665d2081f61856c6ed9c4e006b2",
-      "media.breakpoint.sm": "edb68f50c07773b6320f658073912df9a6391d12",
-      "media.breakpoint.md": "af73280ecf2fe0931ecd175b80e6b31bac3280cf",
-      "media.breakpoint.lg": "59160f0a1953ad27d3c9e98fd096a941b4d8ab38",
-      "media.breakpoint.xl": "159da07f903e212ba681cdf146f6edcafdaac971",
-      "media.width.sm": "387ac4c84036e87978da87628275a4fb02f80ec3",
-      "media.width.md": "d06aeeb6d88f5dced67848a95c5bca9f942cbaf7",
-      "media.width.lg": "138e1502b30215a36c09984743e5281474ca7b03",
-      "media.width.xl": "8f247addc03121523fbd70be93acae38e420b766",
-      "media.height.sm": "c449f8cbb29f6c743d7b4350ad6eb81d98b59292",
-      "media.height.md": "fdd6a86d99ad64c66e4068450a4ebfb11776b68d",
-      "media.height.lg": "b1aa130ca01c6ede546f9215fe220ea13de5521d",
-      "media.height.xl": "30b486f03918c187356c04b795bc88e8bef54b7c",
-      "platform.name": "98af4dc0cdb2c165e9363bbb6fd3c480775f959d",
-      "layout.col-number.sm": "3028fee3bf3656a45ed6ebf5111cd717a458857b",
-      "layout.col-number.md": "2f83973de785ca6f8b640e3672fa6daca0935ac0",
-      "layout.col-number.lg": "66071ffe9d884bef256d21d22567d40497c8c050",
-      "layout.col-number.xl": "faa3623499bb8e04b9e1b89963c03aa36438e98b",
-      "layout.col-width.sm": "232454fbefb7aa0b9a86821e7fbdef639f14f72a",
-      "layout.col-width.md": "9ceba44822371e46a85aaddcc4a7728e9464cbb5",
-      "layout.col-width.lg": "f62fbc3263262502aaa964eb52c09370e717bf14",
-      "layout.col-width.xl": "3216b9d31a7be00c60496fc9d28e7416b4f8993d",
-      "layout.gutter.sm": "bfe0e28d06e6df5b43864f3821960c57277e616a",
-      "layout.gutter.md": "19aed660341f9d784ae8148dd9ddd43b7ed648e6",
-      "layout.gutter.lg": "e21ea0ab17eee34c63d8a1951e79e76781bab920",
-      "layout.gutter.xl": "06f6132edf626dab09a0f4ec602bde910c701e45"
-    },
-    "group": "platform"
-  },
-  {
     "id": "0e3abf6f3dee8456fb06dd953aa6fb6cc509cb95",
     "name": "apple",
     "$figmaStyleReferences": {},
@@ -1232,6 +1195,51 @@
     "group": "platform"
   },
   {
+    "id": "87845408e7509fb6851f35f4779a967c5ccf8e1b",
+    "name": "web",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/layout/web": "enabled",
+      "common/media/web": "enabled",
+      "common/spacing/spacing": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:2056:381498",
+    "$figmaModeId": "2081:5",
+    "$figmaVariableReferences": {
+      "media.min-width": "f463431a85fe8e728edc2058ea01b199902aa1a1",
+      "media.max-width.sm": "776c483236e4a7a9df0905c57497857d9688868a",
+      "media.max-width.md": "1e693075a24146d711eff6a48b96169bd7913517",
+      "media.max-width.lg": "4b5d46f86b7bd3f16bb5a3478a22d4d64fbe5a3d",
+      "media.max-width.xl": "a7cc97216f2a0665d2081f61856c6ed9c4e006b2",
+      "media.breakpoint.sm": "edb68f50c07773b6320f658073912df9a6391d12",
+      "media.breakpoint.md": "af73280ecf2fe0931ecd175b80e6b31bac3280cf",
+      "media.breakpoint.lg": "59160f0a1953ad27d3c9e98fd096a941b4d8ab38",
+      "media.breakpoint.xl": "159da07f903e212ba681cdf146f6edcafdaac971",
+      "media.width.sm": "387ac4c84036e87978da87628275a4fb02f80ec3",
+      "media.width.md": "d06aeeb6d88f5dced67848a95c5bca9f942cbaf7",
+      "media.width.lg": "138e1502b30215a36c09984743e5281474ca7b03",
+      "media.width.xl": "8f247addc03121523fbd70be93acae38e420b766",
+      "media.height.sm": "c449f8cbb29f6c743d7b4350ad6eb81d98b59292",
+      "media.height.md": "fdd6a86d99ad64c66e4068450a4ebfb11776b68d",
+      "media.height.lg": "b1aa130ca01c6ede546f9215fe220ea13de5521d",
+      "media.height.xl": "30b486f03918c187356c04b795bc88e8bef54b7c",
+      "platform.name": "98af4dc0cdb2c165e9363bbb6fd3c480775f959d",
+      "layout.col-number.sm": "3028fee3bf3656a45ed6ebf5111cd717a458857b",
+      "layout.col-number.md": "2f83973de785ca6f8b640e3672fa6daca0935ac0",
+      "layout.col-number.lg": "66071ffe9d884bef256d21d22567d40497c8c050",
+      "layout.col-number.xl": "faa3623499bb8e04b9e1b89963c03aa36438e98b",
+      "layout.col-width.sm": "232454fbefb7aa0b9a86821e7fbdef639f14f72a",
+      "layout.col-width.md": "9ceba44822371e46a85aaddcc4a7728e9464cbb5",
+      "layout.col-width.lg": "f62fbc3263262502aaa964eb52c09370e717bf14",
+      "layout.col-width.xl": "3216b9d31a7be00c60496fc9d28e7416b4f8993d",
+      "layout.gutter.sm": "bfe0e28d06e6df5b43864f3821960c57277e616a",
+      "layout.gutter.md": "19aed660341f9d784ae8148dd9ddd43b7ed648e6",
+      "layout.gutter.lg": "e21ea0ab17eee34c63d8a1951e79e76781bab920",
+      "layout.gutter.xl": "06f6132edf626dab09a0f4ec602bde910c701e45"
+    },
+    "group": "platform"
+  },
+  {
     "id": "0ae4bd611167e0c658bd4b079026ed7ec60bec94",
     "name": "false",
     "$figmaStyleReferences": {},
@@ -1253,12 +1261,12 @@
     "selectedTokenSets": {
       "figma-only/skeleton/true": "enabled"
     },
-    "group": "skeleton",
     "$figmaCollectionId": "VariableCollectionId:1799:17578",
     "$figmaModeId": "1799:3",
     "$figmaVariableReferences": {
       "skeleton.content": "b3d33f5b7b2ad4b8e7bda6fb76cde9dd543b538c",
       "skeleton.skeleton": "62ff525a57091b89e7c7fe4ced93b60cbdbd491d"
-    }
+    },
+    "group": "skeleton"
   }
 ]

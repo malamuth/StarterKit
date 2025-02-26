@@ -28,6 +28,14 @@
     "semantic/main-layout/layout/breakpoint/desktop",
     "semantic/main-layout/layout/breakpoint/mobile",
     "semantic/main-layout/layout/breakpoint/tablet-landscape",
-    "semantic/main-layout/layout/breakpoint/tablet-portrait"
+    "semantic/main-layout/layout/breakpoint/tablet-portrait",
+    "semantic/semantic-text/layout/breakpoint/desktop",
+    "semantic/semantic-text/layout/breakpoint/mobile",
+    "semantic/semantic-text/layout/breakpoint/tablet-landscape",
+    "semantic/semantic-text/layout/breakpoint/tablet-portrait",
+    "semantic/semantic-text/typography/breakpoint/desktop",
+    "semantic/semantic-text/typography/breakpoint/mobile",
+    "semantic/semantic-text/typography/breakpoint/tablet-landscape",
+    "semantic/semantic-text/typography/breakpoint/tablet-portrait"
   ]
 }
