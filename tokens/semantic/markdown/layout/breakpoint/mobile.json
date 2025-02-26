@@ -1,0 +1,8 @@
+{
+  "mrakdown": {
+    "block-gap": {
+      "value": "{spacing.200}",
+      "type": "number"
+    }
+  }
+}
