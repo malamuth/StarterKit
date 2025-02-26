@@ -14,7 +14,8 @@
       "common/layout/apple": "source",
       "figma-only/product/app": "source",
       "semantic/semantic-text/layout/breakpoint/mobile": "enabled",
-      "semantic/semantic-text/typography/breakpoint/mobile": "enabled"
+      "semantic/semantic-text/typography/breakpoint/mobile": "enabled",
+      "semantic/semantic-text/typography/typography": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -157,7 +158,8 @@
       "common/layout/apple": "source",
       "figma-only/product/app": "source",
       "semantic/semantic-text/layout/breakpoint/tablet-portrait": "enabled",
-      "semantic/semantic-text/typography/breakpoint/tablet-portrait": "enabled"
+      "semantic/semantic-text/typography/breakpoint/tablet-portrait": "enabled",
+      "semantic/semantic-text/typography/typography": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -300,7 +302,8 @@
       "common/layout/apple": "source",
       "figma-only/product/app": "source",
       "semantic/semantic-text/layout/breakpoint/tablet-landscape": "enabled",
-      "semantic/semantic-text/typography/breakpoint/tablet-landscape": "enabled"
+      "semantic/semantic-text/typography/breakpoint/tablet-landscape": "enabled",
+      "semantic/semantic-text/typography/typography": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -520,7 +523,8 @@
       "common/layout/apple": "source",
       "figma-only/product/app": "source",
       "semantic/semantic-text/layout/breakpoint/desktop": "enabled",
-      "semantic/semantic-text/typography/breakpoint/desktop": "enabled"
+      "semantic/semantic-text/typography/breakpoint/desktop": "enabled",
+      "semantic/semantic-text/typography/typography": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
