@@ -52,31 +52,31 @@
     },
     "paragraph-l": {
       "top-padding": {
-        "value": "{spacing.100}",
+        "value": "{semantic-text.paragraph-l.paragraph-spacing} / 2",
         "type": "number"
       },
       "bottom-padding": {
-        "value": "{spacing.100}",
+        "value": "{semantic-text.paragraph-l.paragraph-spacing} / 2",
         "type": "number"
       }
     },
     "paragraph-m": {
       "top-padding": {
-        "value": "{spacing.100}",
+        "value": "{semantic-text.paragraph-l.paragraph-spacing} / 2",
         "type": "number"
       },
       "bottom-padding": {
-        "value": "{spacing.100}",
+        "value": "{semantic-text.paragraph-l.paragraph-spacing} / 2",
         "type": "number"
       }
     },
     "paragraph-s": {
       "top-padding": {
-        "value": "{spacing.100}",
+        "value": "{semantic-text.paragraph-l.paragraph-spacing} / 2",
         "type": "number"
       },
       "bottom-padding": {
-        "value": "{spacing.100}",
+        "value": "{semantic-text.paragraph-l.paragraph-spacing} / 2",
         "type": "number"
       }
     }
