@@ -210,7 +210,7 @@
         "type": "number"
       },
       "150": {
-        "value": 2,
+        "value": 4,
         "type": "number"
       },
       "200": {
@@ -218,7 +218,7 @@
         "type": "number"
       },
       "250": {
-        "value": 6,
+        "value": 4,
         "type": "number"
       },
       "300": {
@@ -226,7 +226,7 @@
         "type": "number"
       },
       "350": {
-        "value": 10,
+        "value": 8,
         "type": "number"
       },
       "400": {
