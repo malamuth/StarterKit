@@ -1,6 +1,6 @@
 {
   "semantic-text": {
-    "Header XL": {
+    "header-xl": {
       "top-padding": {
         "value": "{spacing.500}",
         "type": "number"
@@ -10,7 +10,7 @@
         "type": "number"
       }
     },
-    "Header L": {
+    "header-l": {
       "top-padding": {
         "value": "{spacing.450}",
         "type": "number"
@@ -20,7 +20,7 @@
         "type": "number"
       }
     },
-    "Header M": {
+    "header-m": {
       "top-padding": {
         "value": "{spacing.400}",
         "type": "number"
@@ -30,7 +30,7 @@
         "type": "number"
       }
     },
-    "Header S": {
+    "header-s": {
       "top-padding": {
         "value": "{spacing.350}",
         "type": "number"
@@ -40,7 +40,7 @@
         "type": "number"
       }
     },
-    "Header XS": {
+    "header-xs": {
       "top-padding": {
         "value": "{spacing.300}",
         "type": "number"
@@ -50,7 +50,7 @@
         "type": "number"
       }
     },
-    "Paragraph L": {
+    "paragraph-l": {
       "top-padding": {
         "value": "{spacing.200}",
         "type": "number"
@@ -60,7 +60,7 @@
         "type": "number"
       }
     },
-    "Paragraph M": {
+    "paragraph-m": {
       "top-padding": {
         "value": "{spacing.200}",
         "type": "number"
@@ -70,7 +70,7 @@
         "type": "number"
       }
     },
-    "Paragraph S": {
+    "paragraph-s": {
       "top-padding": {
         "value": "{spacing.200}",
         "type": "number"
