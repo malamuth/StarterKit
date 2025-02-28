@@ -12,7 +12,7 @@
     },
     "header-l": {
       "top-padding": {
-        "value": "{spacing.50}",
+        "value": "{spacing.100}",
         "type": "number"
       },
       "bottom-padding": {
@@ -32,7 +32,7 @@
     },
     "header-s": {
       "top-padding": {
-        "value": "{spacing.50}",
+        "value": "{spacing.100}",
         "type": "number"
       },
       "bottom-padding": {
@@ -42,7 +42,7 @@
     },
     "header-xs": {
       "top-padding": {
-        "value": "{spacing.50}",
+        "value": "{spacing.100}",
         "type": "number"
       },
       "bottom-padding": {
