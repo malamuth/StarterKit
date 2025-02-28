@@ -2,17 +2,17 @@
   "semantic-text": {
     "header-xl": {
       "top-padding": {
-        "value": "{spacing.500}",
+        "value": "{spacing.0}",
         "type": "number"
       },
       "bottom-padding": {
-        "value": "{spacing.200}",
+        "value": "{spacing.150}",
         "type": "number"
       }
     },
     "header-l": {
       "top-padding": {
-        "value": "{spacing.450}",
+        "value": "{spacing.50}",
         "type": "number"
       },
       "bottom-padding": {
@@ -22,7 +22,7 @@
     },
     "header-m": {
       "top-padding": {
-        "value": "{spacing.400}",
+        "value": "{spacing.100}",
         "type": "number"
       },
       "bottom-padding": {
@@ -32,17 +32,27 @@
     },
     "header-s": {
       "top-padding": {
-        "value": "{spacing.350}",
+        "value": "{spacing.150}",
         "type": "number"
       },
       "bottom-padding": {
-        "value": "{spacing.200}",
+        "value": "{spacing.250}",
         "type": "number"
       }
     },
     "header-xs": {
       "top-padding": {
-        "value": "{spacing.300}",
+        "value": "{spacing.150}",
+        "type": "number"
+      },
+      "bottom-padding": {
+        "value": "{spacing.250}",
+        "type": "number"
+      }
+    },
+    "paragraph-l": {
+      "top-padding": {
+        "value": "{spacing.100}",
         "type": "number"
       },
       "bottom-padding": {
@@ -50,33 +60,23 @@
         "type": "number"
       }
     },
-    "paragraph-l": {
-      "top-padding": {
-        "value": "{semantic-text.paragraph-l.paragraph-spacing} / 2",
-        "type": "number"
-      },
-      "bottom-padding": {
-        "value": "{semantic-text.paragraph-l.paragraph-spacing} / 2",
-        "type": "number"
-      }
-    },
     "paragraph-m": {
       "top-padding": {
-        "value": "{semantic-text.paragraph-l.paragraph-spacing} / 2",
+        "value": "{spacing.0}",
         "type": "number"
       },
       "bottom-padding": {
-        "value": "{semantic-text.paragraph-l.paragraph-spacing} / 2",
+        "value": "{spacing.100}",
         "type": "number"
       }
     },
     "paragraph-s": {
       "top-padding": {
-        "value": "{semantic-text.paragraph-l.paragraph-spacing} / 2",
+        "value": "{spacing.0}",
         "type": "number"
       },
       "bottom-padding": {
-        "value": "{semantic-text.paragraph-l.paragraph-spacing} / 2",
+        "value": "{spacing.100}",
         "type": "number"
       }
     }
