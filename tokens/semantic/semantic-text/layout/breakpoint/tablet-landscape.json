@@ -6,7 +6,7 @@
         "type": "number"
       },
       "bottom-padding": {
-        "value": "{spacing.150}",
+        "value": "{spacing.200}",
         "type": "number"
       }
     },
@@ -36,7 +36,7 @@
         "type": "number"
       },
       "bottom-padding": {
-        "value": "{spacing.250}",
+        "value": "{spacing.200}",
         "type": "number"
       }
     },
