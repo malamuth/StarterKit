@@ -6,7 +6,7 @@
         "type": "number"
       },
       "bottom-padding": {
-        "value": "{spacing.150}",
+        "value": "{spacing.200}",
         "type": "number"
       }
     },
@@ -32,17 +32,17 @@
     },
     "header-s": {
       "top-padding": {
-        "value": "{spacing.150}",
+        "value": "{spacing.50}",
         "type": "number"
       },
       "bottom-padding": {
-        "value": "{spacing.250}",
+        "value": "{spacing.200}",
         "type": "number"
       }
     },
     "header-xs": {
       "top-padding": {
-        "value": "{spacing.150}",
+        "value": "{spacing.50}",
         "type": "number"
       },
       "bottom-padding": {
@@ -62,11 +62,11 @@
     },
     "paragraph-m": {
       "top-padding": {
-        "value": "{spacing.0}",
+        "value": "{spacing.100}",
         "type": "number"
       },
       "bottom-padding": {
-        "value": "{spacing.100}",
+        "value": "{spacing.200}",
         "type": "number"
       }
     },
