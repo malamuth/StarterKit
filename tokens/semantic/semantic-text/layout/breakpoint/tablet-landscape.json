@@ -62,11 +62,11 @@
     },
     "paragraph-m": {
       "top-padding": {
-        "value": "{spacing.0}",
+        "value": "{spacing.100}",
         "type": "number"
       },
       "bottom-padding": {
-        "value": "{spacing.100}",
+        "value": "{spacing.200}",
         "type": "number"
       }
     },
