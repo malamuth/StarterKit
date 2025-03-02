@@ -2,15 +2,15 @@
   "markdown": {
     "gap": {
       "level-1": {
-        "value": "{spacing.200}",
+        "value": "{spacing.550}",
         "type": "number"
       },
       "level-2": {
-        "value": "{spacing.200}",
+        "value": "{spacing.450}",
         "type": "number"
       },
       "level-3": {
-        "value": "{spacing.200}",
+        "value": "{spacing.350}",
         "type": "number"
       },
       "level-4": {
@@ -18,7 +18,7 @@
         "type": "number"
       },
       "level-5": {
-        "value": "{spacing.200}",
+        "value": "{spacing.0}",
         "type": "number"
       }
     },
