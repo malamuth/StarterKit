@@ -1,8 +1,48 @@
 {
-  "mrakdown": {
-    "block-gap": {
-      "value": "{spacing.400}",
-      "type": "number"
+  "markdown": {
+    "gap": {
+      "level-1": {
+        "value": "{spacing.200}",
+        "type": "number"
+      },
+      "level-2": {
+        "value": "{spacing.200}",
+        "type": "number"
+      },
+      "level-3": {
+        "value": "{spacing.200}",
+        "type": "number"
+      },
+      "level-4": {
+        "value": "{spacing.200}",
+        "type": "number"
+      },
+      "level-5": {
+        "value": "{spacing.200}",
+        "type": "number"
+      }
+    },
+    "bottom-padding": {
+      "level-1": {
+        "value": "{spacing.0}",
+        "type": "number"
+      },
+      "level-2": {
+        "value": "{spacing.200}",
+        "type": "number"
+      },
+      "level-3": {
+        "value": "{spacing.200}",
+        "type": "number"
+      },
+      "level-4": {
+        "value": "{spacing.200}",
+        "type": "number"
+      },
+      "level-5": {
+        "value": "{spacing.200}",
+        "type": "number"
+      }
     }
   }
 }
