@@ -50,6 +50,16 @@
         "type": "number"
       }
     },
+    "p": {
+      "padding-top": {
+        "value": "{spacing.0}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{spacing.350}",
+        "type": "number"
+      }
+    },
     "image": {
       "padding-top": {
         "value": "{spacing.0}",
