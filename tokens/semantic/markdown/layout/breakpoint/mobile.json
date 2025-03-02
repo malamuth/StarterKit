@@ -1,45 +1,61 @@
 {
   "markdown": {
-    "gap": {
-      "level-1": {
-        "value": "{spacing.550}",
+    "h1": {
+      "padding-top": {
+        "value": "{spacing.650}",
         "type": "number"
       },
-      "level-2": {
-        "value": "{spacing.450}",
-        "type": "number"
-      },
-      "level-3": {
-        "value": "{spacing.350}",
-        "type": "number"
-      },
-      "level-4": {
+      "padding-bottom": {
         "value": "{spacing.200}",
-        "type": "number"
-      },
-      "level-5": {
-        "value": "{spacing.0}",
         "type": "number"
       }
     },
-    "bottom-padding": {
-      "level-1": {
+    "h2": {
+      "padding-top": {
+        "value": "{spacing.550}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{spacing.200}",
+        "type": "number"
+      }
+    },
+    "h3": {
+      "padding-top": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{spacing.200}",
+        "type": "number"
+      }
+    },
+    "h4": {
+      "padding-top": {
+        "value": "{spacing.200}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{spacing.200}",
+        "type": "number"
+      }
+    },
+    "h5": {
+      "padding-top": {
         "value": "{spacing.0}",
         "type": "number"
       },
-      "level-2": {
+      "padding-bottom": {
         "value": "{spacing.200}",
         "type": "number"
-      },
-      "level-3": {
-        "value": "{spacing.200}",
+      }
+    },
+    "image": {
+      "padding-top": {
+        "value": "{spacing.0}",
         "type": "number"
       },
-      "level-4": {
-        "value": "{spacing.200}",
-        "type": "number"
-      },
-      "level-5": {
+      "padding-bottom": {
         "value": "{spacing.200}",
         "type": "number"
       }
