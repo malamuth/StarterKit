@@ -1,5 +1,19 @@
 {
   "control": {
+    "100": {
+      "min-size": {
+        "value": "{size.100}",
+        "type": "number"
+      },
+      "border-radius": {
+        "value": "{radius.200}",
+        "type": "number"
+      },
+      "content-gap": {
+        "value": "{spacing.0}",
+        "type": "number"
+      }
+    },
     "200": {
       "min-size": {
         "value": "{size.200}",
@@ -7,18 +21,6 @@
       },
       "border-radius": {
         "value": "{radius.300}",
-        "type": "number"
-      },
-      "icon-size": {
-        "value": "{size.100}",
-        "type": "number"
-      },
-      "container-padding-horizontal": {
-        "value": "{spacing.100}",
-        "type": "number"
-      },
-      "label-padding-horizontal": {
-        "value": "{spacing.100}",
         "type": "number"
       },
       "content-gap": {
@@ -35,18 +37,6 @@
         "value": "{radius.300}",
         "type": "number"
       },
-      "icon-size": {
-        "value": "{size.100}",
-        "type": "number"
-      },
-      "container-padding-horizontal": {
-        "value": "{spacing.200}",
-        "type": "number"
-      },
-      "label-padding-horizontal": {
-        "value": "{spacing.100}",
-        "type": "number"
-      },
       "content-gap": {
         "value": "{spacing.100}",
         "type": "number"
@@ -59,18 +49,6 @@
       },
       "border-radius": {
         "value": "{radius.400}",
-        "type": "number"
-      },
-      "icon-size": {
-        "value": "{size.150}",
-        "type": "number"
-      },
-      "container-padding-horizontal": {
-        "value": "{spacing.250}",
-        "type": "number"
-      },
-      "label-padding-horizontal": {
-        "value": "{spacing.150}",
         "type": "number"
       },
       "content-gap": {
@@ -87,18 +65,6 @@
         "value": "{radius.500}",
         "type": "number"
       },
-      "icon-size": {
-        "value": "{size.200}",
-        "type": "number"
-      },
-      "container-padding-horizontal": {
-        "value": "{spacing.300}",
-        "type": "number"
-      },
-      "label-padding-horizontal": {
-        "value": "{spacing.200}",
-        "type": "number"
-      },
       "content-gap": {
         "value": "{spacing.100}",
         "type": "number"
@@ -111,18 +77,6 @@
       },
       "border-radius": {
         "value": "{radius.500}",
-        "type": "number"
-      },
-      "icon-size": {
-        "value": "{size.200}",
-        "type": "number"
-      },
-      "container-padding-horizontal": {
-        "value": "{spacing.350}",
-        "type": "number"
-      },
-      "label-padding-horizontal": {
-        "value": "{spacing.200}",
         "type": "number"
       },
       "content-gap": {
@@ -139,20 +93,36 @@
         "value": "{radius.550}",
         "type": "number"
       },
-      "icon-size": {
-        "value": "{size.200}",
+      "content-gap": {
+        "value": "{spacing.150}",
+        "type": "number"
+      }
+    },
+    "800": {
+      "min-size": {
+        "value": "{size.800}",
         "type": "number"
       },
-      "container-padding-horizontal": {
-        "value": "{spacing.400}",
-        "type": "number"
-      },
-      "label-padding-horizontal": {
-        "value": "{spacing.200}",
+      "border-radius": {
+        "value": "{radius.600}",
         "type": "number"
       },
       "content-gap": {
-        "value": "{spacing.150}",
+        "value": "{spacing.200}",
+        "type": "number"
+      }
+    },
+    "900": {
+      "min-size": {
+        "value": "{size.900}",
+        "type": "number"
+      },
+      "border-radius": {
+        "value": "{radius.650}",
+        "type": "number"
+      },
+      "content-gap": {
+        "value": "{spacing.200}",
         "type": "number"
       }
     }
