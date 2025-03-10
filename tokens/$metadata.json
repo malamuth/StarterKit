@@ -29,6 +29,8 @@
     "semantic/main-layout/layout/breakpoint/mobile",
     "semantic/main-layout/layout/breakpoint/tablet-landscape",
     "semantic/main-layout/layout/breakpoint/tablet-portrait",
-    "semantic/control/layout/layout"
+    "semantic/control/layout/layout",
+    "semantic/button/layout/layout",
+    "semantic/rich-icon/layout/layout"
   ]
 }

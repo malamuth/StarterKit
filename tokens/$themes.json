@@ -148,7 +148,9 @@
       "common/media/apple": "source",
       "common/layout/apple": "source",
       "figma-only/product/app": "source",
-      "semantic/control/layout/layout": "enabled"
+      "semantic/control/layout/layout": "enabled",
+      "semantic/button/layout/layout": "enabled",
+      "semantic/rich-icon/layout/layout": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -326,7 +328,9 @@
       "common/media/apple": "source",
       "common/layout/apple": "source",
       "figma-only/product/app": "source",
-      "semantic/control/layout/layout": "enabled"
+      "semantic/control/layout/layout": "enabled",
+      "semantic/button/layout/layout": "enabled",
+      "semantic/rich-icon/layout/layout": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -504,7 +508,9 @@
       "common/media/apple": "source",
       "common/layout/apple": "source",
       "figma-only/product/app": "source",
-      "semantic/control/layout/layout": "enabled"
+      "semantic/control/layout/layout": "enabled",
+      "semantic/button/layout/layout": "enabled",
+      "semantic/rich-icon/layout/layout": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -759,7 +765,9 @@
       "common/media/apple": "source",
       "common/layout/apple": "source",
       "figma-only/product/app": "source",
-      "semantic/control/layout/layout": "enabled"
+      "semantic/control/layout/layout": "enabled",
+      "semantic/button/layout/layout": "enabled",
+      "semantic/rich-icon/layout/layout": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
