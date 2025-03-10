@@ -275,7 +275,7 @@
       "type": "color"
     },
     "brand-secondary": {
-      "value": "rgba({goose.999}, {opacity.border.secondary.light})",
+      "value": "rgba({brand.600}, {opacity.border.secondary.light})",
       "type": "color"
     },
     "brand-extra-secondary": {
