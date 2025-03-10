@@ -274,6 +274,30 @@
       "value": "rgba({goose.999}, {opacity.border.secondary.light})",
       "type": "color"
     },
+    "brand-secondary": {
+      "value": "rgba({goose.999}, {opacity.border.secondary.light})",
+      "type": "color"
+    },
+    "brand-extra-secondary": {
+      "value": "rgba({brand-extra.600}, {opacity.border.secondary.light})",
+      "type": "color"
+    },
+    "positive-secondary": {
+      "value": "rgba({absinthe.600}, {opacity.border.secondary.light})",
+      "type": "color"
+    },
+    "warning-secondary": {
+      "value": "rgba({prosecco.600}, {opacity.border.secondary.light})",
+      "type": "color"
+    },
+    "negative-secondary": {
+      "value": "rgba({negroni.600}, {opacity.border.secondary.light})",
+      "type": "color"
+    },
+    "info-secondary": {
+      "value": "rgba({curacao.600}, {opacity.border.secondary.light})",
+      "type": "color"
+    },
     "neutral-tertiary": {
       "value": "rgba({goose.999}, {opacity.border.tertiary.light})",
       "type": "color"
