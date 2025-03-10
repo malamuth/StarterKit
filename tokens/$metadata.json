@@ -28,6 +28,7 @@
     "semantic/main-layout/layout/breakpoint/desktop",
     "semantic/main-layout/layout/breakpoint/mobile",
     "semantic/main-layout/layout/breakpoint/tablet-landscape",
-    "semantic/main-layout/layout/breakpoint/tablet-portrait"
+    "semantic/main-layout/layout/breakpoint/tablet-portrait",
+    "semantic/control/layout/layout"
   ]
 }
