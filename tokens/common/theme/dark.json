@@ -247,27 +247,27 @@
       "type": "color"
     },
     "brand-primary": {
-      "value": "{brand.400}",
+      "value": "{brand.300}",
       "type": "color"
     },
     "brand-extra-primary": {
-      "value": "{brand-extra.400}",
+      "value": "{brand-extra.300}",
       "type": "color"
     },
     "positive-primary": {
-      "value": "{absinthe.400}",
+      "value": "{absinthe.300}",
       "type": "color"
     },
     "warning-primary": {
-      "value": "{prosecco.400}",
+      "value": "{prosecco.300}",
       "type": "color"
     },
     "negative-primary": {
-      "value": "{negroni.400}",
+      "value": "{negroni.300}",
       "type": "color"
     },
     "info-primary": {
-      "value": "{curacao.400}",
+      "value": "{curacao.300}",
       "type": "color"
     },
     "neutral-secondary": {
