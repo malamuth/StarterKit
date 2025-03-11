@@ -118,7 +118,7 @@
         "type": "number"
       },
       "border-radius": {
-        "value": "{radius.650}",
+        "value": "{radius.700}",
         "type": "number"
       },
       "content-gap": {
