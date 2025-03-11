@@ -27,10 +27,10 @@
     "figma-only/skeleton/false",
     "semantic/button",
     "semantic/control",
-    "semantic/_main-layout/layout/breakpoint/desktop",
-    "semantic/_main-layout/layout/breakpoint/mobile",
-    "semantic/_main-layout/layout/breakpoint/tablet-landscape",
-    "semantic/_main-layout/layout/breakpoint/tablet-portrait",
+    "semantic/_main-layout/layout/desktop",
+    "semantic/_main-layout/layout/mobile",
+    "semantic/_main-layout/layout/tablet-landscape",
+    "semantic/_main-layout/layout/tablet-portrait",
     "semantic/rich-icon"
   ]
 }
