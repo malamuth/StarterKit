@@ -1,21 +1,21 @@
 {
   "goose": {
     "0": {
-      "value": "#ffffff",
+      "value": "#000000",
       "type": "color"
     },
     "500": {
-      "value": "#737373",
+      "value": "#666666",
       "type": "color"
     },
     "999": {
-      "value": "#000000",
+      "value": "#ffffff",
       "type": "color"
     }
   },
   "negroni": {
     "500": {
-      "value": "#ee0707",
+      "value": "#FF2B2B",
       "type": "color"
     }
   }
