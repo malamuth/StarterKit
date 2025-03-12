@@ -32,5 +32,14 @@
       "goose.999": "0b276ade238c874391343db1477ccdad8d495594",
       "negroni.500": "81fbef5dd3dcc4029716e66573c216587ac49c25"
     }
+  },
+  {
+    "id": "97ddcc9f3b8762e1c0a2704756ffb33352670190",
+    "name": "test",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "palette/dark": "enabled"
+    },
+    "group": "test"
   }
 ]
