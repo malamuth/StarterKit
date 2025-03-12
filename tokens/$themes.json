@@ -62,5 +62,14 @@
     "$figmaVariableReferences": {
       "brand": "3654d847b42172075d6fd98e52b747a1bd6201cd"
     }
+  },
+  {
+    "id": "dc5dae18d87f1c6beaaf47983d2cfee93eca7596",
+    "name": "value",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "typography": "enabled"
+    },
+    "group": "device"
   }
 ]
