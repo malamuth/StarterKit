@@ -35,10 +35,11 @@
   },
   {
     "id": "97ddcc9f3b8762e1c0a2704756ffb33352670190",
-    "name": "default",
+    "name": "test",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "palette/dark": "enabled"
+      "palette/dark": "enabled",
+      "test": "enabled"
     },
     "group": "test"
   }

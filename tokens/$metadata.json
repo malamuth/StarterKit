@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "palette/light",
-    "palette/dark"
+    "palette/dark",
+    "test"
   ]
 }
