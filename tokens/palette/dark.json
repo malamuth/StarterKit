@@ -1,22 +1,30 @@
 {
-  "goose": {
-    "0": {
-      "value": "#000000",
-      "type": "color"
+  "palette": {
+    "goose": {
+      "0": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "500": {
+        "value": "#666666",
+        "type": "color"
+      },
+      "999": {
+        "value": "#ffffff",
+        "type": "color"
+      }
     },
-    "500": {
-      "value": "#666666",
-      "type": "color"
+    "negroni": {
+      "500": {
+        "value": "#FF2B2B",
+        "type": "color"
+      }
     },
-    "999": {
-      "value": "#ffffff",
-      "type": "color"
-    }
-  },
-  "negroni": {
-    "500": {
-      "value": "#FF2B2B",
-      "type": "color"
+    "brand": {
+      "500": {
+        "value": "{brand}",
+        "type": "color"
+      }
     }
   }
 }
