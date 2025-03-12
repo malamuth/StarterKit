@@ -1,81 +1,81 @@
 {
   "semantic-text": {
     "header-xl": {
-      "padding-top": {
+      "top-padding": {
         "value": "{spacing.400}",
         "type": "number"
       },
-      "padding-bottom": {
+      "bottom-padding": {
         "value": "{spacing.100}",
         "type": "number"
       }
     },
     "header-l": {
-      "padding-top": {
+      "top-padding": {
         "value": "{spacing.350}",
         "type": "number"
       },
-      "padding-bottom": {
+      "bottom-padding": {
         "value": "{spacing.100}",
         "type": "number"
       }
     },
     "header-m": {
-      "padding-top": {
+      "top-padding": {
         "value": "{spacing.300}",
         "type": "number"
       },
-      "padding-bottom": {
+      "bottom-padding": {
         "value": "{spacing.100}",
         "type": "number"
       }
     },
     "header-s": {
-      "padding-top": {
+      "top-padding": {
         "value": "{spacing.200}",
         "type": "number"
       },
-      "padding-bottom": {
+      "bottom-padding": {
         "value": "{spacing.100}",
         "type": "number"
       }
     },
     "header-xs": {
-      "padding-top": {
+      "top-padding": {
         "value": "{spacing.200}",
         "type": "number"
       },
-      "padding-bottom": {
+      "bottom-padding": {
         "value": "{spacing.100}",
         "type": "number"
       }
     },
     "paragraph-l": {
-      "padding-top": {
+      "top-padding": {
         "value": "{spacing.100}",
         "type": "number"
       },
-      "padding-bottom": {
+      "bottom-padding": {
         "value": "{spacing.100}",
         "type": "number"
       }
     },
     "paragraph-m": {
-      "padding-top": {
+      "top-padding": {
         "value": "{spacing.100}",
         "type": "number"
       },
-      "padding-bottom": {
+      "bottom-padding": {
         "value": "{spacing.100}",
         "type": "number"
       }
     },
     "paragraph-s": {
-      "padding-top": {
+      "top-padding": {
         "value": "{spacing.100}",
         "type": "number"
       },
-      "padding-bottom": {
+      "bottom-padding": {
         "value": "{spacing.100}",
         "type": "number"
       }
