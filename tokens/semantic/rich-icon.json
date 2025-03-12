@@ -1,57 +1,75 @@
 {
   "rich-icon": {
     "100": {
-      "icon-size": {
-        "value": "{size.80}",
-        "type": "number"
+      "icon": {
+        "size": {
+          "value": "{size.80}",
+          "type": "number"
+        }
       }
     },
     "200": {
-      "icon-size": {
-        "value": "{size.100}",
-        "type": "number"
+      "icon": {
+        "size": {
+          "value": "{size.100}",
+          "type": "number"
+        }
       }
     },
     "300": {
-      "icon-size": {
-        "value": "{size.150}",
-        "type": "number"
+      "icon": {
+        "size": {
+          "value": "{size.150}",
+          "type": "number"
+        }
       }
     },
     "400": {
-      "icon-size": {
-        "value": "{size.200}",
-        "type": "number"
+      "icon": {
+        "size": {
+          "value": "{size.200}",
+          "type": "number"
+        }
       }
     },
     "500": {
-      "icon-size": {
-        "value": "{size.250}",
-        "type": "number"
+      "icon": {
+        "size": {
+          "value": "{size.250}",
+          "type": "number"
+        }
       }
     },
     "600": {
-      "icon-size": {
-        "value": "{size.300}",
-        "type": "number"
+      "icon": {
+        "size": {
+          "value": "{size.300}",
+          "type": "number"
+        }
       }
     },
     "700": {
-      "icon-size": {
-        "value": "{size.350}",
-        "type": "number"
+      "icon": {
+        "size": {
+          "value": "{size.350}",
+          "type": "number"
+        }
       }
     },
     "800": {
-      "icon-size": {
-        "value": "{size.400}",
-        "type": "number"
+      "icon": {
+        "size": {
+          "value": "{size.400}",
+          "type": "number"
+        }
       }
     },
     "900": {
-      "icon-size": {
-        "value": "{size.450}",
-        "type": "number"
+      "icon": {
+        "size": {
+          "value": "{size.450}",
+          "type": "number"
+        }
       }
     }
   }

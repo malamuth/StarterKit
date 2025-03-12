@@ -9,7 +9,7 @@
         "value": "{radius.200}",
         "type": "number"
       },
-      "content-gap": {
+      "gap": {
         "value": "{spacing.0}",
         "type": "number"
       }
@@ -23,7 +23,7 @@
         "value": "{radius.300}",
         "type": "number"
       },
-      "content-gap": {
+      "gap": {
         "value": "{spacing.100}",
         "type": "number"
       }
@@ -37,7 +37,7 @@
         "value": "{radius.300}",
         "type": "number"
       },
-      "content-gap": {
+      "gap": {
         "value": "{spacing.100}",
         "type": "number"
       }
@@ -51,7 +51,7 @@
         "value": "{radius.400}",
         "type": "number"
       },
-      "content-gap": {
+      "gap": {
         "value": "{spacing.100}",
         "type": "number"
       }
@@ -65,7 +65,7 @@
         "value": "{radius.500}",
         "type": "number"
       },
-      "content-gap": {
+      "gap": {
         "value": "{spacing.100}",
         "type": "number"
       }
@@ -79,7 +79,7 @@
         "value": "{radius.500}",
         "type": "number"
       },
-      "content-gap": {
+      "gap": {
         "value": "{spacing.150}",
         "type": "number"
       }
@@ -93,7 +93,7 @@
         "value": "{radius.550}",
         "type": "number"
       },
-      "content-gap": {
+      "gap": {
         "value": "{spacing.150}",
         "type": "number"
       }
@@ -107,7 +107,7 @@
         "value": "{radius.600}",
         "type": "number"
       },
-      "content-gap": {
+      "gap": {
         "value": "{spacing.200}",
         "type": "number"
       }
@@ -121,7 +121,7 @@
         "value": "{radius.700}",
         "type": "number"
       },
-      "content-gap": {
+      "gap": {
         "value": "{spacing.200}",
         "type": "number"
       }
