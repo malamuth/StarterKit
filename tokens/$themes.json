@@ -39,7 +39,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "palette/dark": "enabled",
-      "test": "enabled"
+      "test": "enabled",
+      "palette/mono": "enabled"
     },
     "group": "test"
   }
