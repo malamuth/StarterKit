@@ -23,7 +23,7 @@
         "value": "{spacing.200}",
         "type": "number"
       },
-      "icon":{
+      "icon": {
         "size": {
           "value": "{size.100}",
           "type": "number"
