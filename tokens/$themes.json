@@ -35,7 +35,7 @@
   },
   {
     "id": "97ddcc9f3b8762e1c0a2704756ffb33352670190",
-    "name": "test",
+    "name": "default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "palette/dark": "enabled"
