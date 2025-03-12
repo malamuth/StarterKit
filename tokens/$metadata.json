@@ -2,7 +2,7 @@
   "tokenSetOrder": [
     "palette/light",
     "palette/dark",
-    "palette/mono",
-    "test"
+    "brand/cola",
+    "brand/sprite"
   ]
 }
