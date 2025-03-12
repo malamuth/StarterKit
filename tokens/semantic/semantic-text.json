@@ -11,71 +11,71 @@
       }
     },
     "header-l": {
-      "top-padding": {
+      "padding-top": {
         "value": "{spacing.350}",
         "type": "number"
       },
-      "bottom-padding": {
+      "padding-bottom": {
         "value": "{spacing.100}",
         "type": "number"
       }
     },
     "header-m": {
-      "top-padding": {
+      "padding-top": {
         "value": "{spacing.300}",
         "type": "number"
       },
-      "bottom-padding": {
+      "padding-bottom": {
         "value": "{spacing.100}",
         "type": "number"
       }
     },
     "header-s": {
-      "top-padding": {
+      "padding-top": {
         "value": "{spacing.200}",
         "type": "number"
       },
-      "bottom-padding": {
+      "padding-bottom": {
         "value": "{spacing.100}",
         "type": "number"
       }
     },
     "header-xs": {
-      "top-padding": {
+      "padding-top": {
         "value": "{spacing.200}",
         "type": "number"
       },
-      "bottom-padding": {
+      "padding-bottom": {
         "value": "{spacing.100}",
         "type": "number"
       }
     },
     "paragraph-l": {
-      "top-padding": {
+      "padding-top": {
         "value": "{spacing.100}",
         "type": "number"
       },
-      "bottom-padding": {
+      "padding-bottom": {
         "value": "{spacing.100}",
         "type": "number"
       }
     },
     "paragraph-m": {
-      "top-padding": {
+      "padding-top": {
         "value": "{spacing.100}",
         "type": "number"
       },
-      "bottom-padding": {
+      "padding-bottom": {
         "value": "{spacing.100}",
         "type": "number"
       }
     },
     "paragraph-s": {
-      "top-padding": {
+      "padding-top": {
         "value": "{spacing.100}",
         "type": "number"
       },
-      "bottom-padding": {
+      "padding-bottom": {
         "value": "{spacing.100}",
         "type": "number"
       }
