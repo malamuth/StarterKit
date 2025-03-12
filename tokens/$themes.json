@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "d8f9c51f5aaf4ded7cf5aa70a482605f1f95f5a5",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "palette/light": "enabled",
+      "palette/dark": "disabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:1:4",
+    "$figmaModeId": "1:1",
+    "$figmaVariableReferences": {
+      "goose.500": "f130dbeba15be484dae49081b141fcceb9a819ff",
+      "negroni.500": "81fbef5dd3dcc4029716e66573c216587ac49c25",
+      "goose.0": "3b2988e63b2486fd17561957b9d471e7a21a309b",
+      "goose.999": "0b276ade238c874391343db1477ccdad8d495594"
+    },
+    "group": "palette"
+  }
+]
