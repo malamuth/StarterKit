@@ -1,11 +1,11 @@
 {
   "semantic-text": {
     "header-xl": {
-      "top-padding": {
+      "padding-top": {
         "value": "{spacing.400}",
         "type": "number"
       },
-      "bottom-padding": {
+      "padding-bottom": {
         "value": "{spacing.100}",
         "type": "number"
       }
