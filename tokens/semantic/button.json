@@ -15,6 +15,10 @@
         "padding-horizontal": {
           "value": "{spacing.100}",
           "type": "number"
+        },
+        "typography": {
+          "value": "{display.350.accent}",
+          "type": "typography"
         }
       }
     },
