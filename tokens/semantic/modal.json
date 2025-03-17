@@ -17,8 +17,28 @@
         "value": "{spacing.300}",
         "type": "number"
       },
-      "height": {
-        "value": "{size.450}",
+      "gap": {
+        "value": "{spacing.300}",
+        "type": "number"
+      }
+    },
+    "content": {
+      "padding-top": {
+        "value": "{spacing.100}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{spacing.350}",
+        "type": "number"
+      }
+    },
+    "footer": {
+      "padding-top": {
+        "value": "{spacing.100}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{spacing.100}",
         "type": "number"
       }
     }

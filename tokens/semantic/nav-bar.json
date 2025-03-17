@@ -1,0 +1,42 @@
+{
+  "nav-bar": {
+    "min-height": {
+      "value": "{size.450}",
+      "type": "number"
+    },
+    "addon-left": {
+      "padding-left": {
+        "value": "{spacing.100}",
+        "type": "number"
+      },
+      "padding-right": {
+        "value": "{spacing.300}",
+        "type": "number"
+      },
+      "gap": {
+        "value": "{spacing.200}",
+        "type": "number"
+      }
+    },
+    "addon-right": {
+      "padding-left": {
+        "value": "{spacing.300}",
+        "type": "number"
+      },
+      "padding-right": {
+        "value": "{spacing.100}",
+        "type": "number"
+      },
+      "gap": {
+        "value": "{spacing.200}",
+        "type": "number"
+      }
+    },
+    "center": {
+      "gap": {
+        "value": "{spacing.50}",
+        "type": "number"
+      }
+    }
+  }
+}
