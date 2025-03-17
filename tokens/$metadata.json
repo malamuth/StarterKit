@@ -25,17 +25,15 @@
     "figma-only/product/extension",
     "figma-only/skeleton/true",
     "figma-only/skeleton/false",
-    "semantic/button",
-    "semantic/control",
     "semantic/_main-layout/layout/desktop",
     "semantic/_main-layout/layout/mobile",
     "semantic/_main-layout/layout/tablet-landscape",
     "semantic/_main-layout/layout/tablet-portrait",
-    "semantic/rich-icon",
-    "semantic/semantic-text",
     "semantic/accordion",
     "semantic/badge",
     "semantic/breadcrumbs",
+    "semantic/button",
+    "semantic/control",
     "semantic/dropdown",
     "semantic/field",
     "semantic/flex-button",
@@ -45,7 +43,9 @@
     "semantic/nav-bar",
     "semantic/pimple",
     "semantic/progress-bar",
+    "semantic/rich-icon",
     "semantic/segmented-control",
-    "semantic/selection-control"
+    "semantic/selection-control",
+    "semantic/semantic-text"
   ]
 }
