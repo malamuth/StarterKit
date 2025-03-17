@@ -24,7 +24,7 @@
         "type": "number"
       },
       "gap": {
-        "value": "{spacing.100}",
+        "value": "{spacing.50}",
         "type": "number"
       }
     },

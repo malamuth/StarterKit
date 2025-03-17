@@ -1,0 +1,22 @@
+{
+  "input": {
+    "600": {
+      "border-width": {
+        "value": "{stroke.200}",
+        "type": "number"
+      }
+    },
+    "500": {
+      "border-width": {
+        "value": "{stroke.200}",
+        "type": "number"
+      }
+    },
+    "400": {
+      "border-width": {
+        "value": "{stroke.200}",
+        "type": "number"
+      }
+    }
+  }
+}

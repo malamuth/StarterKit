@@ -1,0 +1,8 @@
+{
+  "input": {
+    "border-width": {
+      "value": "{stroke.400}",
+      "type": "number"
+    }
+  }
+}

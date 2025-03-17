@@ -1,0 +1,10 @@
+{
+  "accordion": {
+    "header": {
+      "gap": {
+        "value": "{spacing.200}",
+        "type": "number"
+      }
+    }
+  }
+}

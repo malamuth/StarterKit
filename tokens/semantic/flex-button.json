@@ -1,0 +1,52 @@
+{
+  "flex-button": {
+    "300": {
+      "gap": {
+        "value": "{spacing.0}",
+        "type": "number"
+      },
+      "slot": {
+        "padding-left": {
+          "value": "{spacing.50}",
+          "type": "number"
+        }
+      }
+    },
+    "400": {
+      "gap": {
+        "value": "{spacing.0}",
+        "type": "number"
+      },
+      "slot": {
+        "padding-left": {
+          "value": "{spacing.50}",
+          "type": "number"
+        }
+      }
+    },
+    "500": {
+      "gap": {
+        "value": "{spacing.0}",
+        "type": "number"
+      },
+      "slot": {
+        "padding-left": {
+          "value": "{spacing.50}",
+          "type": "number"
+        }
+      }
+    },
+    "600": {
+      "gap": {
+        "value": "{spacing.50}",
+        "type": "number"
+      },
+      "slot": {
+        "padding-left": {
+          "value": "{spacing.50}",
+          "type": "number"
+        }
+      }
+    }
+  }
+}
