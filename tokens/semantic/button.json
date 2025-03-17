@@ -1,9 +1,11 @@
 {
   "button": {
     "200": {
-      "padding-horizontal": {
-        "value": "{spacing.100}",
-        "type": "number"
+      "frame": {
+        "padding-horizontal": {
+          "value": "{spacing.100}",
+          "type": "number"
+        }
       },
       "icon": {
         "size": {
@@ -15,13 +17,19 @@
         "padding-horizontal": {
           "value": "{spacing.100}",
           "type": "number"
+        },
+        "typography": {
+          "value": "compact.200.accent",
+          "type": "other"
         }
       }
     },
     "300": {
-      "padding-horizontal": {
-        "value": "{spacing.200}",
-        "type": "number"
+      "frame": {
+        "padding-horizontal": {
+          "value": "{spacing.200}",
+          "type": "number"
+        }
       },
       "icon": {
         "size": {
@@ -33,13 +41,19 @@
         "padding-horizontal": {
           "value": "{spacing.100}",
           "type": "number"
+        },
+        "typography": {
+          "value": "compact.200.accent",
+          "type": "other"
         }
       }
     },
     "400": {
-      "padding-horizontal": {
-        "value": "{spacing.250}",
-        "type": "number"
+      "frame": {
+        "padding-horizontal": {
+          "value": "{spacing.250}",
+          "type": "number"
+        }
       },
       "icon": {
         "size": {
@@ -51,13 +65,19 @@
         "padding-horizontal": {
           "value": "{spacing.150}",
           "type": "number"
+        },
+        "typography": {
+          "value": "compact.250.accent",
+          "type": "other"
         }
       }
     },
     "500": {
-      "padding-horizontal": {
-        "value": "{spacing.300}",
-        "type": "number"
+      "frame": {
+        "padding-horizontal": {
+          "value": "{spacing.300}",
+          "type": "number"
+        }
       },
       "icon": {
         "size": {
@@ -69,13 +89,19 @@
         "padding-horizontal": {
           "value": "{spacing.200}",
           "type": "number"
+        },
+        "typography": {
+          "value": "compact.350.accent",
+          "type": "other"
         }
       }
     },
     "600": {
-      "padding-horizontal": {
-        "value": "{spacing.350}",
-        "type": "number"
+      "frame": {
+        "padding-horizontal": {
+          "value": "{spacing.350}",
+          "type": "number"
+        }
       },
       "icon": {
         "size": {
@@ -87,13 +113,19 @@
         "padding-horizontal": {
           "value": "{spacing.200}",
           "type": "number"
+        },
+        "typography": {
+          "value": "compact.350.accent",
+          "type": "other"
         }
       }
     },
     "700": {
-      "padding-horizontal": {
-        "value": "{spacing.400}",
-        "type": "number"
+      "frame": {
+        "padding-horizontal": {
+          "value": "{spacing.400}",
+          "type": "number"
+        }
       },
       "icon": {
         "size": {
@@ -105,6 +137,10 @@
         "padding-horizontal": {
           "value": "{spacing.200}",
           "type": "number"
+        },
+        "typography": {
+          "value": "compact.350.accent",
+          "type": "other"
         }
       }
     }
