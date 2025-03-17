@@ -177,7 +177,8 @@
       "semantic/rich-icon": "enabled",
       "semantic/semantic-text": "enabled",
       "semantic/accordion": "enabled",
-      "semantic/badge": "enabled"
+      "semantic/badge": "enabled",
+      "semantic/breadcrumbs": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -310,6 +311,7 @@
       "badge.500.frame.padding-horizontal": "e1dd3a2e14ed09bf1ce3040a9fe787ed804280a7",
       "badge.500.icon.size": "79f8c87fe0df67fef509097fb0d05259a09e7a3a",
       "badge.500.label.padding-horizontal": "12c4aa124e71518e6386545a30397f651e7876a0",
+      "breadcrumbs.500.frame.gap": "599360556e899f25a3e190d767e0f149c736c799",
       "button.200.padding-horizontal": "707edcc0cf391fe7da3921bf4ff855a2fbd6c20d",
       "button.200.icon.size": "c66ceeb3d1ce669c1783acf64143c75c11eff063",
       "button.200.label.padding-horizontal": "946f281c1741a842fa14d13fd3d3297e47a1751c",
@@ -402,7 +404,8 @@
       "semantic/rich-icon": "enabled",
       "semantic/semantic-text": "enabled",
       "semantic/accordion": "enabled",
-      "semantic/badge": "enabled"
+      "semantic/badge": "enabled",
+      "semantic/breadcrumbs": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -535,6 +538,7 @@
       "badge.500.frame.padding-horizontal": "e1dd3a2e14ed09bf1ce3040a9fe787ed804280a7",
       "badge.500.icon.size": "79f8c87fe0df67fef509097fb0d05259a09e7a3a",
       "badge.500.label.padding-horizontal": "12c4aa124e71518e6386545a30397f651e7876a0",
+      "breadcrumbs.500.frame.gap": "599360556e899f25a3e190d767e0f149c736c799",
       "button.200.padding-horizontal": "707edcc0cf391fe7da3921bf4ff855a2fbd6c20d",
       "button.200.icon.size": "c66ceeb3d1ce669c1783acf64143c75c11eff063",
       "button.200.label.padding-horizontal": "946f281c1741a842fa14d13fd3d3297e47a1751c",
@@ -627,7 +631,8 @@
       "semantic/rich-icon": "enabled",
       "semantic/semantic-text": "enabled",
       "semantic/accordion": "enabled",
-      "semantic/badge": "enabled"
+      "semantic/badge": "enabled",
+      "semantic/breadcrumbs": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -760,6 +765,7 @@
       "badge.500.frame.padding-horizontal": "e1dd3a2e14ed09bf1ce3040a9fe787ed804280a7",
       "badge.500.icon.size": "79f8c87fe0df67fef509097fb0d05259a09e7a3a",
       "badge.500.label.padding-horizontal": "12c4aa124e71518e6386545a30397f651e7876a0",
+      "breadcrumbs.500.frame.gap": "599360556e899f25a3e190d767e0f149c736c799",
       "button.200.padding-horizontal": "707edcc0cf391fe7da3921bf4ff855a2fbd6c20d",
       "button.200.icon.size": "c66ceeb3d1ce669c1783acf64143c75c11eff063",
       "button.200.label.padding-horizontal": "946f281c1741a842fa14d13fd3d3297e47a1751c",
@@ -929,7 +935,8 @@
       "semantic/rich-icon": "enabled",
       "semantic/semantic-text": "enabled",
       "semantic/accordion": "enabled",
-      "semantic/badge": "enabled"
+      "semantic/badge": "enabled",
+      "semantic/breadcrumbs": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
@@ -1062,6 +1069,7 @@
       "badge.500.frame.padding-horizontal": "e1dd3a2e14ed09bf1ce3040a9fe787ed804280a7",
       "badge.500.icon.size": "79f8c87fe0df67fef509097fb0d05259a09e7a3a",
       "badge.500.label.padding-horizontal": "12c4aa124e71518e6386545a30397f651e7876a0",
+      "breadcrumbs.500.frame.gap": "599360556e899f25a3e190d767e0f149c736c799",
       "button.200.padding-horizontal": "707edcc0cf391fe7da3921bf4ff855a2fbd6c20d",
       "button.200.icon.size": "c66ceeb3d1ce669c1783acf64143c75c11eff063",
       "button.200.label.padding-horizontal": "946f281c1741a842fa14d13fd3d3297e47a1751c",
