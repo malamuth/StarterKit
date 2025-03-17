@@ -33,6 +33,7 @@
     "semantic/badge",
     "semantic/breadcrumbs",
     "semantic/button",
+    "semantic/chips",
     "semantic/control",
     "semantic/dropdown",
     "semantic/field",
@@ -46,7 +47,6 @@
     "semantic/rich-icon",
     "semantic/segmented-control",
     "semantic/selection-control",
-    "semantic/semantic-text",
-    "semantic/chips"
+    "semantic/semantic-text"
   ]
 }
