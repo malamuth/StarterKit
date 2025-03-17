@@ -46,6 +46,7 @@
     "semantic/rich-icon",
     "semantic/segmented-control",
     "semantic/selection-control",
-    "semantic/semantic-text"
+    "semantic/semantic-text",
+    "semantic/chips"
   ]
 }

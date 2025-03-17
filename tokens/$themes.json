@@ -179,7 +179,8 @@
       "semantic/accordion": "enabled",
       "semantic/badge": "enabled",
       "semantic/breadcrumbs": "enabled",
-      "semantic/selection-control": "enabled"
+      "semantic/selection-control": "enabled",
+      "semantic/chips": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -419,7 +420,8 @@
       "semantic/accordion": "enabled",
       "semantic/badge": "enabled",
       "semantic/breadcrumbs": "enabled",
-      "semantic/selection-control": "enabled"
+      "semantic/selection-control": "enabled",
+      "semantic/chips": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -659,7 +661,8 @@
       "semantic/accordion": "enabled",
       "semantic/badge": "enabled",
       "semantic/breadcrumbs": "enabled",
-      "semantic/selection-control": "enabled"
+      "semantic/selection-control": "enabled",
+      "semantic/chips": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -976,7 +979,8 @@
       "semantic/accordion": "enabled",
       "semantic/badge": "enabled",
       "semantic/breadcrumbs": "enabled",
-      "semantic/selection-control": "enabled"
+      "semantic/selection-control": "enabled",
+      "semantic/chips": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
