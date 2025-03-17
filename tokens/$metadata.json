@@ -32,6 +32,20 @@
     "semantic/_main-layout/layout/tablet-landscape",
     "semantic/_main-layout/layout/tablet-portrait",
     "semantic/rich-icon",
-    "semantic/semantic-text"
+    "semantic/semantic-text",
+    "semantic/accordion",
+    "semantic/badge",
+    "semantic/breadcrumbs",
+    "semantic/dropdown",
+    "semantic/field",
+    "semantic/flex-button",
+    "semantic/input",
+    "semantic/loader",
+    "semantic/modal",
+    "semantic/nav-bar",
+    "semantic/pimple",
+    "semantic/progress-bar",
+    "semantic/segmented-control",
+    "semantic/selection-control"
   ]
 }

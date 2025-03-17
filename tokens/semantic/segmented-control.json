@@ -1,6 +1,6 @@
 {
   "segmented-control": {
-    "600": {
+    "300": {
       "frame": {
         "padding-horizontal": {
           "value": "{spacing.100}",
@@ -11,27 +11,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.550}",
-          "type": "number"
-        },
-        "border-width": {
-          "value": "{stroke.100}",
-          "type": "number"
-        }
-      }
-    },
-    "500": {
-      "frame": {
-        "padding-horizontal": {
-          "value": "{spacing.100}",
-          "type": "number"
-        },
-        "padding-vertical": {
-          "value": "{spacing.100}",
-          "type": "number"
-        },
-        "border-radius": {
-          "value": "{radius.550}",
+          "value": "{radius.400}",
           "type": "number"
         },
         "border-width": {
@@ -60,7 +40,7 @@
         }
       }
     },
-    "300": {
+    "500": {
       "frame": {
         "padding-horizontal": {
           "value": "{spacing.100}",
@@ -71,7 +51,27 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.400}",
+          "value": "{radius.550}",
+          "type": "number"
+        },
+        "border-width": {
+          "value": "{stroke.100}",
+          "type": "number"
+        }
+      }
+    },
+    "600": {
+      "frame": {
+        "padding-horizontal": {
+          "value": "{spacing.100}",
+          "type": "number"
+        },
+        "padding-vertical": {
+          "value": "{spacing.100}",
+          "type": "number"
+        },
+        "border-radius": {
+          "value": "{radius.550}",
           "type": "number"
         },
         "border-width": {

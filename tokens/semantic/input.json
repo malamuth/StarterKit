@@ -1,6 +1,6 @@
 {
   "input": {
-    "600": {
+    "400": {
       "border-width": {
         "value": "{stroke.200}",
         "type": "number"
@@ -12,7 +12,7 @@
         "type": "number"
       }
     },
-    "400": {
+    "600": {
       "border-width": {
         "value": "{stroke.200}",
         "type": "number"

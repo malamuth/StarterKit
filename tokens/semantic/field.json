@@ -1,9 +1,9 @@
 {
   "field": {
-    "600": {
+    "400": {
       "frame": {
         "gap": {
-          "value": "{spacing.200}",
+          "value": "{spacing.100}",
           "type": "number"
         }
       },
@@ -68,10 +68,10 @@
         }
       }
     },
-    "400": {
+    "600": {
       "frame": {
         "gap": {
-          "value": "{spacing.100}",
+          "value": "{spacing.200}",
           "type": "number"
         }
       },
