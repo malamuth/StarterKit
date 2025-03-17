@@ -1,9 +1,11 @@
 {
   "accordion": {
-    "header": {
-      "gap": {
-        "value": "{spacing.200}",
-        "type": "number"
+    "500": {
+      "header": {
+        "gap": {
+          "value": "{spacing.200}",
+          "type": "number"
+        }
       }
     }
   }
