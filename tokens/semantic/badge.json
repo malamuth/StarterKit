@@ -1,6 +1,6 @@
 {
   "badge": {
-    "600": {
+    "500": {
       "min-size": {
         "value": "{size.250}",
         "type": "number"
