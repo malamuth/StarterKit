@@ -7,7 +7,7 @@
           "type": "number"
         }
       },
-      "breadcrumb": {
+      "item": {
         "typography": {
           "value": "compact.300.accent",
           "type": "other"
