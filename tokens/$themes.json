@@ -175,7 +175,8 @@
       "semantic/button": "enabled",
       "semantic/control": "enabled",
       "semantic/rich-icon": "enabled",
-      "semantic/semantic-text": "enabled"
+      "semantic/semantic-text": "enabled",
+      "semantic/accordion": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -391,7 +392,8 @@
       "semantic/control": "enabled",
       "semantic/_main-layout/layout/tablet-portrait": "enabled",
       "semantic/rich-icon": "enabled",
-      "semantic/semantic-text": "enabled"
+      "semantic/semantic-text": "enabled",
+      "semantic/accordion": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -607,7 +609,8 @@
       "semantic/control": "enabled",
       "semantic/_main-layout/layout/tablet-landscape": "enabled",
       "semantic/rich-icon": "enabled",
-      "semantic/semantic-text": "enabled"
+      "semantic/semantic-text": "enabled",
+      "semantic/accordion": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -900,7 +903,8 @@
       "semantic/control": "enabled",
       "semantic/_main-layout/layout/desktop": "enabled",
       "semantic/rich-icon": "enabled",
-      "semantic/semantic-text": "enabled"
+      "semantic/semantic-text": "enabled",
+      "semantic/accordion": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
