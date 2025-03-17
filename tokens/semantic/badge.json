@@ -1,21 +1,23 @@
 {
   "badge": {
     "500": {
-      "min-size": {
-        "value": "{size.250}",
-        "type": "number"
-      },
-      "border-radius": {
-        "value": "{radius.300}",
-        "type": "number"
-      },
-      "gap": {
-        "value": "{spacing.50}",
-        "type": "number"
-      },
-      "padding-horizontal": {
-        "value": "{spacing.150}",
-        "type": "number"
+      "frame": {
+        "min-size": {
+          "value": "{size.250}",
+          "type": "number"
+        },
+        "border-radius": {
+          "value": "{radius.300}",
+          "type": "number"
+        },
+        "gap": {
+          "value": "{spacing.50}",
+          "type": "number"
+        },
+        "padding-horizontal": {
+          "value": "{spacing.150}",
+          "type": "number"
+        }
       },
       "icon": {
         "size": {
@@ -27,6 +29,10 @@
         "padding-horizontal": {
           "value": "{spacing.100}",
           "type": "number"
+        },
+        "typography": {
+          "value": "compact.300.numeric",
+          "type": "other"
         }
       }
     }
