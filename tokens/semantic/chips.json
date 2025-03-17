@@ -1,0 +1,88 @@
+{
+  "chips": {
+    "700": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.100}",
+          "type": "number"
+        }
+      },
+      "item": {
+        "typography": {
+          "value": "compact.350.default",
+          "type": "other"
+        }
+      }
+    },
+    "600": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.100}",
+          "type": "number"
+        }
+      },
+      "item": {
+        "typography": {
+          "value": "compact.350.default",
+          "type": "other"
+        }
+      }
+    },
+    "500": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.100}",
+          "type": "number"
+        }
+      },
+      "item": {
+        "typography": {
+          "value": "compact.350.default",
+          "type": "other"
+        }
+      }
+    },
+    "400": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.100}",
+          "type": "number"
+        }
+      },
+      "item": {
+        "typography": {
+          "value": "compact.250.default",
+          "type": "other"
+        }
+      }
+    },
+    "300": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.100}",
+          "type": "number"
+        }
+      },
+      "item": {
+        "typography": {
+          "value": "compact.200.default",
+          "type": "other"
+        }
+      }
+    },
+    "200": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.100}",
+          "type": "number"
+        }
+      },
+      "item": {
+        "typography": {
+          "value": "compact.200.default",
+          "type": "other"
+        }
+      }
+    }
+  }
+}
