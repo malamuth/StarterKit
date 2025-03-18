@@ -1,0 +1,60 @@
+{
+  "list": {
+    "500": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.50}",
+          "type": "number"
+        }
+      },
+      "title": {
+        "gap": {
+          "value": "{spacing.200}",
+          "type": "number"
+        },
+        "typography": {
+          "value": "compact.300.accent",
+          "type": "other"
+        }
+      },
+      "subtitle": {
+        "gap": {
+          "value": "{spacing.200}",
+          "type": "number"
+        },
+        "typography": {
+          "value": "compact.250.default",
+          "type": "other"
+        }
+      }
+    },
+    "600": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.50}",
+          "type": "number"
+        }
+      },
+      "title": {
+        "gap": {
+          "value": "{spacing.200}",
+          "type": "number"
+        },
+        "typography": {
+          "value": "compact.350.accent",
+          "type": "other"
+        }
+      },
+      "subtitle": {
+        "gap": {
+          "value": "{spacing.200}",
+          "type": "number"
+        },
+        "typography": {
+          "value": "compact.250.default",
+          "type": "other"
+        }
+      }
+    }
+  }
+}
