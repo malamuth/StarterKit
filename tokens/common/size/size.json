@@ -1,5 +1,9 @@
 {
   "size": {
+    "0": {
+      "value": "0",
+      "type": "number"
+    },
     "20": {
       "value": "4",
       "type": "number"
