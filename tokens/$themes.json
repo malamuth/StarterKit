@@ -181,7 +181,8 @@
       "semantic/breadcrumbs": "enabled",
       "semantic/selection-control": "enabled",
       "semantic/chips": "enabled",
-      "semantic/list": "enabled"
+      "semantic/list": "enabled",
+      "semantic/cell": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -423,7 +424,8 @@
       "semantic/breadcrumbs": "enabled",
       "semantic/selection-control": "enabled",
       "semantic/chips": "enabled",
-      "semantic/list": "enabled"
+      "semantic/list": "enabled",
+      "semantic/cell": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -665,7 +667,8 @@
       "semantic/breadcrumbs": "enabled",
       "semantic/selection-control": "enabled",
       "semantic/chips": "enabled",
-      "semantic/list": "enabled"
+      "semantic/list": "enabled",
+      "semantic/cell": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -984,7 +987,8 @@
       "semantic/breadcrumbs": "enabled",
       "semantic/selection-control": "enabled",
       "semantic/chips": "enabled",
-      "semantic/list": "enabled"
+      "semantic/list": "enabled",
+      "semantic/cell": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
