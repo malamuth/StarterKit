@@ -39,6 +39,7 @@
     "semantic/field",
     "semantic/flex-button",
     "semantic/input",
+    "semantic/list",
     "semantic/loader",
     "semantic/modal",
     "semantic/nav-bar",
@@ -47,7 +48,6 @@
     "semantic/rich-icon",
     "semantic/segmented-control",
     "semantic/selection-control",
-    "semantic/semantic-text",
-    "semantic/list"
+    "semantic/semantic-text"
   ]
 }
