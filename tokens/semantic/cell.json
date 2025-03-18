@@ -21,33 +21,9 @@
           "type": "number"
         }
       },
-      "addon-large": {
+      "slot": {
         "min-height": {
           "value": "{size.500}",
-          "type": "number"
-        },
-        "gap": {
-          "value": "{spacing.200}",
-          "type": "number"
-        }
-      },
-      "addon-medium": {
-        "min-height": {
-          "value": "{size.500}",
-          "type": "number"
-        },
-        "gap": {
-          "value": "{spacing.200}",
-          "type": "number"
-        }
-      },
-      "addon-small": {
-        "min-height": {
-          "value": "{size.400}",
-          "type": "number"
-        },
-        "gap": {
-          "value": "{spacing.200}",
           "type": "number"
         }
       }
@@ -73,36 +49,18 @@
           "type": "number"
         }
       },
-      "addon-large": {
+      "slot": {
         "min-height": {
           "value": "{size.400}",
-          "type": "number"
-        },
-        "gap": {
-          "value": "{spacing.200}",
-          "type": "number"
-        }
-      },
-      "addon-medium": {
-        "min-height": {
-          "value": "{size.400}",
-          "type": "number"
-        },
-        "gap": {
-          "value": "{spacing.200}",
-          "type": "number"
-        }
-      },
-      "addon-small": {
-        "min-height": {
-          "value": "{size.400}",
-          "type": "number"
-        },
-        "gap": {
-          "value": "{spacing.200}",
           "type": "number"
         }
       }
+    }
+  },
+  "addon": {
+    "gap": {
+      "value": "{spacing.200}",
+      "type": "number"
     }
   }
 }
