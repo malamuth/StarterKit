@@ -1,8 +1,10 @@
 {
   "input": {
-    "border-width": {
-      "value": "{stroke.400}",
-      "type": "number"
+    "500": {
+      "border-width": {
+        "value": "{stroke.400}",
+        "type": "number"
+      }
     }
   }
 }
