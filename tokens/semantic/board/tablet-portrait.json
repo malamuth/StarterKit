@@ -13,6 +13,10 @@
         "padding-vertical": {
           "value": "{spacing.350}",
           "type": "number"
+        },
+        "border-radius": {
+          "value": "{radius.500}",
+          "type": "number"
         }
       },
       "content": {
@@ -34,6 +38,10 @@
         },
         "padding-vertical": {
           "value": "{spacing.350}",
+          "type": "number"
+        },
+        "border-radius": {
+          "value": "{radius.500}",
           "type": "number"
         }
       },
@@ -59,6 +67,10 @@
         "padding-vertical": {
           "value": "{spacing.200}",
           "type": "number"
+        },
+        "border-radius": {
+          "value": "{radius.500}",
+          "type": "number"
         }
       },
       "content": {
@@ -81,6 +93,10 @@
         "padding-vertical": {
           "value": "{spacing.200}",
           "type": "number"
+        },
+        "border-radius": {
+          "value": "{radius.500}",
+          "type": "number"
         }
       },
       "content": {
@@ -102,6 +118,10 @@
         },
         "padding-vertical": {
           "value": "{spacing.100}",
+          "type": "number"
+        },
+        "border-radius": {
+          "value": "{radius.500}",
           "type": "number"
         }
       },
