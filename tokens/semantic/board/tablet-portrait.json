@@ -1,162 +1,164 @@
 {
-  "board-list": {
-    "large": {
-      "frame": {
-        "padding-left": {
-          "value": "{layout.content-compensation.md}",
-          "type": "number"
+  "board": {
+    "list": {
+      "large": {
+        "frame": {
+          "padding-left": {
+            "value": "{layout.content-compensation.md}",
+            "type": "number"
+          },
+          "padding-right": {
+            "value": "{layout.content-compensation.md}",
+            "type": "number"
+          },
+          "padding-vertical": {
+            "value": "{spacing.350}",
+            "type": "number"
+          },
+          "border-radius": {
+            "value": "{radius.550}",
+            "type": "number"
+          }
         },
-        "padding-right": {
-          "value": "{layout.content-compensation.md}",
-          "type": "number"
-        },
-        "padding-vertical": {
-          "value": "{spacing.350}",
-          "type": "number"
-        },
-        "border-radius": {
-          "value": "{radius.550}",
-          "type": "number"
+        "content": {
+          "min-height": {
+            "value": "{size.200}",
+            "type": "number"
+          }
         }
       },
-      "content": {
-        "min-height": {
-          "value": "{size.200}",
-          "type": "number"
+      "medium": {
+        "frame": {
+          "padding-left": {
+            "value": "{layout.content-compensation.md}",
+            "type": "number"
+          },
+          "padding-right": {
+            "value": "{layout.content-compensation.md}",
+            "type": "number"
+          },
+          "padding-vertical": {
+            "value": "{spacing.350}",
+            "type": "number"
+          },
+          "border-radius": {
+            "value": "{radius.550}",
+            "type": "number"
+          }
+        },
+        "content": {
+          "min-height": {
+            "value": "{size.200}",
+            "type": "number"
+          }
         }
       }
     },
-    "medium": {
-      "frame": {
-        "padding-left": {
-          "value": "{layout.content-compensation.md}",
-          "type": "number"
+    "cell": {
+      "large": {
+        "frame": {
+          "padding-left": {
+            "value": "{layout.content-compensation.md}",
+            "type": "number"
+          },
+          "padding-right": {
+            "value": "{layout.content-compensation.md}",
+            "type": "number"
+          },
+          "padding-vertical": {
+            "value": "{spacing.200}",
+            "type": "number"
+          },
+          "border-radius": {
+            "value": "{radius.550}",
+            "type": "number"
+          }
         },
-        "padding-right": {
-          "value": "{layout.content-compensation.md}",
-          "type": "number"
-        },
-        "padding-vertical": {
-          "value": "{spacing.350}",
-          "type": "number"
-        },
-        "border-radius": {
-          "value": "{radius.550}",
-          "type": "number"
+        "content": {
+          "min-height": {
+            "value": "{size.700}",
+            "type": "number"
+          }
         }
       },
-      "content": {
-        "min-height": {
-          "value": "{size.200}",
-          "type": "number"
-        }
-      }
-    }
-  },
-  "board-cell": {
-    "large": {
-      "frame": {
-        "padding-left": {
-          "value": "{layout.content-compensation.md}",
-          "type": "number"
+      "medium": {
+        "frame": {
+          "padding-left": {
+            "value": "{layout.content-compensation.md}",
+            "type": "number"
+          },
+          "padding-right": {
+            "value": "{layout.content-compensation.md}",
+            "type": "number"
+          },
+          "padding-vertical": {
+            "value": "{spacing.200}",
+            "type": "number"
+          },
+          "border-radius": {
+            "value": "{radius.550}",
+            "type": "number"
+          }
         },
-        "padding-right": {
-          "value": "{layout.content-compensation.md}",
-          "type": "number"
-        },
-        "padding-vertical": {
-          "value": "{spacing.200}",
-          "type": "number"
-        },
-        "border-radius": {
-          "value": "{radius.550}",
-          "type": "number"
+        "content": {
+          "min-height": {
+            "value": "{size.600}",
+            "type": "number"
+          }
         }
       },
-      "content": {
-        "min-height": {
-          "value": "{size.700}",
-          "type": "number"
+      "small": {
+        "frame": {
+          "padding-left": {
+            "value": "{layout.content-compensation.md}",
+            "type": "number"
+          },
+          "padding-right": {
+            "value": "{layout.content-compensation.md}",
+            "type": "number"
+          },
+          "padding-vertical": {
+            "value": "{spacing.100}",
+            "type": "number"
+          },
+          "border-radius": {
+            "value": "{radius.550}",
+            "type": "number"
+          }
+        },
+        "content": {
+          "min-height": {
+            "value": "{size.600}",
+            "type": "number"
+          }
         }
       }
     },
-    "medium": {
-      "frame": {
-        "padding-left": {
-          "value": "{layout.content-compensation.md}",
-          "type": "number"
+    "accordion": {
+      "medium": {
+        "frame": {
+          "padding-left": {
+            "value": "{layout.content-compensation.md}",
+            "type": "number"
+          },
+          "padding-right": {
+            "value": "{spacing.200}",
+            "type": "number"
+          },
+          "padding-vertical": {
+            "value": "{spacing.200}",
+            "type": "number"
+          },
+          "border-radius": {
+            "value": "{radius.500}",
+            "type": "number"
+          }
         },
-        "padding-right": {
-          "value": "{layout.content-compensation.md}",
-          "type": "number"
-        },
-        "padding-vertical": {
-          "value": "{spacing.200}",
-          "type": "number"
-        },
-        "border-radius": {
-          "value": "{radius.550}",
-          "type": "number"
-        }
-      },
-      "content": {
-        "min-height": {
-          "value": "{size.600}",
-          "type": "number"
-        }
-      }
-    },
-    "small": {
-      "frame": {
-        "padding-left": {
-          "value": "{layout.content-compensation.md}",
-          "type": "number"
-        },
-        "padding-right": {
-          "value": "{layout.content-compensation.md}",
-          "type": "number"
-        },
-        "padding-vertical": {
-          "value": "{spacing.100}",
-          "type": "number"
-        },
-        "border-radius": {
-          "value": "{radius.550}",
-          "type": "number"
-        }
-      },
-      "content": {
-        "min-height": {
-          "value": "{size.600}",
-          "type": "number"
-        }
-      }
-    }
-  },
-  "board-accordion": {
-    "medium": {
-      "frame": {
-        "padding-left": {
-          "value": "{layout.content-compensation.md}",
-          "type": "number"
-        },
-        "padding-right": {
-          "value": "{spacing.200}",
-          "type": "number"
-        },
-        "padding-vertical": {
-          "value": "{spacing.200}",
-          "type": "number"
-        },
-        "border-radius": {
-          "value": "{radius.500}",
-          "type": "number"
-        }
-      },
-      "content": {
-        "min-height": {
-          "value": "{size.0}",
-          "type": "number"
+        "content": {
+          "min-height": {
+            "value": "{size.0}",
+            "type": "number"
+          }
         }
       }
     }
