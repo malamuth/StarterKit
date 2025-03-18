@@ -1,17 +1,19 @@
 {
   "dropdown": {
     "400": {
-      "margin-top": {
-        "value": "{spacing.100}",
-        "type": "number"
-      },
-      "padding": {
-        "value": "{spacing.100}",
-        "type": "number"
-      },
-      "border-radius": {
-        "value": "{radius.400}",
-        "type": "number"
+      "frame": {
+        "margin-top": {
+          "value": "{spacing.100}",
+          "type": "number"
+        },
+        "padding": {
+          "value": "{spacing.100}",
+          "type": "number"
+        },
+        "border-radius": {
+          "value": "{radius.400}",
+          "type": "number"
+        }
       },
       "content": {
         "padding-horizontal": {
@@ -21,17 +23,19 @@
       }
     },
     "500": {
-      "margin-top": {
-        "value": "{spacing.200}",
-        "type": "number"
-      },
-      "padding": {
-        "value": "{spacing.200}",
-        "type": "number"
-      },
-      "border-radius": {
-        "value": "{radius.500}",
-        "type": "number"
+      "frame": {
+        "margin-top": {
+          "value": "{spacing.200}",
+          "type": "number"
+        },
+        "padding": {
+          "value": "{spacing.200}",
+          "type": "number"
+        },
+        "border-radius": {
+          "value": "{radius.500}",
+          "type": "number"
+        }
       },
       "content": {
         "padding-horizontal": {
@@ -41,17 +45,19 @@
       }
     },
     "600": {
-      "margin-top": {
-        "value": "{spacing.200}",
-        "type": "number"
-      },
-      "padding": {
-        "value": "{spacing.200}",
-        "type": "number"
-      },
-      "border-radius": {
-        "value": "{radius.500}",
-        "type": "number"
+      "frame": {
+        "margin-top": {
+          "value": "{spacing.200}",
+          "type": "number"
+        },
+        "padding": {
+          "value": "{spacing.200}",
+          "type": "number"
+        },
+        "border-radius": {
+          "value": "{radius.500}",
+          "type": "number"
+        }
       },
       "content": {
         "padding-horizontal": {
