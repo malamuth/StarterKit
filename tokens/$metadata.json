@@ -31,6 +31,10 @@
     "semantic/_main-layout/layout/tablet-portrait",
     "semantic/accordion",
     "semantic/badge",
+    "semantic/board/desktop",
+    "semantic/board/mobile",
+    "semantic/board/tablet-landscape",
+    "semantic/board/tablet-portrait",
     "semantic/breadcrumbs",
     "semantic/button",
     "semantic/cell",
@@ -49,10 +53,6 @@
     "semantic/rich-icon",
     "semantic/segmented-control",
     "semantic/selection-control",
-    "semantic/semantic-text",
-    "semantic/board/desktop",
-    "semantic/board/mobile",
-    "semantic/board/tablet-landscape",
-    "semantic/board/tablet-portrait"
+    "semantic/semantic-text"
   ]
 }
