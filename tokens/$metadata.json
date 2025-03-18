@@ -49,6 +49,10 @@
     "semantic/rich-icon",
     "semantic/segmented-control",
     "semantic/selection-control",
-    "semantic/semantic-text"
+    "semantic/semantic-text",
+    "semantic/board/desktop",
+    "semantic/board/mobile",
+    "semantic/board/tablet-landscape",
+    "semantic/board/tablet-portrait"
   ]
 }
