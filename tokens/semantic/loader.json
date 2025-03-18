@@ -1,5 +1,5 @@
 {
-  "input": {
+  "loader": {
     "500": {
       "border-width": {
         "value": "{stroke.400}",

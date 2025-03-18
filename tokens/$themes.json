@@ -189,7 +189,6 @@
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
     "$figmaVariableReferences": {
-      "input.500.border-width": "b9220231d50514e2c8a05426f295d2abee3f3cd1",
       "main-layout.breakpoint": "9eedc6fa41e60b9c2ce9e1358cc9b4ab5a7b8c1e",
       "main-layout.min-width": "44aa736afa5553dcca2fc55f1d24e610ed81157e",
       "main-layout.max-width": "bfb35e2fee50f0f9101effc93e484ef60e121d11",
@@ -454,7 +453,8 @@
       "semantic-text.paragraph-m.padding-top": "b9e00e50a5070816498a4ed8d5d57dc29f8ec10f",
       "semantic-text.paragraph-m.padding-bottom": "762b547d72c0a51ee20535f0470ce68623ab4142",
       "semantic-text.paragraph-s.padding-top": "50ecbb34caea2482ea0068627416407f4c7b86e7",
-      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4"
+      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4",
+      "loader.500.border-width": "b9220231d50514e2c8a05426f295d2abee3f3cd1"
     },
     "group": "device"
   },
@@ -489,7 +489,6 @@
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
     "$figmaVariableReferences": {
-      "input.500.border-width": "b9220231d50514e2c8a05426f295d2abee3f3cd1",
       "main-layout.breakpoint": "9eedc6fa41e60b9c2ce9e1358cc9b4ab5a7b8c1e",
       "main-layout.min-width": "44aa736afa5553dcca2fc55f1d24e610ed81157e",
       "main-layout.max-width": "bfb35e2fee50f0f9101effc93e484ef60e121d11",
@@ -754,7 +753,8 @@
       "semantic-text.paragraph-m.padding-top": "b9e00e50a5070816498a4ed8d5d57dc29f8ec10f",
       "semantic-text.paragraph-m.padding-bottom": "762b547d72c0a51ee20535f0470ce68623ab4142",
       "semantic-text.paragraph-s.padding-top": "50ecbb34caea2482ea0068627416407f4c7b86e7",
-      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4"
+      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4",
+      "loader.500.border-width": "b9220231d50514e2c8a05426f295d2abee3f3cd1"
     },
     "group": "device"
   },
@@ -789,7 +789,6 @@
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
     "$figmaVariableReferences": {
-      "input.500.border-width": "b9220231d50514e2c8a05426f295d2abee3f3cd1",
       "main-layout.breakpoint": "9eedc6fa41e60b9c2ce9e1358cc9b4ab5a7b8c1e",
       "main-layout.min-width": "44aa736afa5553dcca2fc55f1d24e610ed81157e",
       "main-layout.max-width": "bfb35e2fee50f0f9101effc93e484ef60e121d11",
@@ -1054,7 +1053,8 @@
       "semantic-text.paragraph-m.padding-top": "b9e00e50a5070816498a4ed8d5d57dc29f8ec10f",
       "semantic-text.paragraph-m.padding-bottom": "762b547d72c0a51ee20535f0470ce68623ab4142",
       "semantic-text.paragraph-s.padding-top": "50ecbb34caea2482ea0068627416407f4c7b86e7",
-      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4"
+      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4",
+      "loader.500.border-width": "b9220231d50514e2c8a05426f295d2abee3f3cd1"
     },
     "group": "device"
   },
@@ -1166,7 +1166,6 @@
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
     "$figmaVariableReferences": {
-      "input.500.border-width": "b9220231d50514e2c8a05426f295d2abee3f3cd1",
       "main-layout.breakpoint": "9eedc6fa41e60b9c2ce9e1358cc9b4ab5a7b8c1e",
       "main-layout.min-width": "44aa736afa5553dcca2fc55f1d24e610ed81157e",
       "main-layout.max-width": "bfb35e2fee50f0f9101effc93e484ef60e121d11",
@@ -1431,7 +1430,8 @@
       "semantic-text.paragraph-m.padding-top": "b9e00e50a5070816498a4ed8d5d57dc29f8ec10f",
       "semantic-text.paragraph-m.padding-bottom": "762b547d72c0a51ee20535f0470ce68623ab4142",
       "semantic-text.paragraph-s.padding-top": "50ecbb34caea2482ea0068627416407f4c7b86e7",
-      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4"
+      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4",
+      "loader.500.border-width": "b9220231d50514e2c8a05426f295d2abee3f3cd1"
     },
     "group": "device"
   },
