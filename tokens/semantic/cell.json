@@ -1,66 +1,68 @@
 {
   "cell": {
-    "large": {
-      "frame": {
-        "gap": {
-          "value": "{spacing.300}",
-          "type": "number"
+    "size": {
+      "large": {
+        "frame": {
+          "gap": {
+            "value": "{spacing.300}",
+            "type": "number"
+          },
+          "padding-vertical": {
+            "value": "{spacing.200}",
+            "type": "number"
+          }
         },
-        "padding-vertical": {
-          "value": "{spacing.200}",
-          "type": "number"
+        "content": {
+          "min-height": {
+            "value": "{size.250}",
+            "type": "number"
+          },
+          "padding-vertical": {
+            "value": "{spacing.100}",
+            "type": "number"
+          }
+        },
+        "slot": {
+          "min-height": {
+            "value": "{size.500}",
+            "type": "number"
+          }
         }
       },
-      "content": {
-        "min-height": {
-          "value": "{size.250}",
-          "type": "number"
+      "medium": {
+        "frame": {
+          "gap": {
+            "value": "{spacing.250}",
+            "type": "number"
+          },
+          "padding-vertical": {
+            "value": "{spacing.150}",
+            "type": "number"
+          }
         },
-        "padding-vertical": {
-          "value": "{spacing.100}",
-          "type": "number"
-        }
-      },
-      "slot": {
-        "min-height": {
-          "value": "{size.500}",
-          "type": "number"
+        "content": {
+          "min-height": {
+            "value": "{size.200}",
+            "type": "number"
+          },
+          "padding-vertical": {
+            "value": "{spacing.50}",
+            "type": "number"
+          }
+        },
+        "slot": {
+          "min-height": {
+            "value": "{size.400}",
+            "type": "number"
+          }
         }
       }
     },
-    "medium": {
-      "frame": {
-        "gap": {
-          "value": "{spacing.250}",
-          "type": "number"
-        },
-        "padding-vertical": {
-          "value": "{spacing.150}",
-          "type": "number"
-        }
-      },
-      "content": {
-        "min-height": {
-          "value": "{size.200}",
-          "type": "number"
-        },
-        "padding-vertical": {
-          "value": "{spacing.50}",
-          "type": "number"
-        }
-      },
-      "slot": {
-        "min-height": {
-          "value": "{size.400}",
-          "type": "number"
-        }
+    "addon": {
+      "gap": {
+        "value": "{spacing.200}",
+        "type": "number"
       }
-    }
-  },
-  "addon": {
-    "gap": {
-      "value": "{spacing.200}",
-      "type": "number"
     }
   }
 }
