@@ -15,7 +15,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.500}",
+          "value": "{radius.550}",
           "type": "number"
         }
       },
@@ -41,7 +41,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.500}",
+          "value": "{radius.550}",
           "type": "number"
         }
       },
@@ -69,7 +69,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.500}",
+          "value": "{radius.550}",
           "type": "number"
         }
       },
@@ -95,7 +95,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.500}",
+          "value": "{radius.550}",
           "type": "number"
         }
       },
@@ -121,7 +121,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.500}",
+          "value": "{radius.550}",
           "type": "number"
         }
       },
@@ -149,7 +149,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.500}",
+          "value": "{radius.550}",
           "type": "number"
         }
       },
