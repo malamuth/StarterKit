@@ -1,0 +1,108 @@
+{
+  "cell": {
+    "large": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.300}",
+          "type": "number"
+        },
+        "padding-vertical": {
+          "value": "{spacing.200}",
+          "type": "number"
+        }
+      },
+      "content": {
+        "min-height": {
+          "value": "{size.250}",
+          "type": "number"
+        },
+        "padding-vertical": {
+          "value": "{spacing.100}",
+          "type": "number"
+        }
+      },
+      "addon-large": {
+        "min-height": {
+          "value": "{size.500}",
+          "type": "number"
+        },
+        "gap": {
+          "value": "{spacing.200}",
+          "type": "number"
+        }
+      },
+      "addon-medium": {
+        "min-height": {
+          "value": "{size.500}",
+          "type": "number"
+        },
+        "gap": {
+          "value": "{spacing.200}",
+          "type": "number"
+        }
+      },
+      "addon-small": {
+        "min-height": {
+          "value": "{size.400}",
+          "type": "number"
+        },
+        "gap": {
+          "value": "{spacing.200}",
+          "type": "number"
+        }
+      }
+    },
+    "medium": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.250}",
+          "type": "number"
+        },
+        "padding-vertical": {
+          "value": "{spacing.150}",
+          "type": "number"
+        }
+      },
+      "content": {
+        "min-height": {
+          "value": "{size.200}",
+          "type": "number"
+        },
+        "padding-vertical": {
+          "value": "{spacing.50}",
+          "type": "number"
+        }
+      },
+      "addon-large": {
+        "min-height": {
+          "value": "{size.400}",
+          "type": "number"
+        },
+        "gap": {
+          "value": "{spacing.200}",
+          "type": "number"
+        }
+      },
+      "addon-medium": {
+        "min-height": {
+          "value": "{size.400}",
+          "type": "number"
+        },
+        "gap": {
+          "value": "{spacing.200}",
+          "type": "number"
+        }
+      },
+      "addon-small": {
+        "min-height": {
+          "value": "{size.400}",
+          "type": "number"
+        },
+        "gap": {
+          "value": "{spacing.200}",
+          "type": "number"
+        }
+      }
+    }
+  }
+}
