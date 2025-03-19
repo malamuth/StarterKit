@@ -1,45 +1,63 @@
 {
   "input": {
     "400": {
-      "border-width": {
-        "value": "{stroke.200}",
-        "type": "number"
+      "frame": {
+        "border-width": {
+          "value": "{stroke.200}",
+          "type": "number"
+        },
+        "padding-vertical": {
+          "value": "{spacing.300}",
+          "type": "number"
+        },
+        "padding-horizontal": {
+          "value": "{spacing.350}",
+          "type": "number"
+        }
       },
-      "padding-vertical": {
-        "value": "{spacing.300}",
-        "type": "number"
-      },
-      "padding-horizontal": {
-        "value": "{spacing.350}",
-        "type": "number"
+      "label": {
+        "typography": "compact.250.default",
+        "type": "other"
       }
     },
     "500": {
-      "border-width": {
-        "value": "{stroke.200}",
-        "type": "number"
+      "frame": {
+        "border-width": {
+          "value": "{stroke.200}",
+          "type": "number"
+        },
+        "padding-vertical": {
+          "value": "{spacing.300}",
+          "type": "number"
+        },
+        "padding-horizontal": {
+          "value": "{spacing.350}",
+          "type": "number"
+        }
       },
-      "padding-vertical": {
-        "value": "{spacing.300}",
-        "type": "number"
-      },
-      "padding-horizontal": {
-        "value": "{spacing.350}",
-        "type": "number"
+      "label": {
+        "typography": "compact.350.default",
+        "type": "other"
       }
     },
     "600": {
-      "border-width": {
-        "value": "{stroke.200}",
-        "type": "number"
+      "frame": {
+        "border-width": {
+          "value": "{stroke.200}",
+          "type": "number"
+        },
+        "padding-vertical": {
+          "value": "{spacing.300}",
+          "type": "number"
+        },
+        "padding-horizontal": {
+          "value": "{spacing.350}",
+          "type": "number"
+        }
       },
-      "padding-vertical": {
-        "value": "{spacing.300}",
-        "type": "number"
-      },
-      "padding-horizontal": {
-        "value": "{spacing.350}",
-        "type": "number"
+      "label": {
+        "typography": "compact.350.default",
+        "type": "other"
       }
     }
   }
