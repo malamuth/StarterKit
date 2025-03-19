@@ -23,7 +23,7 @@
       },
       "label": {
         "typography": {
-          "value": "{compact.150.accent-numeric}",
+          "value": "compact.150.accent-numeric",
           "type": "other"
         }
       }
@@ -51,7 +51,7 @@
       },
       "label": {
         "typography": {
-          "value": "{compact.150.accent-numeric}",
+          "value": "compact.150.accent-numeric",
           "type": "other"
         }
       }
@@ -79,7 +79,7 @@
       },
       "label": {
         "typography": {
-          "value": "{compact.150.accent-numeric}",
+          "value": "compact.150.accent-numeric",
           "type": "other"
         }
       }
@@ -107,7 +107,7 @@
       },
       "label": {
         "typography": {
-          "value": "{compact.200.accent-numeric}",
+          "value": "compact.200.accent-numeric",
           "type": "other"
         }
       }
@@ -135,7 +135,7 @@
       },
       "label": {
         "typography": {
-          "value": "{compact.250.accent-numeric}",
+          "value": "compact.250.accent-numeric",
           "type": "other"
         }
       }
@@ -163,7 +163,7 @@
       },
       "label": {
         "typography": {
-          "value": "{compact.300.accent-numeric}",
+          "value": "compact.300.accent-numeric",
           "type": "other"
         }
       }
