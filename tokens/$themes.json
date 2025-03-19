@@ -186,7 +186,8 @@
       "semantic/board/mobile": "enabled",
       "semantic/loader": "enabled",
       "semantic/dropdown": "enabled",
-      "semantic/flex-button": "enabled"
+      "semantic/flex-button": "enabled",
+      "semantic/input": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -433,6 +434,9 @@
       "flex-button.500.slot.padding-left": "23f81f3f75f3c4b9f58dfe47913ce974ee495947",
       "flex-button.600.frame.gap": "7a3c121bc20c2d7a134039c884a3d63712a12956",
       "flex-button.600.slot.padding-left": "bead15a9c4e87db33cd9d6e35a47b61a1a49c0e8",
+      "input.400.border-width": "ccaa8616f09df7bc42f0bd9ec2e2b99c9ae1e8c1",
+      "input.500.border-width": "d773c737758dc7c1c28f301eec340cb541028224",
+      "input.600.border-width": "0e79d809c7ddbdbab4cff37434e1126b54b9a465",
       "list.500.frame.gap": "8852a9b7c32e29cb282bd9b78c1c2f7adb7895a7",
       "list.500.title.gap": "a6003e351a63375db611e3b59d1796b5d3fdbf29",
       "list.500.subtitle.gap": "f0717ff38b925bbdd72623d84321a4fcfb10cf5c",
@@ -508,7 +512,8 @@
       "semantic/board/tablet-portrait": "enabled",
       "semantic/loader": "enabled",
       "semantic/dropdown": "enabled",
-      "semantic/flex-button": "enabled"
+      "semantic/flex-button": "enabled",
+      "semantic/input": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -755,6 +760,9 @@
       "flex-button.500.slot.padding-left": "23f81f3f75f3c4b9f58dfe47913ce974ee495947",
       "flex-button.600.frame.gap": "7a3c121bc20c2d7a134039c884a3d63712a12956",
       "flex-button.600.slot.padding-left": "bead15a9c4e87db33cd9d6e35a47b61a1a49c0e8",
+      "input.400.border-width": "ccaa8616f09df7bc42f0bd9ec2e2b99c9ae1e8c1",
+      "input.500.border-width": "d773c737758dc7c1c28f301eec340cb541028224",
+      "input.600.border-width": "0e79d809c7ddbdbab4cff37434e1126b54b9a465",
       "list.500.frame.gap": "8852a9b7c32e29cb282bd9b78c1c2f7adb7895a7",
       "list.500.title.gap": "a6003e351a63375db611e3b59d1796b5d3fdbf29",
       "list.500.subtitle.gap": "f0717ff38b925bbdd72623d84321a4fcfb10cf5c",
@@ -830,7 +838,8 @@
       "semantic/board/tablet-landscape": "enabled",
       "semantic/loader": "enabled",
       "semantic/dropdown": "enabled",
-      "semantic/flex-button": "enabled"
+      "semantic/flex-button": "enabled",
+      "semantic/input": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -1077,6 +1086,9 @@
       "flex-button.500.slot.padding-left": "23f81f3f75f3c4b9f58dfe47913ce974ee495947",
       "flex-button.600.frame.gap": "7a3c121bc20c2d7a134039c884a3d63712a12956",
       "flex-button.600.slot.padding-left": "bead15a9c4e87db33cd9d6e35a47b61a1a49c0e8",
+      "input.400.border-width": "ccaa8616f09df7bc42f0bd9ec2e2b99c9ae1e8c1",
+      "input.500.border-width": "d773c737758dc7c1c28f301eec340cb541028224",
+      "input.600.border-width": "0e79d809c7ddbdbab4cff37434e1126b54b9a465",
       "list.500.frame.gap": "8852a9b7c32e29cb282bd9b78c1c2f7adb7895a7",
       "list.500.title.gap": "a6003e351a63375db611e3b59d1796b5d3fdbf29",
       "list.500.subtitle.gap": "f0717ff38b925bbdd72623d84321a4fcfb10cf5c",
@@ -1229,7 +1241,8 @@
       "semantic/board/desktop": "enabled",
       "semantic/loader": "enabled",
       "semantic/dropdown": "enabled",
-      "semantic/flex-button": "enabled"
+      "semantic/flex-button": "enabled",
+      "semantic/input": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
@@ -1476,6 +1489,9 @@
       "flex-button.500.slot.padding-left": "23f81f3f75f3c4b9f58dfe47913ce974ee495947",
       "flex-button.600.frame.gap": "7a3c121bc20c2d7a134039c884a3d63712a12956",
       "flex-button.600.slot.padding-left": "bead15a9c4e87db33cd9d6e35a47b61a1a49c0e8",
+      "input.400.border-width": "ccaa8616f09df7bc42f0bd9ec2e2b99c9ae1e8c1",
+      "input.500.border-width": "d773c737758dc7c1c28f301eec340cb541028224",
+      "input.600.border-width": "0e79d809c7ddbdbab4cff37434e1126b54b9a465",
       "list.500.frame.gap": "8852a9b7c32e29cb282bd9b78c1c2f7adb7895a7",
       "list.500.title.gap": "a6003e351a63375db611e3b59d1796b5d3fdbf29",
       "list.500.subtitle.gap": "f0717ff38b925bbdd72623d84321a4fcfb10cf5c",
