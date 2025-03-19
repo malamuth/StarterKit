@@ -13,7 +13,7 @@
           "type": "number"
         },
         "typography": {
-          "value": "{compact.250.default}",
+          "value": "compact.250.default",
           "type": "other"
         }
       },
@@ -29,7 +29,7 @@
           "type": "number"
         },
         "typography": {
-          "value": "{compact.250.default}",
+          "value": "compact.250.default",
           "type": "other"
         }
       }
@@ -47,7 +47,7 @@
           "type": "number"
         },
         "typography": {
-          "value": "{compact.250.default}",
+          "value": "compact.250.default",
           "type": "other"
         }
       },
@@ -63,7 +63,7 @@
           "type": "number"
         },
         "typography": {
-          "value": "{compact.250.default}",
+          "value": "compact.250.default",
           "type": "other"
         }
       }
@@ -81,7 +81,7 @@
           "type": "number"
         },
         "typography": {
-          "value": "{compact.250.default}",
+          "value": "compact.250.default",
           "type": "other"
         }
       },
@@ -97,7 +97,7 @@
           "type": "number"
         },
         "typography": {
-          "value": "{compact.250.default}",
+          "value": "compact.250.default",
           "type": "other"
         }
       }
