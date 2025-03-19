@@ -1,9 +1,11 @@
 {
   "flex-button": {
     "300": {
-      "gap": {
-        "value": "{spacing.0}",
-        "type": "number"
+      "frame": {
+        "gap": {
+          "value": "{spacing.0}",
+          "type": "number"
+        }
       },
       "slot": {
         "padding-left": {
@@ -13,9 +15,11 @@
       }
     },
     "400": {
-      "gap": {
-        "value": "{spacing.0}",
-        "type": "number"
+      "frame": {
+        "gap": {
+          "value": "{spacing.0}",
+          "type": "number"
+        }
       },
       "slot": {
         "padding-left": {
@@ -25,9 +29,11 @@
       }
     },
     "500": {
-      "gap": {
-        "value": "{spacing.0}",
-        "type": "number"
+      "frame": {
+        "gap": {
+          "value": "{spacing.0}",
+          "type": "number"
+        }
       },
       "slot": {
         "padding-left": {
@@ -37,9 +43,11 @@
       }
     },
     "600": {
-      "gap": {
-        "value": "{spacing.50}",
-        "type": "number"
+      "frame": {
+        "gap": {
+          "value": "{spacing.50}",
+          "type": "number"
+        }
       },
       "slot": {
         "padding-left": {
