@@ -16,8 +16,10 @@
         }
       },
       "label": {
-        "typography": "compact.250.default",
-        "type": "other"
+        "typography": {
+          "value": "compact.250.default",
+          "type": "other"
+        }
       }
     },
     "500": {
@@ -36,8 +38,10 @@
         }
       },
       "label": {
-        "typography": "compact.350.default",
-        "type": "other"
+        "typography": {
+          "value": "compact.350.default",
+          "type": "other"
+        }
       }
     },
     "600": {
@@ -56,8 +60,10 @@
         }
       },
       "label": {
-        "typography": "compact.350.default",
-        "type": "other"
+        "typography": {
+          "value": "compact.350.default",
+          "type": "other"
+        }
       }
     }
   }
