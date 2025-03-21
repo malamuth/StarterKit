@@ -1,8 +1,8 @@
 {
   "inline-input": {
-    "600": {
+    "400": {
       "typography": {
-        "value": "display.500.default",
+        "value": "compact.250.default",
         "type": "other"
       }
     },
@@ -12,9 +12,9 @@
         "type": "other"
       }
     },
-    "400": {
+    "600": {
       "typography": {
-        "value": "compact.250.default",
+        "value": "display.500.default",
         "type": "other"
       }
     }

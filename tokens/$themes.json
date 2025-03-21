@@ -189,7 +189,8 @@
       "semantic/flex-button": "enabled",
       "semantic/input": "enabled",
       "semantic/pimple": "enabled",
-      "semantic/field": "enabled"
+      "semantic/field": "enabled",
+      "semantic/inline-input": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -574,7 +575,8 @@
       "semantic/flex-button": "enabled",
       "semantic/input": "enabled",
       "semantic/pimple": "enabled",
-      "semantic/field": "enabled"
+      "semantic/field": "enabled",
+      "semantic/inline-input": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -959,7 +961,8 @@
       "semantic/flex-button": "enabled",
       "semantic/input": "enabled",
       "semantic/pimple": "enabled",
-      "semantic/field": "enabled"
+      "semantic/field": "enabled",
+      "semantic/inline-input": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -1421,7 +1424,8 @@
       "semantic/flex-button": "enabled",
       "semantic/input": "enabled",
       "semantic/pimple": "enabled",
-      "semantic/field": "enabled"
+      "semantic/field": "enabled",
+      "semantic/inline-input": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
