@@ -10,7 +10,7 @@
       "label": {
         "typography": {
           "value": "compact.150.numeric",
-          "type": "number"
+          "type": "other"
         }
       }
     },
@@ -24,7 +24,7 @@
       "label": {
         "typography": {
           "value": "compact.200.numeric",
-          "type": "number"
+          "type": "other"
         }
       }
     },
@@ -38,7 +38,7 @@
       "label": {
         "typography": {
           "value": "compact.250.numeric",
-          "type": "number"
+          "type": "other"
         }
       }
     },
@@ -52,7 +52,7 @@
       "label": {
         "typography": {
           "value": "compact.300.numeric",
-          "type": "number"
+          "type": "other"
         }
       }
     },
@@ -66,7 +66,7 @@
       "label": {
         "typography": {
           "value": "compact.350.numeric",
-          "type": "number"
+          "type": "other"
         }
       }
     },
@@ -80,7 +80,7 @@
       "label": {
         "typography": {
           "value": "compact.350.numeric",
-          "type": "number"
+          "type": "other"
         }
       }
     },
@@ -94,7 +94,7 @@
       "label": {
         "typography": {
           "value": "compact.400.numeric",
-          "type": "number"
+          "type": "other"
         }
       }
     },
@@ -108,7 +108,7 @@
       "label": {
         "typography": {
           "value": "compact.400.numeric",
-          "type": "number"
+          "type": "other"
         }
       }
     },
@@ -122,7 +122,7 @@
       "label": {
         "typography": {
           "value": "compact.400.numeric",
-          "type": "number"
+          "type": "other"
         }
       }
     }
