@@ -67,7 +67,7 @@
           "type": "number"
         },
         "padding-horizontal": {
-          "value": "{spacing.100}",
+          "value": "{spacing.50}",
           "type": "number"
         }
       },
@@ -123,7 +123,7 @@
           "type": "number"
         },
         "padding-horizontal": {
-          "value": "{spacing.150}",
+          "value": "{spacing.100}",
           "type": "number"
         }
       },
