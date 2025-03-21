@@ -190,7 +190,8 @@
       "semantic/input": "enabled",
       "semantic/pimple": "enabled",
       "semantic/field": "enabled",
-      "semantic/inline-input": "enabled"
+      "semantic/inline-input": "enabled",
+      "semantic/gallery": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -540,7 +541,8 @@
       "semantic-text.paragraph-m.padding-top": "b9e00e50a5070816498a4ed8d5d57dc29f8ec10f",
       "semantic-text.paragraph-m.padding-bottom": "762b547d72c0a51ee20535f0470ce68623ab4142",
       "semantic-text.paragraph-s.padding-top": "50ecbb34caea2482ea0068627416407f4c7b86e7",
-      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4"
+      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4",
+      "gallery.500.gap": "27713d7e1941ef63d8a1d277c5e3545fea717218"
     },
     "group": "device"
   },
@@ -576,7 +578,8 @@
       "semantic/input": "enabled",
       "semantic/pimple": "enabled",
       "semantic/field": "enabled",
-      "semantic/inline-input": "enabled"
+      "semantic/inline-input": "enabled",
+      "semantic/gallery": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -926,7 +929,8 @@
       "semantic-text.paragraph-m.padding-top": "b9e00e50a5070816498a4ed8d5d57dc29f8ec10f",
       "semantic-text.paragraph-m.padding-bottom": "762b547d72c0a51ee20535f0470ce68623ab4142",
       "semantic-text.paragraph-s.padding-top": "50ecbb34caea2482ea0068627416407f4c7b86e7",
-      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4"
+      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4",
+      "gallery.500.gap": "27713d7e1941ef63d8a1d277c5e3545fea717218"
     },
     "group": "device"
   },
@@ -962,7 +966,8 @@
       "semantic/input": "enabled",
       "semantic/pimple": "enabled",
       "semantic/field": "enabled",
-      "semantic/inline-input": "enabled"
+      "semantic/inline-input": "enabled",
+      "semantic/gallery": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -1312,7 +1317,8 @@
       "semantic-text.paragraph-m.padding-top": "b9e00e50a5070816498a4ed8d5d57dc29f8ec10f",
       "semantic-text.paragraph-m.padding-bottom": "762b547d72c0a51ee20535f0470ce68623ab4142",
       "semantic-text.paragraph-s.padding-top": "50ecbb34caea2482ea0068627416407f4c7b86e7",
-      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4"
+      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4",
+      "gallery.500.gap": "27713d7e1941ef63d8a1d277c5e3545fea717218"
     },
     "group": "device"
   },
@@ -1425,7 +1431,8 @@
       "semantic/input": "enabled",
       "semantic/pimple": "enabled",
       "semantic/field": "enabled",
-      "semantic/inline-input": "enabled"
+      "semantic/inline-input": "enabled",
+      "semantic/gallery": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
@@ -1775,7 +1782,8 @@
       "semantic-text.paragraph-m.padding-top": "b9e00e50a5070816498a4ed8d5d57dc29f8ec10f",
       "semantic-text.paragraph-m.padding-bottom": "762b547d72c0a51ee20535f0470ce68623ab4142",
       "semantic-text.paragraph-s.padding-top": "50ecbb34caea2482ea0068627416407f4c7b86e7",
-      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4"
+      "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4",
+      "gallery.500.gap": "27713d7e1941ef63d8a1d277c5e3545fea717218"
     },
     "group": "device"
   },
