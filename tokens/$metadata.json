@@ -43,6 +43,7 @@
     "semantic/dropdown",
     "semantic/field",
     "semantic/flex-button",
+    "semantic/gallery",
     "semantic/inline-input",
     "semantic/input",
     "semantic/list",
@@ -54,7 +55,6 @@
     "semantic/rich-icon",
     "semantic/segmented-control",
     "semantic/selection-control",
-    "semantic/semantic-text",
-    "semantic/gallery"
+    "semantic/semantic-text"
   ]
 }
