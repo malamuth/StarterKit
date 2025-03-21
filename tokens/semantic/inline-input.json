@@ -1,0 +1,22 @@
+{
+  "inline-input": {
+    "600": {
+      "typography": {
+        "value": "display.500.default",
+        "type": "other"
+      }
+    },
+    "500": {
+      "typography": {
+        "value": "compact.350.default",
+        "type": "other"
+      }
+    },
+    "400": {
+      "typography": {
+        "value": "compact.250.default",
+        "type": "other"
+      }
+    }
+  }
+}
