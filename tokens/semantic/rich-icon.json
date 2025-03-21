@@ -6,12 +6,24 @@
           "value": "{size.80}",
           "type": "number"
         }
+      },
+      "label": {
+        "typography": {
+          "value": "compact.150.numeric",
+          "type": "number"
+        }
       }
     },
     "200": {
       "icon": {
         "size": {
           "value": "{size.100}",
+          "type": "number"
+        }
+      },
+      "label": {
+        "typography": {
+          "value": "compact.200.numeric",
           "type": "number"
         }
       }
@@ -22,12 +34,24 @@
           "value": "{size.150}",
           "type": "number"
         }
+      },
+      "label": {
+        "typography": {
+          "value": "compact.250.numeric",
+          "type": "number"
+        }
       }
     },
     "400": {
       "icon": {
         "size": {
           "value": "{size.200}",
+          "type": "number"
+        }
+      },
+      "label": {
+        "typography": {
+          "value": "compact.300.numeric",
           "type": "number"
         }
       }
@@ -38,12 +62,24 @@
           "value": "{size.250}",
           "type": "number"
         }
+      },
+      "label": {
+        "typography": {
+          "value": "compact.350.numeric",
+          "type": "number"
+        }
       }
     },
     "600": {
       "icon": {
         "size": {
           "value": "{size.300}",
+          "type": "number"
+        }
+      },
+      "label": {
+        "typography": {
+          "value": "compact.350.numeric",
           "type": "number"
         }
       }
@@ -54,6 +90,12 @@
           "value": "{size.350}",
           "type": "number"
         }
+      },
+      "label": {
+        "typography": {
+          "value": "compact.400.numeric",
+          "type": "number"
+        }
       }
     },
     "800": {
@@ -62,12 +104,24 @@
           "value": "{size.400}",
           "type": "number"
         }
+      },
+      "label": {
+        "typography": {
+          "value": "compact.400.numeric",
+          "type": "number"
+        }
       }
     },
     "900": {
       "icon": {
         "size": {
           "value": "{size.450}",
+          "type": "number"
+        }
+      },
+      "label": {
+        "typography": {
+          "value": "compact.400.numeric",
           "type": "number"
         }
       }
