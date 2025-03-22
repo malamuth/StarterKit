@@ -1,7 +1,7 @@
 [
   {
     "id": "bf145c6e4e6b1c5f82f5ebd5b7993c61112356b2",
-    "name": "mobile ✅ LOCAL",
+    "name": "mobile",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/radius/radius": "enabled",
@@ -75,11 +75,11 @@
       "stroke.200": "890e8e1fc1dddea24dbc5f32319211cb1babf55d",
       "stroke.400": "5772deda119f1b09754645538cc29dfad09e262a"
     },
-    "group": "device"
+    "group": "device ✅ LOCAL"
   },
   {
     "id": "156af34c6233aeca8d225be264fc4916d7a9d214",
-    "name": "tablet-portrait ✅ LOCAL",
+    "name": "tablet-portrait",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/radius/radius": "enabled",
@@ -153,11 +153,11 @@
       "stroke.200": "890e8e1fc1dddea24dbc5f32319211cb1babf55d",
       "stroke.400": "5772deda119f1b09754645538cc29dfad09e262a"
     },
-    "group": "device"
+    "group": "device ✅ LOCAL"
   },
   {
     "id": "4c98c2f51ff553e2cd1df22dd34007e870c4546d",
-    "name": "tablet-landscape ✅ LOCAL",
+    "name": "tablet-landscape",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/radius/radius": "enabled",
@@ -231,11 +231,11 @@
       "stroke.200": "890e8e1fc1dddea24dbc5f32319211cb1babf55d",
       "stroke.400": "5772deda119f1b09754645538cc29dfad09e262a"
     },
-    "group": "device"
+    "group": "device ✅ LOCAL"
   },
   {
     "id": "3a463029e942ef4ad3c3c95ecd6e871ce0aed9be",
-    "name": "desktop ✅ LOCAL",
+    "name": "desktop",
     "$figmaStyleReferences": {
       "display.350.default": "S:988dff5e86f961f1b82131b1634a1de6267784ae,",
       "display.350.numeric": "S:dde2c6a7c7b128b58e19bd0597be082069357a23,",
@@ -418,6 +418,6 @@
       "stroke.200": "890e8e1fc1dddea24dbc5f32319211cb1babf55d",
       "stroke.400": "5772deda119f1b09754645538cc29dfad09e262a"
     },
-    "group": "device"
+    "group": "device ✅ LOCAL"
   }
 ]
