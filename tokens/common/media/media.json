@@ -1,0 +1,80 @@
+{
+  "media": {
+    "breakpoint": {
+      "lg": {
+        "value": "1024",
+        "type": "number"
+      }
+    },
+    "min-width": {
+      "value": "360",
+      "type": "number"
+    },
+    "max-width": {
+      "value": "1920",
+      "type": "number"
+    }
+  },
+  "size-class": {
+    "name": {
+      "sm": {
+        "value": "mobile",
+        "type": "text",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "desktop",
+        "type": "text",
+        "description": "figma-only"
+      }
+    },
+    "min-width": {
+      "sm": {
+        "value": "{media.min-width}",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "{media.breakpoint.lg}",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "max-width": {
+      "sm": {
+        "value": "{media.breakpoint.lg} - 1",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "{media.max-width}",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "width": {
+      "sm": {
+        "value": "{media.min-width}",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "{media.breakpoint.lg}",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "height": {
+      "sm": {
+        "value": "800",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "800",
+        "type": "number",
+        "description": "figma-only"
+      }
+    }
+  }
+}
