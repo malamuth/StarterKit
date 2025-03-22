@@ -1,6 +1,6 @@
 {
   "main-layout": {
-    "breakpoint": {
+    "size-class": {
       "value": "{size-class.name.lg}",
       "type": "text",
       "description": "figma-only"
