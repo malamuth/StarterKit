@@ -1,4 +1,11 @@
 {
+  "platform": {
+    "name": {
+      "value": "android",
+      "type": "text",
+      "description": "figma-only"
+    }
+  },
   "media": {
     "min-width": {
       "value": "360",
@@ -83,13 +90,6 @@
         "type": "number",
         "description": "figma-only"
       }
-    }
-  },
-  "platform": {
-    "name": {
-      "value": "android",
-      "type": "text",
-      "description": "figma-only"
     }
   }
 }

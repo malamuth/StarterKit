@@ -36,11 +36,11 @@
       "type": "number"
     },
     "margin-horizontal": {
-      "value": "{spacing.700}",
+      "value": "{layout.margin-horizontal.lg}",
       "type": "number"
     },
     "content-compensation": {
-      "value": "{spacing.350}",
+      "value": "{layout.content-compensation.lg}",
       "type": "number"
     },
     "IGNORE MARGIN HORIZONTAL": {
