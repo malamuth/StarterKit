@@ -1,24 +1,14 @@
 {
   "tokenSetOrder": [
-    "common/opacity/opacity",
-    "common/palette/dark",
-    "common/palette/light",
-    "common/theme/dark",
-    "common/theme/light",
-    "common/effect/dark",
-    "common/effect/light",
-    "common/effect/shadow",
-    "common/layout/web",
+    "common/media/media",
+    "common/layout/layout",
     "common/radius/radius",
     "common/size/size",
     "common/spacing/spacing",
     "common/stroke/stroke",
-    "common/typography/typography",
-    "common/skeleton/false",
-    "common/skeleton/true",
-    "semantic/main-layout/layout/breakpoint/desktop",
-    "semantic/main-layout/layout/breakpoint/mobile",
-    "semantic/main-layout/layout/breakpoint/tablet-landscape",
-    "semantic/main-layout/layout/breakpoint/tablet-portrait"
+    "semantic/main-layout/layout/size-class/sm",
+    "semantic/main-layout/layout/size-class/md",
+    "semantic/main-layout/layout/size-class/lg",
+    "semantic/main-layout/layout/size-class/xl"
   ]
 }

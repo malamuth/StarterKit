@@ -1,0 +1,116 @@
+{
+  "layout": {
+    "col-number": {
+      "sm": {
+        "value": "12",
+        "type": "number"
+      },
+      "md": {
+        "value": "12",
+        "type": "number"
+      },
+      "lg": {
+        "value": "12",
+        "type": "number"
+      },
+      "xl": {
+        "value": "12",
+        "type": "number"
+      }
+    },
+    "col-width": {
+      "sm": {
+        "value": "0",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "md": {
+        "value": "0",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "0",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "xl": {
+        "value": "0",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "gutter": {
+      "sm": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{spacing.400}",
+        "type": "number"
+      },
+      "xl": {
+        "value": "{spacing.450}",
+        "type": "number"
+      }
+    },
+    "sidebar-width": {
+      "sm": {
+        "value": 0,
+        "type": "number"
+      },
+      "md": {
+        "value": 0,
+        "type": "number"
+      },
+      "lg": {
+        "value": 300,
+        "type": "number"
+      },
+      "xl": {
+        "value": 400,
+        "type": "number"
+      }
+    },
+    "margin-horizontal": {
+      "sm": {
+        "value": "{spacing.100}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{spacing.400}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{spacing.700}",
+        "type": "number"
+      },
+      "xl": {
+        "value": "{spacing.700}",
+        "type": "number"
+      }
+    },
+    "content-compensation": {
+      "sm": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "xl": {
+        "value": "{spacing.350}",
+        "type": "number"
+      }
+    }
+  }
+}
