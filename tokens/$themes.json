@@ -1,7 +1,7 @@
 [
   {
     "id": "bf145c6e4e6b1c5f82f5ebd5b7993c61112356b2",
-    "name": "mobile  ✅ LOCAL",
+    "name": "mobile",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/radius/radius": "enabled",
@@ -75,11 +75,11 @@
       "stroke.200": "890e8e1fc1dddea24dbc5f32319211cb1babf55d",
       "stroke.400": "5772deda119f1b09754645538cc29dfad09e262a"
     },
-    "group": "device"
+    "group": "device ✅ LOCAL"
   },
   {
     "id": "4c98c2f51ff553e2cd1df22dd34007e870c4546d",
-    "name": "desktop ✅ LOCAL",
+    "name": "desktop",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/radius/radius": "enabled",
@@ -153,6 +153,6 @@
       "stroke.200": "890e8e1fc1dddea24dbc5f32319211cb1babf55d",
       "stroke.400": "5772deda119f1b09754645538cc29dfad09e262a"
     },
-    "group": "device"
+    "group": "device ✅ LOCAL"
   }
 ]
