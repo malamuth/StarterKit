@@ -27,23 +27,28 @@
     },
     "col-number": {
       "value": "{layout.col-number.lg}",
-      "type": "number"
+      "type": "number",
+      "description": "figma-only"
     },
     "col-width": {
       "value": "{layout.col-width.lg}",
-      "type": "number"
+      "type": "number",
+      "description": "figma-only"
     },
     "gutter": {
       "value": "{layout.gutter.lg}",
-      "type": "number"
+      "type": "number",
+      "description": "figma-only"
     },
     "margin-horizontal": {
       "value": "{layout.margin-horizontal.lg}",
-      "type": "number"
+      "type": "number",
+      "description": "figma-only"
     },
     "content-compensation": {
       "value": "{layout.content-compensation.lg}",
-      "type": "number"
+      "type": "number",
+      "description": "figma-only"
     },
     "IGNORE MARGIN HORIZONTAL": {
       "value": "-{main-layout.margin-horizontal}",
