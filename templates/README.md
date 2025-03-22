@@ -3,6 +3,7 @@
 Заменяем соответсвующие папочки в tokens на папочки нужного темплейта:
 
 - Layouts & Platform
+  - Responsive Web —  адаптивная сетка на 4 сайз-класса
   - Native Layout —  заготовки жсонов лэйаута под платформенные гайды, то есть на каждой платформе будет своя нативная сетка:
     - Apple –  [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/layout)
     - Android —  [Material 3](https://m3.material.io/foundations/layout/understanding-layout/overview)
