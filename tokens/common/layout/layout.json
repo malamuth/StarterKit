@@ -42,7 +42,7 @@
     },
     "gutter": {
       "sm": {
-        "value": "{spacing.450}",
+        "value": "{spacing.350}",
         "type": "number"
       },
       "md": {
