@@ -55,6 +55,20 @@
           "type": "number"
         }
       }
+    },
+    "700": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.50}",
+          "type": "number"
+        }
+      },
+      "slot": {
+        "padding-left": {
+          "value": "{spacing.50}",
+          "type": "number"
+        }
+      }
     }
   }
 }
