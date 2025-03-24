@@ -1,7 +1,7 @@
 {
   "tab-bar": {
     "500": {
-      "frame": {
+      "tab": {
         "min-height": {
           "value": "{size.600}",
           "type": "number"
