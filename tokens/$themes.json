@@ -563,7 +563,12 @@
       "slider.500.frame.height": "ea5da2626bca38e38d5a4d5e7c630bc28c6667e0",
       "slider.500.frame.border-radius": "7158d4d14a1d5de430f1ed89500525c4db12aecd",
       "slider.500.knob.size": "700199ef55b129f66daae50b97d4be7c806e56ed",
-      "slider.500.knob.border-width": "004823c1c9336835b5939839397d07a42fe96b1d"
+      "slider.500.knob.border-width": "004823c1c9336835b5939839397d07a42fe96b1d",
+      "switch.500.frame.border-radius": "ac9a8008b885d6eed92144e639a70e473881e687",
+      "switch.500.frame.border-width": "d0313dc6434c7e862b4e298c24eacac3e0017ffc",
+      "switch.500.frame.padding": "420fb964535a942740120ac7883f24848940276d",
+      "switch.500.knob.size": "0b8577c21afde70f273a82426e0f0a7ef16f9f3e",
+      "switch.500.knob.border-radius": "64730e6d287a812d467590bd1c1ac95f54c22c18"
     },
     "group": "device"
   },
@@ -972,7 +977,12 @@
       "slider.500.frame.height": "ea5da2626bca38e38d5a4d5e7c630bc28c6667e0",
       "slider.500.frame.border-radius": "7158d4d14a1d5de430f1ed89500525c4db12aecd",
       "slider.500.knob.size": "700199ef55b129f66daae50b97d4be7c806e56ed",
-      "slider.500.knob.border-width": "004823c1c9336835b5939839397d07a42fe96b1d"
+      "slider.500.knob.border-width": "004823c1c9336835b5939839397d07a42fe96b1d",
+      "switch.500.frame.border-radius": "ac9a8008b885d6eed92144e639a70e473881e687",
+      "switch.500.frame.border-width": "d0313dc6434c7e862b4e298c24eacac3e0017ffc",
+      "switch.500.frame.padding": "420fb964535a942740120ac7883f24848940276d",
+      "switch.500.knob.size": "0b8577c21afde70f273a82426e0f0a7ef16f9f3e",
+      "switch.500.knob.border-radius": "64730e6d287a812d467590bd1c1ac95f54c22c18"
     },
     "group": "device"
   },
@@ -1381,7 +1391,12 @@
       "slider.500.frame.height": "ea5da2626bca38e38d5a4d5e7c630bc28c6667e0",
       "slider.500.frame.border-radius": "7158d4d14a1d5de430f1ed89500525c4db12aecd",
       "slider.500.knob.size": "700199ef55b129f66daae50b97d4be7c806e56ed",
-      "slider.500.knob.border-width": "004823c1c9336835b5939839397d07a42fe96b1d"
+      "slider.500.knob.border-width": "004823c1c9336835b5939839397d07a42fe96b1d",
+      "switch.500.frame.border-radius": "ac9a8008b885d6eed92144e639a70e473881e687",
+      "switch.500.frame.border-width": "d0313dc6434c7e862b4e298c24eacac3e0017ffc",
+      "switch.500.frame.padding": "420fb964535a942740120ac7883f24848940276d",
+      "switch.500.knob.size": "0b8577c21afde70f273a82426e0f0a7ef16f9f3e",
+      "switch.500.knob.border-radius": "64730e6d287a812d467590bd1c1ac95f54c22c18"
     },
     "group": "device"
   },
@@ -1867,7 +1882,12 @@
       "slider.500.frame.height": "ea5da2626bca38e38d5a4d5e7c630bc28c6667e0",
       "slider.500.frame.border-radius": "7158d4d14a1d5de430f1ed89500525c4db12aecd",
       "slider.500.knob.size": "700199ef55b129f66daae50b97d4be7c806e56ed",
-      "slider.500.knob.border-width": "004823c1c9336835b5939839397d07a42fe96b1d"
+      "slider.500.knob.border-width": "004823c1c9336835b5939839397d07a42fe96b1d",
+      "switch.500.frame.border-radius": "ac9a8008b885d6eed92144e639a70e473881e687",
+      "switch.500.frame.border-width": "d0313dc6434c7e862b4e298c24eacac3e0017ffc",
+      "switch.500.frame.padding": "420fb964535a942740120ac7883f24848940276d",
+      "switch.500.knob.size": "0b8577c21afde70f273a82426e0f0a7ef16f9f3e",
+      "switch.500.knob.border-radius": "64730e6d287a812d467590bd1c1ac95f54c22c18"
     },
     "group": "device"
   },
