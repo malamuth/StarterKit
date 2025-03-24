@@ -198,7 +198,8 @@
       "semantic/skeleton": "enabled",
       "semantic/slider": "enabled",
       "semantic/switch": "enabled",
-      "semantic/tabs": "enabled"
+      "semantic/tabs": "enabled",
+      "semantic/tab-bar": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -603,7 +604,10 @@
       "tabs.700.line.border-top-left-radius": "ac3d5d7650b9a79308b64a3531351a8fc9de9a01",
       "tabs.700.line.border-top-right-radius": "601d34ec2e49ed6eb66d45e5048b9ae1f372af47",
       "tabs.700.line.border-bottom-left-radius": "0a9773f3ef66ee806ef3f7170e8d0f72243a6054",
-      "tabs.700.line.border-bottom-right-radius": "d9960fd05e40ecb485f0d12a387a198c514d0caf"
+      "tabs.700.line.border-bottom-right-radius": "d9960fd05e40ecb485f0d12a387a198c514d0caf",
+      "tab-bar.500.frame.min-height": "4819893f17344881019966437117ae1f89ce263b",
+      "tab-bar.500.frame.gap": "143f9320116adacddcb484355f44731c9a908652",
+      "tab-bar.500.icon.size": "d69a9300f474de188490bace417e91eda813d96b"
     },
     "group": "device"
   },
@@ -647,7 +651,8 @@
       "semantic/skeleton": "enabled",
       "semantic/slider": "enabled",
       "semantic/switch": "enabled",
-      "semantic/tabs": "enabled"
+      "semantic/tabs": "enabled",
+      "semantic/tab-bar": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -1052,7 +1057,10 @@
       "tabs.700.line.border-top-left-radius": "ac3d5d7650b9a79308b64a3531351a8fc9de9a01",
       "tabs.700.line.border-top-right-radius": "601d34ec2e49ed6eb66d45e5048b9ae1f372af47",
       "tabs.700.line.border-bottom-left-radius": "0a9773f3ef66ee806ef3f7170e8d0f72243a6054",
-      "tabs.700.line.border-bottom-right-radius": "d9960fd05e40ecb485f0d12a387a198c514d0caf"
+      "tabs.700.line.border-bottom-right-radius": "d9960fd05e40ecb485f0d12a387a198c514d0caf",
+      "tab-bar.500.frame.min-height": "4819893f17344881019966437117ae1f89ce263b",
+      "tab-bar.500.frame.gap": "143f9320116adacddcb484355f44731c9a908652",
+      "tab-bar.500.icon.size": "d69a9300f474de188490bace417e91eda813d96b"
     },
     "group": "device"
   },
@@ -1096,7 +1104,8 @@
       "semantic/skeleton": "enabled",
       "semantic/slider": "enabled",
       "semantic/switch": "enabled",
-      "semantic/tabs": "enabled"
+      "semantic/tabs": "enabled",
+      "semantic/tab-bar": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -1501,7 +1510,10 @@
       "tabs.700.line.border-top-left-radius": "ac3d5d7650b9a79308b64a3531351a8fc9de9a01",
       "tabs.700.line.border-top-right-radius": "601d34ec2e49ed6eb66d45e5048b9ae1f372af47",
       "tabs.700.line.border-bottom-left-radius": "0a9773f3ef66ee806ef3f7170e8d0f72243a6054",
-      "tabs.700.line.border-bottom-right-radius": "d9960fd05e40ecb485f0d12a387a198c514d0caf"
+      "tabs.700.line.border-bottom-right-radius": "d9960fd05e40ecb485f0d12a387a198c514d0caf",
+      "tab-bar.500.frame.min-height": "4819893f17344881019966437117ae1f89ce263b",
+      "tab-bar.500.frame.gap": "143f9320116adacddcb484355f44731c9a908652",
+      "tab-bar.500.icon.size": "d69a9300f474de188490bace417e91eda813d96b"
     },
     "group": "device"
   },
@@ -1622,7 +1634,8 @@
       "semantic/skeleton": "enabled",
       "semantic/slider": "enabled",
       "semantic/switch": "enabled",
-      "semantic/tabs": "enabled"
+      "semantic/tabs": "enabled",
+      "semantic/tab-bar": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
@@ -2027,7 +2040,10 @@
       "tabs.700.line.border-top-left-radius": "ac3d5d7650b9a79308b64a3531351a8fc9de9a01",
       "tabs.700.line.border-top-right-radius": "601d34ec2e49ed6eb66d45e5048b9ae1f372af47",
       "tabs.700.line.border-bottom-left-radius": "0a9773f3ef66ee806ef3f7170e8d0f72243a6054",
-      "tabs.700.line.border-bottom-right-radius": "d9960fd05e40ecb485f0d12a387a198c514d0caf"
+      "tabs.700.line.border-bottom-right-radius": "d9960fd05e40ecb485f0d12a387a198c514d0caf",
+      "tab-bar.500.frame.min-height": "4819893f17344881019966437117ae1f89ce263b",
+      "tab-bar.500.frame.gap": "143f9320116adacddcb484355f44731c9a908652",
+      "tab-bar.500.icon.size": "d69a9300f474de188490bace417e91eda813d96b"
     },
     "group": "device"
   },

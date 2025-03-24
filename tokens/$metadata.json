@@ -60,6 +60,7 @@
     "semantic/skeleton",
     "semantic/slider",
     "semantic/switch",
-    "semantic/tabs"
+    "semantic/tabs",
+    "semantic/tab-bar"
   ]
 }
