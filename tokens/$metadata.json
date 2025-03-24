@@ -58,6 +58,7 @@
     "semantic/semantic-text",
     "semantic/separator",
     "semantic/skeleton",
-    "semantic/slider"
+    "semantic/slider",
+    "semantic/switch"
   ]
 }
