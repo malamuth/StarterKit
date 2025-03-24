@@ -561,7 +561,8 @@
       "skeleton.500.border-radius": "d96620d5ea2197e04924322ae4f1ed93431835cf",
       "slider.500.frame.height": "ea5da2626bca38e38d5a4d5e7c630bc28c6667e0",
       "slider.500.frame.border-radius": "7158d4d14a1d5de430f1ed89500525c4db12aecd",
-      "slider.500.knob.size": "700199ef55b129f66daae50b97d4be7c806e56ed"
+      "slider.500.knob.size": "700199ef55b129f66daae50b97d4be7c806e56ed",
+      "slider.500.knob.border-width": "004823c1c9336835b5939839397d07a42fe96b1d"
     },
     "group": "device"
   },
@@ -968,7 +969,8 @@
       "skeleton.500.border-radius": "d96620d5ea2197e04924322ae4f1ed93431835cf",
       "slider.500.frame.height": "ea5da2626bca38e38d5a4d5e7c630bc28c6667e0",
       "slider.500.frame.border-radius": "7158d4d14a1d5de430f1ed89500525c4db12aecd",
-      "slider.500.knob.size": "700199ef55b129f66daae50b97d4be7c806e56ed"
+      "slider.500.knob.size": "700199ef55b129f66daae50b97d4be7c806e56ed",
+      "slider.500.knob.border-width": "004823c1c9336835b5939839397d07a42fe96b1d"
     },
     "group": "device"
   },
@@ -1375,7 +1377,8 @@
       "skeleton.500.border-radius": "d96620d5ea2197e04924322ae4f1ed93431835cf",
       "slider.500.frame.height": "ea5da2626bca38e38d5a4d5e7c630bc28c6667e0",
       "slider.500.frame.border-radius": "7158d4d14a1d5de430f1ed89500525c4db12aecd",
-      "slider.500.knob.size": "700199ef55b129f66daae50b97d4be7c806e56ed"
+      "slider.500.knob.size": "700199ef55b129f66daae50b97d4be7c806e56ed",
+      "slider.500.knob.border-width": "004823c1c9336835b5939839397d07a42fe96b1d"
     },
     "group": "device"
   },
@@ -1859,7 +1862,8 @@
       "skeleton.500.border-radius": "d96620d5ea2197e04924322ae4f1ed93431835cf",
       "slider.500.frame.height": "ea5da2626bca38e38d5a4d5e7c630bc28c6667e0",
       "slider.500.frame.border-radius": "7158d4d14a1d5de430f1ed89500525c4db12aecd",
-      "slider.500.knob.size": "700199ef55b129f66daae50b97d4be7c806e56ed"
+      "slider.500.knob.size": "700199ef55b129f66daae50b97d4be7c806e56ed",
+      "slider.500.knob.border-width": "004823c1c9336835b5939839397d07a42fe96b1d"
     },
     "group": "device"
   },
