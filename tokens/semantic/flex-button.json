@@ -65,7 +65,7 @@
       },
       "slot": {
         "padding-left": {
-          "value": "{spacing.50}",
+          "value": "{spacing.100}",
           "type": "number"
         }
       }
