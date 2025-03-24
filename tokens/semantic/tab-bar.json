@@ -1,0 +1,28 @@
+{
+  "tab-bar": {
+    "500": {
+      "frame": {
+        "min-height": {
+          "value": "{size.600}",
+          "type": "number"
+        },
+        "gap": {
+          "value": "{spacing.100}",
+          "type": "number"
+        }
+      },
+      "icon": {
+        "size": {
+          "value": "{spacing.250}",
+          "type": "number"
+        }
+      },
+      "label": {
+        "typography": {
+          "value": "compact.200.default",
+          "type": "other"
+        }
+      }
+    }
+  }
+}
