@@ -7,7 +7,7 @@
           "type": "number"
         },
         "border-width": {
-          "value": "{stroke.100}",
+          "value": "{stroke.200}",
           "type": "number"
         },
         "padding": {
