@@ -2,7 +2,6 @@
   "tabs": {
     "300": {
       "frame": {
-
         "padding-horizontal": {
           "value": "{spacing.100}",
           "type": "number"
