@@ -1,0 +1,10 @@
+{
+  "skeleton": {
+    "500": {
+      "border-radius": {
+        "value": "{radius.300}",
+        "type": "number"
+      }
+    }
+  }
+}
