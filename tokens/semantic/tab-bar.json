@@ -13,7 +13,7 @@
       },
       "icon": {
         "size": {
-          "value": "{spacing.250}",
+          "value": "{size.250}",
           "type": "number"
         }
       },
