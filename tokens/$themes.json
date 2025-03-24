@@ -194,7 +194,8 @@
       "semantic/gallery": "enabled",
       "semantic/progress-bar": "enabled",
       "semantic/segmented-control": "enabled",
-      "semantic/separator": "enabled"
+      "semantic/separator": "enabled",
+      "semantic/skeleton": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -555,7 +556,8 @@
       "semantic-text.paragraph-m.padding-bottom": "762b547d72c0a51ee20535f0470ce68623ab4142",
       "semantic-text.paragraph-s.padding-top": "50ecbb34caea2482ea0068627416407f4c7b86e7",
       "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4",
-      "separator.500.border-width": "38e1875feea622a7310dc8c4df8b0925e7c36a46"
+      "separator.500.border-width": "38e1875feea622a7310dc8c4df8b0925e7c36a46",
+      "skeleton.500.border-radius": "d96620d5ea2197e04924322ae4f1ed93431835cf"
     },
     "group": "device"
   },
@@ -595,7 +597,8 @@
       "semantic/gallery": "enabled",
       "semantic/progress-bar": "enabled",
       "semantic/segmented-control": "enabled",
-      "semantic/separator": "enabled"
+      "semantic/separator": "enabled",
+      "semantic/skeleton": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -956,7 +959,8 @@
       "semantic-text.paragraph-m.padding-bottom": "762b547d72c0a51ee20535f0470ce68623ab4142",
       "semantic-text.paragraph-s.padding-top": "50ecbb34caea2482ea0068627416407f4c7b86e7",
       "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4",
-      "separator.500.border-width": "38e1875feea622a7310dc8c4df8b0925e7c36a46"
+      "separator.500.border-width": "38e1875feea622a7310dc8c4df8b0925e7c36a46",
+      "skeleton.500.border-radius": "d96620d5ea2197e04924322ae4f1ed93431835cf"
     },
     "group": "device"
   },
@@ -996,7 +1000,8 @@
       "semantic/gallery": "enabled",
       "semantic/progress-bar": "enabled",
       "semantic/segmented-control": "enabled",
-      "semantic/separator": "enabled"
+      "semantic/separator": "enabled",
+      "semantic/skeleton": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -1357,7 +1362,8 @@
       "semantic-text.paragraph-m.padding-bottom": "762b547d72c0a51ee20535f0470ce68623ab4142",
       "semantic-text.paragraph-s.padding-top": "50ecbb34caea2482ea0068627416407f4c7b86e7",
       "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4",
-      "separator.500.border-width": "38e1875feea622a7310dc8c4df8b0925e7c36a46"
+      "separator.500.border-width": "38e1875feea622a7310dc8c4df8b0925e7c36a46",
+      "skeleton.500.border-radius": "d96620d5ea2197e04924322ae4f1ed93431835cf"
     },
     "group": "device"
   },
@@ -1474,7 +1480,8 @@
       "semantic/gallery": "enabled",
       "semantic/progress-bar": "enabled",
       "semantic/segmented-control": "enabled",
-      "semantic/separator": "enabled"
+      "semantic/separator": "enabled",
+      "semantic/skeleton": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
@@ -1835,7 +1842,8 @@
       "semantic-text.paragraph-m.padding-bottom": "762b547d72c0a51ee20535f0470ce68623ab4142",
       "semantic-text.paragraph-s.padding-top": "50ecbb34caea2482ea0068627416407f4c7b86e7",
       "semantic-text.paragraph-s.padding-bottom": "ca501f7eed3224589f1308fd7c8905ce638e04c4",
-      "separator.500.border-width": "38e1875feea622a7310dc8c4df8b0925e7c36a46"
+      "separator.500.border-width": "38e1875feea622a7310dc8c4df8b0925e7c36a46",
+      "skeleton.500.border-radius": "d96620d5ea2197e04924322ae4f1ed93431835cf"
     },
     "group": "device"
   },
