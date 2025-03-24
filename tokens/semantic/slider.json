@@ -15,6 +15,10 @@
         "size": {
           "value": "{size.150}",
           "type": "number"
+        },
+        "border-width": {
+          "value": "{stroke.100}",
+          "type": "number"
         }
       }
     }
