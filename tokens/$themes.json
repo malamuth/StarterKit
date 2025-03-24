@@ -195,7 +195,8 @@
       "semantic/progress-bar": "enabled",
       "semantic/segmented-control": "enabled",
       "semantic/separator": "enabled",
-      "semantic/skeleton": "enabled"
+      "semantic/skeleton": "enabled",
+      "semantic/slider": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -598,7 +599,8 @@
       "semantic/progress-bar": "enabled",
       "semantic/segmented-control": "enabled",
       "semantic/separator": "enabled",
-      "semantic/skeleton": "enabled"
+      "semantic/skeleton": "enabled",
+      "semantic/slider": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -1001,7 +1003,8 @@
       "semantic/progress-bar": "enabled",
       "semantic/segmented-control": "enabled",
       "semantic/separator": "enabled",
-      "semantic/skeleton": "enabled"
+      "semantic/skeleton": "enabled",
+      "semantic/slider": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -1481,7 +1484,8 @@
       "semantic/progress-bar": "enabled",
       "semantic/segmented-control": "enabled",
       "semantic/separator": "enabled",
-      "semantic/skeleton": "enabled"
+      "semantic/skeleton": "enabled",
+      "semantic/slider": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",

@@ -57,6 +57,7 @@
     "semantic/selection-control",
     "semantic/semantic-text",
     "semantic/separator",
-    "semantic/skeleton"
+    "semantic/skeleton",
+    "semantic/slider"
   ]
 }
