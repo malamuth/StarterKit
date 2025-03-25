@@ -3,7 +3,7 @@
     "header-xl": {
       "font-size": {
         "value": "{display.500.accent}.{fontFamily}",
-        "type": "number"
+        "type": "fontFamilies"
       },
       "line-height": {
         "value": "{typography.line-height.compact.500}",
