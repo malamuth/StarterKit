@@ -6,15 +6,15 @@
         "type": "number"
       },
       "md": {
-        "value": "12",
+        "value": "6",
         "type": "number"
       },
       "lg": {
-        "value": "12",
+        "value": "6",
         "type": "number"
       },
       "xl": {
-        "value": "12",
+        "value": "6",
         "type": "number"
       }
     },

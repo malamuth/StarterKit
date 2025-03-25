@@ -22,7 +22,7 @@
         "description": "figma-only"
       },
       "xl": {
-        "value": "360",
+        "value": "{size-class.width.xl}",
         "type": "number",
         "description": "figma-only"
       }
@@ -44,7 +44,7 @@
         "description": "figma-only"
       },
       "xl": {
-        "value": "600",
+        "value": "{size-class.height.xl}",
         "type": "number",
         "description": "figma-only"
       }

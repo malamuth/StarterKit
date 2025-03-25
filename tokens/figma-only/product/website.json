@@ -29,22 +29,22 @@
     },
     "height": {
       "sm": {
-        "value": "800",
+        "value": "{media.height.sm}",
         "type": "number",
         "description": "figma-only"
       },
       "md": {
-        "value": "800",
+        "value": "{media.height.md}",
         "type": "number",
         "description": "figma-only"
       },
       "lg": {
-        "value": "800",
+        "value": "{media.height.lg}",
         "type": "number",
         "description": "figma-only"
       },
       "xl": {
-        "value": "800",
+        "value": "{media.height.xl}",
         "type": "number",
         "description": "figma-only"
       }
