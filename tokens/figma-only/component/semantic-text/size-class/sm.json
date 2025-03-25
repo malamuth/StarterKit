@@ -2,15 +2,15 @@
   "semantic-text": {
     "header-xl": {
       "font-size": {
-        "value": "{semantic-text.header-xl.typography.sm.fontSize}",
+        "value": "{{semantic-text.header-xl.typography.sm}.fontSize}",
         "type": "number"
       },
       "line-height": {
-        "value": "{semantic-text.header-xl.typography.sm.lineHeight}",
+        "value": "{{semantic-text.header-xl.typography.sm}.lineHeight}",
         "type": "number"
       },
       "paragraph-spacing": {
-        "value": "{semantic-text.header-xl.typography.sm.paragraphSpacing}",
+        "value": "{{semantic-text.header-xl.typography.sm}.paragraphSpacing}",
         "type": "number"
       }
     }
