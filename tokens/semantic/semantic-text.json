@@ -198,7 +198,8 @@
         },
         "lg": {
           "value": "{spacing.200}",
-          "type": "number"},
+          "type": "number"
+        },
         "xl": {
           "value": "{spacing.200}",
           "type": "number"

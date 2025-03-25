@@ -226,7 +226,9 @@
       "semantic/slider": "enabled",
       "semantic/switch": "enabled",
       "semantic/tabs": "enabled",
-      "semantic/tab-bar": "enabled"
+      "semantic/tab-bar": "enabled",
+      "figma-only/component/semantic-text/typography/typography": "enabled",
+      "figma-only/component/semantic-text/size-class/sm": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
