@@ -37,6 +37,76 @@
           "type": "number"
         }
       },
+      "typography-params": {
+        "sm": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "500",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "md": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "500",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "lg": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "600",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "xl": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "700",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        }
+      },
       "typography": {
         "sm": {
           "value": "display.500.accent",
@@ -91,6 +161,76 @@
         "xl": {
           "value": "{spacing.200}",
           "type": "number"
+        }
+      },
+      "typography-params": {
+        "sm": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "450",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "md": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "450",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "lg": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "500",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "xl": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "600",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
         }
       },
       "typography": {
@@ -149,6 +289,76 @@
           "type": "number"
         }
       },
+      "typography-params": {
+        "sm": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "400",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "md": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "400",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "lg": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "450",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "xl": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "500",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        }
+      },
       "typography": {
         "sm": {
           "value": "display.400.accent",
@@ -203,6 +413,76 @@
         "xl": {
           "value": "{spacing.200}",
           "type": "number"
+        }
+      },
+      "typography-params": {
+        "sm": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "350",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "md": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "350",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "lg": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "400",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "xl": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "450",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
         }
       },
       "typography": {
@@ -261,6 +541,76 @@
           "type": "number"
         }
       },
+      "typography-params": {
+        "sm": {
+          "style": {
+            "value": "compact",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "300",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "md": {
+          "style": {
+            "value": "compact",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "300",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "lg": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "350",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "xl": {
+          "style": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "400",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          }
+        }
+      },
       "typography": {
         "sm": {
           "value": "compact.300.accent",
@@ -315,6 +665,76 @@
         "xl": {
           "value": "{spacing.200}",
           "type": "number"
+        }
+      },
+      "typography-params": {
+        "sm": {
+          "style": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "350",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "md": {
+          "style": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "350",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "lg": {
+          "style": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "400",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "xl": {
+          "style": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "400",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          }
         }
       },
       "typography": {
@@ -373,6 +793,76 @@
           "type": "number"
         }
       },
+      "typography-params": {
+        "sm": {
+          "style": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "300",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "md": {
+          "style": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "300",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "lg": {
+          "style": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "350",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "xl": {
+          "style": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "350",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          }
+        }
+      },
       "typography": {
         "sm": {
           "value": "text.300.default",
@@ -427,6 +917,76 @@
         "xl": {
           "value": "{spacing.100}",
           "type": "number"
+        }
+      },
+      "typography-params": {
+        "sm": {
+          "style": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "250",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "md": {
+          "style": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "250",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "lg": {
+          "style": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "300",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "xl": {
+          "style": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "size": {
+            "value": "300",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "category": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          }
         }
       },
       "typography": {
