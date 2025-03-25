@@ -55,7 +55,7 @@
           "type": "number"
         },
         "font-weight": {
-          "value": "{semantic-text.header-xl.typography-params.sm.style}",
+          "value": "{semantic-text.header-l.typography-params.sm.style}",
           "type": "text"
         },
         "paragraph-spacing": {
@@ -87,7 +87,7 @@
           "type": "number"
         },
         "font-weight": {
-          "value": "{semantic-text.header-xl.typography-params.sm.style}",
+          "value": "{semantic-text.header-m.typography-params.sm.style}",
           "type": "text"
         },
         "paragraph-spacing": {
@@ -119,7 +119,7 @@
           "type": "number"
         },
         "font-weight": {
-          "value": "{semantic-text.header-xl.typography-params.sm.style}",
+          "value": "{semantic-text.header-s.typography-params.sm.style}",
           "type": "text"
         },
         "paragraph-spacing": {
@@ -151,7 +151,7 @@
           "type": "number"
         },
         "font-weight": {
-          "value": "{semantic-text.header-xl.typography-params.sm.style}",
+          "value": "{semantic-text.header-xs.typography-params.sm.style}",
           "type": "text"
         },
         "paragraph-spacing": {
@@ -183,7 +183,7 @@
           "type": "number"
         },
         "font-weight": {
-          "value": "{semantic-text.header-xl.typography-params.sm.style}",
+          "value": "{semantic-text.paragraph-l.typography-params.sm.style}",
           "type": "text"
         },
         "paragraph-spacing": {
@@ -215,7 +215,7 @@
           "type": "number"
         },
         "font-weight": {
-          "value": "{semantic-text.header-xl.typography-params.sm.style}",
+          "value": "{semantic-text.paragraph-m.typography-params.sm.style}",
           "type": "text"
         },
         "paragraph-spacing": {
@@ -247,7 +247,7 @@
           "type": "number"
         },
         "font-weight": {
-          "value": "{semantic-text.header-xl.typography-params.sm.style}",
+          "value": "{semantic-text.paragraph-s.typography-params.sm.style}",
           "type": "text"
         },
         "paragraph-spacing": {
