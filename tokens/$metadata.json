@@ -29,6 +29,11 @@
     "figma-only/component/main-layout/size-class/md",
     "figma-only/component/main-layout/size-class/lg",
     "figma-only/component/main-layout/size-class/xl",
+    "figma-only/component/semantic-text/size-class/lg",
+    "figma-only/component/semantic-text/size-class/md",
+    "figma-only/component/semantic-text/size-class/sm",
+    "figma-only/component/semantic-text/size-class/xl",
+    "figma-only/component/semantic-text/typography/typography",
     "semantic/accordion",
     "semantic/badge",
     "semantic/board/desktop",
@@ -61,11 +66,6 @@
     "semantic/slider",
     "semantic/switch",
     "semantic/tabs",
-    "semantic/tab-bar",
-    "figma-only/component/semantic-text/size-class/lg",
-    "figma-only/component/semantic-text/size-class/md",
-    "figma-only/component/semantic-text/size-class/sm",
-    "figma-only/component/semantic-text/size-class/xl",
-    "figma-only/component/semantic-text/typography/typography"
+    "semantic/tab-bar"
   ]
 }
