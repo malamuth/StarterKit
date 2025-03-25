@@ -260,6 +260,20 @@
           "value": "600",
           "type": "number"
         }
+      },
+      "compact": {
+        "light": {
+          "value": "100",
+          "type": "number"
+        },
+        "default": {
+          "value": "500",
+          "type": "number"
+        },
+        "accent": {
+          "value": "600",
+          "type": "number"
+        }
       }
     }
   },
