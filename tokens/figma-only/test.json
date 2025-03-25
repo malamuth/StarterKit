@@ -1,0 +1,18 @@
+{
+  "semantic-text": {
+    "header-xl": {
+      "font-size": {
+        "value": "{display.500.accent}.{fontFamily}",
+        "type": "number"
+      },
+      "line-height": {
+        "value": "{typography.line-height.compact.500}",
+        "type": "number"
+      },
+      "paragraph-spacing": {
+        "value": "{typography.paragraph-spacing.0}",
+        "type": "number"
+      }
+    }
+  }
+}
