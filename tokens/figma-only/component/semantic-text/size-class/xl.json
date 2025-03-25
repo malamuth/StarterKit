@@ -1,54 +1,228 @@
 {
-  "main-layout": {
-    "size-class": {
-      "value": "{size-class.name.xl}",
-      "type": "text",
-      "description": "figma-only"
+  "semantic-text": {
+    "header-xl": {
+      "padding-top": {
+        "value": "{semantic-text.header-xl.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.header-xl.padding-bottom.xl}",
+        "type": "number"
+      },
+      "typography": {
+        "preset": {
+          "value": "{semantic-text.header-xl.typography.xl}",
+          "type": "other"
+        },
+        "font-size": {
+          "value": "{{semantic-text.header-xl.typography.xl}.fontSize}",
+          "type": "number"
+        },
+        "line-height": {
+          "value": "{{semantic-text.header-xl.typography.xl}.lineHeight}",
+          "type": "number"
+        },
+        "paragraph-spacing": {
+          "value": "{{semantic-text.header-xl.typography.xl}.paragraphSpacing}",
+          "type": "number"
+        }
+      }
     },
-    "min-width": {
-      "value": "{size-class.min-width.xl}",
-      "type": "text",
-      "description": "figma-only"
+    "header-l": {
+      "padding-top": {
+        "value": "{semantic-text.header-l.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.header-l.padding-bottom.xl}",
+        "type": "number"
+      },
+      "typography": {
+        "preset": {
+          "value": "{semantic-text.header-l.typography.xl}",
+          "type": "other"
+        },
+        "font-size": {
+          "value": "{{semantic-text.header-l.typography.xl}.fontSize}",
+          "type": "number"
+        },
+        "line-height": {
+          "value": "{{semantic-text.header-l.typography.xl}.lineHeight}",
+          "type": "number"
+        },
+        "paragraph-spacing": {
+          "value": "{{semantic-text.header-l.typography.xl}.paragraphSpacing}",
+          "type": "number"
+        }
+      }
     },
-    "max-width": {
-      "value": "{size-class.max-width.xl}",
-      "type": "text",
-      "description": "figma-only"
+    "header-m": {
+      "padding-top": {
+        "value": "{semantic-text.header-m.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.header-m.padding-bottom.xl}",
+        "type": "number"
+      },
+      "typography": {
+        "preset": {
+          "value": "{semantic-text.header-m.typography.xl}",
+          "type": "other"
+        },
+        "font-size": {
+          "value": "{{semantic-text.header-m.typography.xl}.fontSize}",
+          "type": "number"
+        },
+        "line-height": {
+          "value": "{{semantic-text.header-m.typography.xl}.lineHeight}",
+          "type": "number"
+        },
+        "paragraph-spacing": {
+          "value": "{{semantic-text.header-m.typography.xl}.paragraphSpacing}",
+          "type": "number"
+        }
+      }
     },
-    "width": {
-      "value": "{product.width.xl}",
-      "type": "number",
-      "description": "figma-only"
+    "header-s": {
+      "padding-top": {
+        "value": "{semantic-text.header-s.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.header-s.padding-bottom.xl}",
+        "type": "number"
+      },
+      "typography": {
+        "preset": {
+          "value": "{semantic-text.header-s.typography.xl}",
+          "type": "other"
+        },
+        "font-size": {
+          "value": "{{semantic-text.header-s.typography.xl}.fontSize}",
+          "type": "number"
+        },
+        "line-height": {
+          "value": "{{semantic-text.header-s.typography.xl}.lineHeight}",
+          "type": "number"
+        },
+        "paragraph-spacing": {
+          "value": "{{semantic-text.header-s.typography.xl}.paragraphSpacing}",
+          "type": "number"
+        }
+      }
     },
-    "height": {
-      "value": "{product.height.xl}",
-      "type": "number",
-      "description": "figma-only"
+    "header-xs": {
+      "padding-top": {
+        "value": "{semantic-text.header-xs.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.header-xs.padding-bottom.xl}",
+        "type": "number"
+      },
+      "typography": {
+        "preset": {
+          "value": "{semantic-text.header-xs.typography.xl}",
+          "type": "other"
+        },
+        "font-size": {
+          "value": "{{semantic-text.header-xs.typography.xl}.fontSize}",
+          "type": "number"
+        },
+        "line-height": {
+          "value": "{{semantic-text.header-xs.typography.xl}.lineHeight}",
+          "type": "number"
+        },
+        "paragraph-spacing": {
+          "value": "{{semantic-text.header-xs.typography.xl}.paragraphSpacing}",
+          "type": "number"
+        }
+      }
     },
-    "col-number": {
-      "value": "{layout.col-number.xl}",
-      "type": "number"
+    "paragraph-l": {
+      "padding-top": {
+        "value": "{semantic-text.paragraph-l.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.paragraph-l.padding-bottom.xl}",
+        "type": "number"
+      },
+      "typography": {
+        "preset": {
+          "value": "{semantic-text.paragraph-l.typography.xl}",
+          "type": "other"
+        },
+        "font-size": {
+          "value": "{{semantic-text.paragraph-l.typography.xl}.fontSize}",
+          "type": "number"
+        },
+        "line-height": {
+          "value": "{{semantic-text.paragraph-l.typography.xl}.lineHeight}",
+          "type": "number"
+        },
+        "paragraph-spacing": {
+          "value": "{{semantic-text.paragraph-l.typography.xl}.paragraphSpacing}",
+          "type": "number"
+        }
+      }
     },
-    "col-width": {
-      "value": "{layout.col-width.xl}",
-      "type": "number"
+    "paragraph-m": {
+      "padding-top": {
+        "value": "{semantic-text.paragraph-m.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.paragraph-m.padding-bottom.xl}",
+        "type": "number"
+      },
+      "typography": {
+        "preset": {
+          "value": "{semantic-text.paragraph-m.typography.xl}",
+          "type": "other"
+        },
+        "font-size": {
+          "value": "{{semantic-text.paragraph-m.typography.xl}.fontSize}",
+          "type": "number"
+        },
+        "line-height": {
+          "value": "{{semantic-text.paragraph-m.typography.xl}.lineHeight}",
+          "type": "number"
+        },
+        "paragraph-spacing": {
+          "value": "{{semantic-text.paragraph-m.typography.xl}.paragraphSpacing}",
+          "type": "number"
+        }
+      }
     },
-    "gutter": {
-      "value": "{layout.gutter.xl}",
-      "type": "number"
-    },
-    "margin-horizontal": {
-      "value": "{layout.margin-horizontal.xl}",
-      "type": "number"
-    },
-    "content-compensation": {
-      "value": "{layout.content-compensation.xl}",
-      "type": "number"
-    },
-    "IGNORE MARGIN HORIZONTAL": {
-      "value": "-{main-layout.margin-horizontal}",
-      "type": "number",
-      "description": "figma-only"
+    "paragraph-s": {
+      "padding-top": {
+        "value": "{semantic-text.paragraph-s.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.paragraph-s.padding-bottom.xl}",
+        "type": "number"
+      },
+      "typography": {
+        "preset": {
+          "value": "{semantic-text.paragraph-s.typography.xl}",
+          "type": "other"
+        },
+        "font-size": {
+          "value": "{{semantic-text.paragraph-s.typography.xl}.fontSize}",
+          "type": "number"
+        },
+        "line-height": {
+          "value": "{{semantic-text.paragraph-s.typography.xl}.lineHeight}",
+          "type": "number"
+        },
+        "paragraph-spacing": {
+          "value": "{{semantic-text.paragraph-s.typography.xl}.paragraphSpacing}",
+          "type": "number"
+        }
+      }
     }
   }
 }

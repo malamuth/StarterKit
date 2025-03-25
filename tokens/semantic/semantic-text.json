@@ -6,6 +6,10 @@
           "value": "{spacing.0}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.0}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.0}",
           "type": "number"
@@ -20,6 +24,10 @@
           "value": "{spacing.150}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.150}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.200}",
           "type": "number"
@@ -31,6 +39,10 @@
       },
       "typography": {
         "sm": {
+          "value": "display.500.accent",
+          "type": "other"
+        },
+        "md": {
           "value": "display.500.accent",
           "type": "other"
         },
@@ -50,6 +62,10 @@
           "value": "{spacing.50}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.50}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.50}",
           "type": "number"
@@ -64,6 +80,10 @@
           "value": "{spacing.200}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.200}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.200}",
           "type": "number"
@@ -75,6 +95,10 @@
       },
       "typography": {
         "sm": {
+          "value": "display.450.accent",
+          "type": "other"
+        },
+        "md": {
           "value": "display.450.accent",
           "type": "other"
         },
@@ -94,6 +118,10 @@
           "value": "{spacing.100}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.100}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.100}",
           "type": "number"
@@ -108,6 +136,10 @@
           "value": "{spacing.200}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.200}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.200}",
           "type": "number"
@@ -119,6 +151,10 @@
       },
       "typography": {
         "sm": {
+          "value": "display.400.accent",
+          "type": "other"
+        },
+        "md": {
           "value": "display.400.accent",
           "type": "other"
         },
@@ -138,6 +174,10 @@
           "value": "{spacing.150}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.150}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.50}",
           "type": "number"
@@ -152,6 +192,10 @@
           "value": "{spacing.250}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.250}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.200}",
           "type": "number"},
@@ -162,6 +206,10 @@
       },
       "typography": {
         "sm": {
+          "value": "display.350.accent",
+          "type": "other"
+        },
+        "md": {
           "value": "display.350.accent",
           "type": "other"
         },
@@ -181,6 +229,10 @@
           "value": "{spacing.150}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.150}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.50}",
           "type": "number"
@@ -195,6 +247,10 @@
           "value": "{spacing.250}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.250}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.250}",
           "type": "number"
@@ -206,6 +262,10 @@
       },
       "typography": {
         "sm": {
+          "value": "compact.300.accent",
+          "type": "other"
+        },
+        "md": {
           "value": "compact.300.accent",
           "type": "other"
         },
@@ -225,6 +285,10 @@
           "value": "{spacing.100}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.100}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.100}",
           "type": "number"
@@ -239,6 +303,10 @@
           "value": "{spacing.200}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.200}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.200}",
           "type": "number"
@@ -250,6 +318,10 @@
       },
       "typography": {
         "sm": {
+          "value": "text.350.default",
+          "type": "other"
+        },
+        "md": {
           "value": "text.350.default",
           "type": "other"
         },
@@ -269,6 +341,10 @@
           "value": "{spacing.0}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.0}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.100}",
           "type": "number"
@@ -283,6 +359,10 @@
           "value": "{spacing.100}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.100}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.200}",
           "type": "number"
@@ -294,6 +374,10 @@
       },
       "typography": {
         "sm": {
+          "value": "text.300.default",
+          "type": "other"
+        },
+        "md": {
           "value": "text.300.default",
           "type": "other"
         },
@@ -313,6 +397,10 @@
           "value": "{spacing.0}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.0}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.0}",
           "type": "number"
@@ -327,6 +415,10 @@
           "value": "{spacing.100}",
           "type": "number"
         },
+        "md": {
+          "value": "{spacing.100}",
+          "type": "number"
+        },
         "lg": {
           "value": "{spacing.100}",
           "type": "number"
@@ -338,6 +430,10 @@
       },
       "typography": {
         "sm": {
+          "value": "text.250.default",
+          "type": "other"
+        },
+        "md": {
           "value": "text.250.default",
           "type": "other"
         },
