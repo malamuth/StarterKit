@@ -1,54 +1,18 @@
 {
   "semantic-text": {
-    "size-class": {
-      "value": "{size-class.name.sm}",
-      "type": "text",
-      "description": "figma-only"
-    },
-    "min-width": {
-      "value": "{size-class.min-width.sm}",
-      "type": "text",
-      "description": "figma-only"
-    },
-    "max-width": {
-      "value": "{size-class.max-width.sm}",
-      "type": "text",
-      "description": "figma-only"
-    },
-    "width": {
-      "value": "{product.width.sm}",
-      "type": "number",
-      "description": "figma-only"
-    },
-    "height": {
-      "value": "{product.height.sm}",
-      "type": "number",
-      "description": "figma-only"
-    },
-    "col-number": {
-      "value": "{layout.col-number.sm}",
-      "type": "number"
-    },
-    "col-width": {
-      "value": "{layout.col-width.sm}",
-      "type": "number"
-    },
-    "gutter": {
-      "value": "{layout.gutter.sm}",
-      "type": "number"
-    },
-    "margin-horizontal": {
-      "value": "{layout.margin-horizontal.sm}",
-      "type": "number"
-    },
-    "content-compensation": {
-      "value": "{layout.content-compensation.sm}",
-      "type": "number"
-    },
-    "IGNORE MARGIN HORIZONTAL": {
-      "value": "-{main-layout.margin-horizontal}",
-      "type": "number",
-      "description": "figma-only"
+    "header-xl": {
+      "font-size": {
+        "value": "{semantic-text.header-xl.typography.sm.fontSize}",
+        "type": "number"
+      },
+      "line-height": {
+        "value": "{semantic-text.header-xl.typography.sm.lineHeight}",
+        "type": "number"
+      },
+      "paragraph-spacing": {
+        "value": "{semantic-text.header-xl.typography.sm.paragraphSpacing}",
+        "type": "number"
+      }
     }
   }
 }
