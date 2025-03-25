@@ -10,8 +10,26 @@
         "type": "number"
       },
       "typography": {
-        "value": "{semantic-text.header-xl.typography.sm}",
-        "type": "other"
+        "preset": {
+          "value": "{semantic-text.header-xl.typography.sm}",
+          "type": "other"
+        },
+        "font": {
+          "value": "{{semantic-text.header-xl.typography.preset}.fontFamily}",
+          "type": "text"
+        },
+        "font-size": {
+          "value": "{{semantic-text.header-xl.typography.preset}.fontSize}",
+          "type": "number"
+        },
+        "line-height": {
+          "value": "{{semantic-text.header-xl.typography.preset}.line-height}",
+          "type": "number"
+        },
+        "paragraph-spacing": {
+          "value": "{{semantic-text.header-xl.typography.preset}.paragraph-spacing}",
+          "type": "number"
+        }
       }
     },
     "header-l": {
