@@ -15,15 +15,15 @@
           "type": "other"
         },
         "font-size": {
-          "value": "{{semantic-text.header-xl.typography.sm}.fontSize}",
+          "value": "{semantic-text.header-xl.typography.sm}.fontSize",
           "type": "number"
         },
         "line-height": {
-          "value": "{{semantic-text.header-xl.typography.sm}.lineHeight}",
+          "value": "{semantic-text.header-xl.typography.sm}.lineHeight",
           "type": "number"
         },
         "paragraph-spacing": {
-          "value": "{{semantic-text.header-xl.typography.sm}.paragraphSpacing}",
+          "value": "{semantic-text.header-xl.typography.sm}.paragraphSpacing",
           "type": "number"
         }
       }
@@ -43,15 +43,15 @@
           "type": "other"
         },
         "font-size": {
-          "value": "{{semantic-text.header-l.typography.sm}.fontSize}",
+          "value": "{semantic-text.header-l.typography.sm}.fontSize",
           "type": "number"
         },
         "line-height": {
-          "value": "{{semantic-text.header-l.typography.sm}.lineHeight}",
+          "value": "{semantic-text.header-l.typography.sm}.lineHeight",
           "type": "number"
         },
         "paragraph-spacing": {
-          "value": "{{semantic-text.header-l.typography.sm}.paragraphSpacing}",
+          "value": "{semantic-text.header-l.typography.sm}.paragraphSpacing",
           "type": "number"
         }
       }
@@ -71,15 +71,15 @@
           "type": "other"
         },
         "font-size": {
-          "value": "{{semantic-text.header-m.typography.sm}.fontSize}",
+          "value": "{semantic-text.header-m.typography.sm}.fontSize",
           "type": "number"
         },
         "line-height": {
-          "value": "{{semantic-text.header-m.typography.sm}.lineHeight}",
+          "value": "{semantic-text.header-m.typography.sm}.lineHeight",
           "type": "number"
         },
         "paragraph-spacing": {
-          "value": "{{semantic-text.header-m.typography.sm}.paragraphSpacing}",
+          "value": "{semantic-text.header-m.typography.sm}.paragraphSpacing",
           "type": "number"
         }
       }
@@ -99,15 +99,15 @@
           "type": "other"
         },
         "font-size": {
-          "value": "{{semantic-text.header-s.typography.sm}.fontSize}",
+          "value": "{semantic-text.header-s.typography.sm}.fontSize",
           "type": "number"
         },
         "line-height": {
-          "value": "{{semantic-text.header-s.typography.sm}.lineHeight}",
+          "value": "{semantic-text.header-s.typography.sm}.lineHeight",
           "type": "number"
         },
         "paragraph-spacing": {
-          "value": "{{semantic-text.header-s.typography.sm}.paragraphSpacing}",
+          "value": "{semantic-text.header-s.typography.sm}.paragraphSpacing",
           "type": "number"
         }
       }
@@ -127,15 +127,15 @@
           "type": "other"
         },
         "font-size": {
-          "value": "{{semantic-text.header-xs.typography.sm}.fontSize}",
+          "value": "{semantic-text.header-xs.typography.sm}.fontSize",
           "type": "number"
         },
         "line-height": {
-          "value": "{{semantic-text.header-xs.typography.sm}.lineHeight}",
+          "value": "{semantic-text.header-xs.typography.sm}.lineHeight",
           "type": "number"
         },
         "paragraph-spacing": {
-          "value": "{{semantic-text.header-xs.typography.sm}.paragraphSpacing}",
+          "value": "{semantic-text.header-xs.typography.sm}.paragraphSpacing",
           "type": "number"
         }
       }
@@ -155,15 +155,15 @@
           "type": "other"
         },
         "font-size": {
-          "value": "{{semantic-text.paragraph-l.typography.sm}.fontSize}",
+          "value": "{semantic-text.paragraph-l.typography.sm}.fontSize",
           "type": "number"
         },
         "line-height": {
-          "value": "{{semantic-text.paragraph-l.typography.sm}.lineHeight}",
+          "value": "{semantic-text.paragraph-l.typography.sm}.lineHeight",
           "type": "number"
         },
         "paragraph-spacing": {
-          "value": "{{semantic-text.paragraph-l.typography.sm}.paragraphSpacing}",
+          "value": "{semantic-text.paragraph-l.typography.sm}.paragraphSpacing",
           "type": "number"
         }
       }
@@ -183,15 +183,15 @@
           "type": "other"
         },
         "font-size": {
-          "value": "{{semantic-text.paragraph-m.typography.sm}.fontSize}",
+          "value": "{semantic-text.paragraph-m.typography.sm}.fontSize",
           "type": "number"
         },
         "line-height": {
-          "value": "{{semantic-text.paragraph-m.typography.sm}.lineHeight}",
+          "value": "{semantic-text.paragraph-m.typography.sm}.lineHeight",
           "type": "number"
         },
         "paragraph-spacing": {
-          "value": "{{semantic-text.paragraph-m.typography.sm}.paragraphSpacing}",
+          "value": "{semantic-text.paragraph-m.typography.sm}.paragraphSpacing",
           "type": "number"
         }
       }
@@ -211,15 +211,15 @@
           "type": "other"
         },
         "font-size": {
-          "value": "{{semantic-text.paragraph-s.typography.sm}.fontSize}",
+          "value": "{semantic-text.paragraph-s.typography.sm}.fontSize",
           "type": "number"
         },
         "line-height": {
-          "value": "{{semantic-text.paragraph-s.typography.sm}.lineHeight}",
+          "value": "{semantic-text.paragraph-s.typography.sm}.lineHeight",
           "type": "number"
         },
         "paragraph-spacing": {
-          "value": "{{semantic-text.paragraph-s.typography.sm}.paragraphSpacing}",
+          "value": "{semantic-text.paragraph-s.typography.sm}.paragraphSpacing",
           "type": "number"
         }
       }
