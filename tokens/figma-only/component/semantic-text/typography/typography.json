@@ -3,12 +3,12 @@
     "Header XL": {
       "default": {
         "value": {
-          "fontFamily": "{{semantic-text.header-xl.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-xl.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.default}",
-          "fontSize": "{{semantic-text.header-xl.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-xl.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-xl.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-xl.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-xl.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-xl.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -16,12 +16,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.header-xl.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-xl.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.default}",
-          "fontSize": "{{semantic-text.header-xl.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-xl.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-xl.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-xl.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-xl.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-xl.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -29,12 +29,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{{semantic-text.header-xl.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-xl.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.accent}",
-          "fontSize": "{{semantic-text.header-xl.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-xl.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-xl.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-xl.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-xl.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-xl.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -42,12 +42,12 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.header-xl.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-xl.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.accent}",
-          "fontSize": "{{semantic-text.header-xl.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-xl.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-xl.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-xl.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-xl.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-xl.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -57,12 +57,12 @@
     "Header L": {
       "default": {
         "value": {
-          "fontFamily": "{{semantic-text.header-l.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-l.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.default}",
-          "fontSize": "{{semantic-text.header-l.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-l.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-l.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-l.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-l.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-l.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -70,12 +70,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.header-l.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-l.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.default}",
-          "fontSize": "{{semantic-text.header-l.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-l.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-l.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-l.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-l.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-l.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -83,12 +83,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{{semantic-text.header-l.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-l.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.accent}",
-          "fontSize": "{{semantic-text.header-l.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-l.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-l.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-l.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-l.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-l.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -96,12 +96,12 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.header-l.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-l.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.accent}",
-          "fontSize": "{{semantic-text.header-l.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-l.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-l.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-l.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-l.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-l.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -111,12 +111,12 @@
     "Header M": {
       "default": {
         "value": {
-          "fontFamily": "{{semantic-text.header-m.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-m.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.default}",
-          "fontSize": "{{semantic-text.header-m.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-m.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-m.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-m.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-m.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-m.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -124,12 +124,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.header-m.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-m.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.default}",
-          "fontSize": "{{semantic-text.header-m.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-m.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-m.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-m.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-m.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-m.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -137,12 +137,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{{semantic-text.header-m.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-m.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.accent}",
-          "fontSize": "{{semantic-text.header-m.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-m.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-m.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-m.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-m.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-m.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -150,12 +150,12 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.header-m.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-m.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.accent}",
-          "fontSize": "{{semantic-text.header-m.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-m.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-m.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-m.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-m.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-m.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -165,12 +165,12 @@
     "Header S": {
       "default": {
         "value": {
-          "fontFamily": "{{semantic-text.header-s.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-s.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.default}",
-          "fontSize": "{{semantic-text.header-s.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-s.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-s.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-s.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-s.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-s.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -178,12 +178,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.header-s.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-s.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.default}",
-          "fontSize": "{{semantic-text.header-s.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-s.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-s.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-s.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-s.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-s.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -191,12 +191,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{{semantic-text.header-s.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-s.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.accent}",
-          "fontSize": "{{semantic-text.header-s.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-s.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-s.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-s.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-s.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-s.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -204,12 +204,12 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.header-s.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-s.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.accent}",
-          "fontSize": "{{semantic-text.header-s.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-s.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-s.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-s.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-s.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-s.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -219,12 +219,12 @@
     "Header XS": {
       "default": {
         "value": {
-          "fontFamily": "{{semantic-text.header-xs.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-xs.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.default}",
-          "fontSize": "{{semantic-text.header-xs.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-xs.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-xs.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-xs.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-xs.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-xs.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -232,12 +232,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.header-xs.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-xs.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.default}",
-          "fontSize": "{{semantic-text.header-xs.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-xs.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-xs.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-xs.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-xs.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-xs.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -245,12 +245,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{{semantic-text.header-xs.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-xs.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.accent}",
-          "fontSize": "{{semantic-text.header-xs.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-xs.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-xs.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-xs.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-xs.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-xs.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -258,12 +258,12 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.header-xs.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.header-xs.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.brand.accent}",
-          "fontSize": "{{semantic-text.header-xs.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.header-xs.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.header-xs.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.header-xs.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.header-xs.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.header-xs.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -273,12 +273,12 @@
     "Paragraph L": {
       "default": {
         "value": {
-          "fontFamily": "{{semantic-text.paragraph-l.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.paragraph-l.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.text.default}",
-          "fontSize": "{{semantic-text.paragraph-l.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.paragraph-l.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.paragraph-l.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.paragraph-l.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.paragraph-l.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.paragraph-l.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -286,12 +286,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.paragraph-l.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.paragraph-l.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.text.default}",
-          "fontSize": "{{semantic-text.paragraph-l.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.paragraph-l.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.paragraph-l.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.paragraph-l.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.paragraph-l.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.paragraph-l.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -299,12 +299,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{{semantic-text.paragraph-l.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.paragraph-l.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.text.accent}",
-          "fontSize": "{{semantic-text.paragraph-l.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.paragraph-l.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.paragraph-l.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.paragraph-l.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.paragraph-l.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.paragraph-l.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -312,12 +312,12 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.paragraph-l.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.paragraph-l.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.text.accent}",
-          "fontSize": "{{semantic-text.paragraph-l.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.paragraph-l.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.paragraph-l.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.paragraph-l.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.paragraph-l.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.paragraph-l.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -327,12 +327,12 @@
     "Paragraph M": {
       "default": {
         "value": {
-          "fontFamily": "{{semantic-text.paragraph-m.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.paragraph-m.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.text.default}",
-          "fontSize": "{{semantic-text.paragraph-m.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.paragraph-m.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.paragraph-m.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.paragraph-m.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.paragraph-m.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.paragraph-m.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -340,12 +340,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.paragraph-m.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.paragraph-m.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.text.default}",
-          "fontSize": "{{semantic-text.paragraph-m.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.paragraph-m.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.paragraph-m.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.paragraph-m.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.paragraph-m.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.paragraph-m.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -353,12 +353,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{{semantic-text.paragraph-m.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.paragraph-m.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.text.accent}",
-          "fontSize": "{{semantic-text.paragraph-m.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.paragraph-m.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.paragraph-m.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.paragraph-m.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.paragraph-m.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.paragraph-m.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -366,12 +366,12 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.paragraph-m.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.paragraph-m.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.text.accent}",
-          "fontSize": "{{semantic-text.paragraph-m.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.paragraph-m.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.paragraph-m.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.paragraph-m.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.paragraph-m.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.paragraph-m.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -381,12 +381,12 @@
     "Paragraph S": {
       "default": {
         "value": {
-          "fontFamily": "{{semantic-text.paragraph-s.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.paragraph-s.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.text.default}",
-          "fontSize": "{{semantic-text.paragraph-s.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.paragraph-s.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.paragraph-s.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.paragraph-s.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.paragraph-s.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.paragraph-s.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -394,12 +394,12 @@
       },
       "numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.paragraph-s.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.paragraph-s.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.text.default}",
-          "fontSize": "{{semantic-text.paragraph-s.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.paragraph-s.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.paragraph-s.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.paragraph-s.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.paragraph-s.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.paragraph-s.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -407,12 +407,12 @@
       },
       "accent": {
         "value": {
-          "fontFamily": "{{semantic-text.paragraph-s.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.paragraph-s.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.text.accent}",
-          "fontSize": "{{semantic-text.paragraph-s.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.paragraph-s.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.paragraph-s.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.paragraph-s.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.paragraph-s.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.paragraph-s.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -420,12 +420,12 @@
       },
       "accent-numeric": {
         "value": {
-          "fontFamily": "{{semantic-text.paragraph-s.typography.preset}.fontFamily}",
+          "fontFamily": "{{semantic-text.paragraph-s.typography}.fontFamily}",
           "fontWeight": "{typography.font-weight.text.accent}",
-          "fontSize": "{{semantic-text.paragraph-s.typography.preset}.fontSize}",
-          "lineHeight": "{{semantic-text.paragraph-s.typography.preset}.lineHeight}",
+          "fontSize": "{{semantic-text.paragraph-s.typography}.fontSize}",
+          "lineHeight": "{{semantic-text.paragraph-s.typography}.lineHeight}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{{semantic-text.paragraph-s.typography.preset}.paragraphSpacing}",
+          "paragraphSpacing": "{{semantic-text.paragraph-s.typography}.paragraphSpacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
