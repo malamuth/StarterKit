@@ -107,7 +107,7 @@
         "description": "figma-only"
       },
       "xl": {
-        "value": "{media.breakpoint.lg}",
+        "value": "{media.breakpoint.xl}",
         "type": "number",
         "description": "figma-only"
       }
