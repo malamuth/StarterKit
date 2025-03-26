@@ -1,0 +1,35 @@
+{
+  "layout": {
+    "col-number": {
+      "xl": {
+        "value": "12",
+        "type": "number"
+      }
+    },
+    "col-width": {
+      "xl": {
+        "value": "77.33",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "gutter": {
+      "xl": {
+        "value": "{spacing.450}",
+        "type": "number"
+      }
+    },
+    "margin-horizontal": {
+      "xl": {
+        "value": "0",
+        "type": "number"
+      }
+    },
+    "content-compensation": {
+      "xl": {
+        "value": "{spacing.350}",
+        "type": "number"
+      }
+    }
+  }
+}

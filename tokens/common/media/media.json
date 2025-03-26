@@ -1,0 +1,49 @@
+{
+  "media": {
+    "min-width": {
+      "value": "1200",
+      "type": "number"
+    },
+    "max-width": {
+      "value": "1200",
+      "type": "number"
+    }
+  },
+  "size-class": {
+    "name": {
+      "xl": {
+        "value": "desktop",
+        "type": "text",
+        "description": "figma-only"
+      }
+    },
+    "min-width": {
+      "xl": {
+        "value": "{media.min-width}",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "max-width": {
+      "xl": {
+        "value": "{media.max-width}",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "width": {
+      "xl": {
+        "value": "{media.breakpoint.xl}",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "height": {
+      "xl": {
+        "value": "800",
+        "type": "number",
+        "description": "figma-only"
+      }
+    }
+  }
+}
