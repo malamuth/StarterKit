@@ -8,7 +8,7 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/size-class/sm": "enabled",
+      "figma-only/main-layout/size-class/sm": "enabled",
       "common/media/media": "source",
       "common/layout/layout": "source"
     },
@@ -86,7 +86,7 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/size-class/md": "enabled",
+      "figma-only/main-layout/size-class/md": "enabled",
       "common/media/media": "source",
       "common/layout/layout": "source"
     },
@@ -164,7 +164,7 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/size-class/lg": "enabled",
+      "figma-only/main-layout/size-class/lg": "enabled",
       "common/media/media": "source",
       "common/layout/layout": "source"
     },
@@ -351,7 +351,7 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/size-class/xl": "enabled",
+      "figma-only/main-layout/size-class/xl": "enabled",
       "common/media/media": "source",
       "common/layout/layout": "source"
     },
