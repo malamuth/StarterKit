@@ -1,7 +1,7 @@
 [
   {
     "id": "3be3e865dd022a2da4fcaf7981457b40521d9fac",
-    "name": "desktop ✅ LOCAL",
+    "name": "desktop",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/radius/radius": "enabled",
@@ -12,6 +12,6 @@
       "common/media/media": "source",
       "figma-only/main-layout/size-class/xl": "enabled"
     },
-    "group": "device"
+    "group": "device ✅ LOCAL"
   }
 ]
