@@ -10,7 +10,7 @@
       "common/stroke/stroke": "enabled",
       "figma-only/main-layout/size-class/sm": "enabled"
     },
-    "group": "device",
+    "group": "device ✅ LOCAL",
     "$figmaCollectionId": "VariableCollectionId:2:56",
     "$figmaModeId": "2:0",
     "$figmaVariableReferences": {
