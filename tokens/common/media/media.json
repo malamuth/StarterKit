@@ -1,6 +1,6 @@
 {
   "media": {
-    "width": {
+    "min-width": {
       "value": "1200",
       "type": "number"
     }
@@ -15,7 +15,7 @@
     },
     "min-width": {
       "xl": {
-        "value": "1440",
+        "value": "{media.min-width}",
         "type": "number",
         "description": "figma-only"
       }
@@ -29,7 +29,7 @@
     },
     "width": {
       "xl": {
-        "value": "{media.width}",
+        "value": "1440",
         "type": "number",
         "description": "figma-only"
       }
