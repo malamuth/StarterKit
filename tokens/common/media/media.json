@@ -2,46 +2,37 @@
   "media": {
     "breakpoint": {
       "md": {
-        "value": "768",
+        "value": "600",
         "type": "number"
       },
       "lg": {
-        "value": "992",
-        "type": "number"
-      },
-      "xl": {
-        "value": "1200",
+        "value": "840",
         "type": "number"
       }
     },
     "min-width": {
-      "value": "360",
+      "value": "0",
       "type": "number"
     },
     "max-width": {
-      "value": "1920",
+      "value": "1200",
       "type": "number"
     }
   },
   "size-class": {
     "name": {
       "sm": {
-        "value": "mobile",
+        "value": "compact",
         "type": "text",
         "description": "figma-only"
       },
       "md": {
-        "value": "tablet-portrait",
+        "value": "medium",
         "type": "text",
         "description": "figma-only"
       },
       "lg": {
-        "value": "tablet-landscape",
-        "type": "text",
-        "description": "figma-only"
-      },
-      "xl": {
-        "value": "desktop",
+        "value": "expanded",
         "type": "text",
         "description": "figma-only"
       }
@@ -59,11 +50,6 @@
       },
       "lg": {
         "value": "{media.breakpoint.lg}",
-        "type": "number",
-        "description": "figma-only"
-      },
-      "xl": {
-        "value": "{media.breakpoint.xl}",
         "type": "number",
         "description": "figma-only"
       }
@@ -80,11 +66,6 @@
         "description": "figma-only"
       },
       "lg": {
-        "value": "{media.breakpoint.xl} - 1",
-        "type": "number",
-        "description": "figma-only"
-      },
-      "xl": {
         "value": "{media.max-width}",
         "type": "number",
         "description": "figma-only"
@@ -92,43 +73,33 @@
     },
     "width": {
       "sm": {
-        "value": "{media.min-width}",
+        "value": "360",
         "type": "number",
         "description": "figma-only"
       },
       "md": {
-        "value": "{media.breakpoint.md}",
+        "value": "800",
         "type": "number",
         "description": "figma-only"
       },
       "lg": {
-        "value": "{media.breakpoint.lg}",
-        "type": "number",
-        "description": "figma-only"
-      },
-      "xl": {
-        "value": "{media.breakpoint.xl}",
+        "value": "1280",
         "type": "number",
         "description": "figma-only"
       }
     },
     "height": {
       "sm": {
-        "value": "800",
+        "value": "640",
         "type": "number",
         "description": "figma-only"
       },
       "md": {
-        "value": "800",
+        "value": "1280",
         "type": "number",
         "description": "figma-only"
       },
       "lg": {
-        "value": "800",
-        "type": "number",
-        "description": "figma-only"
-      },
-      "xl": {
         "value": "800",
         "type": "number",
         "description": "figma-only"

@@ -45,8 +45,8 @@
       "type": "number",
       "description": "figma-only"
     },
-    "content-compensation": {
-      "value": "{layout.content-compensation.md}",
+    "spacing": {
+      "value": "{layout.spacing.md}",
       "type": "number",
       "description": "figma-only"
     },

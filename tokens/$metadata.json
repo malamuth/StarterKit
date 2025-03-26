@@ -8,7 +8,6 @@
     "common/stroke/stroke",
     "figma-only/main-layout/size-class/sm",
     "figma-only/main-layout/size-class/md",
-    "figma-only/main-layout/size-class/lg",
-    "figma-only/main-layout/size-class/xl"
+    "figma-only/main-layout/size-class/lg"
   ]
 }
