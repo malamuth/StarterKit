@@ -1,21 +1,5 @@
 {
   "layout": {
-    "min-width": {
-      "value": "360",
-      "type": "number"
-    },
-    "max-width": {
-      "sm": {
-        "value": "{layout.breakpoint.md} - 1",
-        "type": "number"
-      }
-    },
-    "breakpoint": {
-      "md": {
-        "value": "768",
-        "type": "number"
-      }
-    },
     "col-number": {
       "sm": {
         "value": "12",
@@ -25,7 +9,8 @@
     "col-width": {
       "sm": {
         "value": "0",
-        "type": "number"
+        "type": "number",
+        "description": "figma-only"
       }
     },
     "gutter": {
@@ -34,18 +19,16 @@
         "type": "number"
       }
     },
-    "width": {
+    "margin-horizontal": {
       "sm": {
-        "value": "{layout.min-width}",
-        "type": "number",
-        "description": "figma-only"
+        "value": "{spacing.100}",
+        "type": "number"
       }
     },
-    "height": {
+    "content-compensation": {
       "sm": {
-        "value": "800",
-        "type": "number",
-        "description": "figma-only"
+        "value": "{spacing.350}",
+        "type": "number"
       }
     }
   }

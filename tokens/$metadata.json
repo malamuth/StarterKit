@@ -1,10 +1,11 @@
 {
   "tokenSetOrder": [
+    "common/layout/layout",
+    "common/media/media",
     "common/radius/radius",
     "common/size/size",
     "common/spacing/spacing",
     "common/stroke/stroke",
-    "common/layout/layout",
     "figma-only/main-layout/size-class/sm"
   ]
 }

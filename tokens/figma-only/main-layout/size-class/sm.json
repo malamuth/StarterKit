@@ -1,27 +1,24 @@
 {
   "main-layout": {
-    "breakpoint": {
-      "value": "mobile",
-      "type": "text",
-      "description": "figma-only"
+    "size-class": {
+      "value": "{size-class.name.sm}",
+      "type": "text"
     },
     "min-width": {
-      "value": "{layout.min-width}",
+      "value": "{size-class.min-width.sm}",
       "type": "number"
     },
     "max-width": {
-      "value": "{layout.max-width.sm}",
+      "value": "{size-class.max-width.sm}",
       "type": "number"
     },
     "width": {
-      "value": "{layout.width.sm}",
-      "type": "number",
-      "description": "figma-only"
+      "value": "{size-class.width.sm}",
+      "type": "number"
     },
     "height": {
-      "value": "{layout.height.sm}",
-      "type": "number",
-      "description": "figma-only"
+      "value": "{size-class.height.sm}",
+      "type": "number"
     },
     "col-number": {
       "value": "{layout.col-number.sm}",
@@ -36,11 +33,15 @@
       "type": "number"
     },
     "margin-horizontal": {
-      "value": "{spacing.100}",
+      "value": "{layout.margin-horizontal.sm}",
       "type": "number"
     },
     "content-compensation": {
-      "value": "{spacing.350}",
+      "value": "{layout.content-compensation.sm}",
+      "type": "number"
+    },
+    "IGNORE MARGIN HORIZONTAL": {
+      "value": "-{main-layout.margin-horizontal}",
       "type": "number"
     }
   }
