@@ -8,7 +8,7 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/breakpoint/mobile": "enabled",
+      "figma-only/main-layout/size-class/sm": "enabled",
       "common/layout/web": "source"
     },
     "group": "device"
