@@ -6,7 +6,7 @@
     "common/size/size",
     "common/spacing/spacing",
     "common/stroke/stroke",
-    "semantic/main-layout/layout/size-class/sm",
-    "semantic/main-layout/layout/size-class/lg"
+    "figma-only/main-layout/size-class/sm",
+    "figma-only/main-layout/size-class/lg"
   ]
 }
