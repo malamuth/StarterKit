@@ -1,0 +1,54 @@
+{
+  "main-layout": {
+    "size-class": {
+      "value": "{size-class.name.xl}",
+      "type": "text",
+      "description": "figma-only"
+    },
+    "min-width": {
+      "value": "{size-class.min-width.xl}",
+      "type": "number",
+      "description": "figma-only"
+    },
+    "max-width": {
+      "value": "{size-class.max-width.xl}",
+      "type": "number",
+      "description": "figma-only"
+    },
+    "width": {
+      "value": "{size-class.width.xl}",
+      "type": "number",
+      "description": "figma-only"
+    },
+    "height": {
+      "value": "{size-class.height.xl}",
+      "type": "number",
+      "description": "figma-only"
+    },
+    "col-number": {
+      "value": "{layout.col-number.xl}",
+      "type": "number",
+      "description": "figma-only"
+    },
+    "col-width": {
+      "value": "{layout.col-width.xl}",
+      "type": "number",
+      "description": "figma-only"
+    },
+    "gutter": {
+      "value": "{layout.gutter.xl}",
+      "type": "number",
+      "description": "figma-only"
+    },
+    "margin-horizontal": {
+      "value": "{layout.margin-horizontal.xl}",
+      "type": "number",
+      "description": "figma-only"
+    },
+    "IGNORE MARGIN HORIZONTAL": {
+      "value": "-{main-layout.margin-horizontal}",
+      "type": "number",
+      "description": "figma-only"
+    }
+  }
+}

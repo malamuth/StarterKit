@@ -1,23 +1,14 @@
 {
   "tokenSetOrder": [
-    "common/opacity/opacity",
-    "common/palette/dark",
-    "common/palette/light",
-    "common/theme/dark",
-    "common/theme/light",
-    "common/effect/dark",
-    "common/effect/light",
-    "common/effect/shadow",
-    "common/layout/apple",
+    "common/layout/layout",
+    "common/media/media",
     "common/radius/radius",
     "common/size/size",
     "common/spacing/spacing",
     "common/stroke/stroke",
-    "common/typography/typography",
-    "common/skeleton/false",
-    "common/skeleton/true",
-    "semantic/main-layout/layout/breakpoint/mobile",
-    "semantic/main-layout/layout/breakpoint/tablet-landscape",
-    "semantic/main-layout/layout/breakpoint/tablet-portrait"
+    "figma-only/main-layout/size-class/sm",
+    "figma-only/main-layout/size-class/md",
+    "figma-only/main-layout/size-class/lg",
+    "figma-only/main-layout/size-class/xl"
   ]
 }

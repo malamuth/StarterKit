@@ -1,0 +1,114 @@
+{
+  "size-class": {
+    "name": {
+      "sm": {
+        "value": "mobile-portrait",
+        "type": "text",
+        "description": "figma-only"
+      },
+      "md": {
+        "value": "mobile-landscape",
+        "type": "text",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "tablet-portrait",
+        "type": "text",
+        "description": "figma-only"
+      },
+      "xl": {
+        "value": "tablet-landscape",
+        "type": "text",
+        "description": "figma-only"
+      }
+    },
+    "min-width": {
+      "sm": {
+        "value": "320",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "md": {
+        "value": "568",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "744",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "xl": {
+        "value": "1024",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "max-width": {
+      "sm": {
+        "value": "440",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "md": {
+        "value": "956",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "1024",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "xl": {
+        "value": "1366",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "width": {
+      "sm": {
+        "value": "390",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "md": {
+        "value": "844",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "768",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "xl": {
+        "value": "1024",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "height": {
+      "sm": {
+        "value": "844",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "md": {
+        "value": "394",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "1024",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "xl": {
+        "value": "768",
+        "type": "number",
+        "description": "figma-only"
+      }
+    }
+  }
+}

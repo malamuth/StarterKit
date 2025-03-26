@@ -1,0 +1,80 @@
+{
+  "layout": {
+    "col-number": {
+      "sm": {
+        "value": "1",
+        "type": "number"
+      },
+      "md": {
+        "value": "6",
+        "type": "number"
+      },
+      "lg": {
+        "value": "6",
+        "type": "number"
+      },
+      "xl": {
+        "value": "6",
+        "type": "number"
+      }
+    },
+    "col-width": {
+      "sm": {
+        "value": "0",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "md": {
+        "value": "0",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "0",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "xl": {
+        "value": "0",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "gutter": {
+      "sm": {
+        "value": "{spacing.0}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{spacing.0}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{spacing.0}",
+        "type": "number"
+      },
+      "xl": {
+        "value": "{spacing.0}",
+        "type": "number"
+      }
+    },
+    "margin-horizontal": {
+      "sm": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{spacing.400}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{spacing.400}",
+        "type": "number"
+      },
+      "xl": {
+        "value": "{spacing.400}",
+        "type": "number"
+      }
+    }
+  }
+}

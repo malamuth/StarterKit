@@ -4,41 +4,44 @@
     "name": "mobile",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/layout/apple": "source",
+      "common/layout/layout": "source",
+      "common/media/media": "source",
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/breakpoint/mobile": "enabled"
+      "figma-only/main-layout/size-class/sm": "enabled"
     },
-    "group": "device"
+    "group": "device ✅ LOCAL"
   },
   {
     "id": "191422defeb4cea05efb8b80338f0a2588b20f5b",
     "name": "tablet-portrait",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/layout/apple": "source",
+      "common/layout/layout": "source",
+      "common/media/media": "source",
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/breakpoint/tablet-portrait": "enabled"
+      "figma-only/main-layout/size-class/md": "enabled"
     },
-    "group": "device"
+    "group": "device ✅ LOCAL"
   },
   {
     "id": "aa79dca7fd3be776d42384c2fdd66728589a0053",
     "name": "tablet-landscape",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/layout/apple": "source",
+      "common/layout/layout": "source",
+      "common/media/media": "source",
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/breakpoint/tablet-landscape": "enabled"
+      "figma-only/main-layout/size-class/lg": "enabled"
     },
-    "group": "device"
+    "group": "device ✅ LOCAL"
   }
 ]
