@@ -126,7 +126,7 @@
         "description": "figma-only"
       },
       "md": {
-        "value": "1280",
+        "value": "800",
         "type": "number",
         "description": "figma-only"
       },

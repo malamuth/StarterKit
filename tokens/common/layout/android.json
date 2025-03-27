@@ -64,11 +64,11 @@
     },
     "margin-horizontal": {
       "sm": {
-        "value": "{spacing.350}",
+        "value": "{spacing.100}",
         "type": "number"
       },
       "md": {
-        "value": "{spacing.450}",
+        "value": "{spacing.350}",
         "type": "number"
       },
       "lg": {
@@ -77,6 +77,24 @@
       },
       "xl": {
         "value": "{spacing.450}",
+        "type": "number"
+      }
+    },
+    "content-compensation": {
+      "sm": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "xl": {
+        "value": "{spacing.350}",
         "type": "number"
       }
     }
