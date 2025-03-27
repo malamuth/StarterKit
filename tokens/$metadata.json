@@ -40,6 +40,10 @@
     "semantic/markdown/layout/breakpoint/desktop",
     "semantic/markdown/layout/breakpoint/mobile",
     "semantic/markdown/layout/breakpoint/tablet-landscape",
-    "semantic/markdown/layout/breakpoint/tablet-portrait"
+    "semantic/markdown/layout/breakpoint/tablet-portrait",
+    "semantic/main-layout/layout/breakpoint/desktop",
+    "semantic/main-layout/layout/breakpoint/mobile",
+    "semantic/main-layout/layout/breakpoint/tablet-landscape",
+    "semantic/main-layout/layout/breakpoint/tablet-portrait"
   ]
 }

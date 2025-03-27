@@ -139,8 +139,7 @@
     "name": "app",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "figma-only/product/app": "enabled",
-      "common/media/apple": "source"
+      "figma-only/product/app": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1787:24989",
     "$figmaModeId": "1791:4",
@@ -177,8 +176,7 @@
     "name": "website",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "figma-only/product/website": "enabled",
-      "common/media/web": "source"
+      "figma-only/product/website": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1787:24989",
     "$figmaModeId": "1791:5",
@@ -215,8 +213,7 @@
     "name": "miniapp",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "figma-only/product/miniapp": "enabled",
-      "common/media/apple": "source"
+      "figma-only/product/miniapp": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1787:24989",
     "$figmaModeId": "1791:7",
@@ -261,7 +258,6 @@
       "common/typography/typography": "enabled",
       "common/media/apple": "source",
       "common/layout/apple": "source",
-      "figma-only/product/app": "source",
       "semantic/semantic-text/layout/breakpoint/mobile": "enabled",
       "semantic/semantic-text/typography/breakpoint/mobile": "enabled",
       "semantic/semantic-text/typography/typography": "enabled",
@@ -460,7 +456,6 @@
       "common/typography/typography": "enabled",
       "common/media/apple": "source",
       "common/layout/apple": "source",
-      "figma-only/product/app": "source",
       "semantic/semantic-text/layout/breakpoint/tablet-portrait": "enabled",
       "semantic/semantic-text/typography/breakpoint/tablet-portrait": "enabled",
       "semantic/semantic-text/typography/typography": "enabled",
@@ -659,7 +654,6 @@
       "common/typography/typography": "enabled",
       "common/media/apple": "source",
       "common/layout/apple": "source",
-      "figma-only/product/app": "source",
       "semantic/semantic-text/layout/breakpoint/tablet-landscape": "enabled",
       "semantic/semantic-text/typography/breakpoint/tablet-landscape": "enabled",
       "semantic/semantic-text/typography/typography": "enabled",
@@ -967,7 +961,6 @@
       "common/typography/typography": "enabled",
       "common/media/apple": "source",
       "common/layout/apple": "source",
-      "figma-only/product/app": "source",
       "semantic/semantic-text/layout/breakpoint/desktop": "enabled",
       "semantic/semantic-text/typography/breakpoint/desktop": "enabled",
       "semantic/semantic-text/typography/typography": "enabled",
