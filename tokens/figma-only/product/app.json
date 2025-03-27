@@ -5,58 +5,9 @@
       "type": "text",
       "description": "figma-only"
     },
-    "width": {
-      "sm": {
-        "value": "{media.width.sm}",
-        "type": "number",
-        "description": "figma-only"
-      },
-      "md": {
-        "value": "{media.width.md}",
-        "type": "number",
-        "description": "figma-only"
-      },
-      "lg": {
-        "value": "{media.width.lg}",
-        "type": "number",
-        "description": "figma-only"
-      },
-      "xl": {
-        "value": "{media.width.xl}",
-        "type": "number",
-        "description": "figma-only"
-      }
-    },
-    "height": {
-      "sm": {
-        "value": "{media.height.sm}",
-        "type": "number",
-        "description": "figma-only"
-      },
-      "md": {
-        "value": "{media.height.md}",
-        "type": "number",
-        "description": "figma-only"
-      },
-      "lg": {
-        "value": "{media.height.lg}",
-        "type": "number",
-        "description": "figma-only"
-      },
-      "xl": {
-        "value": "{media.height.xl}",
-        "type": "number",
-        "description": "figma-only"
-      }
-    },
     "scope": {
       "APP": {
         "value": "true",
-        "type": "boolean",
-        "description": "figma-only"
-      },
-      "EXTENSION": {
-        "value": "false",
         "type": "boolean",
         "description": "figma-only"
       },
@@ -70,11 +21,6 @@
         "type": "boolean",
         "description": "figma-only"
       },
-      "APP EXTENSION": {
-        "value": "true",
-        "type": "boolean",
-        "description": "figma-only"
-      },
       "APP MINIAPP": {
         "value": "true",
         "type": "boolean",
@@ -85,37 +31,7 @@
         "type": "boolean",
         "description": "figma-only"
       },
-      "EXTENSION MINIAPP": {
-        "value": "false",
-        "type": "boolean",
-        "description": "figma-only"
-      },
-      "EXTENSION WEBSITE": {
-        "value": "false",
-        "type": "boolean",
-        "description": "figma-only"
-      },
       "MINIAPP WEBSITE": {
-        "value": "false",
-        "type": "boolean",
-        "description": "figma-only"
-      },
-      "APP EXTENSION MINAIPP": {
-        "value": "true",
-        "type": "boolean",
-        "description": "figma-only"
-      },
-      "APP EXTENSION WEBSITE": {
-        "value": "true",
-        "type": "boolean",
-        "description": "figma-only"
-      },
-      "APP MINIAPP WEBSITE": {
-        "value": "true",
-        "type": "boolean",
-        "description": "figma-only"
-      },
-      "EXTENSION MINIAPP WEBSITE": {
         "value": "false",
         "type": "boolean",
         "description": "figma-only"

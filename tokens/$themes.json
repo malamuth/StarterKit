@@ -8,7 +8,7 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/breakpoint/mobile": "enabled",
+      "figma-only/main-layout/size-class/sm": "enabled",
       "common/media/apple": "source",
       "common/layout/apple": "source",
       "figma-only/product/app": "source"
@@ -76,7 +76,7 @@
       "stroke.200": "2f28878371de6599c570305901981029c9879506",
       "stroke.400": "9e2eea09eb6ab64ae8990e10b1de6130acabfed0"
     },
-    "group": "device"
+    "group": "device ✅ LOCAL"
   },
   {
     "id": "156af34c6233aeca8d225be264fc4916d7a9d214",
@@ -87,7 +87,7 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/breakpoint/tablet-portrait": "enabled",
+      "figma-only/main-layout/size-class/md": "enabled",
       "common/media/apple": "source",
       "common/layout/apple": "source",
       "figma-only/product/app": "source"
@@ -155,7 +155,7 @@
       "stroke.200": "2f28878371de6599c570305901981029c9879506",
       "stroke.400": "9e2eea09eb6ab64ae8990e10b1de6130acabfed0"
     },
-    "group": "device"
+    "group": "device ✅ LOCAL"
   },
   {
     "id": "4c98c2f51ff553e2cd1df22dd34007e870c4546d",
@@ -166,7 +166,7 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/breakpoint/tablet-landscape": "enabled",
+      "figma-only/main-layout/size-class/lg": "enabled",
       "common/media/apple": "source",
       "common/layout/apple": "source",
       "figma-only/product/app": "source"
@@ -234,7 +234,7 @@
       "stroke.200": "2f28878371de6599c570305901981029c9879506",
       "stroke.400": "9e2eea09eb6ab64ae8990e10b1de6130acabfed0"
     },
-    "group": "device"
+    "group": "device ✅ LOCAL"
   },
   {
     "id": "3a463029e942ef4ad3c3c95ecd6e871ce0aed9be",
@@ -322,7 +322,7 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "semantic/main-layout/layout/breakpoint/desktop": "enabled",
+      "figma-only/main-layout/size-class/xl": "enabled",
       "common/media/apple": "source",
       "common/layout/apple": "source",
       "figma-only/product/app": "source"
@@ -390,15 +390,14 @@
       "stroke.200": "2f28878371de6599c570305901981029c9879506",
       "stroke.400": "9e2eea09eb6ab64ae8990e10b1de6130acabfed0"
     },
-    "group": "device"
+    "group": "device ✅ LOCAL"
   },
   {
     "id": "30adc23ef7de084be4595880a91c03105699a8bf",
     "name": "app",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "figma-only/product/app": "enabled",
-      "common/media/apple": "source"
+      "figma-only/product/app": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6148:3",
     "$figmaModeId": "6148:5",
@@ -428,15 +427,14 @@
       "product.scope.EXTENSION MINIAPP WEBSITE": "1c49b408ed0c4f23a5566c90cc2169f4f1bd0fd9",
       "product.scope.ALL": "46ff87ca19a4faacc0ded38925b0e0bf4ae1e6d7"
     },
-    "group": "product"
+    "group": "product ✅ LOCAL"
   },
   {
     "id": "e3a303ecce6bb2d6850a1e284eac9dd44f53751d",
     "name": "website",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "figma-only/product/website": "enabled",
-      "common/media/web": "source"
+      "figma-only/product/website": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6148:3",
     "$figmaModeId": "6148:4",
@@ -466,45 +464,7 @@
       "product.scope.EXTENSION MINIAPP WEBSITE": "1c49b408ed0c4f23a5566c90cc2169f4f1bd0fd9",
       "product.scope.ALL": "46ff87ca19a4faacc0ded38925b0e0bf4ae1e6d7"
     },
-    "group": "product"
-  },
-  {
-    "id": "20b0c27739f9e6d83b3d2ac8e1b9c04c06b836db",
-    "name": "extension",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "figma-only/product/extension": "enabled",
-      "common/media/web": "source"
-    },
-    "$figmaCollectionId": "VariableCollectionId:6148:3",
-    "$figmaModeId": "6148:6",
-    "$figmaVariableReferences": {
-      "product.name": "a446ee56af7870e2b509bf6c0fd6a932e18d19b9",
-      "product.width.sm": "1c9aa836382802da4d3d3447341253dbc8375fe5",
-      "product.width.md": "49bcd3d2153b423f9e8f61620dca2e02eb5aa317",
-      "product.width.lg": "acd487a058a98fa974b1b5faa7614294cf039927",
-      "product.width.xl": "fcb1d58927c24cd4ee3daccd58b56616642d1ddb",
-      "product.height.sm": "93833baa89cf67d7c2f73cbb8f1cacbcad3f21eb",
-      "product.height.md": "b637fc892c757ba772444b9533c36eec1c085ed4",
-      "product.height.lg": "5c9c094450b42c45e76b7b6659ae7e5b868bb692",
-      "product.height.xl": "20fadd736855b40cfafc16ed8892daf89ab555fb",
-      "product.scope.APP": "64ad77b799de5d0acfec2d3a2d339bb05285be29",
-      "product.scope.EXTENSION": "3c3c9bb65e54a13f02fef612d20c29c8360a275c",
-      "product.scope.MINIAPP": "7c655c72964b23ee19817021c05a97e877a6f4fa",
-      "product.scope.WEBSITE": "8545ad3a9b82f59dd1ee78716942b4bdb2787c20",
-      "product.scope.APP EXTENSION": "bafbc9bbd9bee5ea47bfec5b493a08097eea7163",
-      "product.scope.APP MINIAPP": "2723a731f5df7087b9b49ebf3f93f44aad6dc172",
-      "product.scope.APP WEBSITE": "1f20bf5913d4cbcbd256bf1a431e4c328f995152",
-      "product.scope.EXTENSION MINIAPP": "58b568640bd47d565aef98927651ec844b5d03aa",
-      "product.scope.EXTENSION WEBSITE": "e136583faa1eceac7ccf1331a07595a9d66407a2",
-      "product.scope.MINIAPP WEBSITE": "16bdd0d6c59bc56f7eb616ff695beced87b85efe",
-      "product.scope.APP EXTENSION MINAIPP": "92e2bda0a507cc2bbf1f75a4135f6d040c79fe84",
-      "product.scope.APP EXTENSION WEBSITE": "e3f8ceeeb509f64e751f1cc2959c13fcc753bbb3",
-      "product.scope.APP MINIAPP WEBSITE": "cf58a462ef400e71468857ec4575f2d366a63ae7",
-      "product.scope.EXTENSION MINIAPP WEBSITE": "1c49b408ed0c4f23a5566c90cc2169f4f1bd0fd9",
-      "product.scope.ALL": "46ff87ca19a4faacc0ded38925b0e0bf4ae1e6d7"
-    },
-    "group": "product"
+    "group": "product ✅ LOCAL"
   },
   {
     "id": "dbdc0f0bff861f10f16a5935186e54b791ba8dc7",
@@ -542,7 +502,7 @@
       "product.scope.EXTENSION MINIAPP WEBSITE": "1c49b408ed0c4f23a5566c90cc2169f4f1bd0fd9",
       "product.scope.ALL": "46ff87ca19a4faacc0ded38925b0e0bf4ae1e6d7"
     },
-    "group": "product"
+    "group": "product ✅ LOCAL"
   },
   {
     "id": "0e3abf6f3dee8456fb06dd953aa6fb6cc509cb95",
@@ -587,7 +547,7 @@
       "layout.gutter.lg": "28ee445961c684d31647ab86badda48b1ad2964f",
       "layout.gutter.xl": "aa29e7e8809393a4a9fd5590bdd843c4932272e2"
     },
-    "group": "platform"
+    "group": "platform ✅ LOCAL"
   },
   {
     "id": "b74f8c5b8bfb02134641620dd7d3a414d987ef67",
@@ -632,7 +592,7 @@
       "layout.gutter.lg": "28ee445961c684d31647ab86badda48b1ad2964f",
       "layout.gutter.xl": "aa29e7e8809393a4a9fd5590bdd843c4932272e2"
     },
-    "group": "platform"
+    "group": "platform ✅ LOCAL"
   },
   {
     "id": "87845408e7509fb6851f35f4779a967c5ccf8e1b",
@@ -677,6 +637,6 @@
       "layout.gutter.lg": "28ee445961c684d31647ab86badda48b1ad2964f",
       "layout.gutter.xl": "aa29e7e8809393a4a9fd5590bdd843c4932272e2"
     },
-    "group": "platform"
+    "group": "platform ✅ LOCAL"
   }
 ]

@@ -42,7 +42,7 @@
     },
     "gutter": {
       "sm": {
-        "value": "{spacing.450}",
+        "value": "{spacing.350}",
         "type": "number"
       },
       "md": {
@@ -54,7 +54,43 @@
         "type": "number"
       },
       "xl": {
+        "value": "{spacing.400}",
+        "type": "number"
+      }
+    },
+    "margin-horizontal": {
+      "sm": {
+        "value": "{spacing.100}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "lg": {
         "value": "{spacing.450}",
+        "type": "number"
+      },
+      "xl": {
+        "value": "{spacing.450}",
+        "type": "number"
+      }
+    },
+    "content-compensation": {
+      "sm": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "xl": {
+        "value": "{spacing.350}",
         "type": "number"
       }
     }

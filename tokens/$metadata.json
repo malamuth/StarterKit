@@ -13,10 +13,9 @@
     "figma-only/product/app",
     "figma-only/product/website",
     "figma-only/product/miniapp",
-    "figma-only/product/extension",
-    "semantic/main-layout/layout/breakpoint/desktop",
-    "semantic/main-layout/layout/breakpoint/mobile",
-    "semantic/main-layout/layout/breakpoint/tablet-landscape",
-    "semantic/main-layout/layout/breakpoint/tablet-portrait"
+    "figma-only/main-layout/size-class/xl",
+    "figma-only/main-layout/size-class/sm",
+    "figma-only/main-layout/size-class/lg",
+    "figma-only/main-layout/size-class/md"
   ]
 }
