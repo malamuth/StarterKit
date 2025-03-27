@@ -2,19 +2,19 @@
   "layout": {
     "col-number": {
       "sm": {
-        "value": "12",
+        "value": "1",
         "type": "number"
       },
       "md": {
-        "value": "12",
+        "value": "6",
         "type": "number"
       },
       "lg": {
-        "value": "12",
+        "value": "6",
         "type": "number"
       },
       "xl": {
-        "value": "12",
+        "value": "6",
         "type": "number"
       }
     },
@@ -42,15 +42,37 @@
     },
     "gutter": {
       "sm": {
+        "value": "0",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "md": {
+        "value": "0",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "lg": {
+        "value": "0",
+        "type": "number",
+        "description": "figma-only"
+      },
+      "xl": {
+        "value": "0",
+        "type": "number",
+        "description": "figma-only"
+      }
+    },
+    "margin-horizontal": {
+      "sm": {
         "value": "{spacing.350}",
         "type": "number"
       },
       "md": {
-        "value": "{spacing.350}",
+        "value": "{spacing.450}",
         "type": "number"
       },
       "lg": {
-        "value": "{spacing.400}",
+        "value": "{spacing.450}",
         "type": "number"
       },
       "xl": {
