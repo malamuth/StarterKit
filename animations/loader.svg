@@ -1,88 +1,62 @@
 <svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
-    <!-- Фоновый круг с неизменяемой обводкой -->
-    <circle cx="14" cy="14" r="12" fill="none" stroke="#ccc" stroke-width="4" vector-effect="non-scaling-stroke" />
-
-    <!-- Динамическая дуга с неизменяемой обводкой -->
-    <g id="bob" transform="rotate(0 14 14)">
-        <path id="bobPath" d="" fill="none" stroke="black" stroke-width="4" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+    <circle cx="14" cy="14" r="12" fill="none" stroke="#ccc" stroke-width="4" vector-effect="non-scaling-stroke"/>
+    <g id="g" transform="rotate(0 14 14)">
+        <path id="p" d="" fill="none" stroke="black" stroke-width="4" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
     </g>
-
     <script><![CDATA[
-    const bobGroup = document.getElementById("bob");
-    const bobPath = document.getElementById("bobPath");
-    let start = null;
-    const totalCycle = 900; // общий цикл 900 мс
+    const g = document.getElementById("g"),
+          p = document.getElementById("p");
+    let t0 = null, cycle = 900;
 
-    // Функция для вычисления кубической Безье с контрольными точками:
-    // P0 = (0,0), P1 = (0.1,0.4), P2 = (0.6,0.9), P3 = (1,1)
-    // Здесь используется только Y-компонента.
-    function customBezier(t) {
-      return 3 * Math.pow(1 - t, 2) * t * 0.4 + 3 * (1 - t) * Math.pow(t, 2) * 0.9 + Math.pow(t, 3);
+    // Кастомная кривая Безье с параметрами 0.1,0.4,0.6,0.9
+    function bezier(t) {
+      return 3 * Math.pow(1-t,2) * t * 0.4 +
+             3 * (1-t) * Math.pow(t,2) * 0.9 +
+             Math.pow(t,3);
     }
 
-    function toRadians(deg) {
-      return deg * Math.PI / 180;
+    function rad(d){ return d * Math.PI / 180; }
+
+    function polar(cx,cy,r,a){
+      return [cx + r * Math.cos(rad(a)), cy + r * Math.sin(rad(a))];
     }
 
-    function polarToCartesian(cx, cy, r, angle) {
-      return [
-        cx + r * Math.cos(toRadians(angle)),
-        cy + r * Math.sin(toRadians(angle))
-      ];
-    }
+    function anim(ts) {
+      if(!t0) t0 = ts;
+      let dt = (ts - t0) % cycle, rot, sw;
 
-    function animate(timestamp) {
-      if (!start) start = timestamp;
-      const elapsed = (timestamp - start) % totalCycle;
-
-      let rotation, sweep;
-
-      if (elapsed < 300) {
-        // Сегмент 1 (0–300 мс):
-        // Вращение: от -20° до 90° по easing (300 мс)
-        const pRot = elapsed / 300;
-        rotation = -20 + 110 * customBezier(pRot); // -20° → 90°
-
-        // Дуга растёт быстрее – за 200 мс (с использованием той же функции)
-        const arcDuration = 200;
-        const pArc = Math.min(elapsed / arcDuration, 1);
-        sweep = 90 * customBezier(pArc);
-
-      } else if (elapsed < 350) {
-        // Переход (300–350 мс): плавная интерполяция вращения от 90° до 180°, дуга фиксирована на 90°
-        const p = (elapsed - 300) / 50;
-        rotation = 90 + (180 - 90) * customBezier(p); // 90° → 180°
-        sweep = 90;
-
-      } else if (elapsed < 600) {
-        // Сегмент 2 (350–600 мс): вращение от 180° до 270°; дуга фиксирована на 90°
-        const p = (elapsed - 350) / 250;
-        rotation = 180 + 90 * customBezier(p); // 180° → 270°
-        sweep = 90;
-
+      if(dt < 300) {
+        let pr = dt / 300;
+        rot = -20 + 110 * bezier(pr); // вращение: -20° → 90°
+        let arcDur = 200,
+            par = Math.min(dt / arcDur, 1);
+        sw = 90 * bezier(par);         // дуга: 0° → 90°
+      } else if(dt < 350) {
+        let pr = (dt - 300) / 50;
+        rot = 90 + (180 - 90) * bezier(pr); // 90° → 180°
+        sw = 90;
+      } else if(dt < 600) {
+        let pr = (dt - 350) / 250;
+        rot = 180 + 90 * bezier(pr);        // 180° → 270°
+        sw = 90;
       } else {
-        // Сегмент 3 (600–900 мс): вращение от 270° до 360°; дуга плавно исчезает от 90° до 0°
-        const p = (elapsed - 600) / 300;
-        rotation = 270 + 90 * customBezier(p); // 270° → 360°
-        sweep = 90 * (1 - customBezier(p));    // 90° → 0°
+        let pr = (dt - 600) / 300;
+        rot = 270 + 90 * bezier(pr);        // 270° → 360°
+        sw = 90 * (1 - bezier(pr));         // дуга: 90° → 0°
       }
 
-      const startAngle = -90;
-      const endAngle = startAngle + sweep;
-      const [x1, y1] = polarToCartesian(14, 14, 12, startAngle);
-      const [x2, y2] = polarToCartesian(14, 14, 12, endAngle);
-      const largeArc = sweep > 180 ? 1 : 0;
+      const sa = -90, ea = sa + sw,
+            [x1,y1] = polar(14,14,12,sa),
+            [x2,y2] = polar(14,14,12,ea);
 
-      if (sweep > 0.01) {
-        bobPath.setAttribute("d", `M ${x1} ${y1} A 12 12 0 ${largeArc} 1 ${x2} ${y2}`);
-      } else {
-        bobPath.setAttribute("d", `M ${x1} ${y1} L ${x1} ${y1}`);
-      }
+      p.setAttribute("d", sw > 0.01 ?
+        `M ${x1} ${y1} A 12 12 0 ${sw > 180 ? 1 : 0} 1 ${x2} ${y2}` :
+        `M ${x1} ${y1} L ${x1} ${y1}`);
 
-      bobGroup.setAttribute("transform", `rotate(${rotation % 360} 14 14)`);
-      requestAnimationFrame(animate);
+      g.setAttribute("transform", `rotate(${rot % 360} 14 14)`);
+      requestAnimationFrame(anim);
     }
 
-    requestAnimationFrame(animate);
+    requestAnimationFrame(anim);
   ]]></script>
 </svg>
