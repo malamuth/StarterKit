@@ -1,0 +1,14 @@
+{
+  "hover-ghost": {
+    "500": {
+      "border-radius": {
+        "value": "{radius.300}",
+        "type": "number"
+      },
+      "offset": {
+        "value": "-4",
+        "type": "number"
+      }
+    }
+  }
+}
