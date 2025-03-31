@@ -1,0 +1,10 @@
+{
+  "badge": {
+    "500": {
+      "typography": {
+        "value": "{badge.500.label.typography}",
+        "type": "typography"
+      }
+    }
+  }
+}
