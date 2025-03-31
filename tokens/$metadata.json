@@ -56,6 +56,7 @@
     "component/switch",
     "component/tabs",
     "component/tab-bar",
+    "figma-only/component/badge/typography/typography",
     "figma-only/component/main-layout/size-class/sm",
     "figma-only/component/main-layout/size-class/md",
     "figma-only/component/main-layout/size-class/lg",
