@@ -1,0 +1,548 @@
+{
+  "semantic-typography": {
+    "header-xl": {
+      "style": {
+        "sm": {
+          "value": "display",
+          "type": "other",
+          "description": "source"
+        },
+        "md": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "size": {
+        "sm": {
+          "value": "500",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "500",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "600",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "700",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "category": {
+        "sm": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        }
+      }
+    },
+    "header-l": {
+      "style": {
+        "sm": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "size": {
+        "sm": {
+          "value": "450",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "450",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "500",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "600",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "category": {
+        "sm": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        }
+      }
+    },
+    "header-m": {
+      "style": {
+        "sm": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "size": {
+        "sm": {
+          "value": "400",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "400",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "450",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "500",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "category": {
+        "sm": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        }
+      }
+    },
+    "header-s": {
+      "style": {
+        "sm": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "size": {
+        "sm": {
+          "value": "350",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "350",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "400",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "450",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "category": {
+        "sm": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        }
+      }
+    },
+    "header-xs": {
+      "style": {
+        "sm": {
+          "value": "compact",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "compact",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "size": {
+        "sm": {
+          "value": "300",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "300",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "350",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "400",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "category": {
+        "sm": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "accent",
+          "type": "other",
+          "description": "figma-only"
+        }
+      }
+    },
+    "paragraph-l": {
+      "style": {
+        "sm": {
+          "value": "text",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "text",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "text",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "text",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "size": {
+        "sm": {
+          "value": "350",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "350",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "400",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "400",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "category": {
+        "sm": {
+          "value": "default",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "default",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "default",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "default",
+          "type": "other",
+          "description": "figma-only"
+        }
+      }
+    },
+    "paragraph-m": {
+      "style": {
+        "sm": {
+          "value": "text",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "text",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "text",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "text",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "size": {
+        "sm": {
+          "value": "300",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "300",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "350",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "350",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "category": {
+        "sm": {
+          "value": "default",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "default",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "default",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "default",
+          "type": "other",
+          "description": "figma-only"
+        }
+      }
+    },
+    "paragraph-s": {
+      "style": {
+        "sm": {
+          "value": "text",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "text",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "text",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "text",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "size": {
+        "sm": {
+          "value": "250",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "250",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "300",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "300",
+          "type": "other",
+          "description": "figma-only"
+        }
+      },
+      "category": {
+        "sm": {
+          "value": "default",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "md": {
+          "value": "default",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "lg": {
+          "value": "default",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "xl": {
+          "value": "default",
+          "type": "other",
+          "description": "figma-only"
+        }
+      }
+    }
+  }
+}

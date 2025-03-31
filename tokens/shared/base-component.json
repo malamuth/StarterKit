@@ -1,0 +1,44 @@
+{
+  "typography-params": {
+    "500": {
+      "frame": {
+        "size": {
+          "value": "{size.500}",
+          "type": "number"
+        }
+      },
+      "label": {
+        "style": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "size": {
+          "value": "500",
+          "type": "other",
+          "description": "figma-only"
+        }
+      }
+    },
+    "600": {
+      "frame": {
+        "size": {
+          "value": "{size.500}",
+          "type": "number"
+        }
+      },
+      "label": {
+        "style": {
+          "value": "display",
+          "type": "other",
+          "description": "figma-only"
+        },
+        "size": {
+          "value": "500",
+          "type": "other",
+          "description": "figma-only"
+        }
+      }
+    }
+  }
+}
