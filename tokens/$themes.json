@@ -200,7 +200,7 @@
       "figma-only/product/app": "source",
       "figma-only/component/main-layout/size-class/sm": "enabled",
       "component/button": "enabled",
-      "shared/base-component": "enabled",
+      "shared/base-component": "source",
       "component/rich-icon": "enabled",
       "component/semantic-text": "source",
       "component/accordion": "enabled",
@@ -229,7 +229,10 @@
       "component/tab-bar": "enabled",
       "figma-only/component/semantic-text/typography/typography": "enabled",
       "figma-only/component/semantic-text/size-class/sm": "enabled",
-      "shared/semantic-typography": "source"
+      "shared/semantic-typography": "source",
+      "shared/control-contained": "source",
+      "shared/control-ghost": "source",
+      "shared/hover-ghost": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -698,7 +701,7 @@
       "common/layout/apple": "source",
       "figma-only/product/app": "source",
       "component/button": "enabled",
-      "shared/base-component": "enabled",
+      "shared/base-component": "source",
       "figma-only/component/main-layout/size-class/md": "enabled",
       "component/rich-icon": "enabled",
       "component/semantic-text": "source",
@@ -728,7 +731,10 @@
       "component/tab-bar": "enabled",
       "figma-only/component/semantic-text/size-class/md": "enabled",
       "figma-only/component/semantic-text/typography/typography": "enabled",
-      "shared/semantic-typography": "source"
+      "shared/semantic-typography": "source",
+      "shared/control-contained": "source",
+      "shared/control-ghost": "source",
+      "shared/hover-ghost": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -1197,7 +1203,7 @@
       "common/layout/apple": "source",
       "figma-only/product/app": "source",
       "component/button": "enabled",
-      "shared/base-component": "enabled",
+      "shared/base-component": "source",
       "figma-only/component/main-layout/size-class/lg": "enabled",
       "component/rich-icon": "enabled",
       "component/semantic-text": "source",
@@ -1227,7 +1233,10 @@
       "component/tab-bar": "enabled",
       "figma-only/component/semantic-text/size-class/lg": "enabled",
       "figma-only/component/semantic-text/typography/typography": "enabled",
-      "shared/semantic-typography": "source"
+      "shared/semantic-typography": "source",
+      "shared/control-contained": "source",
+      "shared/control-ghost": "source",
+      "shared/hover-ghost": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -1805,7 +1814,7 @@
       "common/layout/apple": "source",
       "figma-only/product/app": "source",
       "component/button": "enabled",
-      "shared/base-component": "enabled",
+      "shared/base-component": "source",
       "figma-only/component/main-layout/size-class/xl": "enabled",
       "component/rich-icon": "enabled",
       "component/semantic-text": "source",
@@ -1835,7 +1844,10 @@
       "component/tab-bar": "enabled",
       "figma-only/component/semantic-text/size-class/xl": "enabled",
       "figma-only/component/semantic-text/typography/typography": "enabled",
-      "shared/semantic-typography": "source"
+      "shared/semantic-typography": "source",
+      "shared/control-contained": "source",
+      "shared/control-ghost": "source",
+      "shared/hover-ghost": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
