@@ -38,69 +38,67 @@
         }
       },
       "typography-params": {
-        "sm": {
-          "style": {
+        "style": {
+          "sm": {
             "value": "display",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
-            "value": "500",
+          "md": {
+            "value": "display",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "accent",
+          "lg": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
+            "value": "display",
             "type": "other",
             "description": "figma-only"
           }
         },
-        "md": {
-          "style": {
-            "value": "display",
-            "type": "other",
-            "description": "figma-only"
-          },
-          "size": {
+        "size": {
+          "sm": {
             "value": "500",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "accent",
-            "type": "other",
-            "description": "figma-only"
-          }
-        },
-        "lg": {
-          "style": {
-            "value": "display",
+          "md": {
+            "value": "500",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
+          "lg": {
             "value": "600",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "accent",
+          "xl": {
+            "value": "700",
             "type": "other",
             "description": "figma-only"
           }
         },
-        "xl": {
-          "style": {
-            "value": "display",
+        "category": {
+          "sm": {
+            "value": "accent",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
-            "value": "700",
+          "md": {
+            "value": "accent",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
+          "lg": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
             "value": "accent",
             "type": "other",
             "description": "figma-only"
@@ -109,19 +107,19 @@
       },
       "typography": {
         "sm": {
-          "value": "display.500.accent",
+          "value": "{semantic-text.header-xl.typography-params.style.sm}.{semantic-text.header-xl.typography-params.size.sm}.{semantic-text.header-xl.typography-params.category.sm}",
           "type": "other"
         },
         "md": {
-          "value": "display.500.accent",
+          "value": "{semantic-text.header-xl.typography-params.style.md}.{semantic-text.header-xl.typography-params.size.md}.{semantic-text.header-xl.typography-params.category.md}",
           "type": "other"
         },
         "lg": {
-          "value": "display.600.accent",
+          "value": "{semantic-text.header-xl.typography-params.style.lg}.{semantic-text.header-xl.typography-params.size.lg}.{semantic-text.header-xl.typography-params.category.lg}",
           "type": "other"
         },
         "xl": {
-          "value": "display.700.accent",
+          "value": "{semantic-text.header-xl.typography-params.style.xl}.{semantic-text.header-xl.typography-params.size.xl}.{semantic-text.header-xl.typography-params.category.xl}",
           "type": "other"
         }
       }
@@ -164,69 +162,67 @@
         }
       },
       "typography-params": {
-        "sm": {
-          "style": {
+        "style": {
+          "sm": {
             "value": "display",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
-            "value": "450",
+          "md": {
+            "value": "display",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "accent",
+          "lg": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
+            "value": "display",
             "type": "other",
             "description": "figma-only"
           }
         },
-        "md": {
-          "style": {
-            "value": "display",
-            "type": "other",
-            "description": "figma-only"
-          },
-          "size": {
+        "size": {
+          "sm": {
             "value": "450",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "accent",
-            "type": "other",
-            "description": "figma-only"
-          }
-        },
-        "lg": {
-          "style": {
-            "value": "display",
+          "md": {
+            "value": "450",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
+          "lg": {
             "value": "500",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "accent",
+          "xl": {
+            "value": "600",
             "type": "other",
             "description": "figma-only"
           }
         },
-        "xl": {
-          "style": {
-            "value": "display",
+        "category": {
+          "sm": {
+            "value": "accent",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
-            "value": "600",
+          "md": {
+            "value": "accent",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
+          "lg": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
             "value": "accent",
             "type": "other",
             "description": "figma-only"
@@ -235,19 +231,19 @@
       },
       "typography": {
         "sm": {
-          "value": "display.450.accent",
+          "value": "{semantic-text.header-l.typography-params.style.sm}.{semantic-text.header-l.typography-params.size.sm}.{semantic-text.header-l.typography-params.category.sm}",
           "type": "other"
         },
         "md": {
-          "value": "display.450.accent",
+          "value": "{semantic-text.header-l.typography-params.style.md}.{semantic-text.header-l.typography-params.size.md}.{semantic-text.header-l.typography-params.category.md}",
           "type": "other"
         },
         "lg": {
-          "value": "display.500.accent",
+          "value": "{semantic-text.header-l.typography-params.style.lg}.{semantic-text.header-l.typography-params.size.lg}.{semantic-text.header-l.typography-params.category.lg}",
           "type": "other"
         },
         "xl": {
-          "value": "display.600.accent",
+          "value": "{semantic-text.header-l.typography-params.style.xl}.{semantic-text.header-l.typography-params.size.xl}.{semantic-text.header-l.typography-params.category.xl}",
           "type": "other"
         }
       }
@@ -290,69 +286,67 @@
         }
       },
       "typography-params": {
-        "sm": {
-          "style": {
+        "style": {
+          "sm": {
             "value": "display",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
-            "value": "400",
+          "md": {
+            "value": "display",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "accent",
+          "lg": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
+            "value": "display",
             "type": "other",
             "description": "figma-only"
           }
         },
-        "md": {
-          "style": {
-            "value": "display",
-            "type": "other",
-            "description": "figma-only"
-          },
-          "size": {
+        "size": {
+          "sm": {
             "value": "400",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "accent",
-            "type": "other",
-            "description": "figma-only"
-          }
-        },
-        "lg": {
-          "style": {
-            "value": "display",
+          "md": {
+            "value": "400",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
+          "lg": {
             "value": "450",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "accent",
+          "xl": {
+            "value": "500",
             "type": "other",
             "description": "figma-only"
           }
         },
-        "xl": {
-          "style": {
-            "value": "display",
+        "category": {
+          "sm": {
+            "value": "accent",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
-            "value": "500",
+          "md": {
+            "value": "accent",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
+          "lg": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
             "value": "accent",
             "type": "other",
             "description": "figma-only"
@@ -361,19 +355,19 @@
       },
       "typography": {
         "sm": {
-          "value": "display.400.accent",
+          "value": "{semantic-text.header-m.typography-params.style.sm}.{semantic-text.header-m.typography-params.size.sm}.{semantic-text.header-m.typography-params.category.sm}",
           "type": "other"
         },
         "md": {
-          "value": "display.400.accent",
+          "value": "{semantic-text.header-m.typography-params.style.md}.{semantic-text.header-m.typography-params.size.md}.{semantic-text.header-m.typography-params.category.md}",
           "type": "other"
         },
         "lg": {
-          "value": "display.450.accent",
+          "value": "{semantic-text.header-m.typography-params.style.lg}.{semantic-text.header-m.typography-params.size.lg}.{semantic-text.header-m.typography-params.category.lg}",
           "type": "other"
         },
         "xl": {
-          "value": "display.500.accent",
+          "value": "{semantic-text.header-m.typography-params.style.xl}.{semantic-text.header-m.typography-params.size.xl}.{semantic-text.header-m.typography-params.category.xl}",
           "type": "other"
         }
       }
@@ -416,69 +410,67 @@
         }
       },
       "typography-params": {
-        "sm": {
-          "style": {
+        "style": {
+          "sm": {
             "value": "display",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
-            "value": "350",
+          "md": {
+            "value": "display",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "accent",
+          "lg": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
+            "value": "display",
             "type": "other",
             "description": "figma-only"
           }
         },
-        "md": {
-          "style": {
-            "value": "display",
-            "type": "other",
-            "description": "figma-only"
-          },
-          "size": {
+        "size": {
+          "sm": {
             "value": "350",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "accent",
-            "type": "other",
-            "description": "figma-only"
-          }
-        },
-        "lg": {
-          "style": {
-            "value": "display",
+          "md": {
+            "value": "350",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
+          "lg": {
             "value": "400",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "accent",
+          "xl": {
+            "value": "450",
             "type": "other",
             "description": "figma-only"
           }
         },
-        "xl": {
-          "style": {
-            "value": "display",
+        "category": {
+          "sm": {
+            "value": "accent",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
-            "value": "450",
+          "md": {
+            "value": "accent",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
+          "lg": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
             "value": "accent",
             "type": "other",
             "description": "figma-only"
@@ -487,19 +479,19 @@
       },
       "typography": {
         "sm": {
-          "value": "display.350.accent",
+          "value": "{semantic-text.header-s.typography-params.style.sm}.{semantic-text.header-s.typography-params.size.sm}.{semantic-text.header-s.typography-params.category.sm}",
           "type": "other"
         },
         "md": {
-          "value": "display.350.accent",
+          "value": "{semantic-text.header-s.typography-params.style.md}.{semantic-text.header-s.typography-params.size.md}.{semantic-text.header-s.typography-params.category.md}",
           "type": "other"
         },
         "lg": {
-          "value": "display.400.accent",
+          "value": "{semantic-text.header-s.typography-params.style.lg}.{semantic-text.header-s.typography-params.size.lg}.{semantic-text.header-s.typography-params.category.lg}",
           "type": "other"
         },
         "xl": {
-          "value": "display.450.accent",
+          "value": "{semantic-text.header-s.typography-params.style.xl}.{semantic-text.header-s.typography-params.size.xl}.{semantic-text.header-s.typography-params.category.xl}",
           "type": "other"
         }
       }
@@ -542,69 +534,67 @@
         }
       },
       "typography-params": {
-        "sm": {
-          "style": {
+        "style": {
+          "sm": {
             "value": "compact",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
-            "value": "300",
-            "type": "other",
-            "description": "figma-only"
-          },
-          "category": {
-            "value": "accent",
-            "type": "other",
-            "description": "figma-only"
-          }
-        },
-        "md": {
-          "style": {
+          "md": {
             "value": "compact",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
-            "value": "300",
-            "type": "other",
-            "description": "figma-only"
-          },
-          "category": {
-            "value": "accent",
-            "type": "other",
-            "description": "figma-only"
-          }
-        },
-        "lg": {
-          "style": {
+          "lg": {
             "value": "display",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
+          "xl": {
+            "value": "display",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "size": {
+          "sm": {
+            "value": "300",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "md": {
+            "value": "300",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "lg": {
             "value": "350",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "accent",
+          "xl": {
+            "value": "400",
             "type": "other",
             "description": "figma-only"
           }
         },
-        "xl": {
-          "style": {
-            "value": "display",
+        "category": {
+          "sm": {
+            "value": "accent",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
-            "value": "400",
+          "md": {
+            "value": "accent",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
+          "lg": {
+            "value": "accent",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
             "value": "accent",
             "type": "other",
             "description": "figma-only"
@@ -613,19 +603,19 @@
       },
       "typography": {
         "sm": {
-          "value": "compact.300.accent",
+          "value": "{semantic-text.header-xs.typography-params.style.sm}.{semantic-text.header-xs.typography-params.size.sm}.{semantic-text.header-xs.typography-params.category.sm}",
           "type": "other"
         },
         "md": {
-          "value": "compact.300.accent",
+          "value": "{semantic-text.header-xs.typography-params.style.md}.{semantic-text.header-xs.typography-params.size.md}.{semantic-text.header-xs.typography-params.category.md}",
           "type": "other"
         },
         "lg": {
-          "value": "display.350.accent",
+          "value": "{semantic-text.header-xs.typography-params.style.lg}.{semantic-text.header-xs.typography-params.size.lg}.{semantic-text.header-xs.typography-params.category.lg}",
           "type": "other"
         },
         "xl": {
-          "value": "display.400.accent",
+          "value": "{semantic-text.header-xs.typography-params.style.xl}.{semantic-text.header-xs.typography-params.size.xl}.{semantic-text.header-xs.typography-params.category.xl}",
           "type": "other"
         }
       }
@@ -668,69 +658,67 @@
         }
       },
       "typography-params": {
-        "sm": {
-          "style": {
+        "style": {
+          "sm": {
             "value": "text",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
+          "md": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "lg": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "size": {
+          "sm": {
             "value": "350",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "default",
-            "type": "other",
-            "description": "figma-only"
-          }
-        },
-        "md": {
-          "style": {
-            "value": "text",
-            "type": "other",
-            "description": "figma-only"
-          },
-          "size": {
+          "md": {
             "value": "350",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "default",
-            "type": "other",
-            "description": "figma-only"
-          }
-        },
-        "lg": {
-          "style": {
-            "value": "text",
-            "type": "other",
-            "description": "figma-only"
-          },
-          "size": {
+          "lg": {
             "value": "400",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "default",
+          "xl": {
+            "value": "400",
             "type": "other",
             "description": "figma-only"
           }
         },
-        "xl": {
-          "style": {
-            "value": "text",
+        "category": {
+          "sm": {
+            "value": "default",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
-            "value": "400",
+          "md": {
+            "value": "default",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
+          "lg": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
             "value": "default",
             "type": "other",
             "description": "figma-only"
@@ -739,19 +727,19 @@
       },
       "typography": {
         "sm": {
-          "value": "text.350.default",
+          "value": "{semantic-text.paragraph-l.typography-params.style.sm}.{semantic-text.paragraph-l.typography-params.size.sm}.{semantic-text.paragraph-l.typography-params.category.sm}",
           "type": "other"
         },
         "md": {
-          "value": "text.350.default",
+          "value": "{semantic-text.paragraph-l.typography-params.style.md}.{semantic-text.paragraph-l.typography-params.size.md}.{semantic-text.paragraph-l.typography-params.category.md}",
           "type": "other"
         },
         "lg": {
-          "value": "text.400.default",
+          "value": "{semantic-text.paragraph-l.typography-params.style.lg}.{semantic-text.paragraph-l.typography-params.size.lg}.{semantic-text.paragraph-l.typography-params.category.lg}",
           "type": "other"
         },
         "xl": {
-          "value": "text.400.default",
+          "value": "{semantic-text.paragraph-l.typography-params.style.xl}.{semantic-text.paragraph-l.typography-params.size.xl}.{semantic-text.paragraph-l.typography-params.category.xl}",
           "type": "other"
         }
       }
@@ -794,69 +782,67 @@
         }
       },
       "typography-params": {
-        "sm": {
-          "style": {
+        "style": {
+          "sm": {
             "value": "text",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
+          "md": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "lg": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "size": {
+          "sm": {
             "value": "300",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "default",
-            "type": "other",
-            "description": "figma-only"
-          }
-        },
-        "md": {
-          "style": {
-            "value": "text",
-            "type": "other",
-            "description": "figma-only"
-          },
-          "size": {
+          "md": {
             "value": "300",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "default",
-            "type": "other",
-            "description": "figma-only"
-          }
-        },
-        "lg": {
-          "style": {
-            "value": "text",
-            "type": "other",
-            "description": "figma-only"
-          },
-          "size": {
+          "lg": {
             "value": "350",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "default",
+          "xl": {
+            "value": "350",
             "type": "other",
             "description": "figma-only"
           }
         },
-        "xl": {
-          "style": {
-            "value": "text",
+        "category": {
+          "sm": {
+            "value": "default",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
-            "value": "350",
+          "md": {
+            "value": "default",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
+          "lg": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
             "value": "default",
             "type": "other",
             "description": "figma-only"
@@ -865,19 +851,19 @@
       },
       "typography": {
         "sm": {
-          "value": "text.300.default",
+          "value": "{semantic-text.paragraph-m.typography-params.style.sm}.{semantic-text.paragraph-m.typography-params.size.sm}.{semantic-text.paragraph-m.typography-params.category.sm}",
           "type": "other"
         },
         "md": {
-          "value": "text.300.default",
+          "value": "{semantic-text.paragraph-m.typography-params.style.md}.{semantic-text.paragraph-m.typography-params.size.md}.{semantic-text.paragraph-m.typography-params.category.md}",
           "type": "other"
         },
         "lg": {
-          "value": "text.350.default",
+          "value": "{semantic-text.paragraph-m.typography-params.style.lg}.{semantic-text.paragraph-m.typography-params.size.lg}.{semantic-text.paragraph-m.typography-params.category.lg}",
           "type": "other"
         },
         "xl": {
-          "value": "text.350.default",
+          "value": "{semantic-text.paragraph-m.typography-params.style.xl}.{semantic-text.paragraph-m.typography-params.size.xl}.{semantic-text.paragraph-m.typography-params.category.xl}",
           "type": "other"
         }
       }
@@ -920,69 +906,67 @@
         }
       },
       "typography-params": {
-        "sm": {
-          "style": {
+        "style": {
+          "sm": {
             "value": "text",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
+          "md": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "lg": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
+            "value": "text",
+            "type": "other",
+            "description": "figma-only"
+          }
+        },
+        "size": {
+          "sm": {
             "value": "250",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "default",
-            "type": "other",
-            "description": "figma-only"
-          }
-        },
-        "md": {
-          "style": {
-            "value": "text",
-            "type": "other",
-            "description": "figma-only"
-          },
-          "size": {
+          "md": {
             "value": "250",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "default",
-            "type": "other",
-            "description": "figma-only"
-          }
-        },
-        "lg": {
-          "style": {
-            "value": "text",
-            "type": "other",
-            "description": "figma-only"
-          },
-          "size": {
+          "lg": {
             "value": "300",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
-            "value": "default",
+          "xl": {
+            "value": "300",
             "type": "other",
             "description": "figma-only"
           }
         },
-        "xl": {
-          "style": {
-            "value": "text",
+        "category": {
+          "sm": {
+            "value": "default",
             "type": "other",
             "description": "figma-only"
           },
-          "size": {
-            "value": "300",
+          "md": {
+            "value": "default",
             "type": "other",
             "description": "figma-only"
           },
-          "category": {
+          "lg": {
+            "value": "default",
+            "type": "other",
+            "description": "figma-only"
+          },
+          "xl": {
             "value": "default",
             "type": "other",
             "description": "figma-only"
@@ -991,19 +975,19 @@
       },
       "typography": {
         "sm": {
-          "value": "text.250.default",
+          "value": "{semantic-text.paragraph-s.typography-params.style.sm}.{semantic-text.paragraph-s.typography-params.size.sm}.{semantic-text.paragraph-s.typography-params.category.sm}",
           "type": "other"
         },
         "md": {
-          "value": "text.250.default",
+          "value": "{semantic-text.paragraph-s.typography-params.style.md}.{semantic-text.paragraph-s.typography-params.size.md}.{semantic-text.paragraph-s.typography-params.category.md}",
           "type": "other"
         },
         "lg": {
-          "value": "text.300.default",
+          "value": "{semantic-text.paragraph-s.typography-params.style.lg}.{semantic-text.paragraph-s.typography-params.size.lg}.{semantic-text.paragraph-s.typography-params.category.lg}",
           "type": "other"
         },
         "xl": {
-          "value": "text.300.default",
+          "value": "{semantic-text.paragraph-s.typography-params.style.xl}.{semantic-text.paragraph-s.typography-params.size.xl}.{semantic-text.paragraph-s.typography-params.category.xl}",
           "type": "other"
         }
       }
