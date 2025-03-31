@@ -66,6 +66,9 @@
     "semantic/slider",
     "semantic/switch",
     "semantic/tabs",
-    "semantic/tab-bar"
+    "semantic/tab-bar",
+    "shared/base-component",
+    "shared/button",
+    "shared/semantic-typography"
   ]
 }

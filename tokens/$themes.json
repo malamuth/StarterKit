@@ -228,7 +228,8 @@
       "semantic/tabs": "enabled",
       "semantic/tab-bar": "enabled",
       "figma-only/component/semantic-text/typography/typography": "enabled",
-      "figma-only/component/semantic-text/size-class/sm": "enabled"
+      "figma-only/component/semantic-text/size-class/sm": "enabled",
+      "shared/semantic-typography": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -726,7 +727,8 @@
       "semantic/tabs": "enabled",
       "semantic/tab-bar": "enabled",
       "figma-only/component/semantic-text/size-class/md": "enabled",
-      "figma-only/component/semantic-text/typography/typography": "enabled"
+      "figma-only/component/semantic-text/typography/typography": "enabled",
+      "shared/semantic-typography": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -1224,7 +1226,8 @@
       "semantic/tabs": "enabled",
       "semantic/tab-bar": "enabled",
       "figma-only/component/semantic-text/size-class/lg": "enabled",
-      "figma-only/component/semantic-text/typography/typography": "enabled"
+      "figma-only/component/semantic-text/typography/typography": "enabled",
+      "shared/semantic-typography": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -1831,7 +1834,8 @@
       "semantic/tabs": "enabled",
       "semantic/tab-bar": "enabled",
       "figma-only/component/semantic-text/size-class/xl": "enabled",
-      "figma-only/component/semantic-text/typography/typography": "enabled"
+      "figma-only/component/semantic-text/typography/typography": "enabled",
+      "shared/semantic-typography": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
