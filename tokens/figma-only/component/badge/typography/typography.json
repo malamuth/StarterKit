@@ -2,7 +2,7 @@
   "badge": {
     "500": {
       "typography": {
-        "value": "{badge.500.label.typography}",
+        "value": "{display.500.accent}",
         "type": "typography"
       }
     }
