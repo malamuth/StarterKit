@@ -1,0 +1,36 @@
+{
+  "cell": {
+    "board": {
+      "large": {
+        "frame": {
+          "padding-horizontal": {
+            "value": "{cell.board.large.frame.padding-horizontal.md}",
+            "type": "number"
+          }
+        },
+        "content": {
+          "min-height": {
+            "value": "{size.700}",
+            "type": "number"
+          }
+        }
+      },
+      "medium": {
+        "frame": {
+          "padding-horizontal": {
+            "value": "{cell.board.medium.frame.padding-horizontal.md}",
+            "type": "number"
+          }
+        }
+      },
+      "small": {
+        "frame": {
+          "padding-horizontal": {
+            "value": "{cell.board.mdall.frame.padding-horizontal.md}",
+            "type": "number"
+          }
+        }
+      }
+    }
+  }
+}
