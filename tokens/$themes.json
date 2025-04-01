@@ -231,7 +231,7 @@
       "shared/semantic-typography": "source",
       "shared/control-contained": "source",
       "shared/control-ghost": "source",
-      "shared/hover-ghost": "source",
+      "shared/hover-ghost": "enabled",
       "component/chip": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
@@ -756,7 +756,7 @@
       "shared/semantic-typography": "source",
       "shared/control-contained": "source",
       "shared/control-ghost": "source",
-      "shared/hover-ghost": "source",
+      "shared/hover-ghost": "enabled",
       "component/chip": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
@@ -1281,7 +1281,7 @@
       "shared/semantic-typography": "source",
       "shared/control-contained": "source",
       "shared/control-ghost": "source",
-      "shared/hover-ghost": "source",
+      "shared/hover-ghost": "enabled",
       "component/chip": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
@@ -1915,7 +1915,7 @@
       "shared/semantic-typography": "source",
       "shared/control-contained": "source",
       "shared/control-ghost": "source",
-      "shared/hover-ghost": "source",
+      "shared/hover-ghost": "enabled",
       "component/chip": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
