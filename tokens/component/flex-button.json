@@ -7,7 +7,7 @@
           "type": "number"
         },
         "min-height": {
-          "value": "{base-component.300.frame.min-size}",
+          "value": "{size.100}",
           "type": "number"
         }
       },
@@ -37,7 +37,7 @@
           "type": "number"
         },
         "min-height": {
-          "value": "{base-component.400.frame.min-size}",
+          "value": "{size.150}",
           "type": "number"
         }
       },
@@ -67,7 +67,7 @@
           "type": "number"
         },
         "min-height": {
-          "value": "{base-component.500.frame.min-size}",
+          "value": "{size.150}",
           "type": "number"
         }
       },
@@ -97,7 +97,7 @@
           "type": "number"
         },
         "min-height": {
-          "value": "{base-component.600.frame.min-size}",
+          "value": "{size.200}",
           "type": "number"
         }
       },
@@ -116,36 +116,6 @@
       "icon": {
         "size": {
           "value": "{base-component.600.icon.size}",
-          "type": "number"
-        }
-      }
-    },
-    "700": {
-      "frame": {
-        "gap": {
-          "value": "{control-ghost.700.frame.gap}",
-          "type": "number"
-        },
-        "min-height": {
-          "value": "{base-component.700.frame.min-size}",
-          "type": "number"
-        }
-      },
-      "slot": {
-        "padding-left": {
-          "value": "{control-ghost.700.slot-right.padding-left}",
-          "type": "number"
-        }
-      },
-      "label": {
-        "typography": {
-          "value": "{base-component.700.label.style}.{base-component.700.label.size}.accent",
-          "type": "other"
-        }
-      },
-      "icon": {
-        "size": {
-          "value": "{base-component.700.icon.size}",
           "type": "number"
         }
       }
