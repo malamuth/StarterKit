@@ -6,12 +6,6 @@
           "value": "{spacing.100}",
           "type": "number"
         }
-      },
-      "item": {
-        "typography": {
-          "value": "compact.200.default",
-          "type": "other"
-        }
       }
     },
     "300": {
@@ -19,12 +13,6 @@
         "gap": {
           "value": "{spacing.100}",
           "type": "number"
-        }
-      },
-      "item": {
-        "typography": {
-          "value": "compact.200.default",
-          "type": "other"
         }
       }
     },
@@ -34,12 +22,6 @@
           "value": "{spacing.100}",
           "type": "number"
         }
-      },
-      "item": {
-        "typography": {
-          "value": "compact.250.default",
-          "type": "other"
-        }
       }
     },
     "500": {
@@ -47,12 +29,6 @@
         "gap": {
           "value": "{spacing.100}",
           "type": "number"
-        }
-      },
-      "item": {
-        "typography": {
-          "value": "compact.350.default",
-          "type": "other"
         }
       }
     },
@@ -62,12 +38,6 @@
           "value": "{spacing.100}",
           "type": "number"
         }
-      },
-      "item": {
-        "typography": {
-          "value": "compact.350.default",
-          "type": "other"
-        }
       }
     },
     "700": {
@@ -75,12 +45,6 @@
         "gap": {
           "value": "{spacing.100}",
           "type": "number"
-        }
-      },
-      "item": {
-        "typography": {
-          "value": "compact.350.default",
-          "type": "other"
         }
       }
     }

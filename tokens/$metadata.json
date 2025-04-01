@@ -29,6 +29,7 @@
     "component/breadcrumbs",
     "component/button",
     "component/cell",
+    "component/chip",
     "component/chips",
     "component/dropdown",
     "component/field",
