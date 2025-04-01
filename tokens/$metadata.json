@@ -44,6 +44,7 @@
     "component/pimple",
     "component/progress-bar",
     "component/rich-icon",
+    "component/segment",
     "component/segmented-control",
     "component/selection-control",
     "component/semantic-text",
