@@ -51,7 +51,7 @@
           "type": "number"
         },
         "padding-top": {
-          "value": "{spacing.0}",
+          "value": "{spacing.25}",
           "type": "number"
         }
       }
@@ -79,7 +79,7 @@
           "type": "number"
         },
         "padding-top": {
-          "value": "{spacing.0}",
+          "value": "{spacing.25}",
           "type": "number"
         }
       }
@@ -107,7 +107,7 @@
           "type": "number"
         },
         "padding-top": {
-          "value": "{spacing.0}",
+          "value": "{spacing.25}",
           "type": "number"
         }
       }
@@ -135,7 +135,7 @@
           "type": "number"
         },
         "padding-top": {
-          "value": "{spacing.0}",
+          "value": "{spacing.50}",
           "type": "number"
         }
       }
@@ -163,7 +163,7 @@
           "type": "number"
         },
         "padding-top": {
-          "value": "{spacing.0}",
+          "value": "{spacing.50}",
           "type": "number"
         }
       }
@@ -191,7 +191,7 @@
           "type": "number"
         },
         "padding-top": {
-          "value": "{spacing.0}",
+          "value": "{spacing.50}",
           "type": "number"
         }
       }
@@ -219,7 +219,7 @@
           "type": "number"
         },
         "padding-top": {
-          "value": "{spacing.0}",
+          "value": "{spacing.50}",
           "type": "number"
         }
       }
@@ -247,7 +247,7 @@
           "type": "number"
         },
         "padding-top": {
-          "value": "{spacing.0}",
+          "value": "{spacing.100}",
           "type": "number"
         }
       }
