@@ -3,13 +3,25 @@
     "300": {
       "frame": {
         "gap": {
-          "value": "{spacing.0}",
+          "value": "{control-ghost.300.frame.gap}",
           "type": "number"
         }
       },
       "slot": {
         "padding-left": {
-          "value": "{spacing.50}",
+          "value": "{control-ghost.300.slot-right.padding-left}",
+          "type": "number"
+        }
+      },
+      "label": {
+        "typography": {
+          "value": "{base-component.300.label.style}.{base-component.300.label.size}.accent",
+          "type": "other"
+        }
+      },
+      "icon": {
+        "size": {
+          "value": "{base-component.300.icon.size}",
           "type": "number"
         }
       }
@@ -17,13 +29,25 @@
     "400": {
       "frame": {
         "gap": {
-          "value": "{spacing.0}",
+          "value": "{control-ghost.400.frame.gap}",
           "type": "number"
         }
       },
       "slot": {
         "padding-left": {
-          "value": "{spacing.50}",
+          "value": "{control-ghost.400.slot-right.padding-left}",
+          "type": "number"
+        }
+      },
+      "label": {
+        "typography": {
+          "value": "{base-component.400.label.style}.{base-component.400.label.size}.accent",
+          "type": "other"
+        }
+      },
+      "icon": {
+        "size": {
+          "value": "{base-component.400.icon.size}",
           "type": "number"
         }
       }
@@ -31,13 +55,25 @@
     "500": {
       "frame": {
         "gap": {
-          "value": "{spacing.0}",
+          "value": "{control-ghost.500.frame.gap}",
           "type": "number"
         }
       },
       "slot": {
         "padding-left": {
-          "value": "{spacing.50}",
+          "value": "{control-ghost.500.slot-right.padding-left}",
+          "type": "number"
+        }
+      },
+      "label": {
+        "typography": {
+          "value": "{base-component.500.label.style}.{base-component.500.label.size}.accent",
+          "type": "other"
+        }
+      },
+      "icon": {
+        "size": {
+          "value": "{base-component.500.icon.size}",
           "type": "number"
         }
       }
@@ -45,13 +81,25 @@
     "600": {
       "frame": {
         "gap": {
-          "value": "{spacing.50}",
+          "value": "{control-ghost.600.frame.gap}",
           "type": "number"
         }
       },
       "slot": {
         "padding-left": {
-          "value": "{spacing.50}",
+          "value": "{control-ghost.600.slot-right.padding-left}",
+          "type": "number"
+        }
+      },
+      "label": {
+        "typography": {
+          "value": "{base-component.600.label.style}.{base-component.600.label.size}.accent",
+          "type": "other"
+        }
+      },
+      "icon": {
+        "size": {
+          "value": "{base-component.600.icon.size}",
           "type": "number"
         }
       }
@@ -59,13 +107,25 @@
     "700": {
       "frame": {
         "gap": {
-          "value": "{spacing.50}",
+          "value": "{control-ghost.700.frame.gap}",
           "type": "number"
         }
       },
       "slot": {
         "padding-left": {
-          "value": "{spacing.100}",
+          "value": "{control-ghost.700.slot-right.padding-left}",
+          "type": "number"
+        }
+      },
+      "label": {
+        "typography": {
+          "value": "{base-component.700.label.style}.{base-component.700.label.size}.accent",
+          "type": "other"
+        }
+      },
+      "icon": {
+        "size": {
+          "value": "{base-component.700.icon.size}",
           "type": "number"
         }
       }
