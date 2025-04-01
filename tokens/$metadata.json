@@ -70,6 +70,10 @@
     "figma-only/product/miniapp",
     "figma-only/product/extension",
     "figma-only/skeleton/true",
-    "figma-only/skeleton/false"
+    "figma-only/skeleton/false",
+    "figma-only/component/board/lg",
+    "figma-only/component/board/md",
+    "figma-only/component/board/sm",
+    "figma-only/component/board/xl"
   ]
 }
