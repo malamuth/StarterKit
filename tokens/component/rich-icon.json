@@ -1,6 +1,12 @@
 {
   "rich-icon": {
     "100": {
+      "frame": {
+        "min-size": {
+          "value": "{base-component.100.frame.min-size}",
+          "type": "number"
+        }
+      },
       "icon": {
         "size": {
           "value": "{size.80}",
@@ -9,12 +15,18 @@
       },
       "label": {
         "typography": {
-          "value": "compact.150.numeric",
+          "value": "{base-component.100.label.style}.{base-component.100.label.size}.numeric",
           "type": "other"
         }
       }
     },
     "200": {
+      "frame": {
+        "min-size": {
+          "value": "{base-component.200.frame.min-size}",
+          "type": "number"
+        }
+      },
       "icon": {
         "size": {
           "value": "{size.100}",
@@ -23,12 +35,18 @@
       },
       "label": {
         "typography": {
-          "value": "compact.200.numeric",
+          "value": "{base-component.200.label.style}.{base-component.200.label.size}.numeric",
           "type": "other"
         }
       }
     },
     "300": {
+      "frame": {
+        "min-size": {
+          "value": "{base-component.300.frame.min-size}",
+          "type": "number"
+        }
+      },
       "icon": {
         "size": {
           "value": "{size.150}",
@@ -37,12 +55,18 @@
       },
       "label": {
         "typography": {
-          "value": "compact.250.numeric",
+          "value": "{base-component.300.label.style}.{base-component.300.label.size}.numeric",
           "type": "other"
         }
       }
     },
     "400": {
+      "frame": {
+        "min-size": {
+          "value": "{base-component.400.frame.min-size}",
+          "type": "number"
+        }
+      },
       "icon": {
         "size": {
           "value": "{size.200}",
@@ -51,12 +75,18 @@
       },
       "label": {
         "typography": {
-          "value": "compact.300.numeric",
+          "value": "{base-component.400.label.style}.{base-component.400.label.size}.numeric",
           "type": "other"
         }
       }
     },
     "500": {
+      "frame": {
+        "min-size": {
+          "value": "{base-component.500.frame.min-size}",
+          "type": "number"
+        }
+      },
       "icon": {
         "size": {
           "value": "{size.250}",
@@ -65,12 +95,18 @@
       },
       "label": {
         "typography": {
-          "value": "compact.350.numeric",
+          "value": "{base-component.500.label.style}.{base-component.500.label.size}.numeric",
           "type": "other"
         }
       }
     },
     "600": {
+      "frame": {
+        "min-size": {
+          "value": "{base-component.600.frame.min-size}",
+          "type": "number"
+        }
+      },
       "icon": {
         "size": {
           "value": "{size.300}",
@@ -79,12 +115,18 @@
       },
       "label": {
         "typography": {
-          "value": "compact.350.numeric",
+          "value": "{base-component.600.label.style}.{base-component.600.label.size}.numeric",
           "type": "other"
         }
       }
     },
     "700": {
+      "frame": {
+        "min-size": {
+          "value": "{base-component.700.frame.min-size}",
+          "type": "number"
+        }
+      },
       "icon": {
         "size": {
           "value": "{size.350}",
@@ -93,12 +135,18 @@
       },
       "label": {
         "typography": {
-          "value": "compact.400.numeric",
+          "value": "{base-component.700.label.style}.{base-component.700.label.size}.numeric",
           "type": "other"
         }
       }
     },
     "800": {
+      "frame": {
+        "min-size": {
+          "value": "{base-component.800.frame.min-size}",
+          "type": "number"
+        }
+      },
       "icon": {
         "size": {
           "value": "{size.400}",
@@ -107,12 +155,18 @@
       },
       "label": {
         "typography": {
-          "value": "compact.400.numeric",
+          "value": "{base-component.800.label.style}.{base-component.800.label.size}.numeric",
           "type": "other"
         }
       }
     },
     "900": {
+      "frame": {
+        "min-size": {
+          "value": "{base-component.900.frame.min-size}",
+          "type": "number"
+        }
+      },
       "icon": {
         "size": {
           "value": "{size.450}",
@@ -121,7 +175,7 @@
       },
       "label": {
         "typography": {
-          "value": "compact.400.numeric",
+          "value": "{base-component.900.label.style}.{base-component.900.label.size}.numeric",
           "type": "other"
         }
       }
