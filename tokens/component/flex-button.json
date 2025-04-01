@@ -5,6 +5,10 @@
         "gap": {
           "value": "{control-ghost.300.frame.gap}",
           "type": "number"
+        },
+        "min-height": {
+          "value": "{base-component.300.frame.min-size}",
+          "type": "number"
         }
       },
       "slot": {
@@ -30,6 +34,10 @@
       "frame": {
         "gap": {
           "value": "{control-ghost.400.frame.gap}",
+          "type": "number"
+        },
+        "min-height": {
+          "value": "{base-component.400.frame.min-size}",
           "type": "number"
         }
       },
@@ -57,6 +65,10 @@
         "gap": {
           "value": "{control-ghost.500.frame.gap}",
           "type": "number"
+        },
+        "min-height": {
+          "value": "{base-component.500.frame.min-size}",
+          "type": "number"
         }
       },
       "slot": {
@@ -83,6 +95,10 @@
         "gap": {
           "value": "{control-ghost.600.frame.gap}",
           "type": "number"
+        },
+        "min-height": {
+          "value": "{base-component.600.frame.min-size}",
+          "type": "number"
         }
       },
       "slot": {
@@ -108,6 +124,10 @@
       "frame": {
         "gap": {
           "value": "{control-ghost.700.frame.gap}",
+          "type": "number"
+        },
+        "min-height": {
+          "value": "{base-component.700.frame.min-size}",
           "type": "number"
         }
       },
