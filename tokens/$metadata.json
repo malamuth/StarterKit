@@ -21,8 +21,6 @@
     "common/typography/typography",
     "shared/base-component",
     "shared/control-contained",
-    "shared/control-ghost",
-    "shared/hover-ghost",
     "shared/semantic-typography",
     "component/accordion",
     "component/badge",
