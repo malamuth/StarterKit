@@ -6,56 +6,12 @@
           "value": "{spacing.300}",
           "type": "number"
         }
-      },
-      "line": {
-        "height": {
-          "value": "{size.20}",
-          "type": "number"
-        },
-        "border-top-left-radius": {
-          "value": "{radius.999}",
-          "type": "number"
-        },
-        "border-top-right-radius": {
-          "value": "{radius.999}",
-          "type": "number"
-        },
-        "border-bottom-left-radius": {
-          "value": "{radius.0}",
-          "type": "number"
-        },
-        "border-bottom-right-radius": {
-          "value": "{radius.0}",
-          "type": "number"
-        }
       }
     },
     "400": {
       "frame": {
         "gap": {
           "value": "{spacing.350}",
-          "type": "number"
-        }
-      },
-      "line": {
-        "height": {
-          "value": "{size.20}",
-          "type": "number"
-        },
-        "border-top-left-radius": {
-          "value": "{radius.999}",
-          "type": "number"
-        },
-        "border-top-right-radius": {
-          "value": "{radius.999}",
-          "type": "number"
-        },
-        "border-bottom-left-radius": {
-          "value": "{radius.0}",
-          "type": "number"
-        },
-        "border-bottom-right-radius": {
-          "value": "{radius.0}",
           "type": "number"
         }
       }
@@ -66,28 +22,6 @@
           "value": "{spacing.400}",
           "type": "number"
         }
-      },
-      "line": {
-        "height": {
-          "value": "{size.20}",
-          "type": "number"
-        },
-        "border-top-left-radius": {
-          "value": "{radius.999}",
-          "type": "number"
-        },
-        "border-top-right-radius": {
-          "value": "{radius.999}",
-          "type": "number"
-        },
-        "border-bottom-left-radius": {
-          "value": "{radius.0}",
-          "type": "number"
-        },
-        "border-bottom-right-radius": {
-          "value": "{radius.0}",
-          "type": "number"
-        }
       }
     },
     "600": {
@@ -96,56 +30,12 @@
           "value": "{spacing.400}",
           "type": "number"
         }
-      },
-      "line": {
-        "height": {
-          "value": "{size.20}",
-          "type": "number"
-        },
-        "border-top-left-radius": {
-          "value": "{radius.999}",
-          "type": "number"
-        },
-        "border-top-right-radius": {
-          "value": "{radius.999}",
-          "type": "number"
-        },
-        "border-bottom-left-radius": {
-          "value": "{radius.0}",
-          "type": "number"
-        },
-        "border-bottom-right-radius": {
-          "value": "{radius.0}",
-          "type": "number"
-        }
       }
     },
     "700": {
       "frame": {
         "gap": {
           "value": "{spacing.450}",
-          "type": "number"
-        }
-      },
-      "line": {
-        "height": {
-          "value": "{size.20}",
-          "type": "number"
-        },
-        "border-top-left-radius": {
-          "value": "{radius.999}",
-          "type": "number"
-        },
-        "border-top-right-radius": {
-          "value": "{radius.999}",
-          "type": "number"
-        },
-        "border-bottom-left-radius": {
-          "value": "{radius.0}",
-          "type": "number"
-        },
-        "border-bottom-right-radius": {
-          "value": "{radius.0}",
           "type": "number"
         }
       }
