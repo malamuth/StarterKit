@@ -1,42 +1,6 @@
 {
   "segment": {
-    "200": {
-      "frame": {
-        "min-size": {
-          "value": "{base-component.200.frame.min-size}",
-          "type": "number"
-        },
-        "border-radius": {
-          "value": "{control-contained.200.frame.border-radius}",
-          "type": "number"
-        },
-        "padding-horizontal": {
-          "value": "{control-contained.200.frame.padding-horizontal}",
-          "type": "number"
-        },
-        "gap": {
-          "value": "{control-contained.200.frame.gap}",
-          "type": "number"
-        }
-      },
-      "icon": {
-        "size": {
-          "value": "{base-component.200.icon.size}",
-          "type": "number"
-        }
-      },
-      "label": {
-        "padding-horizontal": {
-          "value": "{control-contained.200.label.padding-horizontal}",
-          "type": "number"
-        },
-        "typography": {
-          "value": "{base-component.200.label.style}.{base-component.200.label.size}.accent",
-          "type": "other"
-        }
-      }
-    },
-    "300": {
+    "400": {
       "frame": {
         "min-size": {
           "value": "{base-component.300.frame.min-size}",
@@ -72,7 +36,7 @@
         }
       }
     },
-    "400": {
+    "500": {
       "frame": {
         "min-size": {
           "value": "{base-component.400.frame.min-size}",
@@ -108,7 +72,7 @@
         }
       }
     },
-    "500": {
+    "600": {
       "frame": {
         "min-size": {
           "value": "{base-component.500.frame.min-size}",
@@ -144,7 +108,7 @@
         }
       }
     },
-    "600": {
+    "700": {
       "frame": {
         "min-size": {
           "value": "{base-component.600.frame.min-size}",
@@ -176,42 +140,6 @@
         },
         "typography": {
           "value": "{base-component.600.label.style}.{base-component.600.label.size}.accent",
-          "type": "other"
-        }
-      }
-    },
-    "700": {
-      "frame": {
-        "min-size": {
-          "value": "{base-component.700.frame.min-size}",
-          "type": "number"
-        },
-        "border-radius": {
-          "value": "{control-contained.700.frame.border-radius}",
-          "type": "number"
-        },
-        "padding-horizontal": {
-          "value": "{control-contained.700.frame.padding-horizontal}",
-          "type": "number"
-        },
-        "gap": {
-          "value": "{control-contained.700.frame.gap}",
-          "type": "number"
-        }
-      },
-      "icon": {
-        "size": {
-          "value": "{base-component.700.icon.size}",
-          "type": "number"
-        }
-      },
-      "label": {
-        "padding-horizontal": {
-          "value": "{control-contained.700.label.padding-horizontal}",
-          "type": "number"
-        },
-        "typography": {
-          "value": "{base-component.700.label.style}.{base-component.700.label.size}.accent",
           "type": "other"
         }
       }
