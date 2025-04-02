@@ -7,7 +7,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{control-contained.300.frame.border-radius}",
+          "value": "{radius.300}",
           "type": "number"
         },
         "padding-horizontal": {
@@ -43,7 +43,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{control-contained.400.frame.border-radius}",
+          "value": "{radius.400}",
           "type": "number"
         },
         "padding-horizontal": {
@@ -79,7 +79,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{control-contained.500.frame.border-radius}",
+          "value": "{radius.400}",
           "type": "number"
         },
         "padding-horizontal": {
@@ -115,7 +115,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{control-contained.600.frame.border-radius}",
+          "value": "{radius.500}",
           "type": "number"
         },
         "padding-horizontal": {
