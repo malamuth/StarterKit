@@ -10,6 +10,10 @@
           "value": "{radius.300}",
           "type": "number"
         },
+        "border-width": {
+          "value": "{stroke.100}",
+          "type": "number"
+        },
         "padding-horizontal": {
           "value": "{control-contained.300.frame.padding-horizontal}",
           "type": "number"
@@ -44,6 +48,10 @@
         },
         "border-radius": {
           "value": "{radius.400}",
+          "type": "number"
+        },
+        "border-width": {
+          "value": "{stroke.100}",
           "type": "number"
         },
         "padding-horizontal": {
@@ -82,6 +90,10 @@
           "value": "{radius.400}",
           "type": "number"
         },
+        "border-width": {
+          "value": "{stroke.100}",
+          "type": "number"
+        },
         "padding-horizontal": {
           "value": "{control-contained.500.frame.padding-horizontal}",
           "type": "number"
@@ -116,6 +128,10 @@
         },
         "border-radius": {
           "value": "{radius.500}",
+          "type": "number"
+        },
+        "border-width": {
+          "value": "{stroke.100}",
           "type": "number"
         },
         "padding-horizontal": {
