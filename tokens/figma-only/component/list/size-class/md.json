@@ -1,0 +1,22 @@
+{
+  "list": {
+    "board": {
+      "600": {
+        "frame": {
+          "padding-horizontal": {
+            "value": "{cell.board.large.frame.padding-horizontal.md}",
+            "type": "number"
+          }
+        }
+      },
+      "500": {
+        "frame": {
+          "padding-horizontal": {
+            "value": "{cell.board.medium.frame.padding-horizontal.md}",
+            "type": "number"
+          }
+        }
+      }
+    }
+  }
+}
