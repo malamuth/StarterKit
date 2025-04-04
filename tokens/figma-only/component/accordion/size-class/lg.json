@@ -3,7 +3,7 @@
     "board": {
       "medium": {
         "frame": {
-          "padding-horizontal": {
+          "padding-left": {
             "value": "{accordion.board.medium.frame.padding-left.lg}",
             "type": "number"
           }
