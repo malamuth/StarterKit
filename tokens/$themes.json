@@ -206,7 +206,7 @@
       "component/accordion": "enabled",
       "component/badge": "enabled",
       "component/breadcrumbs": "enabled",
-      "shared/selection-control": "enabled",
+      "shared/selection-control": "source",
       "component/chips": "enabled",
       "component/list": "enabled",
       "component/cell": "enabled",
@@ -233,7 +233,8 @@
       "component/chip": "enabled",
       "component/segment": "enabled",
       "shared/control-ghost": "source",
-      "component/tab": "enabled"
+      "component/tab": "enabled",
+      "component/checkbox": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
@@ -817,7 +818,7 @@
       "component/accordion": "enabled",
       "component/badge": "enabled",
       "component/breadcrumbs": "enabled",
-      "shared/selection-control": "enabled",
+      "shared/selection-control": "source",
       "component/chips": "enabled",
       "component/list": "enabled",
       "component/cell": "enabled",
@@ -844,7 +845,8 @@
       "component/chip": "enabled",
       "component/segment": "enabled",
       "component/tab": "enabled",
-      "shared/control-ghost": "source"
+      "shared/control-ghost": "source",
+      "component/checkbox": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
@@ -1428,7 +1430,7 @@
       "component/accordion": "enabled",
       "component/badge": "enabled",
       "component/breadcrumbs": "enabled",
-      "shared/selection-control": "enabled",
+      "shared/selection-control": "source",
       "component/chips": "enabled",
       "component/list": "enabled",
       "component/cell": "enabled",
@@ -1455,7 +1457,8 @@
       "component/chip": "enabled",
       "component/segment": "enabled",
       "shared/control-ghost": "source",
-      "component/tab": "enabled"
+      "component/tab": "enabled",
+      "component/checkbox": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
@@ -2148,7 +2151,7 @@
       "component/accordion": "enabled",
       "component/badge": "enabled",
       "component/breadcrumbs": "enabled",
-      "shared/selection-control": "enabled",
+      "shared/selection-control": "source",
       "component/chips": "enabled",
       "component/list": "enabled",
       "component/cell": "enabled",
@@ -2175,7 +2178,8 @@
       "component/chip": "enabled",
       "component/segment": "enabled",
       "shared/control-ghost": "source",
-      "component/tab": "enabled"
+      "component/tab": "enabled",
+      "component/checkbox": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
