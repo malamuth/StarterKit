@@ -1,0 +1,14 @@
+{
+  "accordion": {
+    "board": {
+      "medium": {
+        "frame": {
+          "padding-horizontal": {
+            "value": "{accordion.board.medium.frame.padding-left.md}",
+            "type": "number"
+          }
+        }
+      }
+    }
+  }
+}
