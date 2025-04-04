@@ -44,6 +44,7 @@
     "component/nav-bar",
     "component/pimple",
     "component/progress-bar",
+    "component/radio",
     "component/rich-icon",
     "component/segment",
     "component/segmented-control",
