@@ -50,7 +50,6 @@
     "component/segmented-control",
     "component/semantic-text",
     "component/separator",
-    "component/skeleton",
     "component/slider",
     "component/switch",
     "component/tabs",
