@@ -3,11 +3,11 @@
     "400": {
       "frame": {
         "margin-top": {
-          "value": "{spacing.100}",
+          "value": "{spacing.200}",
           "type": "number"
         },
         "padding": {
-          "value": "{spacing.100}",
+          "value": "{spacing.200}",
           "type": "number"
         },
         "border-radius": {
