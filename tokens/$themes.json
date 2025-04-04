@@ -241,7 +241,7 @@
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:1",
     "$figmaVariableReferences": {
-      "accordion.board.medium.frame.padding-horizontal": "99b7d73d6d6fd562769b6dc1fbfeeb93a77cc924",
+      "accordion.board.medium.frame.padding-left": "231fcf530c14e3d592a32bebfc97e0c4c9a904f2",
       "cell.board.large.frame.padding-horizontal": "30a92bcc152e0c4b9e12868f968dbedf5e01d165",
       "cell.board.medium.frame.padding-horizontal": "b44cf95180f0d6911db10626692938036d892021",
       "cell.board.small.frame.padding-horizontal": "62efdb2d70555e9ec93da6b2cd7af00210f440a5",
@@ -875,7 +875,7 @@
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:2",
     "$figmaVariableReferences": {
-      "accordion.board.medium.frame.padding-horizontal": "99b7d73d6d6fd562769b6dc1fbfeeb93a77cc924",
+      "accordion.board.medium.frame.padding-left": "231fcf530c14e3d592a32bebfc97e0c4c9a904f2",
       "cell.board.large.frame.padding-horizontal": "30a92bcc152e0c4b9e12868f968dbedf5e01d165",
       "cell.board.medium.frame.padding-horizontal": "b44cf95180f0d6911db10626692938036d892021",
       "cell.board.small.frame.padding-horizontal": "62efdb2d70555e9ec93da6b2cd7af00210f440a5",
@@ -1509,7 +1509,7 @@
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:3",
     "$figmaVariableReferences": {
-      "accordion.board.medium.frame.padding-horizontal": "99b7d73d6d6fd562769b6dc1fbfeeb93a77cc924",
+      "accordion.board.medium.frame.padding-left": "231fcf530c14e3d592a32bebfc97e0c4c9a904f2",
       "cell.board.large.frame.padding-horizontal": "30a92bcc152e0c4b9e12868f968dbedf5e01d165",
       "cell.board.medium.frame.padding-horizontal": "b44cf95180f0d6911db10626692938036d892021",
       "cell.board.small.frame.padding-horizontal": "62efdb2d70555e9ec93da6b2cd7af00210f440a5",
@@ -2252,7 +2252,7 @@
     "$figmaCollectionId": "VariableCollectionId:2:10091",
     "$figmaModeId": "2:4",
     "$figmaVariableReferences": {
-      "accordion.board.medium.frame.padding-horizontal": "99b7d73d6d6fd562769b6dc1fbfeeb93a77cc924",
+      "accordion.board.medium.frame.padding-left": "231fcf530c14e3d592a32bebfc97e0c4c9a904f2",
       "cell.board.large.frame.padding-horizontal": "30a92bcc152e0c4b9e12868f968dbedf5e01d165",
       "cell.board.medium.frame.padding-horizontal": "b44cf95180f0d6911db10626692938036d892021",
       "cell.board.small.frame.padding-horizontal": "62efdb2d70555e9ec93da6b2cd7af00210f440a5",
