@@ -1,13 +1,13 @@
 {
   "switch": {
-    "500": {
+    "600": {
       "frame": {
         "border-radius": {
           "value": "{radius.999}",
           "type": "number"
         },
         "border-width": {
-          "value": "{stroke.200}",
+          "value": "{selection-control.600.frame.border-width}",
           "type": "number"
         },
         "padding": {
