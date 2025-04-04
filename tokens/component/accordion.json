@@ -1,12 +1,17 @@
 {
   "accordion": {
-    "500": {
-      "header": {
-        "gap": {
-          "value": "{spacing.200}",
-          "type": "number"
+    "size": {
+      "500": {
+        "header": {
+          "gap": {
+            "value": "{spacing.200}",
+            "type": "number"
+          }
         }
       }
+    },
+    "board": {
+
     }
   }
 }

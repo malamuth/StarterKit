@@ -55,6 +55,10 @@
     "component/tabs",
     "component/tab-bar",
     "component/tab",
+    "figma-only/component/board/lg",
+    "figma-only/component/board/md",
+    "figma-only/component/board/sm",
+    "figma-only/component/board/xl",
     "figma-only/component/cell/size-class/sm",
     "figma-only/component/cell/size-class/md",
     "figma-only/component/cell/size-class/lg",
@@ -73,10 +77,6 @@
     "figma-only/product/miniapp",
     "figma-only/product/extension",
     "figma-only/skeleton/true",
-    "figma-only/skeleton/false",
-    "figma-only/component/board/lg",
-    "figma-only/component/board/md",
-    "figma-only/component/board/sm",
-    "figma-only/component/board/xl"
+    "figma-only/skeleton/false"
   ]
 }
