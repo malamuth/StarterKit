@@ -2,13 +2,13 @@
   "inline-input": {
     "400": {
       "typography": {
-        "value": "compact.250.default",
+        "value": "{base-component.400.label.style}.{base-component.400.label.size}.default",
         "type": "other"
       }
     },
     "500": {
       "typography": {
-        "value": "compact.350.default",
+        "value": "{base-component.500.label.style}.{base-component.500.label.size}.default",
         "type": "other"
       }
     },
