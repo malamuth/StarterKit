@@ -1,6 +1,14 @@
 {
   "semantic-text": {
     "header-xl": {
+      "padding-top": {
+        "value": "{semantic-text.header-xl.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.header-xl.padding-bottom.xl}",
+        "type": "number"
+      },
       "typography": {
         "font": {
           "value": "{typography.font.{semantic-typography.header-xl.style.xl}}",
@@ -25,6 +33,14 @@
       }
     },
     "header-l": {
+      "padding-top": {
+        "value": "{semantic-text.header-l.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.header-l.padding-bottom.xl}",
+        "type": "number"
+      },
       "typography": {
         "font": {
           "value": "{typography.font.{semantic-typography.header-l.style.xl}}",
@@ -49,6 +65,14 @@
       }
     },
     "header-m": {
+      "padding-top": {
+        "value": "{semantic-text.header-m.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.header-m.padding-bottom.xl}",
+        "type": "number"
+      },
       "typography": {
         "font": {
           "value": "{typography.font.{semantic-typography.header-m.style.xl}}",
@@ -73,6 +97,14 @@
       }
     },
     "header-s": {
+      "padding-top": {
+        "value": "{semantic-text.header-s.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.header-s.padding-bottom.xl}",
+        "type": "number"
+      },
       "typography": {
         "font": {
           "value": "{typography.font.{semantic-typography.header-s.style.xl}}",
@@ -97,6 +129,14 @@
       }
     },
     "header-xs": {
+      "padding-top": {
+        "value": "{semantic-text.header-xs.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.header-xs.padding-bottom.xl}",
+        "type": "number"
+      },
       "typography": {
         "font": {
           "value": "{typography.font.{semantic-typography.header-xs.style.xl}}",
@@ -121,6 +161,14 @@
       }
     },
     "paragraph-l": {
+      "padding-top": {
+        "value": "{semantic-text.paragraph-l.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.paragraph-l.padding-bottom.xl}",
+        "type": "number"
+      },
       "typography": {
         "font": {
           "value": "{typography.font.{semantic-typography.paragraph-l.style.xl}}",
@@ -145,6 +193,14 @@
       }
     },
     "paragraph-m": {
+      "padding-top": {
+        "value": "{semantic-text.paragraph-m.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.paragraph-m.padding-bottom.xl}",
+        "type": "number"
+      },
       "typography": {
         "font": {
           "value": "{typography.font.{semantic-typography.paragraph-m.style.xl}}",
@@ -169,6 +225,14 @@
       }
     },
     "paragraph-s": {
+      "padding-top": {
+        "value": "{semantic-text.paragraph-s.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{semantic-text.paragraph-s.padding-bottom.xl}",
+        "type": "number"
+      },
       "typography": {
         "font": {
           "value": "{typography.font.{semantic-typography.paragraph-s.style.xl}}",
