@@ -1,0 +1,48 @@
+{
+  "nav-bar": {
+    "size": {
+      "500": {
+        "frame": {
+          "min-height": {
+            "value": "{nav-bar.size.500.frame.min-height.md}",
+            "type": "number"
+          },
+          "padding-horizontal": {
+            "value": "{nav-bar.size.500.frame.padding-horizontal.md}",
+            "type": "number"
+          }
+        },
+        "content": {
+          "gap": {
+            "value": "{nav-bar.size.500.content.gap.md}",
+            "type": "number"
+          },
+          "padding-horizontal": {
+            "value": "{nav-bar.size.500.content.padding-horizontal.md}",
+            "type": "number"
+          }
+        },
+        "addon": {
+          "gap": {
+            "value": "{nav-bar.size.500.addon.gap.md}",
+            "type": "number"
+          }
+        }
+      }
+    },
+    "center": {
+      "default": {
+        "gap": {
+          "value": "{nav-bar.center.default.gap.md}",
+          "type": "number"
+        }
+      },
+      "prominent": {
+        "gap": {
+          "value": "{nav-bar.center.prominent.gap.md}",
+          "type": "number"
+        }
+      }
+    }
+  }
+}
