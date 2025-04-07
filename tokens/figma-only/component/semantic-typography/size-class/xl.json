@@ -1,5 +1,5 @@
 {
-  "semantic-text": {
+  "semantic-typography": {
     "header-xl": {
       "typography": {
         "font": {
@@ -188,6 +188,78 @@
         },
         "paragraph-spacing": {
           "value": "{typography.line-height.{semantic-typography.paragraph-s.style.xl}.{semantic-typography.paragraph-s.size.xl}} / 2",
+          "type": "number"
+        }
+      }
+    },
+    "compact-l": {
+      "typography": {
+        "font": {
+          "value": "{typography.font.{semantic-typography.compact-l.style.xl}}",
+          "type": "text"
+        },
+        "font-size": {
+          "value": "{typography.font-size.{semantic-typography.compact-l.size.xl}}",
+          "type": "number"
+        },
+        "line-height": {
+          "value": "{typography.line-height.{semantic-typography.compact-l.style.xl}.{semantic-typography.compact-l.size.xl}}",
+          "type": "number"
+        },
+        "font-weight": {
+          "value": "{semantic-typography.compact-l.style.xl}",
+          "type": "text"
+        },
+        "paragraph-spacing": {
+          "value": "0",
+          "type": "number"
+        }
+      }
+    },
+    "compact-m": {
+      "typography": {
+        "font": {
+          "value": "{typography.font.{semantic-typography.compact-m.style.xl}}",
+          "type": "text"
+        },
+        "font-size": {
+          "value": "{typography.font-size.{semantic-typography.compact-m.size.xl}}",
+          "type": "number"
+        },
+        "line-height": {
+          "value": "{typography.line-height.{semantic-typography.compact-m.style.xl}.{semantic-typography.compact-m.size.xl}}",
+          "type": "number"
+        },
+        "font-weight": {
+          "value": "{semantic-typography.compact-m.style.xl}",
+          "type": "text"
+        },
+        "paragraph-spacing": {
+          "value": "0",
+          "type": "number"
+        }
+      }
+    },
+    "compact-s": {
+      "typography": {
+        "font": {
+          "value": "{typography.font.{semantic-typography.compact-s.style.xl}}",
+          "type": "text"
+        },
+        "font-size": {
+          "value": "{typography.font-size.{semantic-typography.compact-s.size.xl}}",
+          "type": "number"
+        },
+        "line-height": {
+          "value": "{typography.line-height.{semantic-typography.compact-s.style.xl}.{semantic-typography.compact-s.size.xl}}",
+          "type": "number"
+        },
+        "font-weight": {
+          "value": "{semantic-typography.compact-s.style.xl}",
+          "type": "text"
+        },
+        "paragraph-spacing": {
+          "value": "0",
           "type": "number"
         }
       }

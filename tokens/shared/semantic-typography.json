@@ -447,6 +447,174 @@
           "type": "other"
         }
       }
+    },
+    "compact-l": {
+      "style": {
+        "sm": {
+          "value": "compact",
+          "type": "other"
+        },
+        "md": {
+          "value": "compact",
+          "type": "other"
+        },
+        "lg": {
+          "value": "compact",
+          "type": "other"
+        },
+        "xl": {
+          "value": "compact",
+          "type": "other"
+        }
+      },
+      "size": {
+        "sm": {
+          "value": "350",
+          "type": "other"
+        },
+        "md": {
+          "value": "350",
+          "type": "other"
+        },
+        "lg": {
+          "value": "400",
+          "type": "other"
+        },
+        "xl": {
+          "value": "400",
+          "type": "other"
+        }
+      },
+      "category": {
+        "sm": {
+          "value": "default",
+          "type": "other"
+        },
+        "md": {
+          "value": "default",
+          "type": "other"
+        },
+        "lg": {
+          "value": "default",
+          "type": "other"
+        },
+        "xl": {
+          "value": "default",
+          "type": "other"
+        }
+      }
+    },
+    "compact-m": {
+      "style": {
+        "sm": {
+          "value": "compact",
+          "type": "other"
+        },
+        "md": {
+          "value": "compact",
+          "type": "other"
+        },
+        "lg": {
+          "value": "compact",
+          "type": "other"
+        },
+        "xl": {
+          "value": "compact",
+          "type": "other"
+        }
+      },
+      "size": {
+        "sm": {
+          "value": "300",
+          "type": "other"
+        },
+        "md": {
+          "value": "300",
+          "type": "other"
+        },
+        "lg": {
+          "value": "350",
+          "type": "other"
+        },
+        "xl": {
+          "value": "350",
+          "type": "other"
+        }
+      },
+      "category": {
+        "sm": {
+          "value": "default",
+          "type": "other"
+        },
+        "md": {
+          "value": "default",
+          "type": "other"
+        },
+        "lg": {
+          "value": "default",
+          "type": "other"
+        },
+        "xl": {
+          "value": "default",
+          "type": "other"
+        }
+      }
+    },
+    "compact-s": {
+      "style": {
+        "sm": {
+          "value": "compact",
+          "type": "other"
+        },
+        "md": {
+          "value": "compact",
+          "type": "other"
+        },
+        "lg": {
+          "value": "compact",
+          "type": "other"
+        },
+        "xl": {
+          "value": "compact",
+          "type": "other"
+        }
+      },
+      "size": {
+        "sm": {
+          "value": "250",
+          "type": "other"
+        },
+        "md": {
+          "value": "250",
+          "type": "other"
+        },
+        "lg": {
+          "value": "300",
+          "type": "other"
+        },
+        "xl": {
+          "value": "300",
+          "type": "other"
+        }
+      },
+      "category": {
+        "sm": {
+          "value": "default",
+          "type": "other"
+        },
+        "md": {
+          "value": "default",
+          "type": "other"
+        },
+        "lg": {
+          "value": "default",
+          "type": "other"
+        },
+        "xl": {
+          "value": "default",
+          "type": "other"
+        }
+      }
     }
   }
 }

@@ -6,42 +6,76 @@
           "min-height": {
             "value": "{size.450}",
             "type": "number"
+          },
+          "padding-horizontal": {
+            "sm": {
+              "value": "{layout.margin-horizontal.sm}",
+              "type": "number"
+            },
+            "md": {
+              "value": "{layout.margin-horizontal.md}",
+              "type": "number"
+            },
+            "lg": {
+              "value": "{layout.margin-horizontal.lg}",
+              "type": "number"
+            },
+            "xl": {
+              "value": "{layout.margin-horizontal.xl}",
+              "type": "number"
+            }
           }
         },
-        "addon-left": {
-          "padding-left": {
-            "value": "{spacing.100}",
-            "type": "number"
-          },
-          "padding-right": {
-            "value": "{spacing.300}",
-            "type": "number"
-          },
+        "content": {
           "gap": {
-            "value": "{spacing.200}",
+            "value": "{spacing.350}",
             "type": "number"
+          },
+          "padding-horizontal": {
+            "sm": {
+              "value": "{layout.content-compensation.sm}",
+              "type": "number"
+            },
+            "md": {
+              "value": "{layout.content-compensation.md}",
+              "type": "number"
+            },
+            "lg": {
+              "value": "{layout.content-compensation.lg}",
+              "type": "number"
+            },
+            "xl": {
+              "value": "{layout.content-compensation.xl}",
+              "type": "number"
+            }
           }
         },
-        "addon-right": {
-          "padding-left": {
-            "value": "{spacing.300}",
-            "type": "number"
-          },
-          "padding-right": {
-            "value": "{spacing.100}",
-            "type": "number"
-          },
+        "addon": {
           "gap": {
-            "value": "{spacing.200}",
+            "value": "{spacing.300}",
             "type": "number"
           }
         }
       }
     },
-    "content": {
-      "gap": {
-        "value": "{spacing.50}",
-        "type": "number"
+    "center": {
+      "default": {
+        "gap": {
+          "value": "{spacing.50}",
+          "type": "number"
+        },
+        "title": {
+          "typography": {
+            "value": "{semantic-typography.header-xs}",
+            "type": "other"
+          }
+        },
+        "subtitle": {
+          "typography": {
+            "value": "{semantic-typography.compact-s}",
+            "type": "other"
+          }
+        }
       }
     }
   }
