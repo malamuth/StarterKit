@@ -38,24 +38,6 @@
             "type": "number"
           }
         },
-        "padding-bottom": {
-          "sm": {
-            "value": "{spacing.350}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{spacing.550}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{spacing.550}",
-            "type": "number"
-          },
-          "xl": {
-            "value": "{spacing.800}",
-            "type": "number"
-          }
-        },
         "border-radius": {
           "sm": {
             "value": "{radius.600}",
