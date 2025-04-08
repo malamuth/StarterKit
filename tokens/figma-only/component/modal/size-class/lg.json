@@ -3,41 +3,41 @@
     "500": {
       "frame": {
         "margin-vertical": {
-          "value": "{modal.frame.margin-vertical.lg}",
+          "value": "{modal.500.frame.margin-vertical.lg}",
           "type": "number"
         },
         "padding-bottom": {
-          "value": "{modal.frame.padding-bottom.lg}",
+          "value": "{modal.500.frame.padding-bottom.lg}",
           "type": "number"
         },
         "border-radius": {
-          "value": "{modal.frame.border-radius.lg}",
+          "value": "{modal.500.frame.border-radius.lg}",
           "type": "number"
         }
       },
       "header": {
         "padding-vertical": {
-          "value": "{modal.header.padding-vertical.lg}",
+          "value": "{modal.500.header.padding-vertical.lg}",
           "type": "number"
         }
       },
       "content": {
         "padding-top": {
-          "value": "{modal.content.padding-top.lg}",
+          "value": "{modal.500.content.padding-top.lg}",
           "type": "number"
         },
         "padding-bottom": {
-          "value": "{modal.content.padding-bottom.lg}",
+          "value": "{modal.500.content.padding-bottom.lg}",
           "type": "number"
         },
         "OFFSET": {
-          "value": "{nav-bar.size.500.frame.min-height.lg} + {modal.header.padding-vertical.lg} + {modal.header.padding-vertical.lg}",
+          "value": "{nav-bar.size.500.frame.min-height.lg} + {modal.500.header.padding-vertical.lg} + {modal.500.header.padding-vertical.lg}",
           "type": "number"
         }
       },
       "footer": {
         "padding-bottom": {
-          "value": "{modal.footer.padding-bottom.lg}",
+          "value": "{modal.500.footer.padding-bottom.lg}",
           "type": "number"
         }
       }
