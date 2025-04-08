@@ -9,10 +9,6 @@
         "border-width": {
           "value": "{selection-control.400.frame.border-width}",
           "type": "number"
-        },
-        "border-radius": {
-          "value": "{radius.999}",
-          "type": "number"
         }
       },
       "icon": {
@@ -31,10 +27,6 @@
         "border-width": {
           "value": "{selection-control.500.frame.border-width}",
           "type": "number"
-        },
-        "border-radius": {
-          "value": "{radius.999}",
-          "type": "number"
         }
       },
       "icon": {
@@ -52,10 +44,6 @@
         },
         "border-width": {
           "value": "{selection-control.600.frame.border-width}",
-          "type": "number"
-        },
-        "border-radius": {
-          "value": "{radius.999}",
           "type": "number"
         }
       },
