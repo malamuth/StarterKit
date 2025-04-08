@@ -1,136 +1,138 @@
 {
   "modal": {
-    "frame": {
-      "margin-vertical": {
-        "sm": {
-          "value": "{spacing.350}",
-          "type": "number"
+    "500": {
+      "frame": {
+        "margin-vertical": {
+          "sm": {
+            "value": "{spacing.350}",
+            "type": "number"
+          },
+          "md": {
+            "value": "{spacing.550}",
+            "type": "number"
+          },
+          "lg": {
+            "value": "{spacing.550}",
+            "type": "number"
+          },
+          "xl": {
+            "value": "{spacing.800}",
+            "type": "number"
+          }
         },
-        "md": {
-          "value": "{spacing.550}",
-          "type": "number"
+        "padding-bottom": {
+          "sm": {
+            "value": "{spacing.350}",
+            "type": "number"
+          },
+          "md": {
+            "value": "{spacing.550}",
+            "type": "number"
+          },
+          "lg": {
+            "value": "{spacing.550}",
+            "type": "number"
+          },
+          "xl": {
+            "value": "{spacing.800}",
+            "type": "number"
+          }
         },
-        "lg": {
-          "value": "{spacing.550}",
-          "type": "number"
-        },
-        "xl": {
-          "value": "{spacing.800}",
-          "type": "number"
+        "border-radius": {
+          "sm": {
+            "value": "{radius.600}",
+            "type": "number"
+          },
+          "md": {
+            "value": "{radius.600}",
+            "type": "number"
+          },
+          "lg": {
+            "value": "{radius.700}",
+            "type": "number"
+          },
+          "xl": {
+            "value": "{radius.700}",
+            "type": "number"
+          }
         }
       },
-      "padding-bottom": {
-        "sm": {
-          "value": "{spacing.350}",
-          "type": "number"
-        },
-        "md": {
-          "value": "{spacing.550}",
-          "type": "number"
-        },
-        "lg": {
-          "value": "{spacing.550}",
-          "type": "number"
-        },
-        "xl": {
-          "value": "{spacing.800}",
-          "type": "number"
+      "header": {
+        "padding-vertical": {
+          "sm": {
+            "value": "{spacing.300}",
+            "type": "number"
+          },
+          "md": {
+            "value": "{spacing.300}",
+            "type": "number"
+          },
+          "lg": {
+            "value": "{spacing.300}",
+            "type": "number"
+          },
+          "xl": {
+            "value": "{spacing.300}",
+            "type": "number"
+          }
         }
       },
-      "border-radius": {
-        "sm": {
-          "value": "{radius.600}",
-          "type": "number"
+      "content": {
+        "padding-top": {
+          "sm": {
+            "value": "{spacing.100}",
+            "type": "number"
+          },
+          "md": {
+            "value": "{spacing.100}",
+            "type": "number"
+          },
+          "lg": {
+            "value": "{spacing.200}",
+            "type": "number"
+          },
+          "xl": {
+            "value": "{spacing.300}",
+            "type": "number"
+          }
         },
-        "md": {
-          "value": "{radius.600}",
-          "type": "number"
-        },
-        "lg": {
-          "value": "{radius.700}",
-          "type": "number"
-        },
-        "xl": {
-          "value": "{radius.700}",
-          "type": "number"
-        }
-      }
-    },
-    "header": {
-      "padding-vertical": {
-        "sm": {
-          "value": "{spacing.300}",
-          "type": "number"
-        },
-        "md": {
-          "value": "{spacing.300}",
-          "type": "number"
-        },
-        "lg": {
-          "value": "{spacing.300}",
-          "type": "number"
-        },
-        "xl": {
-          "value": "{spacing.300}",
-          "type": "number"
-        }
-      }
-    },
-    "content": {
-      "padding-top": {
-        "sm": {
-          "value": "{spacing.100}",
-          "type": "number"
-        },
-        "md": {
-          "value": "{spacing.100}",
-          "type": "number"
-        },
-        "lg": {
-          "value": "{spacing.200}",
-          "type": "number"
-        },
-        "xl": {
-          "value": "{spacing.300}",
-          "type": "number"
+        "padding-bottom": {
+          "sm": {
+            "value": "{spacing.350}",
+            "type": "number"
+          },
+          "md": {
+            "value": "{spacing.350}",
+            "type": "number"
+          },
+          "lg": {
+            "value": "{spacing.450}",
+            "type": "number"
+          },
+          "xl": {
+            "value": "{spacing.550}",
+            "type": "number"
+          }
         }
       },
-      "padding-bottom": {
-        "sm": {
-          "value": "{spacing.350}",
-          "type": "number"
-        },
-        "md": {
-          "value": "{spacing.350}",
-          "type": "number"
-        },
-        "lg": {
-          "value": "{spacing.450}",
-          "type": "number"
-        },
-        "xl": {
-          "value": "{spacing.550}",
-          "type": "number"
-        }
-      }
-    },
-    "footer": {
-      "padding-bottom": {
-        "sm": {
-          "value": "{layout.margin-horizontal.sm}",
-          "type": "number"
-        },
-        "md": {
-          "value": "{layout.margin-horizontal.md}",
-          "type": "number"
-        },
-        "lg": {
-          "value": "{layout.margin-horizontal.lg}",
-          "type": "number"
-        },
-        "xl": {
-          "value": "{layout.margin-horizontal.xl}",
-          "type": "number"
+      "footer": {
+        "padding-bottom": {
+          "sm": {
+            "value": "{layout.margin-horizontal.sm}",
+            "type": "number"
+          },
+          "md": {
+            "value": "{layout.margin-horizontal.md}",
+            "type": "number"
+          },
+          "lg": {
+            "value": "{layout.margin-horizontal.lg}",
+            "type": "number"
+          },
+          "xl": {
+            "value": "{layout.margin-horizontal.xl}",
+            "type": "number"
+          }
         }
       }
     }
