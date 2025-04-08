@@ -1,0 +1,44 @@
+{
+  "modal": {
+    "frame": {
+      "margin-vertical": {
+        "value": "{modal.frame.margin-vertical.md}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{modal.frame.padding-bottom.md}",
+        "type": "number"
+      },
+      "border-radius": {
+        "value": "{modal.frame.border-radius.md}",
+        "type": "number"
+      }
+    },
+    "header": {
+      "padding-vertical": {
+        "value": "{modal.header.padding-vertical.md}",
+        "type": "number"
+      }
+    },
+    "content": {
+      "padding-top": {
+        "value": "{modal.content.padding-top.md}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{modal.content.padding-bottom.md}",
+        "type": "number"
+      },
+      "OFFSET": {
+        "value": "{nav-bar.size.500.frame.min-height.md} + {modal.header.padding-vertical.md} + {modal.header.padding-vertical.md}",
+        "type": "number"
+      }
+    },
+    "footer": {
+      "padding-bottom": {
+        "value": "{modal.footer.padding-bottom.md}",
+        "type": "number"
+      }
+    }
+  }
+}
