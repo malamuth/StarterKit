@@ -6,6 +6,10 @@
           "value": "{modal.500.frame.margin-vertical.xl}",
           "type": "number"
         },
+        "margin-horizontal": {
+          "value": "{modal.500.frame.margin-horizontal.xl}",
+          "type": "number"
+        },
         "padding-bottom": {
           "value": "{modal.500.frame.padding-bottom.xl}",
           "type": "number"

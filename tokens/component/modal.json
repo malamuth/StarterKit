@@ -20,6 +20,24 @@
             "type": "number"
           }
         },
+        "margin-horizontal": {
+          "sm": {
+            "value": "{layout.margin-horizontal.sm}",
+            "type": "number"
+          },
+          "md": {
+            "value": "{layout.margin-horizontal.md}",
+            "type": "number"
+          },
+          "lg": {
+            "value": "{layout.margin-horizontal.lg}",
+            "type": "number"
+          },
+          "xl": {
+            "value": "{layout.margin-horizontal.xl}",
+            "type": "number"
+          }
+        },
         "padding-bottom": {
           "sm": {
             "value": "{spacing.350}",
