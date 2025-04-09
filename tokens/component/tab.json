@@ -23,12 +23,6 @@
           "type": "other"
         }
       },
-      "slot": {
-        "padding-left": {
-          "value": "{control-ghost.300.slot-right.padding-left}",
-          "type": "number"
-        }
-      },
       "line": {
         "height": {
           "value": "{size.20}",
@@ -73,12 +67,6 @@
         "typography": {
           "value": "{base-component.400.label.style}.{base-component.400.label.size}.accent",
           "type": "other"
-        }
-      },
-      "slot": {
-        "padding-left": {
-          "value": "{control-ghost.400.slot-right.padding-left}",
-          "type": "number"
         }
       },
       "line": {
@@ -127,12 +115,6 @@
           "type": "other"
         }
       },
-      "slot": {
-        "padding-left": {
-          "value": "{control-ghost.500.slot-right.padding-left}",
-          "type": "number"
-        }
-      },
       "line": {
         "height": {
           "value": "{size.20}",
@@ -179,12 +161,6 @@
           "type": "other"
         }
       },
-      "slot": {
-        "padding-left": {
-          "value": "{control-ghost.600.slot-right.padding-left}",
-          "type": "number"
-        }
-      },
       "line": {
         "height": {
           "value": "{size.20}",
@@ -229,12 +205,6 @@
         "typography": {
           "value": "{base-component.700.label.style}.{base-component.700.label.size}.accent",
           "type": "other"
-        }
-      },
-      "slot": {
-        "padding-left": {
-          "value": "{control-ghost.700.slot-right.padding-left}",
-          "type": "number"
         }
       },
       "line": {

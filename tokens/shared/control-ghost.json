@@ -6,24 +6,12 @@
           "value": "{spacing.0}",
           "type": "number"
         }
-      },
-      "slot-right": {
-        "padding-left": {
-          "value": "{spacing.50}",
-          "type": "number"
-        }
       }
     },
     "200": {
       "frame": {
         "gap": {
           "value": "{spacing.0}",
-          "type": "number"
-        }
-      },
-      "slot-right": {
-        "padding-left": {
-          "value": "{spacing.50}",
           "type": "number"
         }
       }
@@ -34,24 +22,12 @@
           "value": "{spacing.0}",
           "type": "number"
         }
-      },
-      "slot-right": {
-        "padding-left": {
-          "value": "{spacing.50}",
-          "type": "number"
-        }
       }
     },
     "400": {
       "frame": {
         "gap": {
           "value": "{spacing.0}",
-          "type": "number"
-        }
-      },
-      "slot-right": {
-        "padding-left": {
-          "value": "{spacing.50}",
           "type": "number"
         }
       }
@@ -62,24 +38,12 @@
           "value": "{spacing.0}",
           "type": "number"
         }
-      },
-      "slot-right": {
-        "padding-left": {
-          "value": "{spacing.100}",
-          "type": "number"
-        }
       }
     },
     "600": {
       "frame": {
         "gap": {
           "value": "{spacing.50}",
-          "type": "number"
-        }
-      },
-      "slot-right": {
-        "padding-left": {
-          "value": "{spacing.100}",
           "type": "number"
         }
       }
@@ -90,12 +54,6 @@
           "value": "{spacing.50}",
           "type": "number"
         }
-      },
-      "slot-right": {
-        "padding-left": {
-          "value": "{spacing.100}",
-          "type": "number"
-        }
       }
     },
     "800": {
@@ -104,24 +62,12 @@
           "value": "{spacing.50}",
           "type": "number"
         }
-      },
-      "slot-right": {
-        "padding-left": {
-          "value": "{spacing.100}",
-          "type": "number"
-        }
       }
     },
     "900": {
       "frame": {
         "gap": {
           "value": "{spacing.50}",
-          "type": "number"
-        }
-      },
-      "slot-right": {
-        "padding-left": {
-          "value": "{spacing.100}",
           "type": "number"
         }
       }
