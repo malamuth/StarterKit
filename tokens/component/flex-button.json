@@ -11,12 +11,6 @@
           "type": "number"
         }
       },
-      "slot": {
-        "padding-left": {
-          "value": "{control-ghost.300.slot-right.padding-left}",
-          "type": "number"
-        }
-      },
       "label": {
         "typography": {
           "value": "{base-component.300.label.style}.{base-component.300.label.size}.accent",
@@ -38,12 +32,6 @@
         },
         "min-height": {
           "value": "{size.150}",
-          "type": "number"
-        }
-      },
-      "slot": {
-        "padding-left": {
-          "value": "{control-ghost.400.slot-right.padding-left}",
           "type": "number"
         }
       },
@@ -71,12 +59,6 @@
           "type": "number"
         }
       },
-      "slot": {
-        "padding-left": {
-          "value": "{control-ghost.500.slot-right.padding-left}",
-          "type": "number"
-        }
-      },
       "label": {
         "typography": {
           "value": "{base-component.500.label.style}.{base-component.500.label.size}.accent",
@@ -98,12 +80,6 @@
         },
         "min-height": {
           "value": "{size.200}",
-          "type": "number"
-        }
-      },
-      "slot": {
-        "padding-left": {
-          "value": "{control-ghost.600.slot-right.padding-left}",
           "type": "number"
         }
       },
