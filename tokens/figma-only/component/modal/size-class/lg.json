@@ -10,10 +10,6 @@
           "value": "{modal.500.frame.margin-horizontal.lg}",
           "type": "number"
         },
-        "padding-bottom": {
-          "value": "{modal.500.frame.padding-bottom.lg}",
-          "type": "number"
-        },
         "border-radius": {
           "value": "{modal.500.frame.border-radius.lg}",
           "type": "number"
