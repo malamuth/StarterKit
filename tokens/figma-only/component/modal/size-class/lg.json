@@ -20,8 +20,8 @@
         }
       },
       "header": {
-        "padding-vertical": {
-          "value": "{modal.500.header.padding-vertical.lg}",
+        "padding-top": {
+          "value": "{modal.500.header.padding-top.lg}",
           "type": "number"
         }
       },
@@ -35,7 +35,7 @@
           "type": "number"
         },
         "OFFSET": {
-          "value": "{nav-bar.size.500.frame.min-height.lg} + {modal.500.header.padding-vertical.lg} + {modal.500.header.padding-vertical.lg}",
+          "value": "{nav-bar.size.500.frame.min-height.lg} + {modal.500.header.padding-top.lg}",
           "type": "number"
         }
       },
