@@ -3,52 +3,72 @@
     "size-class": {
       "value": "{size-class.name.sm}",
       "type": "text",
-      "description": "figma-only"
+      "description": "Current size class name (sm)"
     },
     "min-width": {
       "value": "{size-class.min-width.sm}",
       "type": "text",
-      "description": "figma-only"
+      "description": "Minimum viewport width for small size class"
     },
     "max-width": {
       "value": "{size-class.max-width.sm}",
       "type": "text",
-      "description": "figma-only"
+      "description": "Maximum viewport width for small size class"
     },
     "width": {
       "value": "{product.width.sm}",
       "type": "number",
-      "description": "figma-only"
+      "description": "Product width for small size class"
     },
     "height": {
       "value": "{product.height.sm}",
       "type": "number",
-      "description": "figma-only"
+      "description": "Product height for small size class"
     },
     "col-number": {
       "value": "{layout.col-number.sm}",
-      "type": "number"
+      "type": "number",
+      "description": "Number of columns in the grid"
     },
     "col-width": {
       "value": "{layout.col-width.sm}",
-      "type": "number"
+      "type": "number",
+      "description": "Width of each column in the grid"
     },
     "gutter": {
       "value": "{layout.gutter.sm}",
-      "type": "number"
+      "type": "number",
+      "description": "Space between columns in the grid"
     },
     "margin-horizontal": {
       "value": "{layout.margin-horizontal.sm}",
-      "type": "number"
+      "type": "number",
+      "description": "Horizontal margin on both sides of the layout"
     },
     "content-compensation": {
       "value": "{layout.content-compensation.sm}",
-      "type": "number"
+      "type": "number",
+      "description": "Compensation value for content alignment"
     },
     "IGNORE MARGIN HORIZONTAL": {
       "value": "-{main-layout.margin-horizontal}",
       "type": "number",
-      "description": "figma-only"
+      "description": "Negative margin value for full-width containers"
+    },
+    "LESS THEN MD": {
+      "value": "true",
+      "type": "boolean",
+      "description": "Visible only on screens smaller than MD breakpoint"
+    },
+    "LESS THEN LG": {
+      "value": "true",
+      "type": "boolean",
+      "description": "Visible only on screens smaller than LG breakpoint"
+    },
+    "LESS THEN XL": {
+      "value": "true",
+      "type": "boolean",
+      "description": "Visible only on screens smaller than XL breakpoint"
     }
   }
 }

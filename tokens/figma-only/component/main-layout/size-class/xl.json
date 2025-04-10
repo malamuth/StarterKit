@@ -3,52 +3,72 @@
     "size-class": {
       "value": "{size-class.name.xl}",
       "type": "text",
-      "description": "figma-only"
+      "description": "Current size class name (xl)"
     },
     "min-width": {
       "value": "{size-class.min-width.xl}",
       "type": "text",
-      "description": "figma-only"
+      "description": "Minimum viewport width for extra large size class"
     },
     "max-width": {
       "value": "{size-class.max-width.xl}",
       "type": "text",
-      "description": "figma-only"
+      "description": "Maximum viewport width for extra large size class"
     },
     "width": {
       "value": "{product.width.xl}",
       "type": "number",
-      "description": "figma-only"
+      "description": "Product width for extra large size class"
     },
     "height": {
       "value": "{product.height.xl}",
       "type": "number",
-      "description": "figma-only"
+      "description": "Product height for extra large size class"
     },
     "col-number": {
       "value": "{layout.col-number.xl}",
-      "type": "number"
+      "type": "number",
+      "description": "Number of columns in the grid"
     },
     "col-width": {
       "value": "{layout.col-width.xl}",
-      "type": "number"
+      "type": "number",
+      "description": "Width of each column in the grid"
     },
     "gutter": {
       "value": "{layout.gutter.xl}",
-      "type": "number"
+      "type": "number",
+      "description": "Space between columns in the grid"
     },
     "margin-horizontal": {
       "value": "{layout.margin-horizontal.xl}",
-      "type": "number"
+      "type": "number",
+      "description": "Horizontal margin on both sides of the layout"
     },
     "content-compensation": {
       "value": "{layout.content-compensation.xl}",
-      "type": "number"
+      "type": "number",
+      "description": "Compensation value for content alignment"
     },
     "IGNORE MARGIN HORIZONTAL": {
       "value": "-{main-layout.margin-horizontal}",
       "type": "number",
-      "description": "figma-only"
+      "description": "Negative margin value for full-width containers"
+    },
+    "LESS THEN MD": {
+      "value": "false",
+      "type": "boolean",
+      "description": "Visible only on screens smaller than MD breakpoint"
+    },
+    "LESS THEN LG": {
+      "value": "false",
+      "type": "boolean",
+      "description": "Visible only on screens smaller than LG breakpoint"
+    },
+    "LESS THEN XL": {
+      "value": "false",
+      "type": "boolean",
+      "description": "Visible only on screens smaller than XL breakpoint"
     }
   }
 }
