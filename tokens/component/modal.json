@@ -58,7 +58,7 @@
         }
       },
       "header": {
-        "padding-vertical": {
+        "padding-top": {
           "sm": {
             "value": "{spacing.300}",
             "type": "number"
