@@ -68,11 +68,11 @@
             "type": "number"
           },
           "lg": {
-            "value": "{spacing.300}",
+            "value": "{spacing.450}",
             "type": "number"
           },
           "xl": {
-            "value": "{spacing.300}",
+            "value": "{spacing.450}",
             "type": "number"
           }
         }
