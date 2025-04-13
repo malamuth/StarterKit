@@ -20,7 +20,7 @@
       "small": {
         "frame": {
           "padding-horizontal": {
-            "value": "{cell.board.lgall.frame.padding-horizontal.lg}",
+            "value": "{cell.board.small.frame.padding-horizontal.lg}",
             "type": "number"
           }
         }

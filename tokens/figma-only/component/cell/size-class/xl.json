@@ -20,7 +20,7 @@
       "small": {
         "frame": {
           "padding-horizontal": {
-            "value": "{cell.board.xlall.frame.padding-horizontal.xl}",
+            "value": "{cell.board.small.frame.padding-horizontal.xl}",
             "type": "number"
           }
         }

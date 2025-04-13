@@ -7,44 +7,44 @@
     },
     "width": {
       "sm": {
-        "value": "{media.width.sm}",
+        "value": "{size-class.width.sm}",
         "type": "number",
         "description": "figma-only"
       },
       "md": {
-        "value": "{media.width.md}",
+        "value": "{size-class.width.md}",
         "type": "number",
         "description": "figma-only"
       },
       "lg": {
-        "value": "{media.width.lg}",
+        "value": "{size-class.width.lg}",
         "type": "number",
         "description": "figma-only"
       },
       "xl": {
-        "value": "{media.width.xl}",
+        "value": "{size-class.width.xl}",
         "type": "number",
         "description": "figma-only"
       }
     },
     "height": {
       "sm": {
-        "value": "{media.height.sm}",
+        "value": "{size-class.height.sm}",
         "type": "number",
         "description": "figma-only"
       },
       "md": {
-        "value": "{media.height.md}",
+        "value": "{size-class.height.md}",
         "type": "number",
         "description": "figma-only"
       },
       "lg": {
-        "value": "{media.height.lg}",
+        "value": "{size-class.height.lg}",
         "type": "number",
         "description": "figma-only"
       },
       "xl": {
-        "value": "{media.height.xl}",
+        "value": "{size-class.height.xl}",
         "type": "number",
         "description": "figma-only"
       }
