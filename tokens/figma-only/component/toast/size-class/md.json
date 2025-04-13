@@ -1,0 +1,64 @@
+{
+  "toast": {
+    "500": {
+      "frame": {
+        "margin-horizontal": {
+          "value": "{toast.500.frame.margin-horizontal.md}",
+          "type": "number"
+        },
+        "margin-top": {
+          "value": "{toast.500.frame.margin-top.md}",
+          "type": "number"
+        },
+        "border-radius": {
+          "value": "{toast.500.frame.border-radius}",
+          "type": "number"
+        },
+        "padding-top": {
+          "value": "{toast.500.frame.padding-top}",
+          "type": "number"
+        },
+        "padding-bottom": {
+          "value": "{toast.500.frame.padding-bottom}",
+          "type": "number"
+        },
+        "padding-right": {
+          "value": "{toast.500.frame.padding-right}",
+          "type": "number"
+        },
+        "padding-left": {
+          "value": "{toast.500.frame.padding-left}",
+          "type": "number"
+        }
+      },
+      "cell": {
+        "frame": {
+          "gap": {
+            "value": "{toast.500.cell.frame.gap}",
+            "type": "number"
+          },
+          "padding-vertical": {
+            "value": "{toast.500.cell.frame.padding-vertical}",
+            "type": "number"
+          }
+        },
+        "content": {
+          "min-height": {
+            "value": "{toast.500.cell.content.min-height}",
+            "type": "number"
+          },
+          "padding-vertical": {
+            "value": "{toast.500.cell.content.padding-vertical}",
+            "type": "number"
+          }
+        },
+        "slot": {
+          "min-height": {
+            "value": "{toast.500.cell.slot.min-height}",
+            "type": "number"
+          }
+        }
+      }
+    }
+  }
+}
