@@ -54,6 +54,36 @@
       "value": "-{main-layout.margin-horizontal}",
       "type": "number",
       "description": "figma-only"
+    },
+    "LESS THEN MD": {
+      "value": "false",
+      "type": "boolean",
+      "description": "Visible only on screens smaller than MD breakpoint"
+    },
+    "LESS THEN LG": {
+      "value": "false",
+      "type": "boolean",
+      "description": "Visible only on screens smaller than LG breakpoint"
+    },
+    "LESS THEN XL": {
+      "value": "true",
+      "type": "boolean",
+      "description": "Visible only on screens smaller than XL breakpoint"
+    },
+    "GREATER THEN SM": {
+      "value": "true",
+      "type": "boolean",
+      "description": "Visible only on screens larger than SM breakpoint"
+    },
+    "GREATER THEN MD": {
+      "value": "true",
+      "type": "boolean",
+      "description": "Visible only on screens larger than MD breakpoint"
+    },
+    "GREATER THEN LG": {
+      "value": "false",
+      "type": "boolean",
+      "description": "Visible only on screens larger than LG breakpoint"
     }
   }
 }
