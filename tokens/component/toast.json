@@ -64,10 +64,6 @@
           "gap": {
             "value": "{spacing.250}",
             "type": "number"
-          },
-          "padding-vertical": {
-            "value": "{spacing.150}",
-            "type": "number"
           }
         },
         "content": {
