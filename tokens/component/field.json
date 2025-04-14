@@ -7,7 +7,7 @@
           "type": "number"
         }
       },
-      "label": {
+      "row": {
         "gap": {
           "value": "{spacing.200}",
           "type": "number"
@@ -15,10 +15,6 @@
         "padding-horizontal": {
           "value": "{spacing.350}",
           "type": "number"
-        },
-        "typography": {
-          "value": "compact.250.default",
-          "type": "other"
         }
       },
       "inputs": {
@@ -27,15 +23,13 @@
           "type": "number"
         }
       },
+      "label": {
+        "typography": {
+          "value": "compact.250.default",
+          "type": "other"
+        }
+      },
       "hint": {
-        "gap": {
-          "value": "{spacing.200}",
-          "type": "number"
-        },
-        "padding-horizontal": {
-          "value": "{spacing.350}",
-          "type": "number"
-        },
         "typography": {
           "value": "compact.250.default",
           "type": "other"
@@ -49,7 +43,7 @@
           "type": "number"
         }
       },
-      "label": {
+      "row": {
         "gap": {
           "value": "{spacing.200}",
           "type": "number"
@@ -57,10 +51,6 @@
         "padding-horizontal": {
           "value": "{spacing.350}",
           "type": "number"
-        },
-        "typography": {
-          "value": "compact.250.default",
-          "type": "other"
         }
       },
       "inputs": {
@@ -69,15 +59,13 @@
           "type": "number"
         }
       },
+      "label": {
+        "typography": {
+          "value": "compact.250.default",
+          "type": "other"
+        }
+      },
       "hint": {
-        "gap": {
-          "value": "{spacing.200}",
-          "type": "number"
-        },
-        "padding-horizontal": {
-          "value": "{spacing.350}",
-          "type": "number"
-        },
         "typography": {
           "value": "compact.250.default",
           "type": "other"
@@ -91,7 +79,7 @@
           "type": "number"
         }
       },
-      "label": {
+      "row": {
         "gap": {
           "value": "{spacing.200}",
           "type": "number"
@@ -99,10 +87,6 @@
         "padding-horizontal": {
           "value": "{spacing.350}",
           "type": "number"
-        },
-        "typography": {
-          "value": "compact.250.default",
-          "type": "other"
         }
       },
       "inputs": {
@@ -111,15 +95,13 @@
           "type": "number"
         }
       },
+      "label": {
+        "typography": {
+          "value": "compact.250.default",
+          "type": "other"
+        }
+      },
       "hint": {
-        "gap": {
-          "value": "{spacing.200}",
-          "type": "number"
-        },
-        "padding-horizontal": {
-          "value": "{spacing.350}",
-          "type": "number"
-        },
         "typography": {
           "value": "compact.250.default",
           "type": "other"
