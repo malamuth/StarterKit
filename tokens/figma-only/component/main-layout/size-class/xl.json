@@ -16,12 +16,12 @@
       "description": "Maximum viewport width for extra large size class"
     },
     "width": {
-      "value": "{product.width.xl}",
+      "value": "{size-class.width.xl}",
       "type": "number",
       "description": "Product width for extra large size class"
     },
     "height": {
-      "value": "{product.height.xl}",
+      "value": "{size-class.height.xl}",
       "type": "number",
       "description": "Product height for extra large size class"
     },

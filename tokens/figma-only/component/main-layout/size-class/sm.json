@@ -16,12 +16,12 @@
       "description": "Maximum viewport width for small size class"
     },
     "width": {
-      "value": "{product.width.sm}",
+      "value": "{size-class.width.sm}",
       "type": "number",
       "description": "Product width for small size class"
     },
     "height": {
-      "value": "{product.height.sm}",
+      "value": "{size-class.height.sm}",
       "type": "number",
       "description": "Product height for small size class"
     },

@@ -16,12 +16,12 @@
       "description": "Maximum viewport width for medium size class"
     },
     "width": {
-      "value": "{product.width.md}",
+      "value": "{size-class.width.md}",
       "type": "number",
       "description": "Product width for medium size class"
     },
     "height": {
-      "value": "{product.height.md}",
+      "value": "{size-class.height.md}",
       "type": "number",
       "description": "Product height for medium size class"
     },

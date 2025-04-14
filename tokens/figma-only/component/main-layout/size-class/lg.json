@@ -16,12 +16,12 @@
       "description": "Maximum viewport width for large size class"
     },
     "width": {
-      "value": "{product.width.lg}",
+      "value": "{size-class.width.lg}",
       "type": "number",
       "description": "Product width for large size class"
     },
     "height": {
-      "value": "{product.height.lg}",
+      "value": "{size-class.height.lg}",
       "type": "number",
       "description": "Product height for large size class"
     },
