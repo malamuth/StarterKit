@@ -122,14 +122,42 @@
         },
         "title": {
           "typography": {
-            "value": "{semantic-typography.header-xs}",
-            "type": "other"
+            "sm": {
+              "value": "{semantic-typography.header-xs.style.sm}.{semantic-typography.header-xs.size.sm}.{semantic-typography.header-xs.category.sm}",
+              "type": "other"
+            },
+            "md": {
+              "value": "{semantic-typography.header-xs.style.md}.{semantic-typography.header-xs.size.md}.{semantic-typography.header-xs.category.md}",
+              "type": "other"
+            },
+            "lg": {
+              "value": "{semantic-typography.header-xs.style.lg}.{semantic-typography.header-xs.size.lg}.{semantic-typography.header-xs.category.lg}",
+              "type": "other"
+            },
+            "xl": {
+              "value": "{semantic-typography.header-xs.style.xl}.{semantic-typography.header-xs.size.xl}.{semantic-typography.header-xs.category.xl}",
+              "type": "other"
+            }
           }
         },
         "subtitle": {
           "typography": {
-            "value": "{semantic-typography.compact-s}",
-            "type": "other"
+            "sm": {
+              "value": "{semantic-typography.compact-s.style.sm}.{semantic-typography.compact-s.size.sm}.{semantic-typography.compact-s.category.sm}",
+              "type": "other"
+            },
+            "md": {
+              "value": "{semantic-typography.compact-s.style.md}.{semantic-typography.compact-s.size.md}.{semantic-typography.compact-s.category.md}",
+              "type": "other"
+            },
+            "lg": {
+              "value": "{semantic-typography.compact-s.style.lg}.{semantic-typography.compact-s.size.lg}.{semantic-typography.compact-s.category.lg}",
+              "type": "other"
+            },
+            "xl": {
+              "value": "{semantic-typography.compact-s.style.xl}.{semantic-typography.compact-s.size.xl}.{semantic-typography.compact-s.category.xl}",
+              "type": "other"
+            }
           }
         }
       },
@@ -154,14 +182,42 @@
         },
         "title": {
           "typography": {
-            "value": "{semantic-typography.header-xs}",
-            "type": "other"
+            "sm": {
+              "value": "{semantic-typography.header-xs.style.sm}.{semantic-typography.header-xs.size.sm}.{semantic-typography.header-xs.category.sm}",
+              "type": "other"
+            },
+            "md": {
+              "value": "{semantic-typography.header-xs.style.md}.{semantic-typography.header-xs.size.md}.{semantic-typography.header-xs.category.md}",
+              "type": "other"
+            },
+            "lg": {
+              "value": "{semantic-typography.header-xs.style.lg}.{semantic-typography.header-xs.size.lg}.{semantic-typography.header-xs.category.lg}",
+              "type": "other"
+            },
+            "xl": {
+              "value": "{semantic-typography.header-xs.style.xl}.{semantic-typography.header-xs.size.xl}.{semantic-typography.header-xs.category.xl}",
+              "type": "other"
+            }
           }
         },
         "subtitle": {
           "typography": {
-            "value": "{semantic-typography.compact-s}",
-            "type": "other"
+            "sm": {
+              "value": "{semantic-typography.compact-s.style.sm}.{semantic-typography.compact-s.size.sm}.{semantic-typography.compact-s.category.sm}",
+              "type": "other"
+            },
+            "md": {
+              "value": "{semantic-typography.compact-s.style.md}.{semantic-typography.compact-s.size.md}.{semantic-typography.compact-s.category.md}",
+              "type": "other"
+            },
+            "lg": {
+              "value": "{semantic-typography.compact-s.style.lg}.{semantic-typography.compact-s.size.lg}.{semantic-typography.compact-s.category.lg}",
+              "type": "other"
+            },
+            "xl": {
+              "value": "{semantic-typography.compact-s.style.xl}.{semantic-typography.compact-s.size.xl}.{semantic-typography.compact-s.category.xl}",
+              "type": "other"
+            }
           }
         }
       }
