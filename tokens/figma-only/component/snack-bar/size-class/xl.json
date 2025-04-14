@@ -1,0 +1,16 @@
+{
+  "snack-bar": {
+    "500": {
+      "frame": {
+        "margin-horizontal": {
+          "value": "{snack-bar.500.frame.margin-horizontal.xl}",
+          "type": "number"
+        },
+        "margin-top": {
+          "value": "{snack-bar.500.frame.margin-top.xl}",
+          "type": "number"
+        }
+      }
+    }
+  }
+}
