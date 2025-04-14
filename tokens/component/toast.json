@@ -57,30 +57,10 @@
         "padding-left": {
           "value": "{spacing.100}",
           "type": "number"
-        }
-      },
-      "cell": {
-        "frame": {
-          "gap": {
-            "value": "{spacing.250}",
-            "type": "number"
-          }
         },
-        "content": {
-          "min-height": {
-            "value": "{size.200}",
-            "type": "number"
-          },
-          "padding-vertical": {
-            "value": "{spacing.50}",
-            "type": "number"
-          }
-        },
-        "slot": {
-          "min-height": {
-            "value": "{size.400}",
-            "type": "number"
-          }
+        "gap": {
+          "value": "{spacing.250}",
+          "type": "number"
         }
       }
     }
