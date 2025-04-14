@@ -2,6 +2,10 @@
   "snack-bar": {
     "500": {
       "frame": {
+        "max-width": {
+          "value": "400",
+          "type": "number"
+        },
         "margin-horizontal": {
           "sm": {
             "value": "{layout.margin-horizontal.sm}",
