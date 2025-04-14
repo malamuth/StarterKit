@@ -39,7 +39,7 @@
           }
         },
         "border-radius": {
-          "value": "{radius.400}",
+          "value": "{radius.500}",
           "type": "number"
         },
         "padding-top": {
