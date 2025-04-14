@@ -39,28 +39,62 @@
           }
         },
         "border-radius": {
-          "value": "{radius.500}",
+          "value": "{radius.550}",
           "type": "number"
         },
         "padding-top": {
-          "value": "{spacing.100}",
+          "value": "{spacing.200}",
           "type": "number"
         },
         "padding-bottom": {
-          "value": "{spacing.100}",
+          "value": "{spacing.200}",
           "type": "number"
         },
         "padding-right": {
-          "value": "{spacing.300}",
+          "value": "{spacing.650}",
           "type": "number"
         },
         "padding-left": {
-          "value": "{spacing.100}",
+          "value": "{spacing.300}",
           "type": "number"
+        }
+      },
+      "content": {
+        "frame": {
+          "gap": {
+            "value": "{spacing.250}",
+            "type": "number"
+          }
         },
-        "gap": {
-          "value": "{spacing.250}",
-          "type": "number"
+        "icon": {
+          "min-height": {
+            "value": "{spacing.800}",
+            "type": "number"
+          }
+        },
+        "description": {
+          "frame": {
+            "padding-vertical": {
+              "value": "{spacing.100}",
+              "type": "number"
+            },
+            "gap": {
+              "value": "{spacing.100}",
+              "type": "number"
+            }
+          },
+          "list": {
+            "gap": {
+              "value": "{spacing.100}",
+              "type": "number"
+            }
+          },
+          "actions": {
+            "gap": {
+              "value": "{spacing.350}",
+              "type": "number"
+            }
+          }
         }
       }
     }
