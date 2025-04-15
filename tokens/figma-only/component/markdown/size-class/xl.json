@@ -1,0 +1,74 @@
+{
+  "markdown": {
+    "h1": {
+      "padding-top": {
+        "value": "{markdown.h1.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{markdown.h1.padding-bottom.xl}",
+        "type": "number"
+      }
+    },
+    "h2": {
+      "padding-top": {
+        "value": "{markdown.h2.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{markdown.h2.padding-bottom.xl}",
+        "type": "number"
+      }
+    },
+    "h3": {
+      "padding-top": {
+        "value": "{markdown.h3.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{markdown.h3.padding-bottom.xl}",
+        "type": "number"
+      }
+    },
+    "h4": {
+      "padding-top": {
+        "value": "{markdown.h4.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{markdown.h4.padding-bottom.xl}",
+        "type": "number"
+      }
+    },
+    "h5": {
+      "padding-top": {
+        "value": "{markdown.h5.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{markdown.h5.padding-bottom.xl}",
+        "type": "number"
+      }
+    },
+    "p": {
+      "padding-top": {
+        "value": "{markdown.p.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{markdown.p.padding-bottom.xl}",
+        "type": "number"
+      }
+    },
+    "image": {
+      "padding-top": {
+        "value": "{markdown.image.padding-top.xl}",
+        "type": "number"
+      },
+      "padding-bottom": {
+        "value": "{markdown.image.padding-bottom.xl}",
+        "type": "number"
+      }
+    }
+  }
+}
