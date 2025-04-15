@@ -3,11 +3,11 @@
     "h1": {
       "padding-top": {
         "sm": {
-          "value": "{spacing.450}",
+          "value": "{spacing.650}",
           "type": "number"
         },
         "md": {
-          "value": "{spacing.550}",
+          "value": "{spacing.650}",
           "type": "number"
         },
         "lg": {
@@ -41,11 +41,11 @@
     "h2": {
       "padding-top": {
         "sm": {
-          "value": "{spacing.350}",
+          "value": "{spacing.550}",
           "type": "number"
         },
         "md": {
-          "value": "{spacing.450}",
+          "value": "{spacing.550}",
           "type": "number"
         },
         "lg": {
@@ -79,11 +79,11 @@
     "h3": {
       "padding-top": {
         "sm": {
-          "value": "{spacing.250}",
+          "value": "{spacing.350}",
           "type": "number"
         },
         "md": {
-          "value": "{spacing.300}",
+          "value": "{spacing.350}",
           "type": "number"
         },
         "lg": {
@@ -211,11 +211,11 @@
       },
       "padding-bottom": {
         "sm": {
-          "value": "{spacing.250}",
+          "value": "{spacing.350}",
           "type": "number"
         },
         "md": {
-          "value": "{spacing.300}",
+          "value": "{spacing.350}",
           "type": "number"
         },
         "lg": {
@@ -249,11 +249,11 @@
       },
       "padding-bottom": {
         "sm": {
-          "value": "{spacing.350}",
+          "value": "{spacing.450}",
           "type": "number"
         },
         "md": {
-          "value": "{spacing.400}",
+          "value": "{spacing.450}",
           "type": "number"
         },
         "lg": {
