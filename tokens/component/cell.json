@@ -168,7 +168,7 @@
         },
         "content": {
           "min-height": {
-            "value": "{size.600}",
+            "value": "{size.500}",
             "type": "number"
           }
         }
