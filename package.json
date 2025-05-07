@@ -1,0 +1,17 @@
+{
+  "name": "starter-kit",
+  "version": "1.0.0",
+  "description": "StarterKit — фреймворк для управления дизайн-токенами на основе Token Studio",
+  "main": "index.js",
+  "scripts": {
+    "validate-tokens": "node scripts/validate-tokens.js"
+  },
+  "keywords": [
+    "design-tokens",
+    "token-studio",
+    "design-system"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

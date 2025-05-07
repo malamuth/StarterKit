@@ -65,6 +65,28 @@
           "type": "number"
         }
       }
+    },
+    "700": {
+      "frame": {
+        "size": {
+          "value": "{selection-control.700.frame.size}",
+          "type": "number"
+        },
+        "border-radius": {
+          "value": "{selection-control.700.frame.border-radius}",
+          "type": "number"
+        },
+        "border-width": {
+          "value": "{selection-control.700.frame.border-width}",
+          "type": "number"
+        }
+      },
+      "icon": {
+        "size": {
+          "value": "{selection-control.700.icon.size}",
+          "type": "number"
+        }
+      }
     }
   }
 }

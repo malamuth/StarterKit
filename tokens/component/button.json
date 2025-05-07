@@ -215,6 +215,42 @@
           "type": "other"
         }
       }
+    },
+    "800": {
+      "frame": {
+        "min-size": {
+          "value": "{base-component.800.frame.min-size}",
+          "type": "number"
+        },
+        "border-radius": {
+          "value": "{control-contained.800.frame.border-radius}",
+          "type": "number"
+        },
+        "padding-horizontal": {
+          "value": "{control-contained.800.frame.padding-horizontal}",
+          "type": "number"
+        },
+        "gap": {
+          "value": "{control-contained.800.frame.gap}",
+          "type": "number"
+        }
+      },
+      "icon": {
+        "size": {
+          "value": "{base-component.800.icon.size}",
+          "type": "number"
+        }
+      },
+      "label": {
+        "padding-horizontal": {
+          "value": "{control-contained.800.label.padding-horizontal}",
+          "type": "number"
+        },
+        "typography": {
+          "value": "{base-component.800.label.style}.{base-component.800.label.size}.accent",
+          "type": "other"
+        }
+      }
     }
   }
 }
