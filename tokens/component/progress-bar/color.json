@@ -1,0 +1,54 @@
+{
+  "progress-bar": {
+    "brand": {
+      "track": {
+        "value": "{overlay.brand}",
+        "type": "color"
+      },
+      "fill": {
+        "value": "{background.brand-high}",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "track": {
+        "value": "{overlay.neutral}",
+        "type": "color"
+      },
+      "fill": {
+        "value": "{background.neutral-high}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "track": {
+        "value": "{overlay.warning}",
+        "type": "color"
+      },
+      "fill": {
+        "value": "{background.warning-high}",
+        "type": "color"
+      }
+    },
+    "negative": {
+      "track": {
+        "value": "{overlay.negative}",
+        "type": "color"
+      },
+      "fill": {
+        "value": "{background.negative-high}",
+        "type": "color"
+      }
+    },
+    "positive": {
+      "track": {
+        "value": "{overlay.positive}",
+        "type": "color"
+      },
+      "fill": {
+        "value": "{background.positive-high}",
+        "type": "color"
+      }
+    }
+  }
+}

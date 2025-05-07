@@ -1,0 +1,58 @@
+{
+  "checkbox": {
+    "default": {
+      "unchecked": {
+        "background": {
+          "value": "{background.neutral-low}",
+          "type": "color"
+        }
+      },
+      "checked": {
+        "background": {
+          "value": "{background.brand-high}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{content.on-brand}",
+          "type": "color"
+        }
+      }
+    },
+    "hover": {
+      "unchecked": {
+        "background": {
+          "value": "{background.neutral-low}",
+          "type": "color"
+        }
+      },
+      "checked": {
+        "background": {
+          "value": "{background.brand-high}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{content.on-brand}",
+          "type": "color"
+        }
+      }
+    },
+    "disabled": {
+      "unchecked": {
+        "background": {
+          "value": "{background.neutral-low}",
+          "type": "color"
+        }
+      },
+      "checked": {
+        "background": {
+          "value": "{background.neutral-low}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{content.neutral-tertiary}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
